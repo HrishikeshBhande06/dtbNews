@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
+const axios = require('axios');
 require('dotenv').config();
 
 const app = express();
@@ -44,10 +45,26 @@ const writeJsonFile = (filePath, data) => {
 
 // --- API ENDPOINTS ---
 
-// 1. GET /api/news - Fetch today's AI processed tech brief
-app.get('/api/news', (req, res) => {
-    const data = readJsonFile(todayPath, { date: "", articles: [] });
-    res.status(200).json(data);
+// // 1. GET /api/news - Fetch today's AI processed tech brief
+// app.get('/api/news', (req, res) => {
+//     const data = readJsonFile(todayPath, { date: "", articles: [] });
+//     res.status(200).json(data);
+// });
+
+// 1. GET /api/news - Fetch today's AI processed tech brief directly from GitHub source
+app.get('/api/news', async (req, res) => {
+    try {
+        // Change 'HrishikeshBhande06' and 'dtbNews' if your username/repo name are spelled differently
+        const githubRawUrl = 'https://raw.githubusercontent.com/HrishikeshBhande06/dtbNews/main/backend/content/generated/today.json';
+        
+        const response = await axios.get(githubRawUrl);
+        res.status(200).json(response.data);
+    } catch (error) {
+        console.error("Failed to fetch fresh today.json from GitHub Raw fallback:", error.message);
+        // Fallback to local if GitHub is unreachable
+        const data = readJsonFile(todayPath, { date: "", articles: [] });
+        res.status(200).json(data);
+    }
 });
 
 // 2. GET /api/archive - Fetch user saved bookmarked articles
