@@ -2,94 +2,94 @@
   "date": "2026-06-29",
   "articles": [
     {
-      "id": "art-1782736173139-0",
+      "id": "art-1782741241238-0",
+      "title": "The Big Summer Preview – New Ork miniatures and codex are coming - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/6pvhlvqm/the-big-summer-preview-new-ork-miniatures-and-codex-are-coming",
+      "summary": "Warhammer Community announces the upcoming release of new Ork miniatures and a codex, featuring updated Trukk, Mek, and Warboss models. The preview highlights the continued expansion of the Ork faction’s lore and visual assets for the summer season.",
+      "whyItMatters": "The release encourages developers to build or enhance digital tools—such as virtual tabletop platforms and community forums—to support the growing demand for immersive gaming content.",
+      "category": "Web Dev",
+      "publishedAt": "2026-06-28T12:35:53Z"
+    },
+    {
+      "id": "art-1782741241826-1",
+      "title": "The PlayStation 6 Reportedly Already Costs $960 in Materials to Manufacture - Insider Gaming",
+      "source": "Insider-gaming.com",
+      "url": "https://insider-gaming.com/playstation-6-costs/",
+      "summary": "PlayStation 6’s manufacturing cost is reported at $960 in materials, a figure that far exceeds expectations for next‑gen consoles. This suggests that future gaming hardware could be priced significantly higher than current models, potentially reshaping the industry’s cost structure.",
+      "whyItMatters": "Higher production costs may force developers to seek more efficient monetization strategies or push for higher retail prices, impacting game budgets and consumer pricing.",
+      "category": "DevOps",
+      "publishedAt": "2026-06-28T11:58:38Z"
+    },
+    {
+      "id": "art-1782741242454-2",
       "title": "After trying a Google TV projector, I may never buy another TV ever again - Android Authority",
       "source": "Android Authority",
       "url": "https://www.androidauthority.com/using-google-tv-projector-may-not-buy-another-tv-3680979/",
-      "summary": "The author spent weeks testing a Google TV projector and found it superior to traditional TVs, leading them to consider abandoning conventional TV purchases. The projector offers immersive viewing, improved sound, and seamless integration with Google services, making it a compelling alternative.",
-      "whyItMatters": "For software developers, the shift toward projector-based viewing platforms signals a need to optimize apps for larger, high‑resolution displays and to leverage Google’s ecosystem for content delivery.",
+      "summary": "I spent a few weeks testing a Google TV projector and found it so compelling that I might stop buying traditional TVs. The projector offers a large, high-quality display with seamless integration into the Google ecosystem, changing my viewing habits.",
+      "whyItMatters": "For developers, the rise of projector-based TV solutions signals a shift toward larger, cloud-connected displays, encouraging the creation of apps optimized for high-resolution, immersive experiences.",
       "category": "Mobile",
       "publishedAt": "2026-06-28T10:37:06Z"
     },
     {
-      "id": "art-1782736173615-2",
+      "id": "art-1782741243157-3",
+      "title": "Pokémon GO Events This Week: June 29 – July 5, 2026 - Pokémon GO Hub",
+      "source": "Pokemon GO Hub",
+      "url": "https://pokemongohub.net/post/news/pokemon-go-events-this-week-june-29-july-5-2026/",
+      "summary": "Pokémon GO’s latest weekly update announces the second month of the Forever Forward season, featuring 10th Anniversary celebrations, a Sobble Community Day, and rotating Raid Hours. The update also highlights Spotlight Hour and Dynamax Battles, offering new gameplay opportunities for players.",
+      "whyItMatters": "The event-driven updates demonstrate how mobile games maintain engagement through frequent content drops, informing developers about the importance of continuous content delivery and community events in sustaining user retention.",
+      "category": "Mobile",
+      "publishedAt": "2026-06-28T10:35:33Z"
+    },
+    {
+      "id": "art-1782741243975-4",
+      "title": "Spend Five Minutes With This Hellish Operating System Simulator and You'll Never Swear at Your Computer Again - Gizmodo",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/spend-five-minutes-with-this-hellish-operating-system-simulator-and-youll-never-swear-at-your-computer-again-2000778411",
+      "summary": "A new OS simulator, described as hellish, lets users experience a chaotic computing environment to highlight the frustrations of real-world crashes. The tool aims to help developers build more robust systems by exposing them to extreme conditions.",
+      "whyItMatters": "By exposing developers to a deliberately unstable environment, the simulator encourages building more fault-tolerant applications, reducing downtime and improving user satisfaction.",
+      "category": "DevOps",
+      "publishedAt": "2026-06-28T09:00:00Z"
+    },
+    {
+      "id": "art-1782741244611-6",
       "title": "GTA 6 could be the final death knell for physical media, but it still makes sense to pre-order - Creative Bloq",
       "source": "Creative Bloq",
       "url": "https://www.creativebloq.com/3d/video-game-design/gta-6-could-be-the-final-nail-in-the-coffin-for-physical-media",
-      "summary": "GTA 6’s release is expected to accelerate the decline of physical media, as the game’s digital distribution will dominate the market. Despite this shift, pre‑ordering the title remains sensible for collectors and early access benefits.",
-      "whyItMatters": "The move to digital distribution reduces costs and logistical complexity for developers, while increasing the importance of robust cloud infrastructure for game delivery and updates.",
+      "summary": "The upcoming release of GTA 6 is expected to accelerate the decline of physical media, as digital downloads become the dominant distribution method. Despite this shift, pre-ordering the game remains advantageous for collectors and early access benefits.",
+      "whyItMatters": "It signals a continued move toward digital distribution, prompting developers to prioritize cloud-based delivery and subscription models over physical production.",
       "category": "Cloud",
       "publishedAt": "2026-06-28T07:00:00Z"
     },
     {
-      "id": "art-1782736174421-3",
+      "id": "art-1782741245003-7",
+      "title": "Karpathy CLAUDE.md Grows to Ten Rules: New Self-Check Protocol for AI Coding Loops - Tech Times",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/319214/20260628/karpathy-claudemd-grows-ten-rules-new-self-check-protocol-ai-coding-loops.htm",
+      "summary": "Andrej Karpathy’s CLAUDE.md document has expanded from a four‑rule template to ten rules, adding six new agent self‑check protocols for AI coding loops. The updated guidelines aim to improve verification, reduce errors, and enhance the reliability of AI‑generated code.",
+      "whyItMatters": "By tightening self‑check procedures, developers can catch bugs earlier, leading to safer and more dependable AI‑assisted software development.",
+      "category": "AI",
+      "publishedAt": "2026-06-28T06:15:53Z"
+    },
+    {
+      "id": "art-1782741245400-8",
+      "title": "Space elevators could one day exist, transporting us off-Earth with the push of a button. Here's how they would work - BBC Sky at Night Magazine",
+      "source": "Skyatnightmagazine.com",
+      "url": "https://www.skyatnightmagazine.com/space-science/space-elevator",
+      "summary": "Space elevators are proposed structures that would lift payloads into orbit using a cable anchored to Earth, potentially reducing launch costs and enabling frequent access to space. The article explains the engineering challenges, such as material strength and dynamic stability, and outlines how a future elevator could operate with a ground-based elevator car traveling along the cable.",
+      "whyItMatters": "For software developers, the advent of space elevators could spur demand for new cloud and edge computing solutions to support real‑time monitoring, control, and data processing for orbital infrastructure.",
+      "category": "Cloud",
+      "publishedAt": "2026-06-28T05:22:57Z"
+    },
+    {
+      "id": "art-1782741246054-9",
       "title": "Best Prime Day Tablet Deals From Apple, Samsung and TCL - CNET",
       "source": "CNET",
       "url": "https://www.cnet.com/deals/best-prime-day-tablet-deals-2026-06-27/",
-      "summary": "CNET highlights the top tablet deals available during Amazon Prime Day, featuring discounted models from Apple, Samsung, and TCL. While many devices remain on sale, the most popular bargains are quickly selling out, prompting consumers to act fast.",
-      "whyItMatters": "The rapid sell‑out of discounted tablets signals strong consumer demand for mobile devices, encouraging developers to prioritize cross‑platform app optimization and timely feature releases.",
+      "summary": "CNET reports that Apple, Samsung, and TCL tablets are still discounted during Prime Day, but the remaining bargains are quickly selling out. The article highlights the continued demand for mid‑range tablets and the limited availability of discounted models.",
+      "whyItMatters": "The rapid sell‑out of discounted tablets signals a strong consumer appetite for affordable mobile devices, prompting developers to prioritize cross‑platform compatibility and optimize apps for a broader range of hardware.",
       "category": "Mobile",
       "publishedAt": "2026-06-28T05:13:41Z"
-    },
-    {
-      "id": "art-1782736175069-4",
-      "title": "Amazon Forgot to Remove These 50+ Prime Day Headphone Deals, Get Yours Before They’re Gone - CNET",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/best-amazon-prime-day-headphone-earbud-deals-2026-06-27/",
-      "summary": "Amazon still offers over 50 Prime Day headphone deals from brands like Apple, Bose, and Sony, even after the event has ended. Shoppers can snag discounts on audio gear before the inventory runs out.",
-      "whyItMatters": "It highlights the need for developers of e-commerce and price‑tracking tools to handle dynamic inventory and timely updates to avoid missed sales opportunities.",
-      "category": "Web Dev",
-      "publishedAt": "2026-06-28T03:39:58Z"
-    },
-    {
-      "id": "art-1782736175885-5",
-      "title": "BlazBlue: Central Fiction DLC character Trinity Glassfille revealed - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/blazblue-central-fiction-dlc-character-trinity-glassfille-revealed",
-      "summary": "Arc System Works has announced Trinity Glassfille as a new downloadable content character for BlazBlue: Central Fiction on PlayStation 4. The reveal follows an earlier teaser and expands the game’s roster with a fresh fighter.",
-      "whyItMatters": "Releasing DLC like Trinity Glassfille showcases the importance of continuous integration, automated testing, and efficient release pipelines—key concerns for software developers and DevOps teams.",
-      "category": "DevOps",
-      "publishedAt": "2026-06-28T02:10:43Z"
-    },
-    {
-      "id": "art-1782736177219-6",
-      "title": "Star Wars Eclipse \"literally cannot be finished\" without more staff, insist striking Quantic Dream developers - Eurogamer",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/star-wars-eclipse-studio-quantic-dream-layoffs",
-      "summary": "Quantic Dream's striking developers claim that the studio's upcoming Star Wars Eclipse game cannot be finished without additional staff, warning that planned layoffs would jeopardize the project. The dispute highlights the challenges of maintaining adequate resources for large-scale game development amid industry-wide talent shortages.",
-      "whyItMatters": "It underscores how workforce reductions can stall complex software projects, forcing companies to balance cost‑cutting with the need for skilled talent to deliver high‑quality products.",
-      "category": "DevOps",
-      "publishedAt": "2026-06-27T21:47:41Z"
-    },
-    {
-      "id": "art-1782736177944-7",
-      "title": "Nintendo issues June 2026 backwards compatibility fixes for Switch games on Switch 2, full list - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/nintendo-issues-june-2026-backwards-compatibility-fixes-for-switch-games-on-switch-2-full-list/",
-      "summary": "Nintendo released a new batch of backwards compatibility fixes for Switch games on the Switch 2, addressing issues that affected several titles. The update includes a solid list of patches, with Shovel Knight: Treasure Trove being the most prominent game receiving a fix.",
-      "whyItMatters": "The patching process demonstrates the importance of maintaining legacy support in console ecosystems, encouraging developers to design games with future hardware compatibility in mind.",
-      "category": "DevOps",
-      "publishedAt": "2026-06-27T20:31:35Z"
-    },
-    {
-      "id": "art-1782736178900-8",
-      "title": "PlayStation is pulling \"previously purchased\" digital movies from users' libraries without so much as an apology - Eurogamer",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/playstation-to-remove-studio-canal-movies-from-libraries",
-      "summary": "Sony has announced that it will remove hundreds of previously purchased digital movies from PlayStation users' libraries, citing a change in its online store policy. The move has been criticized for lacking an apology and for potentially violating consumer expectations of digital ownership.",
-      "whyItMatters": "This decision highlights the fragility of digital ownership and raises concerns for developers about the stability of distribution platforms and the need for robust DRM and consumer protection strategies.",
-      "category": "Security",
-      "publishedAt": "2026-06-27T19:57:02Z"
-    },
-    {
-      "id": "art-1782736181249-9",
-      "title": "Google testing iPhone feature to add to Pixel smartphones - PhoneArena",
-      "source": "PhoneArena",
-      "url": "https://www.phonearena.com/news/google-testing-iphone-feature-for-pixel_id181453",
-      "summary": "Google might soon expand on a current Pixel capability matching the iOS version of it.",
-      "whyItMatters": "Direct pipeline title digest fallback applied.",
-      "category": "General Tech",
-      "publishedAt": "2026-06-27T19:49:50Z"
     }
   ]
 }
