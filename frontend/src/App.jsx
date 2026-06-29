@@ -3,7 +3,7 @@ import axios from 'axios';
 import { BookOpen, Bookmark, BookmarkCheck, Search, Trash2, ExternalLink, RefreshCw } from 'lucide-react';
 
 const API_BASE_URL = import.meta.env.PROD 
-  ? 'https://your-backend-name.onrender.com/api' // We will get this URL from Render in Step 2
+  ? 'https://dtb-news-backend.onrender.com/api' // We will get this URL from Render in Step 2
   : 'http://localhost:5000/api';
 
 function App() {
