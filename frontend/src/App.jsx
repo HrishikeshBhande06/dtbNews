@@ -2,7 +2,9 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { BookOpen, Bookmark, BookmarkCheck, Search, Trash2, ExternalLink, RefreshCw } from 'lucide-react';
 
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = import.meta.env.PROD 
+  ? 'https://your-backend-name.onrender.com/api' // We will get this URL from Render in Step 2
+  : 'http://localhost:5000/api';
 
 function App() {
   const [activeTab, setActiveTab] = useState('today'); // 'today' or 'archive'
