@@ -1,105 +1,105 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "articles": [
     {
-      "id": "art-1782775985798-0",
-      "title": "Amazon Forgot to Remove These 50+ Prime Day Headphone Deals, Get Yours Before They’re Gone - CNET",
-      "source": "CNET",
-      "url": "https://www.cnet.com/deals/best-amazon-prime-day-headphone-earbud-deals-2026-06-27/",
-      "summary": "Amazon still offers over 50 Prime Day headphone deals from brands like Apple, Bose, and Sony, even after the event has ended. These discounts are available for a limited time, urging shoppers to act quickly before the offers disappear.",
-      "whyItMatters": "The persistence of these deals highlights the importance of monitoring e-commerce APIs and pricing data for developers building price comparison or deal‑alert tools.",
+      "id": "art-1782825114818-0",
+      "title": "The Big Summer Preview – New Starter Sets and ready painted terrain - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/1abmqefl/the-big-summer-preview-new-starter-sets-and-ready-painted-terrain",
+      "summary": "Warhammer 40,000 releases new starter sets and ready-painted terrain kits for the Armageddon campaign, offering players immediate, immersive battlefield setups. The announcement highlights a trend toward ready-to-use, high-quality physical accessories that complement digital gaming experiences.",
+      "whyItMatters": "It encourages developers to create companion mobile apps and digital tools that enhance the tabletop experience, driving demand for integrated software solutions.",
+      "category": "Mobile",
+      "publishedAt": "2026-06-29T12:37:00Z"
+    },
+    {
+      "id": "art-1782825116585-1",
+      "title": "July’s Miniature of the Month and collectable coin revealed - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/va1s3sfx/julys-miniature-of-the-month-and-collectable-coin-revealed",
+      "summary": "Warhammer Community has announced the July Miniature of the Month and a collectible coin, offering fans new items to purchase at local stores. The release aims to boost in-store traffic and celebrate the brand’s collectible culture.",
+      "whyItMatters": "The limited‑edition strategy highlights how hobby companies can use event‑driven product drops to drive foot traffic, informing developers about the importance of integrating inventory and marketing automation in retail systems.",
+      "category": "DevOps",
+      "publishedAt": "2026-06-29T11:55:19Z"
+    },
+    {
+      "id": "art-1782825118217-2",
+      "title": "Amid Steam Machine performance scrutiny, Valve removes '4K at 60FPS' claim - Eurogamer",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/steam-machine-marketing-update-4k-60-fps-removed",
+      "summary": "Valve has retracted its claim that the Steam Machine can consistently deliver native 4K at 60 fps, citing performance scrutiny. The company now acknowledges that the hardware falls short of the advertised high‑resolution gaming benchmark.",
+      "whyItMatters": "The correction signals to developers and consumers that hardware performance claims must be realistic, influencing future optimization and marketing strategies in the gaming industry.",
+      "category": "DevOps",
+      "publishedAt": "2026-06-29T11:01:03Z"
+    },
+    {
+      "id": "art-1782825119782-3",
+      "title": "New Report Alleges Quantic Dream's Star Wars Eclipse Is in Trouble as Staff Go on Strike Over Layoffs Plan - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/with-the-threat-of-layoffs-looming-quantic-dream-staff-say-theyre-going-on-strike-to-save-star-wars-eclipse-from-cancelation",
+      "summary": "Quantic Dream’s Star Wars Eclipse project is facing uncertainty as staff go on strike over a planned layoffs program, according to a new report. The strike highlights internal turmoil at the French studio and raises questions about the future of the highly anticipated game.",
+      "whyItMatters": "The situation underscores how workforce instability can derail large-scale software projects, prompting developers to prioritize resilient staffing and transparent communication strategies.",
+      "category": "DevOps",
+      "publishedAt": "2026-06-29T10:36:32Z"
+    },
+    {
+      "id": "art-1782825120787-4",
+      "title": "Potential Xbox Series X|S owners: You should probably upgrade this July - TrueAchievements",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/news/xbox-price-july-2026",
+      "summary": "Xbox Series X|S owners may consider upgrading in July 2026 due to anticipated price increases in the console market. The article warns that further price hikes could make the current generation less attractive, prompting early upgrades.",
+      "whyItMatters": "Software developers may need to adjust their game release schedules and optimization strategies to accommodate the newer hardware and potential market shifts.",
+      "category": "Mobile",
+      "publishedAt": "2026-06-29T10:18:36Z"
+    },
+    {
+      "id": "art-1782825121128-5",
+      "title": "After 10 months with the Pixel 10 Pro, I can't stand these 3 issues - Android Authority",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-pixel-10-pro-ten-months-later-issues-3680886/",
+      "summary": "The Pixel 10 Pro has suffered from persistent network issues, overheating, and battery anxiety after ten months of use, leading to frustration for users. These problems have ultimately outweighed the phone’s strengths and raised concerns about its reliability.",
+      "whyItMatters": "Developers must account for hardware instability and battery drain when optimizing apps for Android devices, as such issues can degrade user experience and app performance.",
+      "category": "Mobile",
+      "publishedAt": "2026-06-29T10:11:15Z"
+    },
+    {
+      "id": "art-1782825121925-6",
+      "title": "Breaking: T-Mobile To Force Migrate Over 8 Million Customers To More Expensive Plans - The Mobile Report",
+      "source": "Tmo.report",
+      "url": "https://tmo.report/2026/06/breaking-t-mobile-to-force-migrate-over-8-million-customers-to-more-expensive-plans/",
+      "summary": "T-Mobile announced it will compel more than 8 million customers to switch to higher‑priced plans, raising monthly fees across its network. The move is part of a broader strategy to increase revenue amid competitive pressures.",
+      "whyItMatters": "Higher data costs could push developers to optimize mobile app bandwidth usage and reconsider network‑dependent features.",
+      "category": "Mobile",
+      "publishedAt": "2026-06-29T09:52:20Z"
+    },
+    {
+      "id": "art-1782825123336-7",
+      "title": "CD Projekt rebrands to CD Projekt Red - GamesIndustry.biz",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/cd-projekt-rebrands-to-cd-projekt-red",
+      "summary": "CD Projekt has officially rebranded itself as CD Projekt Red, a move aimed at unifying its brand identity across all communications. The change is intended to streamline marketing efforts and reinforce the company's distinct presence in the gaming industry.",
+      "whyItMatters": "For software developers, a clear and consistent brand can improve collaboration, attract talent, and strengthen partnerships with publishers and platform holders.",
+      "category": "DevOps",
+      "publishedAt": "2026-06-29T09:40:55Z"
+    },
+    {
+      "id": "art-1782825124405-8",
+      "title": "The Big Summer Preview – New Ork miniatures and codex are coming - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/6pvhlvqm/the-big-summer-preview-new-ork-miniatures-and-codex-are-coming",
+      "summary": "Warhammer Community announces the upcoming release of new Ork miniatures and a codex, featuring updated Trukk, Mek, and Warboss models. The preview hints at expanded gameplay options and fresh content for players.",
+      "whyItMatters": "It opens avenues for developers to build companion apps and digital tools that enhance gameplay, boosting demand for mobile and web-based gaming solutions.",
       "category": "Web Dev",
-      "publishedAt": "2026-06-28T23:30:42Z"
+      "publishedAt": "2026-06-29T09:39:39Z"
     },
     {
-      "id": "art-1782775986367-1",
-      "title": "Lux and Samira announced for 2XKO - EventHubs",
-      "source": "EventHubs",
-      "url": "https://www.eventhubs.com/news/2026/jun/28/lux-samira-playable-trailer-2xko/",
-      "summary": "The 2XKO developers revealed the final two characters, Lux and Samira, during Evo 2026's finals. This marks the completion of the game's first season roster, giving players new options for competitive play.",
-      "whyItMatters": "The announcement informs developers of upcoming content that may influence game balance, monetization strategies, and community engagement, which are key considerations for mobile game developers.",
-      "category": "Mobile",
-      "publishedAt": "2026-06-28T21:30:56Z"
-    },
-    {
-      "id": "art-1782775987121-2",
-      "title": "Angstrom Levy revealed as the third DLC character coming to Invincible Vs Season 1, playable demo at Evo France 2026 - EventHubs",
-      "source": "EventHubs",
-      "url": "https://www.eventhubs.com/news/2026/jun/28/angstrom-levy-invincible-vs-third/",
-      "summary": "Angstrom Levy has been announced as the third DLC character for Invincible Vs Season 1, joining Universa and The Immortal, both slated for release on June 30, 2026. A playable demo of the new character will debut at Evo France 2026, marking a significant addition to the game's roster.",
-      "whyItMatters": "The staggered DLC releases and live demo showcase illustrate the importance of coordinated release pipelines and continuous integration practices for maintaining player engagement and maximizing revenue streams.",
+      "id": "art-1782825125505-9",
+      "title": "Xbox reportedly pausing new third-party Game Pass deals, developers say - Video Games Chronicle",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/xbox-reportedly-pausing-new-third-party-game-pass-deals-developers-say/",
+      "summary": "Xbox has reportedly paused new third‑party Game Pass deals, leaving developers who had secured agreements feeling blindsided. The move signals a shift in Microsoft's content strategy and could reshape how indie studios monetize their titles.",
+      "whyItMatters": "Developers risk lost revenue and delayed launch plans, highlighting the volatility of subscription‑based distribution models.",
       "category": "DevOps",
-      "publishedAt": "2026-06-28T20:02:18Z"
-    },
-    {
-      "id": "art-1782775987540-3",
-      "title": "CD Projekt is rebranding as CD Projekt Red, but confusingly, CD Projekt Red is still CD Projekt Red - Eurogamer",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/cd-projekt-rebrands-as-cd-projekt-red",
-      "summary": "CD Projekt has officially rebranded itself as CD Projekt Red, adopting the name CD Projekt Red Spółka Akcyjna. The change is largely cosmetic, as the company remains the same entity and continues to operate under the familiar CD Projekt Red brand.",
-      "whyItMatters": "For software developers, the rebranding signals a refreshed corporate identity that may influence brand perception, marketing strategies, and partnership opportunities within the gaming industry.",
-      "category": "DevOps",
-      "publishedAt": "2026-06-28T19:55:14Z"
-    },
-    {
-      "id": "art-1782775988111-4",
-      "title": "I Put Apple CarPlay In My Wife's 2006 Toyota 4Runner And I'm Never Looking Back - Jalopnik",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2203048/put-apple-carplay-in-2006-toyota-4runner/",
-      "summary": "The author retrofitted Apple CarPlay into a 2006 Toyota 4Runner, demonstrating that modern infotainment can be added to older vehicles with minimal investment. The post highlights the ease of integrating Apple’s mobile platform into non‑Apple hardware, offering a cost‑effective upgrade for long‑term vehicle owners.",
-      "whyItMatters": "It shows that mobile OS ecosystems can extend their reach into automotive hardware, encouraging developers to create more adaptable infotainment apps that work across legacy vehicles.",
-      "category": "Mobile",
-      "publishedAt": "2026-06-28T19:25:00Z"
-    },
-    {
-      "id": "art-1782775988869-5",
-      "title": "Claims GTA 6 is selling 8 times as many copies on PS5 as Xbox \"doesn't represent pre-order data\", insists Microsoft - Eurogamer",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/gta-6-ps5-xbox-sales",
-      "summary": "Microsoft denies claims that the PlayStation 5 outsells the Xbox version of Grand Theft Auto 6 by an 8-to-1 ratio, stating the data reflects pre‑orders rather than actual sales. The company insists the figures are misleading and not representative of overall market performance.",
-      "whyItMatters": "Accurate sales data informs developers and publishers about platform popularity, influencing future game releases and marketing strategies.",
-      "category": "Mobile",
-      "publishedAt": "2026-06-28T19:04:00Z"
-    },
-    {
-      "id": "art-1782775989414-6",
-      "title": "I spent weeks thinking my Pixel's camera lens was smeared before discovering the real culprit - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/i-spent-weeks-thinking-my-pixels-camera-lens-was-smeared-before-discovering-the-real-culprit/",
-      "summary": "A Pixel user mistakenly blamed a smeared camera lens for poor photos, only to discover the issue was actually a software glitch that miscalibrated the camera's focus. After correcting the software, the user reports that the camera now takes clear, high-quality images.",
-      "whyItMatters": "This highlights how subtle software bugs can masquerade as hardware problems, underscoring the need for developers to rigorously test camera calibration and image processing pipelines.",
-      "category": "Mobile",
-      "publishedAt": "2026-06-28T19:00:10Z"
-    },
-    {
-      "id": "art-1782775989807-7",
-      "title": "AI As Conscious As That Toy Bird Is Thirsty - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/study-uses-age-of-empires-scenario-editor-to-illustrate-why-its-farcical-to-treat-ai-as-cognizant-2000711251",
-      "summary": "The article argues that companies like OpenAI exploit public fantasies about AI consciousness to attract investors, while warning that true consciousness differs from mere mimicry. It calls for clearer distinctions and safeguards to protect the public from misleading claims.",
-      "whyItMatters": "Software developers must scrutinize AI claims to avoid ethical pitfalls, regulatory scrutiny, and potential reputational damage in a market that prizes perceived consciousness.",
-      "category": "AI",
-      "publishedAt": "2026-06-28T17:28:19Z"
-    },
-    {
-      "id": "art-1782775990576-8",
-      "title": "RF Hacking A Ceiling Fan Via The Remote - Hackaday",
-      "source": "Hackaday",
-      "url": "https://hackaday.com/2026/06/28/rf-hacking-a-ceiling-fan-via-the-remote/",
-      "summary": "A researcher demonstrates how to hack a Dreo CLF513S ceiling fan by intercepting and replaying its RF remote signals. The exploit shows that inexpensive IoT devices can be compromised with simple tools, highlighting the need for better security in consumer electronics.",
-      "whyItMatters": "It underscores that even everyday appliances can be vulnerable to RF attacks, prompting developers to implement stronger authentication and encryption in IoT firmware.",
-      "category": "Security",
-      "publishedAt": "2026-06-28T17:00:00Z"
-    },
-    {
-      "id": "art-1782775990952-9",
-      "title": "I started using Projects in Google Drive; it instantly boosted my productivity - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/started-using-projects-in-google-drive-been-productivity-booster/",
-      "summary": "Google Drive has introduced a new Projects feature that organizes files and tasks into dedicated workspaces, making collaboration more intuitive. Users report a noticeable boost in productivity thanks to streamlined file management and real‑time updates.",
-      "whyItMatters": "For developers and teams, the enhanced organization in cloud storage reduces context switching and speeds up project delivery, directly impacting productivity and workflow efficiency.",
-      "category": "Cloud",
-      "publishedAt": "2026-06-28T15:15:11Z"
+      "publishedAt": "2026-06-29T09:21:55Z"
     }
   ]
 }
