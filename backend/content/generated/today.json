@@ -2,104 +2,74 @@
   "date": "2026-06-30",
   "articles": [
     {
-      "id": "art-1782826297173-0",
-      "title": "The Big Summer Preview – New Starter Sets and ready painted terrain - Warhammer Community",
-      "source": "Warhammer-community.com",
-      "url": "https://www.warhammer-community.com/articles/1abmqefl/the-big-summer-preview-new-starter-sets-and-ready-painted-terrain",
-      "summary": "Warhammer 40,000 is launching new starter sets and ready-painted terrain kits for the upcoming summer, allowing players to quickly assemble battlefields on Armageddon. The announcement highlights a fresh wave of physical gaming accessories aimed at enhancing the tabletop experience.",
-      "whyItMatters": "The introduction of these ready-to-use kits opens avenues for software developers to create companion apps, digital tutorials, and community platforms that integrate with the physical game, boosting engagement and monetization.",
+      "id": "art-1782863000571-0",
+      "title": "Rumour: State of Decay 3 Dev Also Facing Xbox Axe, Just Weeks After Game Was Revealed for PS5 - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/rumour-state-of-decay-3-dev-also-facing-xbox-axe-just-weeks-after-game-was-revealed-for-ps5",
+      "summary": "State of Decay 3 developer is reportedly facing an Xbox cancellation just weeks after announcing the game for PS5, sparking speculation about the studio’s future. The news highlights the volatility of platform partnerships and the risk of platform-exclusive deals for game studios.",
+      "whyItMatters": "It underscores how platform decisions can abruptly alter a developer’s business trajectory, forcing studios to seek new buyers or pivot strategies.",
       "category": "DevOps",
-      "publishedAt": "2026-06-29T12:37:00Z"
+      "publishedAt": "2026-06-29T22:45:53Z"
     },
     {
-      "id": "art-1782826297868-1",
-      "title": "July’s Miniature of the Month and collectable coin revealed - Warhammer Community",
-      "source": "Warhammer-community.com",
-      "url": "https://www.warhammer-community.com/articles/va1s3sfx/julys-miniature-of-the-month-and-collectable-coin-revealed",
-      "summary": "Warhammer Community announces July’s Miniature of the Month and a collectible coin, offering new items for fans at local stores. The release is part of the brand’s ongoing strategy to boost engagement and sales through exclusive collectibles.",
-      "whyItMatters": "While not directly affecting software development, the initiative demonstrates how branded merchandise can drive community engagement, a tactic that tech companies can emulate to strengthen user loyalty.",
-      "category": "Web Dev",
-      "publishedAt": "2026-06-29T11:55:19Z"
-    },
-    {
-      "id": "art-1782826298279-2",
-      "title": "Amid Steam Machine performance scrutiny, Valve removes '4K at 60FPS' claim - Eurogamer",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/steam-machine-marketing-update-4k-60-fps-removed",
-      "summary": "Valve has retracted its claim that the Steam Machine can reliably deliver native 4K at 60 frames per second, citing performance scrutiny. The company now acknowledges that the hardware falls short of the advertised specifications, prompting a reassessment of its marketing and engineering claims.",
-      "whyItMatters": "Developers and hardware vendors must verify performance metrics rigorously to maintain consumer trust and avoid costly retractions, highlighting the importance of accurate benchmarking in product launches.",
-      "category": "DevOps",
-      "publishedAt": "2026-06-29T11:01:03Z"
-    },
-    {
-      "id": "art-1782826298862-3",
-      "title": "New Report Alleges Quantic Dream's Star Wars Eclipse Is in Trouble as Staff Go on Strike Over Layoffs Plan - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/with-the-threat-of-layoffs-looming-quantic-dream-staff-say-theyre-going-on-strike-to-save-star-wars-eclipse-from-cancelation",
-      "summary": "Quantic Dream’s Star Wars Eclipse project is facing uncertainty after a new report revealed staff are striking over a planned layoffs. The strike threatens to delay or jeopardize the game's development, raising concerns about the studio’s future.",
-      "whyItMatters": "The strike highlights the fragility of game development pipelines and could prompt developers to rethink workforce management and project risk mitigation.",
-      "category": "DevOps",
-      "publishedAt": "2026-06-29T10:36:32Z"
-    },
-    {
-      "id": "art-1782826299618-4",
-      "title": "Potential Xbox Series X|S owners: You should probably upgrade this July - TrueAchievements",
-      "source": "TrueAchievements",
-      "url": "https://www.trueachievements.com/news/xbox-price-july-2026",
-      "summary": "Xbox Series X|S owners are advised to upgrade in July 2026 due to anticipated price hikes in the console market. The article warns that further increases could make current models less cost-effective.",
-      "whyItMatters": "Game developers may need to adjust their release schedules and optimization strategies to align with newer hardware capabilities and pricing dynamics.",
+      "id": "art-1782863001192-1",
+      "title": "Samsung Galaxy Z Fold 8 Wide Gets New Confirmation Before Launch - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/jaymcgregor/2026/06/29/samsung-galaxy-z-fold-8-release-date-no-privacy-screen/",
+      "summary": "Samsung has confirmed that the Galaxy Z Fold 8 Ultra will launch without a privacy screen, but will feature a charging upgrade according to new filings. The move signals a shift in Samsung's design priorities ahead of the device's release.",
+      "whyItMatters": "Developers may need to adjust app UI for the absence of a privacy screen and can leverage the improved charging capabilities for better device performance.",
       "category": "Mobile",
-      "publishedAt": "2026-06-29T10:18:36Z"
+      "publishedAt": "2026-06-29T20:31:36Z"
     },
     {
-      "id": "art-1782826299959-5",
-      "title": "After 10 months with the Pixel 10 Pro, I can't stand these 3 issues - Android Authority",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-pixel-10-pro-ten-months-later-issues-3680886/",
-      "summary": "The Pixel 10 Pro, despite its appealing features, has suffered from persistent network issues, overheating, and battery anxiety after ten months of use. These problems have eroded user confidence and highlighted the need for better hardware-software integration.",
-      "whyItMatters": "Developers must prioritize robust power management and network stability to ensure app reliability across diverse devices, influencing future mobile platform design.",
-      "category": "Mobile",
-      "publishedAt": "2026-06-29T10:11:15Z"
-    },
-    {
-      "id": "art-1782826300442-6",
-      "title": "Breaking: T-Mobile To Force Migrate Over 8 Million Customers To More Expensive Plans - The Mobile Report",
-      "source": "Tmo.report",
-      "url": "https://tmo.report/2026/06/breaking-t-mobile-to-force-migrate-over-8-million-customers-to-more-expensive-plans/",
-      "summary": "T‑Mobile announced it will compel over 8 million customers to switch to higher‑priced plans, raising monthly fees for many long‑time users. The move is part of a broader strategy to increase revenue amid competitive pressure in the U.S. wireless market.",
-      "whyItMatters": "Mobile developers may see increased data costs for users, potentially affecting app usage patterns and the viability of data‑intensive features.",
-      "category": "Mobile",
-      "publishedAt": "2026-06-29T09:52:20Z"
-    },
-    {
-      "id": "art-1782826300838-7",
-      "title": "CD Projekt rebrands to CD Projekt Red - GamesIndustry.biz",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/cd-projekt-rebrands-to-cd-projekt-red",
-      "summary": "CD Projekt has officially rebranded itself as CD Projekt Red, a change announced to streamline and unify its brand messaging across all platforms. The new name aims to reinforce brand identity and improve consistency in communications for both the company and its audience.",
-      "whyItMatters": "Consistent branding helps software developers and the broader tech community recognize and trust the company’s products, fostering stronger collaboration and clearer marketing messages.",
-      "category": "Web Dev",
-      "publishedAt": "2026-06-29T09:40:55Z"
-    },
-    {
-      "id": "art-1782826301517-8",
-      "title": "The Big Summer Preview – New Ork miniatures and codex are coming - Warhammer Community",
-      "source": "Warhammer-community.com",
-      "url": "https://www.warhammer-community.com/articles/6pvhlvqm/the-big-summer-preview-new-ork-miniatures-and-codex-are-coming",
-      "summary": "Warhammer Community announces new Ork miniatures and codex for the upcoming summer, including updated Trukk, Mek, and Warboss models. Fans can expect fresh artwork and gameplay options in the next release.",
-      "whyItMatters": "This news has no direct impact on software developers or the tech industry.",
+      "id": "art-1782863001879-2",
+      "title": "The GTA 6 60fps Debate Returns: Is There a Route Forward on Current-Gen Consoles Like Series X, PS5 or PS5 Pro? - Digital Foundry",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/news/2026/06/df-weekly-the-gta-6-60fps-debate-returns-is-there-a-route-forward-on-current-gen-consoles-like-series-x-ps5-or-ps5-pro",
+      "summary": "Digital Foundry revisits the GTA 6 60fps debate, questioning whether current‑gen consoles can sustain high frame rates. The analysis suggests that a 40fps mode for 120Hz displays might be the upper limit for these systems.",
+      "whyItMatters": "Game developers must balance visual fidelity with performance constraints on consoles, influencing engine optimization and release strategies.",
       "category": "DevOps",
-      "publishedAt": "2026-06-29T09:39:39Z"
+      "publishedAt": "2026-06-29T20:29:34Z"
     },
     {
-      "id": "art-1782826302042-9",
-      "title": "Xbox reportedly pausing new third-party Game Pass deals, developers say - Video Games Chronicle",
-      "source": "Video Games Chronicle",
-      "url": "https://www.videogameschronicle.com/news/xbox-reportedly-pausing-new-third-party-game-pass-deals-developers-say/",
-      "summary": "Xbox has reportedly paused new third‑party Game Pass deals, with developers saying they were left without expected revenue streams. The move has sparked concern that Microsoft’s subscription strategy may be shifting away from supporting independent studios.",
-      "whyItMatters": "It threatens developers’ income and could alter the competitive landscape for game distribution on the platform.",
-      "category": "DevOps",
-      "publishedAt": "2026-06-29T09:21:55Z"
+      "id": "art-1782863002544-3",
+      "title": "Report: Xbox Has No 'Blanket Plans' To End Funding For Third-Party Game Pass Titles - Pure Xbox",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/06/report-xbox-has-no-blanket-plans-to-end-funding-for-third-party-game-pass-titles",
+      "summary": "Xbox has confirmed it has no overarching plan to stop funding third‑party titles on its Game Pass subscription, according to a Pure Xbox report. However, some agreements may have been paused amid the uncertainty.",
+      "whyItMatters": "The decision affects independent developers who rely on Game Pass revenue, potentially influencing their publishing strategy and financial stability.",
+      "category": "Cloud",
+      "publishedAt": "2026-06-29T20:16:00Z"
+    },
+    {
+      "id": "art-1782863003428-4",
+      "title": "Here's Some Wrestlers Hitting Some Other Wrestlers With A NES - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/aew-wrestling-nintendo-entertainment-system-forbidden-door-2000711483",
+      "summary": "A video shows wrestlers hitting each other with a NES, sparking a meme that highlights the absurdity of using retro gaming hardware as a prop. The clip has gone viral, drawing attention to the playful intersection of sports entertainment and nostalgic tech.",
+      "whyItMatters": "It shows how nostalgic tech can be repurposed for viral content, influencing marketing strategies for retro gaming brands.",
+      "category": "Mobile",
+      "publishedAt": "2026-06-29T20:15:26Z"
+    },
+    {
+      "id": "art-1782863004107-5",
+      "title": "Sony’s next-gen PlayStation will go ‘beyond the living room’ - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
+      "summary": "Sony's next-generation PlayStation is expected to include a handheld component that allows gaming outside the living room, according to investor Q&A. The move signals a shift toward portable gaming experiences and could reshape Sony's hardware strategy.",
+      "whyItMatters": "Developers will need to design games that run on a hybrid console/handheld platform, potentially increasing cross-platform development complexity and opening new monetization opportunities.",
+      "category": "Mobile",
+      "publishedAt": "2026-06-29T19:12:15Z"
+    },
+    {
+      "id": "art-1782863004772-6",
+      "title": "Meta Fury AI Glasses Review: The Worst Company Still Makes the Best Smart Glasses - Gizmodo",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/meta-fury-ai-glasses-review-the-worst-company-still-makes-the-best-smart-glasses-2000777827",
+      "summary": "Meta's new Fury AI glasses combine cutting‑edge AR with a controversial brand reputation, delivering crisp visuals and hand‑tracking in a sleek design. Despite the hype, reviewers note that the device feels more like a gimmick than a practical tool for everyday use.",
+      "whyItMatters": "The glasses push the boundaries of mobile AR, forcing developers to rethink UI design for wearable contexts and integrate AI‑driven gesture controls.",
+      "category": "Mobile",
+      "publishedAt": "2026-06-29T18:30:32Z"
     }
   ]
 }
