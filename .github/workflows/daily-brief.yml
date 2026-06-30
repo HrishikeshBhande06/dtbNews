@@ -41,8 +41,8 @@ jobs:
     # 5. Automatically commit the newly generated today.json file to your repo
     - name: Commit and Push Storage System Changes
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "HrishikeshBhande06"
+        git config --global user.email "hrishikeshbhande2006@gmail.com"
         git add backend/content/generated/today.json
         
         # Check if today.json actually has changes to prevent empty commit crashes
