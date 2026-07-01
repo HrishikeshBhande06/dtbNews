@@ -1,75 +1,105 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "articles": [
     {
-      "id": "art-1782863000571-0",
-      "title": "Rumour: State of Decay 3 Dev Also Facing Xbox Axe, Just Weeks After Game Was Revealed for PS5 - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/06/rumour-state-of-decay-3-dev-also-facing-xbox-axe-just-weeks-after-game-was-revealed-for-ps5",
-      "summary": "State of Decay 3 developer is reportedly facing an Xbox cancellation just weeks after announcing the game for PS5, sparking speculation about the studio’s future. The news highlights the volatility of platform partnerships and the risk of platform-exclusive deals for game studios.",
-      "whyItMatters": "It underscores how platform decisions can abruptly alter a developer’s business trajectory, forcing studios to seek new buyers or pivot strategies.",
+      "id": "art-1782949845899-0",
+      "title": "Microsoft's Xbox Pulls Out of Project Fantasy Video Game From IO Interactive - Bloomberg.com",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/microsoft-s-xbox-pulls-out-of-project-fantasy-video-game-from-io-interactive",
+      "summary": "Xbox has withdrawn its support for a new video game project from IO Interactive, the studio behind 007: First Light, after a brief partnership. The move leaves the game’s future uncertain and highlights the volatility of console publishing deals.",
+      "whyItMatters": "The decision underscores how platform owners can abruptly alter development trajectories, forcing developers to reassess their publishing strategies and resource allocations.",
       "category": "DevOps",
-      "publishedAt": "2026-06-29T22:45:53Z"
+      "publishedAt": "2026-06-30T17:49:32Z"
     },
     {
-      "id": "art-1782863001192-1",
-      "title": "Samsung Galaxy Z Fold 8 Wide Gets New Confirmation Before Launch - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2026/06/29/samsung-galaxy-z-fold-8-release-date-no-privacy-screen/",
-      "summary": "Samsung has confirmed that the Galaxy Z Fold 8 Ultra will launch without a privacy screen, but will feature a charging upgrade according to new filings. The move signals a shift in Samsung's design priorities ahead of the device's release.",
-      "whyItMatters": "Developers may need to adjust app UI for the absence of a privacy screen and can leverage the improved charging capabilities for better device performance.",
-      "category": "Mobile",
-      "publishedAt": "2026-06-29T20:31:36Z"
-    },
-    {
-      "id": "art-1782863001879-2",
-      "title": "The GTA 6 60fps Debate Returns: Is There a Route Forward on Current-Gen Consoles Like Series X, PS5 or PS5 Pro? - Digital Foundry",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/news/2026/06/df-weekly-the-gta-6-60fps-debate-returns-is-there-a-route-forward-on-current-gen-consoles-like-series-x-ps5-or-ps5-pro",
-      "summary": "Digital Foundry revisits the GTA 6 60fps debate, questioning whether current‑gen consoles can sustain high frame rates. The analysis suggests that a 40fps mode for 120Hz displays might be the upper limit for these systems.",
-      "whyItMatters": "Game developers must balance visual fidelity with performance constraints on consoles, influencing engine optimization and release strategies.",
+      "id": "art-1782949846530-1",
+      "title": "StarCraft II 5.0.16 Hotfix Patch Notes - Blizzard News",
+      "source": "Blizzard.com",
+      "url": "https://news.blizzard.com/en-us/article/24289266/starcraft-ii-5-0-16-hotfix-patch-notes",
+      "summary": "Blizzard released the 5.0.16 hotfix for StarCraft II, addressing balance tweaks and bug fixes based on player feedback and data analysis. The patch includes adjustments to unit abilities, map changes, and performance improvements to enhance gameplay stability.",
+      "whyItMatters": "It demonstrates how real‑time data and community input drive rapid iteration cycles, a model that software developers can adopt to improve product quality and user satisfaction.",
       "category": "DevOps",
-      "publishedAt": "2026-06-29T20:29:34Z"
+      "publishedAt": "2026-06-30T17:22:22Z"
     },
     {
-      "id": "art-1782863002544-3",
-      "title": "Report: Xbox Has No 'Blanket Plans' To End Funding For Third-Party Game Pass Titles - Pure Xbox",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/06/report-xbox-has-no-blanket-plans-to-end-funding-for-third-party-game-pass-titles",
-      "summary": "Xbox has confirmed it has no overarching plan to stop funding third‑party titles on its Game Pass subscription, according to a Pure Xbox report. However, some agreements may have been paused amid the uncertainty.",
-      "whyItMatters": "The decision affects independent developers who rely on Game Pass revenue, potentially influencing their publishing strategy and financial stability.",
-      "category": "Cloud",
-      "publishedAt": "2026-06-29T20:16:00Z"
-    },
-    {
-      "id": "art-1782863003428-4",
-      "title": "Here's Some Wrestlers Hitting Some Other Wrestlers With A NES - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/aew-wrestling-nintendo-entertainment-system-forbidden-door-2000711483",
-      "summary": "A video shows wrestlers hitting each other with a NES, sparking a meme that highlights the absurdity of using retro gaming hardware as a prop. The clip has gone viral, drawing attention to the playful intersection of sports entertainment and nostalgic tech.",
-      "whyItMatters": "It shows how nostalgic tech can be repurposed for viral content, influencing marketing strategies for retro gaming brands.",
-      "category": "Mobile",
-      "publishedAt": "2026-06-29T20:15:26Z"
-    },
-    {
-      "id": "art-1782863004107-5",
-      "title": "Sony’s next-gen PlayStation will go ‘beyond the living room’ - The Verge",
+      "id": "art-1782949846963-2",
+      "title": "Google’s killing off Tenor GIF searches in other apps - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
-      "summary": "Sony's next-generation PlayStation is expected to include a handheld component that allows gaming outside the living room, according to investor Q&A. The move signals a shift toward portable gaming experiences and could reshape Sony's hardware strategy.",
-      "whyItMatters": "Developers will need to design games that run on a hybrid console/handheld platform, potentially increasing cross-platform development complexity and opening new monetization opportunities.",
-      "category": "Mobile",
-      "publishedAt": "2026-06-29T19:12:15Z"
+      "url": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker",
+      "summary": "Google is shutting down the Tenor API, which powers GIF search and selection in many web and mobile apps. As a result, developers will need to replace Tenor with alternative GIF services or build custom solutions for their user interfaces.",
+      "whyItMatters": "The discontinuation forces developers to refactor their codebases, potentially increasing maintenance costs and impacting user experience across platforms that relied on Tenor’s easy integration.",
+      "category": "Web Dev",
+      "publishedAt": "2026-06-30T17:00:05Z"
     },
     {
-      "id": "art-1782863004772-6",
-      "title": "Meta Fury AI Glasses Review: The Worst Company Still Makes the Best Smart Glasses - Gizmodo",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/meta-fury-ai-glasses-review-the-worst-company-still-makes-the-best-smart-glasses-2000777827",
-      "summary": "Meta's new Fury AI glasses combine cutting‑edge AR with a controversial brand reputation, delivering crisp visuals and hand‑tracking in a sleek design. Despite the hype, reviewers note that the device feels more like a gimmick than a practical tool for everyday use.",
-      "whyItMatters": "The glasses push the boundaries of mobile AR, forcing developers to rethink UI design for wearable contexts and integrate AI‑driven gesture controls.",
+      "id": "art-1782949847682-3",
+      "title": "Xbox weighs canceling Blade game and shuttering Arkane - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
+      "summary": "Microsoft is considering canceling the Blade game and shutting down Arkane Studios, as part of a broader plan to cut at least five studios. The move signals a significant shift in the company's gaming strategy amid ongoing layoffs.",
+      "whyItMatters": "The closures will reduce opportunities for game developers and could shift talent toward other studios or sectors, impacting the broader software development ecosystem.",
+      "category": "DevOps",
+      "publishedAt": "2026-06-30T17:00:00Z"
+    },
+    {
+      "id": "art-1782949848118-4",
+      "title": "Gmail Live Just Arrived on Android and iOS - Droid Life",
+      "source": "Droid Life",
+      "url": "https://www.droid-life.com/2026/06/30/gmail-live-android-ios-download/",
+      "summary": "Google has launched Gmail Live on Android and iOS for users with Google AI Pro and AI Ultra subscriptions, offering a new AI-powered way to search emails. The feature is accessible through the Gmail app on both mobile platforms.",
+      "whyItMatters": "It enables developers to incorporate advanced AI search capabilities into mobile email clients, potentially driving innovation in mobile productivity tools.",
       "category": "Mobile",
-      "publishedAt": "2026-06-29T18:30:32Z"
+      "publishedAt": "2026-06-30T15:53:33Z"
+    },
+    {
+      "id": "art-1782949848492-5",
+      "title": "Report: Apple Watch Redesign Coming Next Year With New Band System - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/06/30/apple-watch-redesign-coming-next-year/",
+      "summary": "Apple is set to release a major redesign of the Apple Watch next year, featuring a new band attachment system that will replace the current magnetic and screw-based methods. The update promises a more modular and user-friendly experience, potentially opening new opportunities for accessory makers and developers of watch apps.",
+      "whyItMatters": "The new band system will require developers to update their watchOS apps to support different band types and may spur a wave of third‑party accessories, influencing the mobile ecosystem and app monetization strategies.",
+      "category": "Mobile",
+      "publishedAt": "2026-06-30T15:45:44Z"
+    },
+    {
+      "id": "art-1782949849136-6",
+      "title": "'I Don't Know What They're Thinking': Ex-PlayStation Boss Weighs in on Sony's PC Port Backtracking - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/i-dont-know-what-theyre-thinking-ex-playstation-boss-weighs-in-on-sonys-pc-port-backtracking",
+      "summary": "Former PlayStation chief criticizes Sony for pulling back on its PC port strategy, arguing that the decision reflects a lack of confidence in the platform. He emphasizes that successful porting hinges on securing mindshare and aligning business priorities with developer needs.",
+      "whyItMatters": "The shift signals that major console makers may deprioritize PC ports, forcing developers to reallocate resources and rethink cross-platform strategies.",
+      "category": "DevOps",
+      "publishedAt": "2026-06-30T15:30:00Z"
+    },
+    {
+      "id": "art-1782949849834-7",
+      "title": "Concern Mounts About Rumored ‘State Of Decay 3’ Cancellation At Xbox - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/30/concern-mounts-about-rumored-state-of-decay-3-cancellation-at-xbox/",
+      "summary": "Xbox fans are concerned that State of Decay 3 may be cancelled despite recent previews, raising questions about the studio's future. The potential cancellation comes amid significant layoffs at Xbox, highlighting the volatility of game development projects.",
+      "whyItMatters": "The uncertainty signals a shift in resource allocation for game studios, forcing developers to adapt to tighter budgets and project cancellations.",
+      "category": "DevOps",
+      "publishedAt": "2026-06-30T14:51:55Z"
+    },
+    {
+      "id": "art-1782949850463-8",
+      "title": "Galaxy Z Fold 8 comparison shot shows massive height difference between phones - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/06/30/galaxy-z-fold-8-compare-image-leaked/",
+      "summary": "Samsung’s upcoming Galaxy Z Fold 8 Ultra is noticeably taller than the standard Fold, as revealed by a comparison shot. The new model’s larger size signals a shift toward more premium foldable devices.",
+      "whyItMatters": "Developers may need to adapt UI designs for larger foldable screens, affecting app layout and user experience.",
+      "category": "Mobile",
+      "publishedAt": "2026-06-30T14:48:00Z"
+    },
+    {
+      "id": "art-1782949851172-9",
+      "title": "Viral Marathon Fan Hit Level 45 Without Ever Extracting Or Looting - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/marathon-fan-goes-viral-for-getting-to-level-45-without-having-any-idea-how-the-game-actually-works-2000711622",
+      "summary": "A viral marathon fan achieved level 45 in a popular game without ever extracting or looting, sparking disbelief among the community. The feat demonstrates a unique playstyle that challenges conventional progression methods.",
+      "whyItMatters": "It highlights the need for developers to monitor unconventional gameplay to maintain balance and fairness.",
+      "category": "Mobile",
+      "publishedAt": "2026-06-30T14:34:10Z"
     }
   ]
 }
