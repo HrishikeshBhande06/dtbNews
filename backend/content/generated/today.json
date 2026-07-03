@@ -1,75 +1,95 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "articles": [
     {
-      "id": "art-1783035316933-2",
-      "title": "Apple Readies New iPad Pro, Redesigned Entry MacBook Pro for 2027 - Bloomberg",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-01/apple-readies-new-ipad-pro-redesigned-entry-macbook-pro-for-first-half-2027",
-      "summary": "Apple is set to launch an upgraded iPad Pro line and a redesigned entry-level MacBook Pro in 2027, expanding its hardware lineup ahead of the iPhone’s 20th anniversary. These releases signal a continued push toward higher-performance devices and new feature sets across Apple’s ecosystem.",
-      "whyItMatters": "Developers will need to optimize apps for the new hardware capabilities and potentially new APIs, impacting mobile and desktop development workflows.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-01T20:47:49Z"
-    },
-    {
-      "id": "art-1783035317387-3",
-      "title": "Xbox is reportedly considering dropping disc drives as it tests new feature that lets players digitize physical games - GamesIndustry.biz",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/xbox-is-reportedly-considering-dropping-disc-drives-as-it-tests-new-feature-that-lets-players-digitize-physical-games",
-      "summary": "Xbox is reportedly considering removing disc drives from its consoles as it tests a new feature that allows players to digitize physical games. The move mirrors PlayStation’s shift toward digital distribution and could signal a broader industry trend toward disc-less hardware.",
-      "whyItMatters": "It forces game developers to prioritize digital release pipelines and may accelerate the adoption of cloud-based distribution and DRM solutions.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-01T20:35:19Z"
-    },
-    {
-      "id": "art-1783035317807-4",
-      "title": "Google rolling out Android 17 QPR1 Beta 6 for Pixel - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/01/android-17-qpr1-beta-6-pixel/",
-      "summary": "Google has released Android 17 QPR1 Beta 6 for Pixel devices, following last week's release. The update brings new features and bug fixes to the latest Android version.",
-      "whyItMatters": "Developers can test new Android 17 features and ensure app compatibility ahead of the final release, helping maintain app stability across Pixel devices.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-01T20:17:00Z"
-    },
-    {
-      "id": "art-1783035318180-5",
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "summary": "SpaceX unveiled a prototype AI device that resembles a handset to investors, hinting at a potential move into wireless consumer products. The prototype suggests the company may be expanding beyond rockets into the mobile AI market.",
-      "whyItMatters": "It signals a new entrant in the mobile AI space, potentially reshaping app ecosystems and hardware-software integration for developers.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-01T18:54:18Z"
-    },
-    {
-      "id": "art-1783035318956-7",
-      "title": "Subnautica 2 studio Unknown Worlds' CEO resigns as Krafton agrees to pay $250m bonus - GamesIndustry.biz",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/subnautica-2-studio-unknown-worlds-ceo-resigns-as-krafton-agrees-to-pay-250m-bonus",
-      "summary": "Krafton has settled a lawsuit with the former leadership team of Unknown Worlds, the studio behind Subnautica 2, and agreed to pay a $250 million bonus. The settlement follows the resignation of Unknown Worlds' CEO, marking a significant shift in the studio's leadership and financial structure.",
-      "whyItMatters": "The settlement underscores the high stakes of game development contracts and can influence how studios negotiate leadership agreements and financial risk.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-01T16:38:14Z"
-    },
-    {
-      "id": "art-1783035319553-8",
-      "title": "'This Is Borderline Evil' - Minecraft Creator Speaks Out Against ESA Calling Private Servers 'Illegal' - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/this-is-borderline-evil-minecraft-creator-speaks-out-against-esa-calling-private-servers-illegal",
-      "summary": "Markus \"Notch\" Persson publicly criticized the Electronic Software Association for labeling private Minecraft servers as illegal, arguing that such servers are a legitimate part of the game's community and player freedom. He emphasized that the claim undermines user-generated content and the collaborative spirit that has driven Minecraft’s success.",
-      "whyItMatters": "The dispute underscores the broader conflict between intellectual property enforcement and the open, community-driven development model that many software developers rely on for innovation and user engagement.",
+      "id": "art-1783121600343-0",
+      "title": "New PamStealer macOS malware uses clever tradecraft to remain stealthy - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+      "summary": "Researchers uncovered PamStealer, a macOS infostealer that employs sophisticated techniques to evade detection, including stealthy persistence and anti‑analysis measures. The malware demonstrates a growing trend of targeted attacks against Apple devices, raising concerns for users and developers alike.",
+      "whyItMatters": "Developers must prioritize security hardening and monitoring on macOS to protect sensitive data from increasingly stealthy infostealers.",
       "category": "Security",
-      "publishedAt": "2026-07-01T16:24:53Z"
+      "publishedAt": "2026-07-02T19:38:57Z"
     },
     {
-      "id": "art-1783035320241-9",
-      "title": "PlayStation Plus Confirms 3 Games For July 2026 Free Game Line-Up - GAMINGbible",
-      "source": "Gamingbible.com",
-      "url": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-essential-tier-free-games-july-2026-883347-20260701",
-      "summary": "PlayStation Plus will offer three new titles as free games starting July 7, 2026, giving subscribers access to fresh content without additional cost. This move continues Sony's strategy to keep its subscription service competitive and attract new members.",
-      "whyItMatters": "It signals continued demand for subscription-based free game offerings, encouraging developers to target PS Plus for wider distribution and revenue through licensing.",
-      "category": "Cloud",
-      "publishedAt": "2026-07-01T15:46:23Z"
+      "id": "art-1783121600752-1",
+      "title": "Top ‘Suicide Squad’ Developers Say the Flop Made Them Not Want to Make Games Anymore - Bloomberg.com",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-02/top-suicide-squad-developers-say-flop-made-them-not-want-to-make-games-anymore",
+      "summary": "Rocksteady’s director and lead designer reveal that the commercial failure of the Suicide Squad game pushed them to abandon game development entirely. They cite the disappointment and lack of support as key reasons for their decision to leave the industry.",
+      "whyItMatters": "Their departure highlights how high-profile failures can demoralize talented developers, potentially stalling innovation and talent retention in the broader software development ecosystem.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-02T19:00:34Z"
+    },
+    {
+      "id": "art-1783121601288-3",
+      "title": "Final Fantasy 7 Revelation Might Be Getting Story DLC Based On New Leak - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/final-fantasy-7-revelation-might-be-getting-story-dlc-based-on-new-leak-2000712290",
+      "summary": "A new leak suggests that Final Fantasy 7: Revelation will receive additional story content in the form of DLC. The Epic Games Store database lists multiple upcoming DLCs, indicating a planned expansion beyond the base game.",
+      "whyItMatters": "This signals that even legacy titles can generate ongoing revenue streams, encouraging developers to adopt modular release strategies and maintain long-term engagement.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-02T17:15:53Z"
+    },
+    {
+      "id": "art-1783121601698-4",
+      "title": "iOS 27 public beta release date: When you can install the new iPhone update - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/02/ios-27-public-beta-release-date-when-you-can-install-the-new-iphone-update/",
+      "summary": "Apple has announced that iOS 27, currently only in developer beta, will soon receive a public beta release. The exact release date has not been specified yet, but developers can expect the public beta to arrive shortly, allowing broader testing and app updates.",
+      "whyItMatters": "The public beta will enable developers to test and optimize their apps for the new OS, ensuring compatibility and leveraging new features before the final release.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-02T16:46:00Z"
+    },
+    {
+      "id": "art-1783121602518-5",
+      "title": "iPhone 18 Pro Could Use Qualcomm Modem in the US and C2 Elsewhere - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/02/iphone-18-pro-could-use-qualcomm-modem-in-the-us/",
+      "summary": "Apple’s upcoming iPhone 18 Pro will use a Qualcomm modem in the United States while deploying a different C2 modem in other markets, according to leaked data from partner Tata Electronics. This split‑modem strategy means the device will run distinct firmware and network stacks depending on the region it is sold in.",
+      "whyItMatters": "Developers must account for varying modem capabilities and driver support, potentially affecting app performance, network diagnostics, and carrier‑specific features across regions.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-02T16:15:41Z"
+    },
+    {
+      "id": "art-1783121603223-6",
+      "title": "No, Xbox isn't shutting down Obsidian despite fresh rumors - Windows Central",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/xbox/no-xboxs-obsidian-studio-isnt-shutting-down-new-comments-dispute-closure-claims",
+      "summary": "Xbox has denied reports that it will shut down the game developer Obsidian, despite recent rumors of uncertainty. The company’s statement aims to reassure fans and stakeholders that Obsidian’s projects will continue on the platform.",
+      "whyItMatters": "The confirmation of platform support helps developers plan long‑term releases and maintain player trust, reducing the risk of abrupt service disruptions.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-02T15:46:37Z"
+    },
+    {
+      "id": "art-1783121603772-7",
+      "title": "iPhone 18 Pro Max’s huge battery size reportedly leaked - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/02/iphone-18-pro-maxs-huge-battery-size-reportedly-leaked/",
+      "summary": "A report from Macworld, citing social media leaks, claims to have uncovered the exact battery capacity of the upcoming iPhone 18 Pro Max, suggesting it will be significantly larger than previous models. The leak indicates Apple may be prioritizing battery life and power efficiency in its next flagship device.",
+      "whyItMatters": "Developers will need to optimize apps for longer battery usage and potentially larger battery capacity, affecting power management strategies and user experience expectations.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-02T15:42:00Z"
+    },
+    {
+      "id": "art-1783121604752-8",
+      "title": "ONTOS delayed to 2027 - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/07/ontos-delayed-to-2027",
+      "summary": "Publisher Kepler Interactive and developer Frictional Games have postponed the release of the science‑fiction mystery thriller ONTOS from 2026 to 2027. The delay shifts the project’s launch window, affecting marketing, production schedules, and potential revenue streams.",
+      "whyItMatters": "The postponement highlights the challenges of managing complex software development pipelines, underscoring the need for robust project planning and risk mitigation in the tech industry.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-02T15:21:17Z"
+    },
+    {
+      "id": "art-1783121606479-9",
+      "title": "\"Am I going back to PS4 days?\" - Former PlayStation leader Shuhei Yoshida has tried the Steam Machine, and he doesn't sound very impressed - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/shuhei-yoshida-steam-machine",
+      "summary": "Former PlayStation chief Shuhei Yoshida tested Valve’s Steam Machine and expressed a lukewarm reaction, noting its design and performance fall short of his expectations. He highlighted issues such as limited game library support and a clunky user interface, suggesting the console may struggle to compete with established platforms.",
+      "whyItMatters": "Yoshida’s critique signals that even seasoned industry leaders see challenges in Valve’s hardware strategy, warning developers that the Steam Machine may not provide a robust, developer-friendly ecosystem for future game releases.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-02T15:09:01Z"
     }
   ]
 }
