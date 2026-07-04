@@ -1,95 +1,95 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "articles": [
     {
-      "id": "art-1783121600343-0",
-      "title": "New PamStealer macOS malware uses clever tradecraft to remain stealthy - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-      "summary": "Researchers uncovered PamStealer, a macOS infostealer that employs sophisticated techniques to evade detection, including stealthy persistence and anti‑analysis measures. The malware demonstrates a growing trend of targeted attacks against Apple devices, raising concerns for users and developers alike.",
-      "whyItMatters": "Developers must prioritize security hardening and monitoring on macOS to protect sensitive data from increasingly stealthy infostealers.",
-      "category": "Security",
-      "publishedAt": "2026-07-02T19:38:57Z"
-    },
-    {
-      "id": "art-1783121600752-1",
-      "title": "Top ‘Suicide Squad’ Developers Say the Flop Made Them Not Want to Make Games Anymore - Bloomberg.com",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-02/top-suicide-squad-developers-say-flop-made-them-not-want-to-make-games-anymore",
-      "summary": "Rocksteady’s director and lead designer reveal that the commercial failure of the Suicide Squad game pushed them to abandon game development entirely. They cite the disappointment and lack of support as key reasons for their decision to leave the industry.",
-      "whyItMatters": "Their departure highlights how high-profile failures can demoralize talented developers, potentially stalling innovation and talent retention in the broader software development ecosystem.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-02T19:00:34Z"
-    },
-    {
-      "id": "art-1783121601288-3",
-      "title": "Final Fantasy 7 Revelation Might Be Getting Story DLC Based On New Leak - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/final-fantasy-7-revelation-might-be-getting-story-dlc-based-on-new-leak-2000712290",
-      "summary": "A new leak suggests that Final Fantasy 7: Revelation will receive additional story content in the form of DLC. The Epic Games Store database lists multiple upcoming DLCs, indicating a planned expansion beyond the base game.",
-      "whyItMatters": "This signals that even legacy titles can generate ongoing revenue streams, encouraging developers to adopt modular release strategies and maintain long-term engagement.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-02T17:15:53Z"
-    },
-    {
-      "id": "art-1783121601698-4",
-      "title": "iOS 27 public beta release date: When you can install the new iPhone update - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/02/ios-27-public-beta-release-date-when-you-can-install-the-new-iphone-update/",
-      "summary": "Apple has announced that iOS 27, currently only in developer beta, will soon receive a public beta release. The exact release date has not been specified yet, but developers can expect the public beta to arrive shortly, allowing broader testing and app updates.",
-      "whyItMatters": "The public beta will enable developers to test and optimize their apps for the new OS, ensuring compatibility and leveraging new features before the final release.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-02T16:46:00Z"
-    },
-    {
-      "id": "art-1783121602518-5",
-      "title": "iPhone 18 Pro Could Use Qualcomm Modem in the US and C2 Elsewhere - MacRumors",
+      "id": "art-1783207783805-0",
+      "title": "iPhone 18 With 9GB RAM Still Won't Support Two New iOS 27 Features - MacRumors",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/02/iphone-18-pro-could-use-qualcomm-modem-in-the-us/",
-      "summary": "Apple’s upcoming iPhone 18 Pro will use a Qualcomm modem in the United States while deploying a different C2 modem in other markets, according to leaked data from partner Tata Electronics. This split‑modem strategy means the device will run distinct firmware and network stacks depending on the region it is sold in.",
-      "whyItMatters": "Developers must account for varying modem capabilities and driver support, potentially affecting app performance, network diagnostics, and carrier‑specific features across regions.",
+      "url": "https://www.macrumors.com/2026/07/03/iphone-18-wont-support-two-ios-27-features/",
+      "summary": "Apple’s lower‑end iPhone 18 and iPhone 18e will ship with 9 GB of RAM, an increase from the 8 GB in the iPhone 17 lineup, yet they will still be unable to run two new iOS 27 features announced by Apple. This means the newest OS capabilities will be limited to higher‑end models, leaving a sizable portion of the iPhone market without access to the latest software enhancements.",
+      "whyItMatters": "Developers must account for the reduced RAM and feature gaps on lower‑end devices, potentially limiting the availability of new iOS 27 APIs and affecting app performance and compatibility across the broader iPhone user base.",
       "category": "Mobile",
-      "publishedAt": "2026-07-02T16:15:41Z"
+      "publishedAt": "2026-07-03T19:10:00Z"
     },
     {
-      "id": "art-1783121603223-6",
-      "title": "No, Xbox isn't shutting down Obsidian despite fresh rumors - Windows Central",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/xbox/no-xboxs-obsidian-studio-isnt-shutting-down-new-comments-dispute-closure-claims",
-      "summary": "Xbox has denied reports that it will shut down the game developer Obsidian, despite recent rumors of uncertainty. The company’s statement aims to reassure fans and stakeholders that Obsidian’s projects will continue on the platform.",
-      "whyItMatters": "The confirmation of platform support helps developers plan long‑term releases and maintain player trust, reducing the risk of abrupt service disruptions.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-02T15:46:37Z"
-    },
-    {
-      "id": "art-1783121603772-7",
-      "title": "iPhone 18 Pro Max’s huge battery size reportedly leaked - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/02/iphone-18-pro-maxs-huge-battery-size-reportedly-leaked/",
-      "summary": "A report from Macworld, citing social media leaks, claims to have uncovered the exact battery capacity of the upcoming iPhone 18 Pro Max, suggesting it will be significantly larger than previous models. The leak indicates Apple may be prioritizing battery life and power efficiency in its next flagship device.",
-      "whyItMatters": "Developers will need to optimize apps for longer battery usage and potentially larger battery capacity, affecting power management strategies and user experience expectations.",
+      "id": "art-1783207784330-1",
+      "title": "Danganronpa 2x2 Game Reveals ‘Slayhem’ Title for New Scenario, Delay to Early 2027 - Anime News Network",
+      "source": "Anime News Network",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-03/danganronpa-2x2-game-reveals-lsquo-slayhem-rsquo-title-for-new-scenario-delay-to-early-2027/.239263",
+      "summary": "Danganronpa 2x2 has announced a new alternate scenario titled ‘Slayhem’, which will run for approximately 35 hours. The release has been pushed back to early 2027, delaying the launch of the new content for fans.",
+      "whyItMatters": "Game developers must adjust their production schedules and resource allocation to accommodate the extended development timeline, impacting release planning and marketing strategies.",
       "category": "Mobile",
-      "publishedAt": "2026-07-02T15:42:00Z"
+      "publishedAt": "2026-07-03T18:44:41Z"
     },
     {
-      "id": "art-1783121604752-8",
-      "title": "ONTOS delayed to 2027 - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/07/ontos-delayed-to-2027",
-      "summary": "Publisher Kepler Interactive and developer Frictional Games have postponed the release of the science‑fiction mystery thriller ONTOS from 2026 to 2027. The delay shifts the project’s launch window, affecting marketing, production schedules, and potential revenue streams.",
-      "whyItMatters": "The postponement highlights the challenges of managing complex software development pipelines, underscoring the need for robust project planning and risk mitigation in the tech industry.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-02T15:21:17Z"
+      "id": "art-1783207784636-2",
+      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "summary": "The article argues that the current browser competition has shifted from search dominance to offering better performance, privacy, and developer tools, and it lists several top alternatives to Chrome and Safari. It highlights how these browsers aim to challenge the status quo by providing unique features and improved user experience.",
+      "whyItMatters": "Developers must evaluate these alternatives to ensure cross-browser compatibility, optimize performance, and address privacy concerns in their web applications.",
+      "category": "Web Dev",
+      "publishedAt": "2026-07-03T18:43:00Z"
     },
     {
-      "id": "art-1783121606479-9",
-      "title": "\"Am I going back to PS4 days?\" - Former PlayStation leader Shuhei Yoshida has tried the Steam Machine, and he doesn't sound very impressed - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/shuhei-yoshida-steam-machine",
-      "summary": "Former PlayStation chief Shuhei Yoshida tested Valve’s Steam Machine and expressed a lukewarm reaction, noting its design and performance fall short of his expectations. He highlighted issues such as limited game library support and a clunky user interface, suggesting the console may struggle to compete with established platforms.",
-      "whyItMatters": "Yoshida’s critique signals that even seasoned industry leaders see challenges in Valve’s hardware strategy, warning developers that the Steam Machine may not provide a robust, developer-friendly ecosystem for future game releases.",
+      "id": "art-1783207784984-3",
+      "title": "Oura Ring 5 In-Depth Review: Smaller yes, but still worth it? - DC Rainmaker",
+      "source": "DC Rainmaker",
+      "url": "https://www.dcrainmaker.com/2026/07/oura-ring-5-in-depth-review-comparison.html",
+      "summary": "The Oura Ring 5 review highlights its slimmer design and improved accuracy, while evaluating new features and comparing it to previous models. It concludes that despite the size reduction, the ring remains a valuable tool for health tracking and data collection.",
+      "whyItMatters": "For software developers, the Oura Ring 5 offers richer health data APIs that can be integrated into mobile and health‑tech applications, enhancing user engagement and personalized insights.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-03T18:42:41Z"
+    },
+    {
+      "id": "art-1783207785672-4",
+      "title": "Ferrari Finally Brought Back The Manual—Sort Of - Motor1.com",
+      "source": "Motor1 ",
+      "url": "https://www.motor1.com/news/800495/ferrari-12cilindri-manual/",
+      "summary": "Ferrari has reintroduced a manual gearbox in its 12Cilindri Manuale trim, but the system can switch between manual and automatic modes. This hybrid approach blends traditional driving feel with modern convenience, appealing to enthusiasts and tech‑savvy drivers alike.",
+      "whyItMatters": "The dual‑mode gearbox showcases how automotive software can seamlessly integrate manual controls with automated systems, highlighting the need for robust, real‑time embedded software and continuous integration pipelines in vehicle development.",
       "category": "DevOps",
-      "publishedAt": "2026-07-02T15:09:01Z"
+      "publishedAt": "2026-07-03T18:01:01Z"
+    },
+    {
+      "id": "art-1783207786346-5",
+      "title": "‘Destiny 2’ Players Discover Hugely Overpowered Armor Set Before Closure - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/07/03/destiny-2-players-discover-hugely-overpowered-armor-set-before-closure/",
+      "summary": "Destiny 2 players have found a new armor set that is massively overpowered, creating imbalance in the game. Bungie cannot patch the issue before the game stops receiving updates, leaving the problem unresolved.",
+      "whyItMatters": "The situation highlights the challenges of maintaining game balance and patching in the face of product lifecycle limits, underscoring the importance of robust release and lifecycle management practices for developers.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-03T16:10:42Z"
+    },
+    {
+      "id": "art-1783207787086-6",
+      "title": "This Backrooms Game Outsold Every PS5 Title on PS Store Last Month - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/07/this-backrooms-game-outsold-every-ps5-title-on-ps-store-last-month",
+      "summary": "A Backrooms-themed game has outsold every PlayStation 5 title on the PlayStation Store last month, a surprising feat attributed to the popularity of the Backrooms movie. The game's rapid sales spike highlights how viral cultural references can drive console game revenue.",
+      "whyItMatters": "The result underscores the importance of agile marketing and rapid content deployment for developers, showing that timely cultural alignment can significantly boost sales and platform engagement.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-03T16:00:00Z"
+    },
+    {
+      "id": "art-1783207787486-7",
+      "title": "Apple Already Testing iOS 27.4 - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/03/apple-already-testing-ios-27-4/",
+      "summary": "Apple's software engineers have begun testing iOS 27.4, as indicated by MacRumors visitor logs. The new version is expected to include updates and bug fixes ahead of its public release.",
+      "whyItMatters": "The upcoming iOS 27.4 will affect developers who need to update apps for new APIs and performance improvements, ensuring compatibility with the latest device features.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-03T15:42:28Z"
+    },
+    {
+      "id": "art-1783207788114-8",
+      "title": "10 More Amazing Indie Games To Wishlist This Indie-Penance Day - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/indie-penance-day-indie-games-steam-wishlist-deckbuilder-4x-2000712495",
+      "summary": "Kotaku lists ten indie games that stand out for their creativity and originality, covering a range of genres and platforms. The article highlights titles that showcase inventive gameplay and fresh design, encouraging readers to add them to their wishlists.",
+      "whyItMatters": "It showcases emerging indie titles that can inspire developers to innovate and diversify their own game projects.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-03T15:30:46Z"
     }
   ]
 }
