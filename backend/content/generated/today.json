@@ -1,95 +1,95 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "articles": [
     {
-      "id": "art-1783207783805-0",
-      "title": "iPhone 18 With 9GB RAM Still Won't Support Two New iOS 27 Features - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/03/iphone-18-wont-support-two-ios-27-features/",
-      "summary": "Apple’s lower‑end iPhone 18 and iPhone 18e will ship with 9 GB of RAM, an increase from the 8 GB in the iPhone 17 lineup, yet they will still be unable to run two new iOS 27 features announced by Apple. This means the newest OS capabilities will be limited to higher‑end models, leaving a sizable portion of the iPhone market without access to the latest software enhancements.",
-      "whyItMatters": "Developers must account for the reduced RAM and feature gaps on lower‑end devices, potentially limiting the availability of new iOS 27 APIs and affecting app performance and compatibility across the broader iPhone user base.",
+      "id": "art-1783294446059-0",
+      "title": "Dragon Quest 11 S details Nintendo Switch 2 frame rate and resolution - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/dragon-quest-11-s-nintendo-switch-2-frame-rate-and-resolution/",
+      "summary": "Square Enix revealed that Dragon Quest 11 S on the upcoming Nintendo Switch 2 will support two graphical options, each with distinct frame rates and resolutions. The announcement clarifies that the game will run at a higher frame rate on the console’s upgraded hardware while offering a lower‑resolution mode for smoother performance.",
+      "whyItMatters": "Game developers will need to optimize assets and code for multiple resolution and frame‑rate targets, influencing pipeline decisions and testing strategies.",
       "category": "Mobile",
-      "publishedAt": "2026-07-03T19:10:00Z"
+      "publishedAt": "2026-07-04T20:33:48Z"
     },
     {
-      "id": "art-1783207784330-1",
-      "title": "Danganronpa 2x2 Game Reveals ‘Slayhem’ Title for New Scenario, Delay to Early 2027 - Anime News Network",
-      "source": "Anime News Network",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-03/danganronpa-2x2-game-reveals-lsquo-slayhem-rsquo-title-for-new-scenario-delay-to-early-2027/.239263",
-      "summary": "Danganronpa 2x2 has announced a new alternate scenario titled ‘Slayhem’, which will run for approximately 35 hours. The release has been pushed back to early 2027, delaying the launch of the new content for fans.",
-      "whyItMatters": "Game developers must adjust their production schedules and resource allocation to accommodate the extended development timeline, impacting release planning and marketing strategies.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-03T18:44:41Z"
-    },
-    {
-      "id": "art-1783207784636-2",
-      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "summary": "The article argues that the current browser competition has shifted from search dominance to offering better performance, privacy, and developer tools, and it lists several top alternatives to Chrome and Safari. It highlights how these browsers aim to challenge the status quo by providing unique features and improved user experience.",
-      "whyItMatters": "Developers must evaluate these alternatives to ensure cross-browser compatibility, optimize performance, and address privacy concerns in their web applications.",
-      "category": "Web Dev",
-      "publishedAt": "2026-07-03T18:43:00Z"
-    },
-    {
-      "id": "art-1783207784984-3",
-      "title": "Oura Ring 5 In-Depth Review: Smaller yes, but still worth it? - DC Rainmaker",
-      "source": "DC Rainmaker",
-      "url": "https://www.dcrainmaker.com/2026/07/oura-ring-5-in-depth-review-comparison.html",
-      "summary": "The Oura Ring 5 review highlights its slimmer design and improved accuracy, while evaluating new features and comparing it to previous models. It concludes that despite the size reduction, the ring remains a valuable tool for health tracking and data collection.",
-      "whyItMatters": "For software developers, the Oura Ring 5 offers richer health data APIs that can be integrated into mobile and health‑tech applications, enhancing user engagement and personalized insights.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-03T18:42:41Z"
-    },
-    {
-      "id": "art-1783207785672-4",
-      "title": "Ferrari Finally Brought Back The Manual—Sort Of - Motor1.com",
-      "source": "Motor1 ",
-      "url": "https://www.motor1.com/news/800495/ferrari-12cilindri-manual/",
-      "summary": "Ferrari has reintroduced a manual gearbox in its 12Cilindri Manuale trim, but the system can switch between manual and automatic modes. This hybrid approach blends traditional driving feel with modern convenience, appealing to enthusiasts and tech‑savvy drivers alike.",
-      "whyItMatters": "The dual‑mode gearbox showcases how automotive software can seamlessly integrate manual controls with automated systems, highlighting the need for robust, real‑time embedded software and continuous integration pipelines in vehicle development.",
+      "id": "art-1783294446961-1",
+      "title": "Disk Polishing Goes Open Source - Hackaday",
+      "source": "Hackaday",
+      "url": "https://hackaday.com/2026/07/04/disk-polishing-goes-open-source/",
+      "summary": "Hackaday reports that an open-source disk polishing tool has been released, enabling users to clean optical media more effectively. The project provides a low-cost, community-driven solution to extend the lifespan of CDs, DVDs, and Blu‑ray discs.",
+      "whyItMatters": "By making disk cleaning accessible and affordable, developers and archivists can preserve legacy data more reliably, reducing the need for costly data migration.",
       "category": "DevOps",
-      "publishedAt": "2026-07-03T18:01:01Z"
+      "publishedAt": "2026-07-04T20:00:00Z"
     },
     {
-      "id": "art-1783207786346-5",
-      "title": "‘Destiny 2’ Players Discover Hugely Overpowered Armor Set Before Closure - Forbes",
+      "id": "art-1783294447545-2",
+      "title": "Millions More Galaxy Phones Join Samsung's Free Upgrade List - Forbes",
       "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/07/03/destiny-2-players-discover-hugely-overpowered-armor-set-before-closure/",
-      "summary": "Destiny 2 players have found a new armor set that is massively overpowered, creating imbalance in the game. Bungie cannot patch the issue before the game stops receiving updates, leaving the problem unresolved.",
-      "whyItMatters": "The situation highlights the challenges of maintaining game balance and patching in the face of product lifecycle limits, underscoring the importance of robust release and lifecycle management practices for developers.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-03T16:10:42Z"
+      "url": "https://www.forbes.com/sites/jaymcgregor/2026/07/04/samsung-one-ui-9-update-for-galaxy-s23-fe--galaxy-a57-galaxy-z-fold6/",
+      "summary": "Samsung has expanded its One UI 9 free upgrade list to include millions more Galaxy phones, adding a wide range of new devices to the testing lineup. The update brings the latest UI features and security patches to a broader user base, enhancing the overall Galaxy ecosystem.",
+      "whyItMatters": "For mobile developers, the expanded upgrade list means a larger audience will run the latest OS, requiring updates to app compatibility and testing across more device variants.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-04T19:32:38Z"
     },
     {
-      "id": "art-1783207787086-6",
-      "title": "This Backrooms Game Outsold Every PS5 Title on PS Store Last Month - Push Square",
+      "id": "art-1783294448271-3",
+      "title": "\"I Almost Left Sony Over That One\" - Meet The Unreleased PlayStation Pad With A PS1 Inside - Time Extension",
+      "source": "Timeextension.com",
+      "url": "https://www.timeextension.com/news/2026/07/i-almost-left-sony-over-that-one-meet-the-unreleased-playstation-pad-with-a-ps1-inside",
+      "summary": "Sony's unreleased PlayStation Pad, featuring a built-in PS1, never reached market due to licensing and royalty disputes. The project highlighted how complex royalty negotiations can stall hardware innovation.",
+      "whyItMatters": "The stalled release underscores how stringent licensing terms can hinder hardware developers, limiting platform expansion and delaying new product offerings.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-04T18:30:00Z"
+    },
+    {
+      "id": "art-1783294448956-4",
+      "title": "Scientists Just Unlocked an Endless Army of Cancer-Fighting Cells - ScienceAlert",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/scientists-just-unlocked-an-endless-army-of-cancer-fighting-cells",
+      "summary": "Scientists have discovered a method to activate an unlimited supply of cancer-fighting immune cells, potentially revolutionizing cancer treatment. This breakthrough could lead to more effective, personalized therapies that harness the body's own defenses.",
+      "whyItMatters": "For software developers, this opens opportunities for AI-driven drug discovery platforms and bioinformatics tools that can accelerate therapeutic design.",
+      "category": "AI",
+      "publishedAt": "2026-07-04T18:02:00Z"
+    },
+    {
+      "id": "art-1783294449629-5",
+      "title": "Sony Underfire Yet Again for Blocking Marvel Tokon in 132 Countries on PC - Push Square",
       "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/07/this-backrooms-game-outsold-every-ps5-title-on-ps-store-last-month",
-      "summary": "A Backrooms-themed game has outsold every PlayStation 5 title on the PlayStation Store last month, a surprising feat attributed to the popularity of the Backrooms movie. The game's rapid sales spike highlights how viral cultural references can drive console game revenue.",
-      "whyItMatters": "The result underscores the importance of agile marketing and rapid content deployment for developers, showing that timely cultural alignment can significantly boost sales and platform engagement.",
+      "url": "https://www.pushsquare.com/news/2026/07/sony-underfire-yet-again-for-blocking-marvel-tokon-in-132-countries-on-pc",
+      "summary": "Sony has blocked the Marvel Tokon game on PC in 132 countries, sparking backlash from fans and developers. The move highlights the company's strict enforcement of licensing agreements and raises concerns about accessibility for gamers worldwide.",
+      "whyItMatters": "This restriction limits developers' ability to distribute games globally, forcing them to navigate complex regional compliance and potentially increasing costs.",
+      "category": "Security",
+      "publishedAt": "2026-07-04T16:30:00Z"
+    },
+    {
+      "id": "art-1783294450437-6",
+      "title": "The Big Summer Preview – New Ork miniatures and codex are coming - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/6pvhlvqm/the-big-summer-preview-new-ork-miniatures-and-codex-are-coming",
+      "summary": "Warhammer Community announces the upcoming release of new Ork miniatures and a codex, featuring updated Trukk, Mek, and Warboss models. The preview highlights fresh content that will enrich gameplay and visual storytelling for fans.",
+      "whyItMatters": "The release demonstrates how game publishers can leverage community-driven content updates to maintain engagement, a strategy that software developers can adopt for iterative feature rollouts.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-04T16:22:02Z"
+    },
+    {
+      "id": "art-1783294450882-7",
+      "title": "iPhone 18 Pro Max To Deliver Runtimes Equal To Silicon-Carbon Android Flagships; Tipster Highlights Three Upgrades That Make This Possible - Wccftech",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/iphone-18-pro-max-to-deliver-runtimes-equal-to-silicon-carbon-android-flagships/",
+      "summary": "The iPhone 18 Pro Max is expected to match silicon‑carbon Android flagships in runtime, thanks to a larger battery and two additional upgrades highlighted by a tipster. This would give Apple’s flagship a competitive edge in endurance over its rivals.",
+      "whyItMatters": "Longer battery life reduces power‑management constraints for developers, enabling more battery‑intensive features and smoother user experiences on iOS devices.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-04T15:55:37Z"
+    },
+    {
+      "id": "art-1783294451429-8",
+      "title": "MacBook Pro overhaul: entry-level model to gain new design sooner than expected - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/04/apple-introducing-m7-macbook-pro-with-touchscreen-redesign-in-early-2027/",
+      "summary": "Apple is accelerating the release of an entry‑level MacBook Pro featuring a new design and the upcoming M7 chip, according to Bloomberg’s Mark Gurman. The move signals a push to make high‑performance Mac hardware more accessible and affordable for users and developers alike.",
+      "whyItMatters": "Developers will gain a more powerful yet budget‑friendly Mac platform, enabling faster build, test, and deployment cycles for macOS and iOS applications.",
       "category": "DevOps",
-      "publishedAt": "2026-07-03T16:00:00Z"
-    },
-    {
-      "id": "art-1783207787486-7",
-      "title": "Apple Already Testing iOS 27.4 - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/03/apple-already-testing-ios-27-4/",
-      "summary": "Apple's software engineers have begun testing iOS 27.4, as indicated by MacRumors visitor logs. The new version is expected to include updates and bug fixes ahead of its public release.",
-      "whyItMatters": "The upcoming iOS 27.4 will affect developers who need to update apps for new APIs and performance improvements, ensuring compatibility with the latest device features.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-03T15:42:28Z"
-    },
-    {
-      "id": "art-1783207788114-8",
-      "title": "10 More Amazing Indie Games To Wishlist This Indie-Penance Day - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/indie-penance-day-indie-games-steam-wishlist-deckbuilder-4x-2000712495",
-      "summary": "Kotaku lists ten indie games that stand out for their creativity and originality, covering a range of genres and platforms. The article highlights titles that showcase inventive gameplay and fresh design, encouraging readers to add them to their wishlists.",
-      "whyItMatters": "It showcases emerging indie titles that can inspire developers to innovate and diversify their own game projects.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-03T15:30:46Z"
+      "publishedAt": "2026-07-04T15:03:00Z"
     }
   ]
 }
