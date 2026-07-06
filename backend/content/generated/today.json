@@ -1,95 +1,95 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "articles": [
     {
-      "id": "art-1783294446059-0",
-      "title": "Dragon Quest 11 S details Nintendo Switch 2 frame rate and resolution - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/dragon-quest-11-s-nintendo-switch-2-frame-rate-and-resolution/",
-      "summary": "Square Enix revealed that Dragon Quest 11 S on the upcoming Nintendo Switch 2 will support two graphical options, each with distinct frame rates and resolutions. The announcement clarifies that the game will run at a higher frame rate on the console’s upgraded hardware while offering a lower‑resolution mode for smoother performance.",
-      "whyItMatters": "Game developers will need to optimize assets and code for multiple resolution and frame‑rate targets, influencing pipeline decisions and testing strategies.",
+      "id": "art-1783380989164-0",
+      "title": "'iPhone Ultra' Likely to 'Repeat the iPhone X Story' - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/05/foldable-iphone-to-repeat-iphone-x-story/",
+      "summary": "Apple is expected to launch a foldable iPhone Ultra alongside the iPhone 18 Pro series, echoing the simultaneous release strategy of the iPhone X. This move signals a push toward new form factors while maintaining high‑end flagship momentum.",
+      "whyItMatters": "Developers will need to adapt apps for foldable screens, affecting UI design, performance optimization, and testing across multiple device states.",
       "category": "Mobile",
-      "publishedAt": "2026-07-04T20:33:48Z"
+      "publishedAt": "2026-07-05T17:28:32Z"
     },
     {
-      "id": "art-1783294446961-1",
-      "title": "Disk Polishing Goes Open Source - Hackaday",
-      "source": "Hackaday",
-      "url": "https://hackaday.com/2026/07/04/disk-polishing-goes-open-source/",
-      "summary": "Hackaday reports that an open-source disk polishing tool has been released, enabling users to clean optical media more effectively. The project provides a low-cost, community-driven solution to extend the lifespan of CDs, DVDs, and Blu‑ray discs.",
-      "whyItMatters": "By making disk cleaning accessible and affordable, developers and archivists can preserve legacy data more reliably, reducing the need for costly data migration.",
+      "id": "art-1783380989622-1",
+      "title": "Crimson Desert Update 1.13.00 is live – here's what's new - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/crimson-desert-update-11300",
+      "summary": "Crimson Desert has released Update 1.13.00, adding dozens of new equipment items for characters Kilff and Oongka that can be acquired via quests, achievements, shops, and other sources. The update expands gameplay options and encourages continued player engagement.",
+      "whyItMatters": "The update demonstrates the importance of iterative patching and content delivery pipelines, highlighting best practices for maintaining live services and keeping user bases active.",
       "category": "DevOps",
-      "publishedAt": "2026-07-04T20:00:00Z"
+      "publishedAt": "2026-07-05T16:04:09Z"
     },
     {
-      "id": "art-1783294447545-2",
-      "title": "Millions More Galaxy Phones Join Samsung's Free Upgrade List - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2026/07/04/samsung-one-ui-9-update-for-galaxy-s23-fe--galaxy-a57-galaxy-z-fold6/",
-      "summary": "Samsung has expanded its One UI 9 free upgrade list to include millions more Galaxy phones, adding a wide range of new devices to the testing lineup. The update brings the latest UI features and security patches to a broader user base, enhancing the overall Galaxy ecosystem.",
-      "whyItMatters": "For mobile developers, the expanded upgrade list means a larger audience will run the latest OS, requiring updates to app compatibility and testing across more device variants.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-04T19:32:38Z"
-    },
-    {
-      "id": "art-1783294448271-3",
-      "title": "\"I Almost Left Sony Over That One\" - Meet The Unreleased PlayStation Pad With A PS1 Inside - Time Extension",
-      "source": "Timeextension.com",
-      "url": "https://www.timeextension.com/news/2026/07/i-almost-left-sony-over-that-one-meet-the-unreleased-playstation-pad-with-a-ps1-inside",
-      "summary": "Sony's unreleased PlayStation Pad, featuring a built-in PS1, never reached market due to licensing and royalty disputes. The project highlighted how complex royalty negotiations can stall hardware innovation.",
-      "whyItMatters": "The stalled release underscores how stringent licensing terms can hinder hardware developers, limiting platform expansion and delaying new product offerings.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-04T18:30:00Z"
-    },
-    {
-      "id": "art-1783294448956-4",
-      "title": "Scientists Just Unlocked an Endless Army of Cancer-Fighting Cells - ScienceAlert",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/scientists-just-unlocked-an-endless-army-of-cancer-fighting-cells",
-      "summary": "Scientists have discovered a method to activate an unlimited supply of cancer-fighting immune cells, potentially revolutionizing cancer treatment. This breakthrough could lead to more effective, personalized therapies that harness the body's own defenses.",
-      "whyItMatters": "For software developers, this opens opportunities for AI-driven drug discovery platforms and bioinformatics tools that can accelerate therapeutic design.",
-      "category": "AI",
-      "publishedAt": "2026-07-04T18:02:00Z"
-    },
-    {
-      "id": "art-1783294449629-5",
-      "title": "Sony Underfire Yet Again for Blocking Marvel Tokon in 132 Countries on PC - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/07/sony-underfire-yet-again-for-blocking-marvel-tokon-in-132-countries-on-pc",
-      "summary": "Sony has blocked the Marvel Tokon game on PC in 132 countries, sparking backlash from fans and developers. The move highlights the company's strict enforcement of licensing agreements and raises concerns about accessibility for gamers worldwide.",
-      "whyItMatters": "This restriction limits developers' ability to distribute games globally, forcing them to navigate complex regional compliance and potentially increasing costs.",
+      "id": "art-1783380990056-2",
+      "title": "We Posted a $100 Mario 64 Bounty 30 Years Ago. It's Time to Settle Our Debt! - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/the-mario-64-bounty-that-took-30-years-to-settle",
+      "summary": "IGN is announcing that it will finally pay out a $100 bounty that was posted 30 years ago for unlocking Luigi in Super Mario 64. The company is closing a long‑standing promise to the gaming community and rewarding the first person who succeeds in the challenge.",
+      "whyItMatters": "It highlights the importance of community-driven bug bounty programs and the lasting value of long‑term commitments, encouraging developers to maintain open channels for user‑generated solutions.",
       "category": "Security",
-      "publishedAt": "2026-07-04T16:30:00Z"
+      "publishedAt": "2026-07-05T16:00:00Z"
     },
     {
-      "id": "art-1783294450437-6",
-      "title": "The Big Summer Preview – New Ork miniatures and codex are coming - Warhammer Community",
-      "source": "Warhammer-community.com",
-      "url": "https://www.warhammer-community.com/articles/6pvhlvqm/the-big-summer-preview-new-ork-miniatures-and-codex-are-coming",
-      "summary": "Warhammer Community announces the upcoming release of new Ork miniatures and a codex, featuring updated Trukk, Mek, and Warboss models. The preview highlights fresh content that will enrich gameplay and visual storytelling for fans.",
-      "whyItMatters": "The release demonstrates how game publishers can leverage community-driven content updates to maintain engagement, a strategy that software developers can adopt for iterative feature rollouts.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-04T16:22:02Z"
-    },
-    {
-      "id": "art-1783294450882-7",
-      "title": "iPhone 18 Pro Max To Deliver Runtimes Equal To Silicon-Carbon Android Flagships; Tipster Highlights Three Upgrades That Make This Possible - Wccftech",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/iphone-18-pro-max-to-deliver-runtimes-equal-to-silicon-carbon-android-flagships/",
-      "summary": "The iPhone 18 Pro Max is expected to match silicon‑carbon Android flagships in runtime, thanks to a larger battery and two additional upgrades highlighted by a tipster. This would give Apple’s flagship a competitive edge in endurance over its rivals.",
-      "whyItMatters": "Longer battery life reduces power‑management constraints for developers, enabling more battery‑intensive features and smoother user experiences on iOS devices.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-04T15:55:37Z"
-    },
-    {
-      "id": "art-1783294451429-8",
-      "title": "MacBook Pro overhaul: entry-level model to gain new design sooner than expected - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/04/apple-introducing-m7-macbook-pro-with-touchscreen-redesign-in-early-2027/",
-      "summary": "Apple is accelerating the release of an entry‑level MacBook Pro featuring a new design and the upcoming M7 chip, according to Bloomberg’s Mark Gurman. The move signals a push to make high‑performance Mac hardware more accessible and affordable for users and developers alike.",
-      "whyItMatters": "Developers will gain a more powerful yet budget‑friendly Mac platform, enabling faster build, test, and deployment cycles for macOS and iOS applications.",
+      "id": "art-1783380990656-3",
+      "title": "5 desk gadgets that can make your workday better - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
+      "summary": "TechCrunch highlights five desk gadgets that can streamline your workspace, reduce clutter, and boost focus. These tools add convenience and help maintain a productive workday.",
+      "whyItMatters": "For software developers, efficient desk tools can cut distractions, improve workflow, and ultimately increase code quality.",
       "category": "DevOps",
-      "publishedAt": "2026-07-04T15:03:00Z"
+      "publishedAt": "2026-07-05T15:00:00Z"
+    },
+    {
+      "id": "art-1783380991073-4",
+      "title": "Infuriating Google commercial imagines the founding fathers embracing AI - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "summary": "Google released a commercial that imagines the founding fathers using its Gemini AI to draft the Declaration of Independence, sparking outrage across the political spectrum. The ad highlights the growing influence of generative AI in creative and historical contexts, raising questions about authenticity and cultural sensitivity.",
+      "whyItMatters": "It underscores how generative AI tools are becoming mainstream marketing assets, prompting developers to consider ethical guidelines and brand implications when integrating AI into public-facing content.",
+      "category": "AI",
+      "publishedAt": "2026-07-05T14:23:11Z"
+    },
+    {
+      "id": "art-1783380991455-5",
+      "title": "Metal Gear Creator Responds To Sony Killing PlayStation Discs - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/hideo-kojima-finds-it-really-sad-that-sony-is-killing-playstation-game-discs-2000712659",
+      "summary": "Metal Gear creator Hideo Kojima publicly criticized Sony for discontinuing PlayStation discs, citing concerns over the loss of physical media for gamers and developers. The Death Stranding 2 director also warned that a future without tangible game copies could undermine the industry’s ability to preserve and distribute content.",
+      "whyItMatters": "The shift away from physical media forces developers to rethink distribution pipelines, digital rights management, and archival strategies, impacting how games are packaged, sold, and preserved.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-05T14:18:40Z"
+    },
+    {
+      "id": "art-1783380991867-6",
+      "title": "Flipper Zero firmware development continues with community help - BleepingComputer",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
+      "summary": "Flipper Devices announced that the Flipper Zero firmware will keep evolving, but the internal team will shrink while community contributions will play a larger role. This shift means users and developers can help shape the device’s features and security updates directly.",
+      "whyItMatters": "By opening up firmware development to the community, developers can accelerate innovation, improve security patches, and reduce reliance on a single vendor, benefiting the broader security ecosystem.",
+      "category": "Security",
+      "publishedAt": "2026-07-05T14:14:52Z"
+    },
+    {
+      "id": "art-1783380992189-7",
+      "title": "Epic Games settles a court case against former contractor accused of leaking Fortnite collaborations - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/epic-games-fortnite-settles-leaker-contractor-lawsuit",
+      "summary": "Epic Games settled a lawsuit with former contractor Hayden Cohen over alleged leaks of Fortnite collaboration details, agreeing to a judgment that bars the contractor from possessing, accessing, using, or disclosing any of Epic’s confidential or trade‑secret information.",
+      "whyItMatters": "It highlights the critical need for robust confidentiality safeguards in the gaming and broader software industry, protecting intellectual property and competitive advantage.",
+      "category": "Security",
+      "publishedAt": "2026-07-05T14:06:30Z"
+    },
+    {
+      "id": "art-1783380992682-8",
+      "title": "3 features that Google still hasn’t launched: Photos, Gboard - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/05/3-google-features-photos-gboard/",
+      "summary": "Google has revealed three features—Photos, Gboard, and an unnamed third—through demos and beta tests but has not yet released them to the public. The delay leaves developers and users waiting for potential productivity and AI enhancements that could reshape mobile experiences.",
+      "whyItMatters": "The absence of these features limits developers’ ability to integrate cutting‑edge AI and UI improvements into their own mobile apps, potentially slowing innovation across the ecosystem.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-05T14:00:00Z"
     }
   ]
 }
