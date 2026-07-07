@@ -1,95 +1,95 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "articles": [
     {
-      "id": "art-1783380989164-0",
-      "title": "'iPhone Ultra' Likely to 'Repeat the iPhone X Story' - MacRumors",
+      "id": "art-1783466907253-0",
+      "title": "Everything New in iOS 27 Beta 3 - MacRumors",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/05/foldable-iphone-to-repeat-iphone-x-story/",
-      "summary": "Apple is expected to launch a foldable iPhone Ultra alongside the iPhone 18 Pro series, echoing the simultaneous release strategy of the iPhone X. This move signals a push toward new form factors while maintaining high‑end flagship momentum.",
-      "whyItMatters": "Developers will need to adapt apps for foldable screens, affecting UI design, performance optimization, and testing across multiple device states.",
+      "url": "https://www.macrumors.com/2026/07/06/ios-27-beta-3-features/",
+      "summary": "Apple's iOS 27 Beta 3 introduces several new features, including enhanced Siri capabilities and refined UI elements, as part of its ongoing refinement before the September launch. The beta also brings performance tweaks and new privacy controls, giving developers early access to upcoming APIs and user experience changes.",
+      "whyItMatters": "Developers need to test their apps against the new Siri integrations and updated privacy APIs to ensure compatibility and take advantage of performance improvements.",
       "category": "Mobile",
-      "publishedAt": "2026-07-05T17:28:32Z"
+      "publishedAt": "2026-07-06T22:19:23Z"
     },
     {
-      "id": "art-1783380989622-1",
-      "title": "Crimson Desert Update 1.13.00 is live – here's what's new - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/crimson-desert-update-11300",
-      "summary": "Crimson Desert has released Update 1.13.00, adding dozens of new equipment items for characters Kilff and Oongka that can be acquired via quests, achievements, shops, and other sources. The update expands gameplay options and encourages continued player engagement.",
-      "whyItMatters": "The update demonstrates the importance of iterative patching and content delivery pipelines, highlighting best practices for maintaining live services and keeping user bases active.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-05T16:04:09Z"
+      "id": "art-1783466907687-2",
+      "title": "iPhone 18 Pro Release Date: A New September Timeline Emerges - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/07/06/iphone-18-pro-release-date-a-new-september-timeline-emerges/",
+      "summary": "Apple is slated to launch the iPhone 18 Pro in September, but a report from an industry heavyweight suggests a slightly altered timeline, hinting the release could shift by a few weeks. This nuance means developers and the tech community must adjust their planning for new hardware and software updates accordingly.",
+      "whyItMatters": "The revised release window impacts developers’ app release schedules, testing cycles, and the rollout of new APIs tied to the iPhone 18 Pro.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-06T21:17:27Z"
     },
     {
-      "id": "art-1783380990056-2",
-      "title": "We Posted a $100 Mario 64 Bounty 30 Years Ago. It's Time to Settle Our Debt! - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/the-mario-64-bounty-that-took-30-years-to-settle",
-      "summary": "IGN is announcing that it will finally pay out a $100 bounty that was posted 30 years ago for unlocking Luigi in Super Mario 64. The company is closing a long‑standing promise to the gaming community and rewarding the first person who succeeds in the challenge.",
-      "whyItMatters": "It highlights the importance of community-driven bug bounty programs and the lasting value of long‑term commitments, encouraging developers to maintain open channels for user‑generated solutions.",
+      "id": "art-1783466908169-3",
+      "title": "Epic Games settles lawsuit against former contractor accused of leaking unannounced Fortnite collaborations - GamesIndustry.biz",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/epic-games-settles-lawsuit-against-former-contractor-accused-of-leaking-unannounced-fortnite-collaborations",
+      "summary": "Epic Games has settled a lawsuit with a former contractor who was accused of leaking confidential information about upcoming Fortnite collaborations. The settlement follows allegations that the contractor shared unannounced partnership details with third parties, potentially undermining Epic's competitive advantage.",
+      "whyItMatters": "The case underscores the importance of robust data protection and contractual safeguards for developers handling proprietary game content, highlighting risks that can affect industry reputation and revenue.",
       "category": "Security",
-      "publishedAt": "2026-07-05T16:00:00Z"
+      "publishedAt": "2026-07-06T21:15:27Z"
     },
     {
-      "id": "art-1783380990656-3",
-      "title": "5 desk gadgets that can make your workday better - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
-      "summary": "TechCrunch highlights five desk gadgets that can streamline your workspace, reduce clutter, and boost focus. These tools add convenience and help maintain a productive workday.",
-      "whyItMatters": "For software developers, efficient desk tools can cut distractions, improve workflow, and ultimately increase code quality.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-05T15:00:00Z"
+      "id": "art-1783466908631-4",
+      "title": "Apple Intelligence Home Features Require 2TB iCloud+ Plan in iOS 27 - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/06/ios-27-home-app-features-icloud/",
+      "summary": "Apple announced that the new Apple Intelligence camera features in the Home app will only work for users who have an iCloud+ plan, starting at the 2TB tier. This change means that the advanced AI-driven home automation and camera analytics will be gated behind a higher-cost cloud storage subscription.",
+      "whyItMatters": "Software developers building HomeKit or AI‑driven home automation solutions will need to account for the higher storage costs and potentially guide users toward the 2TB iCloud+ plan to access these features.",
+      "category": "Cloud",
+      "publishedAt": "2026-07-06T21:13:16Z"
     },
     {
-      "id": "art-1783380991073-4",
-      "title": "Infuriating Google commercial imagines the founding fathers embracing AI - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "summary": "Google released a commercial that imagines the founding fathers using its Gemini AI to draft the Declaration of Independence, sparking outrage across the political spectrum. The ad highlights the growing influence of generative AI in creative and historical contexts, raising questions about authenticity and cultural sensitivity.",
-      "whyItMatters": "It underscores how generative AI tools are becoming mainstream marketing assets, prompting developers to consider ethical guidelines and brand implications when integrating AI into public-facing content.",
+      "id": "art-1783466908977-5",
+      "title": "Apple will launch two new products this year that could reshape iPad’s future - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/06/apple-will-launch-two-new-products-this-year-that-could-reshape-ipads-future/",
+      "summary": "Apple is rumored to unveil two new products this year that could significantly alter the iPad’s trajectory. These releases may introduce new hardware or software capabilities that redefine tablet usage.",
+      "whyItMatters": "Developers will need to adapt to new APIs and hardware features, potentially opening opportunities for innovative apps and services.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-06T20:21:00Z"
+    },
+    {
+      "id": "art-1783466909391-6",
+      "title": "watchOS 27 adds three new Health upgrades for Apple Watch - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/06/watchos-27-adds-three-new-health-upgrades-for-apple-watch/",
+      "summary": "watchOS 27 introduces three new health upgrades for the Apple Watch, enhancing user monitoring and data accuracy. These updates include improved heart rate tracking, new sleep metrics, and expanded health data sharing capabilities.",
+      "whyItMatters": "Developers can leverage the new health APIs to build more precise fitness and wellness apps, boosting user engagement and data-driven insights.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-06T19:55:00Z"
+    },
+    {
+      "id": "art-1783466910185-7",
+      "title": "The rise of computer chips — and the race to control them - Nature",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/d41586-026-02099-y",
+      "summary": "The article traces the evolution of computer chips from early silicon to the current global scramble for dominance, highlighting how hardware has become as critical as software in driving innovation. It examines the geopolitical and economic forces shaping the race, from U.S. and Chinese competition to the rise of specialized chip designers.",
+      "whyItMatters": "For software developers, the shifting chip landscape determines performance, power efficiency, and the feasibility of deploying advanced AI workloads on cloud platforms.",
+      "category": "Cloud",
+      "publishedAt": "2026-07-06T19:51:09Z"
+    },
+    {
+      "id": "art-1783466910880-8",
+      "title": "Game of the Month: The Adventures of Elliot: The Millennium Tales (June 2026) - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/features/game-of-the-month-the-adventures-of-elliot-the-millennium-tales-june-2026",
+      "summary": "Push Square has named \"The Adventures of Elliot: The Millennium Tales\" as its Game of the Month for June 2026. The title, praised for its immersive storytelling and innovative gameplay mechanics, has garnered widespread acclaim from players and critics alike.",
+      "whyItMatters": "The game's use of advanced AI-driven narrative techniques demonstrates how AI can enhance interactive storytelling, offering developers new tools for dynamic content generation.",
       "category": "AI",
-      "publishedAt": "2026-07-05T14:23:11Z"
+      "publishedAt": "2026-07-06T19:00:00Z"
     },
     {
-      "id": "art-1783380991455-5",
-      "title": "Metal Gear Creator Responds To Sony Killing PlayStation Discs - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/hideo-kojima-finds-it-really-sad-that-sony-is-killing-playstation-game-discs-2000712659",
-      "summary": "Metal Gear creator Hideo Kojima publicly criticized Sony for discontinuing PlayStation discs, citing concerns over the loss of physical media for gamers and developers. The Death Stranding 2 director also warned that a future without tangible game copies could undermine the industry’s ability to preserve and distribute content.",
-      "whyItMatters": "The shift away from physical media forces developers to rethink distribution pipelines, digital rights management, and archival strategies, impacting how games are packaged, sold, and preserved.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-05T14:18:40Z"
-    },
-    {
-      "id": "art-1783380991867-6",
-      "title": "Flipper Zero firmware development continues with community help - BleepingComputer",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
-      "summary": "Flipper Devices announced that the Flipper Zero firmware will keep evolving, but the internal team will shrink while community contributions will play a larger role. This shift means users and developers can help shape the device’s features and security updates directly.",
-      "whyItMatters": "By opening up firmware development to the community, developers can accelerate innovation, improve security patches, and reduce reliance on a single vendor, benefiting the broader security ecosystem.",
-      "category": "Security",
-      "publishedAt": "2026-07-05T14:14:52Z"
-    },
-    {
-      "id": "art-1783380992189-7",
-      "title": "Epic Games settles a court case against former contractor accused of leaking Fortnite collaborations - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/epic-games-fortnite-settles-leaker-contractor-lawsuit",
-      "summary": "Epic Games settled a lawsuit with former contractor Hayden Cohen over alleged leaks of Fortnite collaboration details, agreeing to a judgment that bars the contractor from possessing, accessing, using, or disclosing any of Epic’s confidential or trade‑secret information.",
-      "whyItMatters": "It highlights the critical need for robust confidentiality safeguards in the gaming and broader software industry, protecting intellectual property and competitive advantage.",
-      "category": "Security",
-      "publishedAt": "2026-07-05T14:06:30Z"
-    },
-    {
-      "id": "art-1783380992682-8",
-      "title": "3 features that Google still hasn’t launched: Photos, Gboard - 9to5Google",
+      "id": "art-1783466911177-9",
+      "title": "All Android backup data now counts toward your Google Account storage, but it won't take up much space - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/05/3-google-features-photos-gboard/",
-      "summary": "Google has revealed three features—Photos, Gboard, and an unnamed third—through demos and beta tests but has not yet released them to the public. The delay leaves developers and users waiting for potential productivity and AI enhancements that could reshape mobile experiences.",
-      "whyItMatters": "The absence of these features limits developers’ ability to integrate cutting‑edge AI and UI improvements into their own mobile apps, potentially slowing innovation across the ecosystem.",
+      "url": "http://9to5google.com/2026/07/06/android-backup-data-update/",
+      "summary": "Google has updated its Android backup policy so that all backup data now counts toward a user's Google Account storage quota. The change will not consume significant space, but it will be reflected in the overall storage usage.",
+      "whyItMatters": "Developers must account for backup data in users' storage limits, potentially optimizing backup content to avoid exceeding quotas and affecting app performance.",
       "category": "Mobile",
-      "publishedAt": "2026-07-05T14:00:00Z"
+      "publishedAt": "2026-07-06T18:23:00Z"
     }
   ]
 }
