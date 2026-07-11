@@ -1,95 +1,95 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "articles": [
     {
-      "id": "art-1783726020761-0",
-      "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
-      "summary": "A zero‑day vulnerability in Windows Defender could let attackers write arbitrary data to a victim’s hard drive, potentially exhausting storage and disrupting system operation. Microsoft has released a patch, but the dispute with the hacker NightmareEclipse continues to highlight the challenges of securing enterprise software.",
-      "whyItMatters": "Developers must prioritize timely patching and robust input validation to prevent attackers from exploiting privileged system components, as such flaws can cripple infrastructure and erode user trust.",
+      "id": "art-1783812252296-0",
+      "title": "The New Roku Update Is Terrible And Everyone Hates It - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/its-not-just-you-everyone-is-mad-at-rokus-horrible-update-2000714762",
+      "summary": "Roku’s latest update has been met with widespread backlash, with users complaining that it introduces more ads and intrusive algorithmic changes. Critics argue the update prioritizes revenue over user experience, causing frustration across the platform.",
+      "whyItMatters": "Developers must consider how platform updates can shift user expectations and impact engagement metrics, influencing future feature prioritization and monetization strategies.",
+      "category": "Web Dev",
+      "publishedAt": "2026-07-10T20:48:34Z"
+    },
+    {
+      "id": "art-1783812252953-1",
+      "title": "God Of War Laufey Promises PS5 Disc, Teasing 2027 Release Date - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/god-of-war-laufey-promises-physical-disc-version-all-but-confirming-2027-launch-2000714778",
+      "summary": "God of War’s new character Laufey has announced a PS5 disc version and hinted at a 2027 release, marking a notable shift toward physical media for next‑gen consoles. The announcement also signals a potential change in how Sony plans to roll out and support future titles on the platform.",
+      "whyItMatters": "It highlights a strategic move that could influence how developers plan release pipelines, distribution, and support for next‑generation console titles.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-10T20:29:38Z"
+    },
+    {
+      "id": "art-1783812253379-2",
+      "title": "Ransomware Used Microsoft-Signed Malicious Driver to Kill EDR: 10 Hosts Hit Before Encryption - Tech Times",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/320091/20260710/ransomware-used-microsoft-signed-malicious-driver-kill-edr-10-hosts-hit-before-encryption.htm",
+      "summary": "GodDamn ransomware deployed a kernel driver signed with a legitimate Microsoft Hardware Compatibility Publisher certificate to disable endpoint detection and response (EDR) software, affecting ten hosts before initiating encryption. The attack demonstrates how attackers can subvert trusted signatures to bypass security controls, highlighting the need for stricter driver validation and monitoring.",
+      "whyItMatters": "Developers and security teams must reassess trust models for signed drivers and implement additional runtime checks to protect against sophisticated privilege escalation tactics.",
       "category": "Security",
-      "publishedAt": "2026-07-09T20:52:55Z"
+      "publishedAt": "2026-07-10T17:55:43Z"
     },
     {
-      "id": "art-1783726021295-1",
-      "title": "Layoffs Hit GameSpot Again - Aftermath",
-      "source": "Aftermath.site",
-      "url": "https://aftermath.site/gamespot-layoffs-july-2026/",
-      "summary": "GameSpot has announced another round of layoffs, marking the fifth since its acquisition by Fandom. The move signals ongoing restructuring and cost-cutting efforts within the company.",
-      "whyItMatters": "The layoffs may reduce the workforce that maintains and develops the GameSpot website, potentially impacting the quality and speed of updates for web developers and users.",
-      "category": "Web Dev",
-      "publishedAt": "2026-07-09T20:46:44Z"
-    },
-    {
-      "id": "art-1783726021943-2",
-      "title": "I Gave My Steam Machine A Second Stick Of RAM Because Valve Couldn't - Aftermath",
-      "source": "Aftermath.site",
-      "url": "https://aftermath.site/steam-machine-ram-upgrade/",
-      "summary": "A Steam user had to purchase a 16GB DDR5 RAM stick in 2026 to upgrade their Steam machine after Valve couldn't supply enough memory. This highlights ongoing hardware limitations in gaming devices.",
-      "whyItMatters": "Developers must account for hardware constraints when optimizing games for handheld PCs, impacting performance tuning and resource allocation.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-09T19:26:44Z"
-    },
-    {
-      "id": "art-1783726022578-3",
-      "title": "Road of Legends Day 5: All Five-Star Raids, Primal Raids , Bonuses and Guides - Pokémon GO Hub",
-      "source": "Pokemon GO Hub",
-      "url": "https://pokemongohub.net/post/event/road-of-legends-day-5-all-five-star-raids-primal-raids-bonuses-and-guides/",
-      "summary": "Road of Legends Day 5 continues the stacked week of legendary and mega raids, offering all five‑star raids, primal raids, event bonuses, special backgrounds, adventure effects, and a new GO Pass. The event runs from July 6 to July 10, 2026, providing players with enhanced gameplay and monetization opportunities.",
-      "whyItMatters": "For mobile developers, the event demonstrates how timed content releases and in‑app purchases can drive engagement and revenue, informing strategies for retention and monetization in mobile gaming.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-09T18:56:54Z"
-    },
-    {
-      "id": "art-1783726022963-4",
-      "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/",
-      "summary": "OpenAI is shutting down ChatGPT Atlas, its standalone desktop browser, and replacing it with a new ChatGPT desktop app. The move signals a shift toward a more unified, app‑centric experience for users and developers alike.",
-      "whyItMatters": "Software developers will need to adapt to the new desktop app’s API and integration points, potentially affecting how they embed or extend ChatGPT functionality in their own tools.",
-      "category": "AI",
-      "publishedAt": "2026-07-09T18:56:00Z"
-    },
-    {
-      "id": "art-1783726023513-5",
-      "title": "Black Ops 1 & 2 Now Live On PS5, Here's Some Early Footage Compared To Xbox - Pure Xbox",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/07/black-ops-1-and-2-now-live-on-ps5-heres-some-early-footage-compared-to-xbox",
-      "summary": "Activision has released Black Ops 1 and 2 on PS5, surprising fans with a shadow drop. Early footage shows the games running on PS5 compared to Xbox, highlighting performance differences.",
-      "whyItMatters": "This demonstrates cross‑platform deployment challenges and opportunities for developers to optimize games for multiple console architectures.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-09T18:10:00Z"
-    },
-    {
-      "id": "art-1783726024070-6",
-      "title": "Vermont is creating a statewide trail, and making sure it's accessible to all - NPR",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/09/nx-s1-5879435/outdoor-access-for-disabled-in-vermont",
-      "summary": "Vermont is building a 485-mile multi-use trail called The Velomont that will run across the state, with a focus on accessibility for people with disabilities, especially cyclists. The project aims to provide inclusive recreation and promote outdoor activity for all residents.",
-      "whyItMatters": "Software developers can learn from this inclusive approach by prioritizing accessibility features in their applications, ensuring that digital tools serve users with diverse needs.",
-      "category": "Web Dev",
-      "publishedAt": "2026-07-09T18:00:00Z"
-    },
-    {
-      "id": "art-1783726024779-7",
-      "title": "Google’s Nest Thermostat has hit its best price of the year - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale",
-      "summary": "Google’s Nest Thermostat has dropped to its lowest price of the year at $79, offering a $50 discount. The device supports Matter, making it easier to control and schedule remotely.",
-      "whyItMatters": "The price cut and Matter support lower the barrier for developers to build and integrate smart‑home solutions, accelerating adoption of interoperable IoT ecosystems.",
+      "id": "art-1783812253795-3",
+      "title": "EU Can’t Force Sony To Keep Making Physical Games, Says Consumer Rights Commissioner - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/eu-cant-force-sony-to-keep-making-physical-games-says-consumer-rights-commissioner-2000714728",
+      "summary": "The EU has ruled that it cannot compel Sony to continue producing physical copies of video games, allowing the company to move forward with an all-digital distribution strategy. This decision confirms that digital-only releases will remain the norm for major publishers in the European market.",
+      "whyItMatters": "Software developers and the broader tech industry will see a continued shift toward digital distribution, affecting revenue models, supply chain logistics, and consumer access to physical media.",
       "category": "Cloud",
-      "publishedAt": "2026-07-09T17:33:46Z"
+      "publishedAt": "2026-07-10T17:31:28Z"
     },
     {
-      "id": "art-1783726025572-8",
-      "title": "Last Call: M5 Pro MacBook Pro Remains at Pre-Hike Price But Not for Much Longer - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/09/last-call-m5-macbook-pro/",
-      "summary": "Apple has kept the M5 Pro MacBook Pro at its pre‑price‑hike level, but the company warns that this will not last long. The price is expected to rise soon, affecting developers who rely on the latest Mac hardware for iOS and macOS development.",
-      "whyItMatters": "Higher MacBook Pro prices will increase costs for developers building iOS/macOS apps, potentially slowing adoption of the new M5 Pro platform.",
+      "id": "art-1783812254786-4",
+      "title": "What Xbox's layoffs, massive reboot says about the gaming industry - KUOW",
+      "source": "KUOW News and Information",
+      "url": "https://www.kuow.org/stories/what-xbox-s-layoffs-massive-reboot-says-about-the-gaming-industry",
+      "summary": "Microsoft announced a 3,200‑job cut at Xbox, calling it the most significant restructuring in the console’s history. The move signals a shift in the gaming industry’s focus toward cloud and subscription services amid a changing market.",
+      "whyItMatters": "The layoffs may prompt developers to pivot toward cloud‑based game development and subscription models, reshaping how software is built and monetized.",
+      "category": "Cloud",
+      "publishedAt": "2026-07-10T17:29:12Z"
+    },
+    {
+      "id": "art-1783812255286-5",
+      "title": "Google's Pixel 11 Pro Fold Gets Major Approval - Droid Life",
+      "source": "Droid Life",
+      "url": "https://www.droid-life.com/2026/07/10/google-pixel-11-pro-fold-just-landed-at-the-fcc/",
+      "summary": "Google’s Pixel 11 Pro Fold has received FCC approval, marking the first official confirmation of the device’s regulatory clearance. The announcement comes ahead of the company’s upcoming Made by Google event on August 12, where the foldable phone is expected to be unveiled.",
+      "whyItMatters": "Developers will need to adapt their apps for foldable displays, prompting updates to UI frameworks and testing pipelines to support the new form factor.",
       "category": "Mobile",
-      "publishedAt": "2026-07-09T17:20:05Z"
+      "publishedAt": "2026-07-10T17:20:53Z"
+    },
+    {
+      "id": "art-1783812256024-6",
+      "title": "\"Just too gay\" - designer Robert Yang is battling censorship to launch a collection of his award-winning games on Steam and Itch, and it's completely free - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/robert-yang-radiator-forever-collection-steam-itch-free",
+      "summary": "Designer Robert Yang is fighting censorship to release his free game compilation Radiator Forever on Steam and Itch, featuring four remastered titles and more to follow. The collection showcases his award-winning work and challenges platform gatekeeping.",
+      "whyItMatters": "It highlights how platform policies can stifle indie developers, prompting the industry to reconsider content moderation and distribution fairness.",
+      "category": "Web Dev",
+      "publishedAt": "2026-07-10T16:50:45Z"
+    },
+    {
+      "id": "art-1783812256837-7",
+      "title": "\"We really squeezed the PS5 as much as we could\": Ubisoft talks tech on Assassin's Creed Black Flag Resynced - Digital Foundry",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/features/we-really-squeezed-the-ps5-as-much-as-we-could-ubisoft-talks-tech-on-assassins-creed-black-flag-resynced",
+      "summary": "Ubisoft's re-synced version of Assassin's Creed Black Flag showcases how a 13-year-old game can be pushed to the limits of the PS5, achieving stunning visuals and frame rates. The Digital Foundry analysis highlights the engineering techniques used to squeeze performance from legacy code on modern hardware.",
+      "whyItMatters": "It demonstrates how legacy game engines can be modernized through targeted optimization, informing developers on efficient code reuse and performance tuning for next-gen consoles.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-10T16:44:11Z"
+    },
+    {
+      "id": "art-1783812257505-9",
+      "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
+      "summary": "Dumb Co has released a line of hacked flip phones that can sync with modern smartphones, offering a nostalgic yet functional alternative to the iPhone. The devices aim to combine the limited features of early 2000s phones with the connectivity of contemporary mobile technology.",
+      "whyItMatters": "It challenges developers to create new integration APIs and rethink user experience for hybrid devices.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-10T16:06:49Z"
     }
   ]
 }
