@@ -1,95 +1,105 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "articles": [
     {
-      "id": "art-1783812252296-0",
-      "title": "The New Roku Update Is Terrible And Everyone Hates It - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/its-not-just-you-everyone-is-mad-at-rokus-horrible-update-2000714762",
-      "summary": "Roku’s latest update has been met with widespread backlash, with users complaining that it introduces more ads and intrusive algorithmic changes. Critics argue the update prioritizes revenue over user experience, causing frustration across the platform.",
-      "whyItMatters": "Developers must consider how platform updates can shift user expectations and impact engagement metrics, influencing future feature prioritization and monetization strategies.",
-      "category": "Web Dev",
-      "publishedAt": "2026-07-10T20:48:34Z"
-    },
-    {
-      "id": "art-1783812252953-1",
-      "title": "God Of War Laufey Promises PS5 Disc, Teasing 2027 Release Date - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/god-of-war-laufey-promises-physical-disc-version-all-but-confirming-2027-launch-2000714778",
-      "summary": "God of War’s new character Laufey has announced a PS5 disc version and hinted at a 2027 release, marking a notable shift toward physical media for next‑gen consoles. The announcement also signals a potential change in how Sony plans to roll out and support future titles on the platform.",
-      "whyItMatters": "It highlights a strategic move that could influence how developers plan release pipelines, distribution, and support for next‑generation console titles.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-10T20:29:38Z"
-    },
-    {
-      "id": "art-1783812253379-2",
-      "title": "Ransomware Used Microsoft-Signed Malicious Driver to Kill EDR: 10 Hosts Hit Before Encryption - Tech Times",
-      "source": "Tech Times",
-      "url": "https://www.techtimes.com/articles/320091/20260710/ransomware-used-microsoft-signed-malicious-driver-kill-edr-10-hosts-hit-before-encryption.htm",
-      "summary": "GodDamn ransomware deployed a kernel driver signed with a legitimate Microsoft Hardware Compatibility Publisher certificate to disable endpoint detection and response (EDR) software, affecting ten hosts before initiating encryption. The attack demonstrates how attackers can subvert trusted signatures to bypass security controls, highlighting the need for stricter driver validation and monitoring.",
-      "whyItMatters": "Developers and security teams must reassess trust models for signed drivers and implement additional runtime checks to protect against sophisticated privilege escalation tactics.",
+      "id": "art-1783898652242-0",
+      "title": "T. rex fossil could become most expensive dinosaur ever sold - BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gykgyn1r4o",
+      "summary": "A 67-million-year-old Tyrannosaurus rex fossil is slated to go on sale in New York, with a pre-sale estimate of $30 million, potentially making it the most expensive dinosaur ever sold. The auction highlights the growing intersection of paleontology and high-value collectibles.",
+      "whyItMatters": "For software developers, the auction underscores the need for robust digital platforms and secure payment systems to handle high-value, high-profile transactions in the emerging market for digital collectibles and virtual museum experiences.",
       "category": "Security",
-      "publishedAt": "2026-07-10T17:55:43Z"
+      "publishedAt": "2026-07-11T23:58:40Z"
     },
     {
-      "id": "art-1783812253795-3",
-      "title": "EU Can’t Force Sony To Keep Making Physical Games, Says Consumer Rights Commissioner - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/eu-cant-force-sony-to-keep-making-physical-games-says-consumer-rights-commissioner-2000714728",
-      "summary": "The EU has ruled that it cannot compel Sony to continue producing physical copies of video games, allowing the company to move forward with an all-digital distribution strategy. This decision confirms that digital-only releases will remain the norm for major publishers in the European market.",
-      "whyItMatters": "Software developers and the broader tech industry will see a continued shift toward digital distribution, affecting revenue models, supply chain logistics, and consumer access to physical media.",
+      "id": "art-1783898653234-1",
+      "title": "TennoCon 2026: Everything Announced at the Warframe and Soulframe Fan Event - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/tennocon-2026-everything-announced-at-the-warframe-and-soulframe-fan-event",
+      "summary": "TennoCon 2026 revealed a suite of updates for Warframe and its spin‑off Soulframe, including new gameplay mechanics, expanded lore, and a refreshed user interface. The event also showcased upcoming trailers and a roadmap for future content releases, giving fans a clear view of the franchise’s direction.",
+      "whyItMatters": "The updates emphasize the need for scalable cloud infrastructure and continuous integration pipelines to deliver real‑time multiplayer content, a key consideration for developers building large‑scale online games.",
       "category": "Cloud",
-      "publishedAt": "2026-07-10T17:31:28Z"
+      "publishedAt": "2026-07-11T22:00:57Z"
     },
     {
-      "id": "art-1783812254786-4",
-      "title": "What Xbox's layoffs, massive reboot says about the gaming industry - KUOW",
-      "source": "KUOW News and Information",
-      "url": "https://www.kuow.org/stories/what-xbox-s-layoffs-massive-reboot-says-about-the-gaming-industry",
-      "summary": "Microsoft announced a 3,200‑job cut at Xbox, calling it the most significant restructuring in the console’s history. The move signals a shift in the gaming industry’s focus toward cloud and subscription services amid a changing market.",
-      "whyItMatters": "The layoffs may prompt developers to pivot toward cloud‑based game development and subscription models, reshaping how software is built and monetized.",
-      "category": "Cloud",
-      "publishedAt": "2026-07-10T17:29:12Z"
-    },
-    {
-      "id": "art-1783812255286-5",
-      "title": "Google's Pixel 11 Pro Fold Gets Major Approval - Droid Life",
-      "source": "Droid Life",
-      "url": "https://www.droid-life.com/2026/07/10/google-pixel-11-pro-fold-just-landed-at-the-fcc/",
-      "summary": "Google’s Pixel 11 Pro Fold has received FCC approval, marking the first official confirmation of the device’s regulatory clearance. The announcement comes ahead of the company’s upcoming Made by Google event on August 12, where the foldable phone is expected to be unveiled.",
-      "whyItMatters": "Developers will need to adapt their apps for foldable displays, prompting updates to UI frameworks and testing pipelines to support the new form factor.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-10T17:20:53Z"
-    },
-    {
-      "id": "art-1783812256024-6",
-      "title": "\"Just too gay\" - designer Robert Yang is battling censorship to launch a collection of his award-winning games on Steam and Itch, and it's completely free - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/robert-yang-radiator-forever-collection-steam-itch-free",
-      "summary": "Designer Robert Yang is fighting censorship to release his free game compilation Radiator Forever on Steam and Itch, featuring four remastered titles and more to follow. The collection showcases his award-winning work and challenges platform gatekeeping.",
-      "whyItMatters": "It highlights how platform policies can stifle indie developers, prompting the industry to reconsider content moderation and distribution fairness.",
-      "category": "Web Dev",
-      "publishedAt": "2026-07-10T16:50:45Z"
-    },
-    {
-      "id": "art-1783812256837-7",
-      "title": "\"We really squeezed the PS5 as much as we could\": Ubisoft talks tech on Assassin's Creed Black Flag Resynced - Digital Foundry",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/features/we-really-squeezed-the-ps5-as-much-as-we-could-ubisoft-talks-tech-on-assassins-creed-black-flag-resynced",
-      "summary": "Ubisoft's re-synced version of Assassin's Creed Black Flag showcases how a 13-year-old game can be pushed to the limits of the PS5, achieving stunning visuals and frame rates. The Digital Foundry analysis highlights the engineering techniques used to squeeze performance from legacy code on modern hardware.",
-      "whyItMatters": "It demonstrates how legacy game engines can be modernized through targeted optimization, informing developers on efficient code reuse and performance tuning for next-gen consoles.",
+      "id": "art-1783898653802-2",
+      "title": "After years of teasing, the viral Nopia synth is ‘basically finished’ - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+      "summary": "The Nopia harmony machine synth, which has been a viral sensation for three years, is now officially finished and slated for release by the end of the year at a price of around £550. This marks the culmination of a long development cycle and brings a new, affordable hardware synthesizer to the market.",
+      "whyItMatters": "The availability of a cost-effective, high-quality synth could lower the barrier to entry for indie developers and creators, fostering innovation in music production tools and related software ecosystems.",
       "category": "DevOps",
-      "publishedAt": "2026-07-10T16:44:11Z"
+      "publishedAt": "2026-07-11T20:57:42Z"
     },
     {
-      "id": "art-1783812257505-9",
-      "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
-      "summary": "Dumb Co has released a line of hacked flip phones that can sync with modern smartphones, offering a nostalgic yet functional alternative to the iPhone. The devices aim to combine the limited features of early 2000s phones with the connectivity of contemporary mobile technology.",
-      "whyItMatters": "It challenges developers to create new integration APIs and rethink user experience for hybrid devices.",
+      "id": "art-1783898654219-3",
+      "title": "AI is changing modern dating, but experts warn it's making people 'relationally stupid' - Fox News",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/ai-changing-modern-dating-experts-warn-making-people-relationally-stupid",
+      "summary": "Experts warn that using AI tools like ChatGPT for dating profiles and messaging can make people 'relationally stupid', reducing authenticity in interactions. The trend highlights how AI is reshaping personal communication, raising concerns about emotional intelligence and genuine connection.",
+      "whyItMatters": "Software developers must consider how AI-driven communication tools influence user behavior and design ethical guidelines to preserve authentic interactions.",
+      "category": "AI",
+      "publishedAt": "2026-07-11T19:00:08Z"
+    },
+    {
+      "id": "art-1783898654696-4",
+      "title": "'Bare Bones' PS5 Black Ops Ports Reportedly Have More Players Than Latest Game, Already Best Sellers on PS Store - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/07/bare-bones-ps5-black-ops-ports-reportedly-have-more-players-than-latest-game-already-best-sellers-on-ps-store",
+      "summary": "PS5 ports of the older Black Ops games are drawing more players than the latest title and are already best‑sellers on the PlayStation Store. The trend shows that well‑optimized legacy ports can outperform new releases in terms of player engagement and revenue.",
+      "whyItMatters": "It highlights the importance for developers to invest in efficient porting and deployment pipelines, as older titles can generate significant revenue and player activity when properly optimized.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-11T18:45:00Z"
+    },
+    {
+      "id": "art-1783898655460-5",
+      "title": "Chasing Perfection – The Unfair Reality of the Pokemon TCG - PokeBeach",
+      "source": "Pokebeach.com",
+      "url": "https://www.pokebeach.com/?p=321803",
+      "summary": "The article examines how the Pokémon Trading Card Game’s design and distribution practices create an unfair advantage for certain players, revealing hidden biases in card rarity and booster pack mechanics. It calls for greater transparency and ethical standards in digital card game development to level the playing field.",
+      "whyItMatters": "It highlights the need for developers to implement transparent RNG and fair distribution systems in mobile card games, influencing best practices in game design.",
       "category": "Mobile",
-      "publishedAt": "2026-07-10T16:06:49Z"
+      "publishedAt": "2026-07-11T17:01:04Z"
+    },
+    {
+      "id": "art-1783898655954-6",
+      "title": "Woman Says Boyfriend Accidentally Revealed Dating Apps While Screen Sharing: “Tell Me Why Hinge Was There” - Yahoo",
+      "source": "The Daily Dot",
+      "url": "https://dailydot.com/woman-says-boyfriend-accidentally-revealed-dating-apps-while-screen-sharing-tell-me-why-hinge-was-there/",
+      "summary": "A Reddit user revealed that her boyfriend accidentally exposed his dating apps during a FaceTime screen share, prompting her to question why Hinge was present. The incident highlights how casual screen sharing can unintentionally disclose personal data.",
+      "whyItMatters": "Developers must consider secure screen sharing features to prevent accidental data leaks in communication apps.",
+      "category": "Security",
+      "publishedAt": "2026-07-11T17:00:36Z"
+    },
+    {
+      "id": "art-1783898656394-7",
+      "title": "8 Cool Consumer Reports Approved Gadgets Under $50 - bgr.com",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2208156/cool-new-gadgets-consumer-reports-approved-under-50/",
+      "summary": "Consumer Reports has highlighted eight affordable gadgets—under $50—such as streaming sticks and headphones from brands like Roku, Amazon, and JBL. These budget-friendly options offer high-quality tech for everyday users without breaking the bank.",
+      "whyItMatters": "Software developers can leverage these inexpensive hardware platforms to prototype and test IoT or media streaming applications more cost‑effectively.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-11T16:02:00Z"
+    },
+    {
+      "id": "art-1783898657080-8",
+      "title": "Obsidian Dev Slams 'Cold Take Artists' Running Their Mouths - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/obsidian-game-director-hits-back-at-cold-take-artists-making-up-stuff-about-the-studio-in-the-wake-of-layoffs-2000714963",
+      "summary": "Obsidian’s lead developer publicly criticized 'Cold Take Artists' for their commentary, calling them out for their outspoken remarks. Meanwhile, the studio confirms it remains focused on Avowed 2 while also preparing a new Fallout title.",
+      "whyItMatters": "The incident highlights how developer reputations and internal project focus can influence community perception and project momentum in the gaming industry.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-11T16:00:47Z"
+    },
+    {
+      "id": "art-1783898657462-9",
+      "title": "Your lost dog can now call home with the world's 1st satellite-connected dog collar - Space",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/satellites/your-lost-dog-can-now-call-home-with-the-worlds-1st-satellite-connected-dog-collar",
+      "summary": "Fi has launched the world’s first satellite‑connected dog collar, enabling owners to track pets anywhere without a cellular connection. The new tracker uses satellite data to provide global coverage, even in remote areas where traditional GPS collars fail.",
+      "whyItMatters": "It expands the reach of IoT devices, pushing developers to integrate satellite APIs and low‑power communication protocols into consumer hardware and cloud services.",
+      "category": "Cloud",
+      "publishedAt": "2026-07-11T16:00:00Z"
     }
   ]
 }
