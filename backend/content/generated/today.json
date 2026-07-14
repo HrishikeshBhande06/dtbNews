@@ -2,104 +2,104 @@
   "date": "2026-07-14",
   "articles": [
     {
-      "id": "art-1784041657076-0",
-      "title": "Create Horus Heresy veterans with new combi-weapons and shotguns - Warhammer Community",
-      "source": "Warhammer-community.com",
-      "url": "https://www.warhammer-community.com/articles/dgulc48x/create-horus-heresy-veterans-with-new-combi-weapons-and-shotguns",
-      "summary": "Warhammer: The Horus Heresy introduces a new upgrade kit featuring combi‑weapons and pouches for troops, enhancing combat versatility. The update expands tactical options and deepens customization for players.",
-      "whyItMatters": "Game developers can learn from the streamlined asset integration and version control practices used to deploy this update, informing efficient CI/CD pipelines.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-13T13:56:31Z"
+      "id": "art-1784071426478-0",
+      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
+      "summary": "Apple’s watchOS 27 beta introduces Siri AI, adding conversational capabilities to the Apple Watch and turning it into more than just a health tracker. While the feature still has limitations, it demonstrates Apple’s push to make the watch a true wrist‑computer with broader app possibilities.",
+      "whyItMatters": "The integration of AI into the Apple Watch expands the platform’s utility, encouraging developers to build more interactive, context‑aware apps beyond fitness and health, thereby reshaping the mobile app ecosystem.",
+      "category": "AI",
+      "publishedAt": "2026-07-13T20:44:20Z"
     },
     {
-      "id": "art-1784041657778-1",
-      "title": "Xbox Seems To Be Making A Fortune On The New Black Ops Ports For PS5 - Pure Xbox",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/07/xbox-seems-to-be-making-a-fortune-on-the-new-black-ops-ports-for-ps5",
-      "summary": "Xbox's recent Black Ops ports for PS5 are generating more revenue than GTA 6, pushing the platform to the top of the charts. The trend highlights the profitability of cross‑platform releases and the importance of efficient build pipelines.",
-      "whyItMatters": "It underscores how streamlined build and deployment pipelines can turn a single title into a major revenue driver for developers and publishers.",
+      "id": "art-1784071426906-1",
+      "title": "First macOS Golden Gate Public Beta Now Available - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/13/macos-golden-gate-public-beta/",
+      "summary": "Apple has released the first public beta of macOS Golden Gate, extending the macOS 27 beta program to non-developer users. The new beta allows a broader audience to test the upcoming OS and provide feedback before the final release.",
+      "whyItMatters": "By opening the beta to non-developers, Apple accelerates bug discovery and ensures a smoother rollout for developers who must adapt their applications to the new OS features.",
       "category": "DevOps",
-      "publishedAt": "2026-07-13T13:44:17Z"
+      "publishedAt": "2026-07-13T20:41:27Z"
     },
     {
-      "id": "art-1784041658155-2",
-      "title": "The ‘Palworld’ Stats To Level First, Those To Ignore And How To Respec - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/07/13/the-palworld-stats-to-level-first-those-to-ignore-and-how-to-respec/",
-      "summary": "The Forbes article outlines which stats in Palworld should be prioritized for upgrades, which ones to postpone, and provides a guide on how to respec skill points. It serves as a strategic playbook for players aiming to optimize their in-game performance.",
-      "whyItMatters": "Understanding optimal stat allocation helps developers design balanced gameplay mechanics and informs future game development and monetization strategies.",
+      "id": "art-1784071427700-2",
+      "title": "Someone Trapped Zelda: Tears Of The Kingdom's Ganondorf Inside A Hamster Wheel - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/heres-ganondorf-hamster-wheel-2000715325",
+      "summary": "A fan created a video showing Ganondorf from Zelda: Tears of the Kingdom trapped inside a hamster wheel, humorously highlighting teamwork. The clip went viral on Kotaku, sparking discussions about creative fan content and its influence on gaming culture.",
+      "whyItMatters": "It demonstrates how viral fan content can drive engagement and brand visibility, encouraging developers to consider community-driven marketing strategies.",
       "category": "Mobile",
-      "publishedAt": "2026-07-13T13:30:14Z"
+      "publishedAt": "2026-07-13T20:15:58Z"
     },
     {
-      "id": "art-1784041658892-3",
-      "title": "Assassin's Creed Black Flag Resynced Performance Benchmark Review - 35 GPUs Tested - TechPowerUp",
-      "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/review/assassins-creed-black-flag-resynced-performance-benchmark/",
-      "summary": "Assassin's Creed Black Flag Resynced brings a modernized version of the classic title with enhanced graphics, gameplay tweaks, and full ray tracing support, and this review evaluates its performance across 35 GPUs. The benchmark covers graphical fidelity, VRAM usage, upscaling options, and overall frame rates to help gamers and hardware enthusiasts gauge the game's impact on current GPU technology.",
-      "whyItMatters": "The review informs developers and hardware vendors about the performance demands of modernized legacy titles, guiding optimization strategies and future GPU feature support.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-13T13:06:35Z"
-    },
-    {
-      "id": "art-1784041659633-4",
-      "title": "Lunarium launches July 29 - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/07/lunarium-launches-july-29",
-      "summary": "Lunarium, a hand‑drawn isometric action RPG, will launch on Steam for PC on July 29 at $17.99. The game is published by Imperfect Games and developed by Lunarium Game Studio.",
-      "whyItMatters": "The release demonstrates the continued viability of indie game development pipelines and the importance of efficient build and distribution workflows for developers.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-13T13:00:29Z"
-    },
-    {
-      "id": "art-1784041660116-5",
-      "title": "It’s time to reclaim the Luddite - Salon.com",
-      "source": "Salon",
-      "url": "https://www.salon.com/2026/07/13/its-time-to-reclaim-the-luddite/",
-      "summary": "Big Tech has siphoned away users’ attention, prompting a call to reclaim focus by embracing offline experiences. The piece argues that rethinking how we interact with technology can restore agency and reduce digital fatigue.",
-      "whyItMatters": "For software developers, this shift urges a redesign of user interfaces and engagement strategies to prioritize meaningful, distraction‑free interactions, potentially reshaping product roadmaps and monetization models.",
-      "category": "Web Dev",
-      "publishedAt": "2026-07-13T13:00:05Z"
-    },
-    {
-      "id": "art-1784041660550-6",
-      "title": "Final Fantasy Tactics: The Ivalice Chronicles 1.5.1 update out now, patch notes - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/final-fantasy-tactics-the-ivalice-chronicles-1-5-1-update-out-now-patch-notes/",
-      "summary": "Square Enix released the 1.5.1 update for Final Fantasy Tactics: The Ivalice Chronicles, addressing bugs and adding new features. The patch notes detail improvements to gameplay mechanics, performance, and bug fixes across the title.",
-      "whyItMatters": "The update demonstrates the importance of continuous integration and release management practices for maintaining large-scale game codebases, highlighting how timely patches can preserve player engagement and reduce support overhead.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-13T12:56:15Z"
-    },
-    {
-      "id": "art-1784041661087-7",
-      "title": "Octopath Traveler 0 update announced, adds new Monster Arena foe and resident - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/07/octopath-traveler-0-update-announced-adds-new-monster-arena-foe-and-resident",
-      "summary": "Square Enix announced a free update for Octopath Traveler 0, scheduled for release later in 2026. The update will introduce a new Monster Arena foe and a resident character, expanding the game's content.",
-      "whyItMatters": "The update demonstrates how ongoing content releases can sustain player engagement and revenue streams for mobile game developers.",
+      "id": "art-1784071428382-3",
+      "title": "Pokémon GO Water Festival 2026 Guide – Arrokuda, Cramorant, Bonuses and GO Pass - Pokémon GO Hub",
+      "source": "Pokemon GO Hub",
+      "url": "https://pokemongohub.net/post/event/water-festival-2026/",
+      "summary": "Pokémon GO is launching its Water Festival 2026 event, introducing two new Pokémon, Arrokuda and Cramorant, and a new GO Pass that boosts Shiny rates. The event runs from August 18 to 24, 2026, offering players new content and incentives to engage with the game.",
+      "whyItMatters": "The event demonstrates how mobile game developers can drive user engagement through timed content drops and in‑app purchases, informing best practices for retention and monetization strategies in the mobile gaming industry.",
       "category": "Mobile",
-      "publishedAt": "2026-07-13T12:30:03Z"
+      "publishedAt": "2026-07-13T19:25:27Z"
     },
     {
-      "id": "art-1784041661784-8",
-      "title": "At $6,900, Is This 2004 Audi TT 3.2 A Bauhaus Bargain? - Jalopnik",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2212555/2004-audi-tt-3-2-for-sale-6900/",
-      "summary": "A 2004 Audi TT 3.2 is being sold for $6,900, touted as a future classic due to its distinctive form-over-function design and powerful drivetrain. The article highlights its potential appeal to collectors and enthusiasts looking for a blend of performance and style.",
-      "whyItMatters": "The resurgence of older performance vehicles underscores the growing demand for automotive software that can integrate legacy hardware with modern connectivity, pushing developers to adopt DevOps practices for efficient updates and maintenance.",
+      "id": "art-1784071429040-4",
+      "title": "Former Xbox Studio Compulsion Games Says It's Open to Collaborations - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/former-xbox-studio-compulsion-games-says-its-open-to-collaborations",
+      "summary": "Montreal-based developer Compulsion Games, which secured its independence after Xbox Game Studios’ mass layoffs, has announced on LinkedIn that it is open to collaborations with other developers and publishers. The move signals the studio’s willingness to partner and grow despite industry turbulence.",
+      "whyItMatters": "It demonstrates how studios can survive corporate restructuring by pivoting to collaborative, flexible business models, encouraging resilience in the gaming development ecosystem.",
       "category": "DevOps",
-      "publishedAt": "2026-07-13T12:25:00Z"
+      "publishedAt": "2026-07-13T19:24:39Z"
     },
     {
-      "id": "art-1784041662711-9",
-      "title": "Octopath Traveler 1 and 2 announce Nintendo Switch 2 versions, out today - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/octopath-traveler-1-and-2-announce-nintendo-switch-2-versions-out-today/",
-      "summary": "Octopath Traveler and its sequel now have native Nintendo Switch 2 versions, released as digital downloads today. The announcement came during an anniversary livestream by Square Enix.",
-      "whyItMatters": "It signals continued support for next‑gen console hardware, encouraging developers to target Switch 2 and adopt digital distribution strategies.",
+      "id": "art-1784071430031-5",
+      "title": "The First Final Fantasy Game With HD-2D Graphics Is Up for Preorder — Here's What Comes in Each Edition - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/final-fantasy-resonance-where-to-buy",
+      "summary": "Final Fantasy Resonance, the first Final Fantasy title with HD-2D graphics, is now available for preorder in two editions, each offering distinct bonuses for early buyers. The game promises enhanced visuals and exclusive content across its standard and deluxe packages.",
+      "whyItMatters": "The release showcases how high-definition 2D art can be leveraged in mobile gaming, encouraging developers to invest in richer visual assets without sacrificing performance.",
       "category": "Mobile",
-      "publishedAt": "2026-07-13T11:26:15Z"
+      "publishedAt": "2026-07-13T19:08:50Z"
+    },
+    {
+      "id": "art-1784071430602-6",
+      "title": "Pokémon Winds and Wave leak teases exciting changes to battle system - Polygon.com",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/pokemon-winds-wave-leak-turn-based-real-time-battle/",
+      "summary": "Pokémon Winds and Wave, a forthcoming RPG, is rumored to keep turn‑based combat but with a different flow than previous titles. The leak hints at a revamped battle system that could change how players engage with the game’s mechanics.",
+      "whyItMatters": "Game developers may need to rethink AI and state‑management strategies to support the new combat mechanics, potentially influencing future design patterns in interactive entertainment.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-13T18:37:44Z"
+    },
+    {
+      "id": "art-1784071431264-7",
+      "title": "Kingdom Hearts Fans Are On High Alert After Disney Announces A D23 Panel For The RPG Series - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/kingdom-hearts-4-d23-disney-panel-date-time-2000715294",
+      "summary": "Disney announced a D23 panel to celebrate the anniversary of the Kingdom Hearts RPG series, sparking excitement among fans. The event will showcase new content and updates, highlighting Disney's continued investment in the franchise.",
+      "whyItMatters": "The announcement signals Disney's ongoing commitment to expanding its gaming IP, encouraging developers to explore cross‑platform opportunities and potentially influencing mobile game monetization strategies.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-13T18:15:08Z"
+    },
+    {
+      "id": "art-1784071431714-8",
+      "title": "Pixel 11’s Tensor G6 chip beats the iPhone 18 to TSMC’s 2nm process - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/13/pixel-11-tensor-g6-upgrade-tsmc-2nm/",
+      "summary": "Google’s new Tensor G6 chip for the Pixel 11 series is built on TSMC’s 2nm process and outperforms Apple’s iPhone 18 chip, yet it is not expected to be a game‑changing leap in performance. The announcement highlights that Android hardware can now match Apple’s latest silicon, though the overall impact on device capabilities remains modest.",
+      "whyItMatters": "It signals that Android developers can target a chip that rivals Apple’s performance, potentially reducing the performance gap in app optimization and encouraging more competitive cross‑platform development.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-13T18:10:00Z"
+    },
+    {
+      "id": "art-1784071432206-9",
+      "title": "OnePlus will reportedly officially shut down in the US and Europe later this week - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/13/oneplus-us-europe-shut-down-report/",
+      "summary": "OnePlus is set to officially shut down its operations in the United States and Europe later this week, marking the end of its presence in those markets. The company’s exit will see the discontinuation of its devices, services, and support for customers in the region.",
+      "whyItMatters": "The shutdown will affect developers who rely on OnePlus hardware for testing, as well as the broader Android ecosystem that benefits from OnePlus’s custom software and hardware innovations.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-13T17:45:00Z"
     }
   ]
 }
