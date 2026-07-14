@@ -1,95 +1,105 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "articles": [
     {
-      "id": "art-1783985085159-0",
-      "title": "iPhone 18 Pro Release Date: Apple’s Strategic Choice Can Defeat Rivals - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/ewanspence/2026/07/12/phone-18-pro-market-timing-strategy/",
-      "summary": "Apple's September launch of the iPhone 18 Pro marks a strategic move to outpace Android competitors, leveraging lessons learned from rivals like Samsung and Google. The release positions Apple to capture market share while its competitors face increased pressure.",
-      "whyItMatters": "Developers will need to adapt to new iOS features and hardware capabilities, potentially shifting app development priorities and resource allocation.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-12T23:56:00Z"
-    },
-    {
-      "id": "art-1783985085604-1",
-      "title": "Special Microsoft Flight Simulator controller is coming to Xbox - Notebookcheck",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/Special-Microsoft-Flight-Simulator-controller-is-coming-to-Xbox.1341165.0.html",
-      "summary": "Microsoft is expanding the Echo Aviation Controller, a specialized flight simulator peripheral, to support Xbox consoles in addition to its existing PC and Mac compatibility. The new console version will allow players to use the same high‑precision controller for Microsoft Flight Simulator on Xbox, broadening the device’s market reach.",
-      "whyItMatters": "Software developers creating flight simulation titles will need to account for the controller’s cross‑platform support, potentially simplifying input handling and expanding their user base.",
+      "id": "art-1784041657076-0",
+      "title": "Create Horus Heresy veterans with new combi-weapons and shotguns - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/dgulc48x/create-horus-heresy-veterans-with-new-combi-weapons-and-shotguns",
+      "summary": "Warhammer: The Horus Heresy introduces a new upgrade kit featuring combi‑weapons and pouches for troops, enhancing combat versatility. The update expands tactical options and deepens customization for players.",
+      "whyItMatters": "Game developers can learn from the streamlined asset integration and version control practices used to deploy this update, informing efficient CI/CD pipelines.",
       "category": "DevOps",
-      "publishedAt": "2026-07-12T22:10:00Z"
+      "publishedAt": "2026-07-13T13:56:31Z"
     },
     {
-      "id": "art-1783985086377-2",
-      "title": "Obsidian Director Blasts People 'Running Their Mouths' About How the Studio Has Changed Following Xbox Layoffs - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/obsidian-director-blasts-people-running-their-mouths-about-how-the-studio-has-changed-following-xbox-layoffs",
-      "summary": "Obsidian Entertainment director Brandon Adler criticized employees for discussing studio changes after recent Xbox layoffs, calling them \"cold take artists\" and accusing them of \"running their mouths.\" The director expressed frustration over the negative chatter and its impact on the studio's reputation.",
-      "whyItMatters": "Layoffs and internal criticism can signal instability, affecting talent retention and project continuity for game studios.",
+      "id": "art-1784041657778-1",
+      "title": "Xbox Seems To Be Making A Fortune On The New Black Ops Ports For PS5 - Pure Xbox",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/07/xbox-seems-to-be-making-a-fortune-on-the-new-black-ops-ports-for-ps5",
+      "summary": "Xbox's recent Black Ops ports for PS5 are generating more revenue than GTA 6, pushing the platform to the top of the charts. The trend highlights the profitability of cross‑platform releases and the importance of efficient build pipelines.",
+      "whyItMatters": "It underscores how streamlined build and deployment pipelines can turn a single title into a major revenue driver for developers and publishers.",
       "category": "DevOps",
-      "publishedAt": "2026-07-12T21:58:24Z"
+      "publishedAt": "2026-07-13T13:44:17Z"
     },
     {
-      "id": "art-1783985086656-3",
-      "title": "iOS 27 Release Date: Latest Schedule Confirms iPhone’s July Public Beta - Forbes",
+      "id": "art-1784041658155-2",
+      "title": "The ‘Palworld’ Stats To Level First, Those To Ignore And How To Respec - Forbes",
       "source": "Forbes",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/07/12/apple-ios-27-release-date-when-you-can-install-iphones-new-software---public-beta-near/",
-      "summary": "Apple has announced that iOS 27 will be publicly beta‑released in July, with the general public release slated for the fall. The announcement confirms the latest schedule for the upcoming iPhone software update, giving developers a clear timeline for testing and deployment.",
-      "whyItMatters": "Developers must prepare for the new OS to ensure app compatibility and take advantage of any new features before the fall release.",
+      "url": "https://www.forbes.com/sites/paultassi/2026/07/13/the-palworld-stats-to-level-first-those-to-ignore-and-how-to-respec/",
+      "summary": "The Forbes article outlines which stats in Palworld should be prioritized for upgrades, which ones to postpone, and provides a guide on how to respec skill points. It serves as a strategic playbook for players aiming to optimize their in-game performance.",
+      "whyItMatters": "Understanding optimal stat allocation helps developers design balanced gameplay mechanics and informs future game development and monetization strategies.",
       "category": "Mobile",
-      "publishedAt": "2026-07-12T21:37:09Z"
+      "publishedAt": "2026-07-13T13:30:14Z"
     },
     {
-      "id": "art-1783985087440-4",
-      "title": "Fortnite Pro-Am 2026 Leaderboard - Full Standings - Hotspawn",
-      "source": "Hotspawn.com",
-      "url": "https://www.hotspawn.com/fortnite/news/full-fortnite-pro-am-2026-leaderboard",
-      "summary": "Fortnite Pro‑Am 2026 leaderboard has been released, showing the full standings of the tournament to date. The updated rankings highlight the top teams and players competing for the championship title.",
-      "whyItMatters": "The leaderboard’s visibility drives engagement and sponsorship opportunities, influencing how game developers prioritize live‑event features and monetization strategies in the mobile gaming market.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-12T20:08:48Z"
+      "id": "art-1784041658892-3",
+      "title": "Assassin's Creed Black Flag Resynced Performance Benchmark Review - 35 GPUs Tested - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/review/assassins-creed-black-flag-resynced-performance-benchmark/",
+      "summary": "Assassin's Creed Black Flag Resynced brings a modernized version of the classic title with enhanced graphics, gameplay tweaks, and full ray tracing support, and this review evaluates its performance across 35 GPUs. The benchmark covers graphical fidelity, VRAM usage, upscaling options, and overall frame rates to help gamers and hardware enthusiasts gauge the game's impact on current GPU technology.",
+      "whyItMatters": "The review informs developers and hardware vendors about the performance demands of modernized legacy titles, guiding optimization strategies and future GPU feature support.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-13T13:06:35Z"
     },
     {
-      "id": "art-1783985087861-5",
-      "title": "TennoCon 2026: Everything Announced at the Warframe and Soulframe Fan Event - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/tennocon-2026-everything-announced-at-the-warframe-and-soulframe-fan-event",
-      "summary": "TennoCon 2026 revealed a host of new content for Warframe and its upcoming spin‑off Soulframe, including fresh missions, weapons, and a major gameplay overhaul. The event also showcased updated trailers, community events, and a roadmap for future updates.",
-      "whyItMatters": "The announcements signal a continued investment in live‑service game development, encouraging developers to adopt agile release cycles and community‑driven content pipelines.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-12T19:06:05Z"
+      "id": "art-1784041659633-4",
+      "title": "Lunarium launches July 29 - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/07/lunarium-launches-july-29",
+      "summary": "Lunarium, a hand‑drawn isometric action RPG, will launch on Steam for PC on July 29 at $17.99. The game is published by Imperfect Games and developed by Lunarium Game Studio.",
+      "whyItMatters": "The release demonstrates the continued viability of indie game development pipelines and the importance of efficient build and distribution workflows for developers.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-13T13:00:29Z"
     },
     {
-      "id": "art-1783985088303-6",
-      "title": "Brazilian Courts Force Xbox To Restore Hacked Account - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/brazilian-courts-force-xbox-to-restore-hacked-account-and-pay-damages-2000715020",
-      "summary": "Brazilian courts ordered Microsoft to restore a hacked Xbox account, citing a dispute over a $400 fee and several video games. The case highlights the legal complexities of account recovery and the role of corporate legal teams in cybersecurity incidents.",
-      "whyItMatters": "It underscores the importance of robust account security and clear legal frameworks for developers handling user data.",
-      "category": "Security",
-      "publishedAt": "2026-07-12T18:47:30Z"
+      "id": "art-1784041660116-5",
+      "title": "It’s time to reclaim the Luddite - Salon.com",
+      "source": "Salon",
+      "url": "https://www.salon.com/2026/07/13/its-time-to-reclaim-the-luddite/",
+      "summary": "Big Tech has siphoned away users’ attention, prompting a call to reclaim focus by embracing offline experiences. The piece argues that rethinking how we interact with technology can restore agency and reduce digital fatigue.",
+      "whyItMatters": "For software developers, this shift urges a redesign of user interfaces and engagement strategies to prioritize meaningful, distraction‑free interactions, potentially reshaping product roadmaps and monetization models.",
+      "category": "Web Dev",
+      "publishedAt": "2026-07-13T13:00:05Z"
     },
     {
-      "id": "art-1783985088956-7",
-      "title": "Pixel 11 Pro Fold in ‘Pine’ leaks & could Pixel Glow just be the camera flash? - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/12/pixel-11-pro-pine-color-leak/",
-      "summary": "Pixel 11 Pro Fold leaks reveal a new “Pine” color and suggest that the Pixel Glow feature might actually be a camera flash rather than a separate light source. The leaks also hint at potential hardware changes for the upcoming launch.",
-      "whyItMatters": "Developers will need to adapt their apps for foldable displays and new camera flash behavior, affecting UI design and camera API usage.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-12T18:09:00Z"
+      "id": "art-1784041660550-6",
+      "title": "Final Fantasy Tactics: The Ivalice Chronicles 1.5.1 update out now, patch notes - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/final-fantasy-tactics-the-ivalice-chronicles-1-5-1-update-out-now-patch-notes/",
+      "summary": "Square Enix released the 1.5.1 update for Final Fantasy Tactics: The Ivalice Chronicles, addressing bugs and adding new features. The patch notes detail improvements to gameplay mechanics, performance, and bug fixes across the title.",
+      "whyItMatters": "The update demonstrates the importance of continuous integration and release management practices for maintaining large-scale game codebases, highlighting how timely patches can preserve player engagement and reduce support overhead.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-13T12:56:15Z"
     },
     {
-      "id": "art-1783985090094-8",
-      "title": "Vanillaware Artist Moved Into The Mountains For Six Years To Create Lush Love Letter To Old School RPGs - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/vanillaware-artist-moved-into-the-mountains-for-six-years-to-create-lush-love-letter-to-old-school-rpgs-2000715013",
-      "summary": "Yoshio Nishimura, the artist behind Vanillaware, spent six years living in the mountains to develop Veritas Tales: Witch of the Dark Castle, a whimsical homage to classic RPGs like Grailquest and Deathtrap Dungeon. The game showcases a lush, hand‑crafted aesthetic that celebrates the charm of old‑school role‑playing adventures.",
-      "whyItMatters": "It demonstrates how immersive, long‑term creative environments can inspire developers to produce richly detailed, nostalgic experiences, encouraging a focus on artistic depth over rapid iteration.",
+      "id": "art-1784041661087-7",
+      "title": "Octopath Traveler 0 update announced, adds new Monster Arena foe and resident - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/07/octopath-traveler-0-update-announced-adds-new-monster-arena-foe-and-resident",
+      "summary": "Square Enix announced a free update for Octopath Traveler 0, scheduled for release later in 2026. The update will introduce a new Monster Arena foe and a resident character, expanding the game's content.",
+      "whyItMatters": "The update demonstrates how ongoing content releases can sustain player engagement and revenue streams for mobile game developers.",
       "category": "Mobile",
-      "publishedAt": "2026-07-12T17:57:11Z"
+      "publishedAt": "2026-07-13T12:30:03Z"
+    },
+    {
+      "id": "art-1784041661784-8",
+      "title": "At $6,900, Is This 2004 Audi TT 3.2 A Bauhaus Bargain? - Jalopnik",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/2212555/2004-audi-tt-3-2-for-sale-6900/",
+      "summary": "A 2004 Audi TT 3.2 is being sold for $6,900, touted as a future classic due to its distinctive form-over-function design and powerful drivetrain. The article highlights its potential appeal to collectors and enthusiasts looking for a blend of performance and style.",
+      "whyItMatters": "The resurgence of older performance vehicles underscores the growing demand for automotive software that can integrate legacy hardware with modern connectivity, pushing developers to adopt DevOps practices for efficient updates and maintenance.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-13T12:25:00Z"
+    },
+    {
+      "id": "art-1784041662711-9",
+      "title": "Octopath Traveler 1 and 2 announce Nintendo Switch 2 versions, out today - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/octopath-traveler-1-and-2-announce-nintendo-switch-2-versions-out-today/",
+      "summary": "Octopath Traveler and its sequel now have native Nintendo Switch 2 versions, released as digital downloads today. The announcement came during an anniversary livestream by Square Enix.",
+      "whyItMatters": "It signals continued support for next‑gen console hardware, encouraging developers to target Switch 2 and adopt digital distribution strategies.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-13T11:26:15Z"
     }
   ]
 }
