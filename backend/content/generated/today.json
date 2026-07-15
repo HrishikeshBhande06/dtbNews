@@ -1,105 +1,95 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "articles": [
     {
-      "id": "art-1784071426478-0",
-      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
-      "summary": "Apple’s watchOS 27 beta introduces Siri AI, adding conversational capabilities to the Apple Watch and turning it into more than just a health tracker. While the feature still has limitations, it demonstrates Apple’s push to make the watch a true wrist‑computer with broader app possibilities.",
-      "whyItMatters": "The integration of AI into the Apple Watch expands the platform’s utility, encouraging developers to build more interactive, context‑aware apps beyond fitness and health, thereby reshaping the mobile app ecosystem.",
+      "id": "art-1784158021088-0",
+      "title": "Google temporarily offers open Pixel Care+ enrollment for Pixel 9 and 10 - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/14/pixel-care-open-enrollment/",
+      "summary": "Google has announced a limited‑time open enrollment for Pixel Care+ for existing Pixel 9 and Pixel 10 owners, allowing them to extend their device protection without a new purchase. The offer is available for a short period and applies only to those current users of the two models.",
+      "whyItMatters": "By extending warranty coverage, Google may reduce device churn and support costs, influencing how mobile developers plan for long‑term device compatibility and user retention.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-14T22:40:00Z"
+    },
+    {
+      "id": "art-1784158021370-1",
+      "title": "Microsoft Secure Boot has been broken for most of its existence - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+      "summary": "Microsoft’s Secure Boot has been vulnerable for most of its existence because legacy shims were never revoked, allowing attackers to bypass the boot integrity checks. The flaw exposes a critical weakness in the Windows boot process, undermining the security guarantees that Secure Boot is supposed to provide.",
+      "whyItMatters": "Developers and enterprises relying on Secure Boot for device integrity must now re-evaluate their trust chains and patch or replace vulnerable firmware components to prevent unauthorized code execution.",
+      "category": "Security",
+      "publishedAt": "2026-07-14T22:20:48Z"
+    },
+    {
+      "id": "art-1784158021895-2",
+      "title": "Glen Schofield Announces Retirement in Emotional Video: ‘This is an Amazing Industry’ - Insider Gaming",
+      "source": "Insider-gaming.com",
+      "url": "https://insider-gaming.com/glen-schofield-retirement-video-posted-online-emotional/",
+      "summary": "Glen Schofield, a veteran game developer, announced his retirement after 35 years in the industry with an emotional video. His departure marks the end of a significant era for indie game development and highlights the evolving nature of the gaming landscape.",
+      "whyItMatters": "Schofield’s retirement underscores the shifting dynamics in game development, prompting developers to adapt to new tools, platforms, and monetization models.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-14T21:35:10Z"
+    },
+    {
+      "id": "art-1784158022206-3",
+      "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack - The Hacker News",
+      "source": "Internet",
+      "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+      "summary": "Microsoft released a patch for a record 622 CVEs, including two zero-days that were actively exploited in SharePoint and AD FS. The update also includes a Kerberos RC4 change that could disrupt service account logins.",
+      "whyItMatters": "Developers must urgently apply these patches to protect applications and infrastructure from exploitation and potential service disruptions.",
+      "category": "Security",
+      "publishedAt": "2026-07-14T20:25:00Z"
+    },
+    {
+      "id": "art-1784158022617-4",
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "summary": "Apple released the iOS 27 public beta, giving all iPhone owners early access to its revamped Siri AI and new features. The update allows users to experience the AI-powered assistant without needing a developer beta.",
+      "whyItMatters": "It enables developers to test and integrate Apple’s AI capabilities earlier, speeding up app innovation and AI adoption across the mobile ecosystem.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-14T19:42:27Z"
+    },
+    {
+      "id": "art-1784158023076-5",
+      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+      "summary": "The founder of dating app Hinge has secured $18 million to launch Overtone, an AI-powered dating service that focuses on voice and audio interactions. Overtone promises highly curated introductions driven by AI, positioning itself as a new voice-forward alternative in the online dating space.",
+      "whyItMatters": "It signals a growing trend for developers to integrate advanced voice and audio AI into consumer apps, opening new monetization and engagement possibilities.",
       "category": "AI",
-      "publishedAt": "2026-07-13T20:44:20Z"
+      "publishedAt": "2026-07-14T19:39:39Z"
     },
     {
-      "id": "art-1784071426906-1",
-      "title": "First macOS Golden Gate Public Beta Now Available - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/13/macos-golden-gate-public-beta/",
-      "summary": "Apple has released the first public beta of macOS Golden Gate, extending the macOS 27 beta program to non-developer users. The new beta allows a broader audience to test the upcoming OS and provide feedback before the final release.",
-      "whyItMatters": "By opening the beta to non-developers, Apple accelerates bug discovery and ensures a smoother rollout for developers who must adapt their applications to the new OS features.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-13T20:41:27Z"
-    },
-    {
-      "id": "art-1784071427700-2",
-      "title": "Someone Trapped Zelda: Tears Of The Kingdom's Ganondorf Inside A Hamster Wheel - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/heres-ganondorf-hamster-wheel-2000715325",
-      "summary": "A fan created a video showing Ganondorf from Zelda: Tears of the Kingdom trapped inside a hamster wheel, humorously highlighting teamwork. The clip went viral on Kotaku, sparking discussions about creative fan content and its influence on gaming culture.",
-      "whyItMatters": "It demonstrates how viral fan content can drive engagement and brand visibility, encouraging developers to consider community-driven marketing strategies.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-13T20:15:58Z"
-    },
-    {
-      "id": "art-1784071428382-3",
-      "title": "Pokémon GO Water Festival 2026 Guide – Arrokuda, Cramorant, Bonuses and GO Pass - Pokémon GO Hub",
-      "source": "Pokemon GO Hub",
-      "url": "https://pokemongohub.net/post/event/water-festival-2026/",
-      "summary": "Pokémon GO is launching its Water Festival 2026 event, introducing two new Pokémon, Arrokuda and Cramorant, and a new GO Pass that boosts Shiny rates. The event runs from August 18 to 24, 2026, offering players new content and incentives to engage with the game.",
-      "whyItMatters": "The event demonstrates how mobile game developers can drive user engagement through timed content drops and in‑app purchases, informing best practices for retention and monetization strategies in the mobile gaming industry.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-13T19:25:27Z"
-    },
-    {
-      "id": "art-1784071429040-4",
-      "title": "Former Xbox Studio Compulsion Games Says It's Open to Collaborations - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/former-xbox-studio-compulsion-games-says-its-open-to-collaborations",
-      "summary": "Montreal-based developer Compulsion Games, which secured its independence after Xbox Game Studios’ mass layoffs, has announced on LinkedIn that it is open to collaborations with other developers and publishers. The move signals the studio’s willingness to partner and grow despite industry turbulence.",
-      "whyItMatters": "It demonstrates how studios can survive corporate restructuring by pivoting to collaborative, flexible business models, encouraging resilience in the gaming development ecosystem.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-13T19:24:39Z"
-    },
-    {
-      "id": "art-1784071430031-5",
-      "title": "The First Final Fantasy Game With HD-2D Graphics Is Up for Preorder — Here's What Comes in Each Edition - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/final-fantasy-resonance-where-to-buy",
-      "summary": "Final Fantasy Resonance, the first Final Fantasy title with HD-2D graphics, is now available for preorder in two editions, each offering distinct bonuses for early buyers. The game promises enhanced visuals and exclusive content across its standard and deluxe packages.",
-      "whyItMatters": "The release showcases how high-definition 2D art can be leveraged in mobile gaming, encouraging developers to invest in richer visual assets without sacrificing performance.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-13T19:08:50Z"
-    },
-    {
-      "id": "art-1784071430602-6",
-      "title": "Pokémon Winds and Wave leak teases exciting changes to battle system - Polygon.com",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/pokemon-winds-wave-leak-turn-based-real-time-battle/",
-      "summary": "Pokémon Winds and Wave, a forthcoming RPG, is rumored to keep turn‑based combat but with a different flow than previous titles. The leak hints at a revamped battle system that could change how players engage with the game’s mechanics.",
-      "whyItMatters": "Game developers may need to rethink AI and state‑management strategies to support the new combat mechanics, potentially influencing future design patterns in interactive entertainment.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-13T18:37:44Z"
-    },
-    {
-      "id": "art-1784071431264-7",
-      "title": "Kingdom Hearts Fans Are On High Alert After Disney Announces A D23 Panel For The RPG Series - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/kingdom-hearts-4-d23-disney-panel-date-time-2000715294",
-      "summary": "Disney announced a D23 panel to celebrate the anniversary of the Kingdom Hearts RPG series, sparking excitement among fans. The event will showcase new content and updates, highlighting Disney's continued investment in the franchise.",
-      "whyItMatters": "The announcement signals Disney's ongoing commitment to expanding its gaming IP, encouraging developers to explore cross‑platform opportunities and potentially influencing mobile game monetization strategies.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-13T18:15:08Z"
-    },
-    {
-      "id": "art-1784071431714-8",
-      "title": "Pixel 11’s Tensor G6 chip beats the iPhone 18 to TSMC’s 2nm process - 9to5Google",
+      "id": "art-1784158023701-6",
+      "title": "Galaxy Watch 9 and Ultra 2 specs leak with Snapdragon chip, 800 mAh battery - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/13/pixel-11-tensor-g6-upgrade-tsmc-2nm/",
-      "summary": "Google’s new Tensor G6 chip for the Pixel 11 series is built on TSMC’s 2nm process and outperforms Apple’s iPhone 18 chip, yet it is not expected to be a game‑changing leap in performance. The announcement highlights that Android hardware can now match Apple’s latest silicon, though the overall impact on device capabilities remains modest.",
-      "whyItMatters": "It signals that Android developers can target a chip that rivals Apple’s performance, potentially reducing the performance gap in app optimization and encouraging more competitive cross‑platform development.",
+      "url": "http://9to5google.com/2026/07/14/samsung-galaxy-watch-9-ultra-2-specs-leak/",
+      "summary": "Samsung’s upcoming Galaxy Watch 9 and Ultra 2 are set to launch next week, and a new leak reveals they will feature a Snapdragon chip and an 800‑mAh battery. The specs suggest improved performance and longer battery life compared to previous models.",
+      "whyItMatters": "The inclusion of a Snapdragon processor and larger battery will influence app developers to optimize for higher performance and longer runtime on Samsung’s wearable platform.",
       "category": "Mobile",
-      "publishedAt": "2026-07-13T18:10:00Z"
+      "publishedAt": "2026-07-14T19:35:00Z"
     },
     {
-      "id": "art-1784071432206-9",
-      "title": "OnePlus will reportedly officially shut down in the US and Europe later this week - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/13/oneplus-us-europe-shut-down-report/",
-      "summary": "OnePlus is set to officially shut down its operations in the United States and Europe later this week, marking the end of its presence in those markets. The company’s exit will see the discontinuation of its devices, services, and support for customers in the region.",
-      "whyItMatters": "The shutdown will affect developers who rely on OnePlus hardware for testing, as well as the broader Android ecosystem that benefits from OnePlus’s custom software and hardware innovations.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-13T17:45:00Z"
+      "id": "art-1784158026052-7",
+      "title": "47 revelatory hours with Assassin’s Creed Black Flag Resynced - Game File | Stephen Totilo",
+      "source": "Gamefile.news",
+      "url": "https://www.gamefile.news/p/assassins-creed-black-flag-resynced-review",
+      "summary": "A review in the new Assassin’s Creed's fringes, where some truths about the game can be found.",
+      "whyItMatters": "Direct pipeline title digest fallback applied.",
+      "category": "General Tech",
+      "publishedAt": "2026-07-14T19:18:48Z"
+    },
+    {
+      "id": "art-1784158026531-8",
+      "title": "Starlink's New V5 Dish: No Speed Boost, But It Trims Power Consumption, Weight - PCMag",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/news/starlinks-new-v5-dish-no-speed-boost-but-it-trims-power-consumption-weight",
+      "summary": "Starlink has released a new V5 satellite dish that offers no speed increase over the current V4 model but reduces power consumption and weight, making it more compact and energy‑efficient. The company has posted updated support pages detailing the hardware changes and expected benefits for users.",
+      "whyItMatters": "For developers and the tech industry, the lighter, lower‑power dish enables easier deployment in remote or mobile environments, potentially lowering operational costs and expanding reliable internet access for cloud‑based services.",
+      "category": "Cloud",
+      "publishedAt": "2026-07-14T18:54:18Z"
     }
   ]
 }
