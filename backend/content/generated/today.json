@@ -1,95 +1,105 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "articles": [
     {
-      "id": "art-1784158021088-0",
-      "title": "Google temporarily offers open Pixel Care+ enrollment for Pixel 9 and 10 - 9to5Google",
+      "id": "art-1784244217473-0",
+      "title": "Android 17 QPR1 Beta 7 rolling out for Pixel - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/14/pixel-care-open-enrollment/",
-      "summary": "Google has announced a limited‑time open enrollment for Pixel Care+ for existing Pixel 9 and Pixel 10 owners, allowing them to extend their device protection without a new purchase. The offer is available for a short period and applies only to those current users of the two models.",
-      "whyItMatters": "By extending warranty coverage, Google may reduce device churn and support costs, influencing how mobile developers plan for long‑term device compatibility and user retention.",
+      "url": "http://9to5google.com/2026/07/15/android-17-qpr1-beta-6-pixel-2/",
+      "summary": "Android 17 QPR1 Beta 7 is now rolling out for Pixel devices, following the previous release two weeks ago. The update brings early access to the latest Android 17 features and improvements for Pixel users.",
+      "whyItMatters": "This beta gives developers early exposure to new Android 17 capabilities, enabling them to test and optimize apps before the final release.",
       "category": "Mobile",
-      "publishedAt": "2026-07-14T22:40:00Z"
+      "publishedAt": "2026-07-15T21:29:00Z"
     },
     {
-      "id": "art-1784158021370-1",
-      "title": "Microsoft Secure Boot has been broken for most of its existence - Ars Technica",
+      "id": "art-1784244218145-1",
+      "title": "Engineer identifies and explains every ’90s computer seen in Jurassic Park - Ars Technica",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-      "summary": "Microsoft’s Secure Boot has been vulnerable for most of its existence because legacy shims were never revoked, allowing attackers to bypass the boot integrity checks. The flaw exposes a critical weakness in the Windows boot process, undermining the security guarantees that Secure Boot is supposed to provide.",
-      "whyItMatters": "Developers and enterprises relying on Secure Boot for device integrity must now re-evaluate their trust chains and patch or replace vulnerable firmware components to prevent unauthorized code execution.",
-      "category": "Security",
-      "publishedAt": "2026-07-14T22:20:48Z"
+      "url": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
+      "summary": "An engineer has catalogued and explained every 1990s computer featured in the film Jurassic Park, revealing that one of the systems was a Unix machine. The post details the specific hardware models and their roles in the movie’s iconic scenes.",
+      "whyItMatters": "Understanding legacy hardware and operating systems helps developers maintain and modernize older codebases, improving interoperability and reducing technical debt.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-15T21:04:22Z"
     },
     {
-      "id": "art-1784158021895-2",
-      "title": "Glen Schofield Announces Retirement in Emotional Video: ‘This is an Amazing Industry’ - Insider Gaming",
-      "source": "Insider-gaming.com",
-      "url": "https://insider-gaming.com/glen-schofield-retirement-video-posted-online-emotional/",
-      "summary": "Glen Schofield, a veteran game developer, announced his retirement after 35 years in the industry with an emotional video. His departure marks the end of a significant era for indie game development and highlights the evolving nature of the gaming landscape.",
-      "whyItMatters": "Schofield’s retirement underscores the shifting dynamics in game development, prompting developers to adapt to new tools, platforms, and monetization models.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-14T21:35:10Z"
+      "id": "art-1784244218757-2",
+      "title": "AC Black Flag Resynced Update 1.04 Live Tomorrow, Patch Notes Revealed - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-update-1-04-live-tomorrow-patch-notes-revealed",
+      "summary": "The upcoming AC Black Flag Resynced Update 1.04 will be released live tomorrow, featuring new content and bug fixes as outlined in the patch notes. The update promises to enhance gameplay stability and introduce new features for players.",
+      "whyItMatters": "This demonstrates the importance of continuous integration and deployment practices in game development, highlighting how rapid patch cycles can improve user experience.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-15T20:00:00Z"
     },
     {
-      "id": "art-1784158022206-3",
-      "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack - The Hacker News",
-      "source": "Internet",
-      "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
-      "summary": "Microsoft released a patch for a record 622 CVEs, including two zero-days that were actively exploited in SharePoint and AD FS. The update also includes a Kerberos RC4 change that could disrupt service account logins.",
-      "whyItMatters": "Developers must urgently apply these patches to protect applications and infrastructure from exploitation and potential service disruptions.",
-      "category": "Security",
-      "publishedAt": "2026-07-14T20:25:00Z"
-    },
-    {
-      "id": "art-1784158022617-4",
-      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta - TechCrunch",
+      "id": "art-1784244219122-3",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex - TechCrunch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-      "summary": "Apple released the iOS 27 public beta, giving all iPhone owners early access to its revamped Siri AI and new features. The update allows users to experience the AI-powered assistant without needing a developer beta.",
-      "whyItMatters": "It enables developers to test and integrate Apple’s AI capabilities earlier, speeding up app innovation and AI adoption across the mobile ecosystem.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-14T19:42:27Z"
-    },
-    {
-      "id": "art-1784158023076-5",
-      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-      "summary": "The founder of dating app Hinge has secured $18 million to launch Overtone, an AI-powered dating service that focuses on voice and audio interactions. Overtone promises highly curated introductions driven by AI, positioning itself as a new voice-forward alternative in the online dating space.",
-      "whyItMatters": "It signals a growing trend for developers to integrate advanced voice and audio AI into consumer apps, opening new monetization and engagement possibilities.",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "summary": "OpenAI has unveiled a $230 light‑up keyboard designed to pair with its Codex coding app, amid a legal dispute with Apple over alleged hardware trade theft. The move signals a push toward specialized hardware that enhances AI‑powered coding workflows.",
+      "whyItMatters": "By offering a dedicated keyboard for AI coding, OpenAI could boost developer productivity and set a new standard for hardware integration with AI tools, influencing how software teams build and deploy code.",
       "category": "AI",
-      "publishedAt": "2026-07-14T19:39:39Z"
+      "publishedAt": "2026-07-15T19:41:38Z"
     },
     {
-      "id": "art-1784158023701-6",
-      "title": "Galaxy Watch 9 and Ultra 2 specs leak with Snapdragon chip, 800 mAh battery - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/14/samsung-galaxy-watch-9-ultra-2-specs-leak/",
-      "summary": "Samsung’s upcoming Galaxy Watch 9 and Ultra 2 are set to launch next week, and a new leak reveals they will feature a Snapdragon chip and an 800‑mAh battery. The specs suggest improved performance and longer battery life compared to previous models.",
-      "whyItMatters": "The inclusion of a Snapdragon processor and larger battery will influence app developers to optimize for higher performance and longer runtime on Samsung’s wearable platform.",
+      "id": "art-1784244219610-4",
+      "title": "AppleCare+ gets a price increase for new Mac and iPad plans - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/15/applecare-gets-a-price-increase-for-new-mac-and-ipad-plans/",
+      "summary": "Apple has raised the monthly and annual AppleCare+ rates for new Mac and iPad customers, according to Bloomberg. The price hike affects users who purchase new devices and seek extended warranty coverage.",
+      "whyItMatters": "Higher AppleCare+ costs increase support expenses for developers and teams that rely on Apple hardware for app development and testing.",
       "category": "Mobile",
-      "publishedAt": "2026-07-14T19:35:00Z"
+      "publishedAt": "2026-07-15T19:04:00Z"
     },
     {
-      "id": "art-1784158026052-7",
-      "title": "47 revelatory hours with Assassin’s Creed Black Flag Resynced - Game File | Stephen Totilo",
-      "source": "Gamefile.news",
-      "url": "https://www.gamefile.news/p/assassins-creed-black-flag-resynced-review",
-      "summary": "A review in the new Assassin’s Creed's fringes, where some truths about the game can be found.",
-      "whyItMatters": "Direct pipeline title digest fallback applied.",
-      "category": "General Tech",
-      "publishedAt": "2026-07-14T19:18:48Z"
+      "id": "art-1784244219952-5",
+      "title": "Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra full specs leak - GSMArena.com news - GSMArena.com",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_and_galaxy_z_fold8_ultra_full_specs_leak-news-73738.php",
+      "summary": "Samsung has leaked full specifications for its upcoming Galaxy Z Fold8 and Galaxy Z Fold8 Ultra, revealing details about design, display, camera, and performance. The devices are slated for unveiling next week, promising enhanced foldable technology and potentially new features for users.",
+      "whyItMatters": "The new foldable specs will push developers to optimize apps for larger, flexible screens, influencing UI design and performance strategies across the mobile ecosystem.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-15T19:00:02Z"
     },
     {
-      "id": "art-1784158026531-8",
-      "title": "Starlink's New V5 Dish: No Speed Boost, But It Trims Power Consumption, Weight - PCMag",
-      "source": "PCMag.com",
-      "url": "https://www.pcmag.com/news/starlinks-new-v5-dish-no-speed-boost-but-it-trims-power-consumption-weight",
-      "summary": "Starlink has released a new V5 satellite dish that offers no speed increase over the current V4 model but reduces power consumption and weight, making it more compact and energy‑efficient. The company has posted updated support pages detailing the hardware changes and expected benefits for users.",
-      "whyItMatters": "For developers and the tech industry, the lighter, lower‑power dish enables easier deployment in remote or mobile environments, potentially lowering operational costs and expanding reliable internet access for cloud‑based services.",
-      "category": "Cloud",
-      "publishedAt": "2026-07-14T18:54:18Z"
+      "id": "art-1784244220708-6",
+      "title": "Microsoft patches bug in video game Age of Empires II - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+      "summary": "Microsoft released a patch for a vulnerability in the classic game Age of Empires II that could let attackers hijack a user's computer via a malicious game invite. The fix addresses a flaw that had existed for decades, highlighting the need for ongoing security updates even for legacy software.",
+      "whyItMatters": "It reminds developers that legacy code can still pose serious security risks, requiring continuous vigilance and patch management.",
+      "category": "Security",
+      "publishedAt": "2026-07-15T18:47:01Z"
+    },
+    {
+      "id": "art-1784244221236-7",
+      "title": "Google releases first Pixel 11 teaser and shows Pixel Glow [Video] - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/15/pixel-11-first-tease/",
+      "summary": "Google unveiled the first teaser for the Pixel 11, showcasing its new Pixel Glow feature that illuminates the screen from the back of the device. The teaser hints at a refreshed design and updated hardware specs, setting the stage for the upcoming launch.",
+      "whyItMatters": "The Pixel Glow and updated hardware give developers new opportunities to create immersive UI experiences and optimize apps for the next-gen Pixel device.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-15T17:35:00Z"
+    },
+    {
+      "id": "art-1784244221699-8",
+      "title": "A DeepMind researcher resigned over its AI military deal: 'I couldn't stay at Google in good conscience' - Business Insider",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/google-deepmind-ai-researcher-resign-military-contract-pentagon-2026-7#article",
+      "summary": "Alex Turner, a DeepMind researcher, resigned after failing to persuade Google executives to halt a partnership with the Pentagon. His departure highlights growing ethical concerns over AI research being used for military applications.",
+      "whyItMatters": "It signals a shift in the AI industry where developers may increasingly scrutinize corporate collaborations with defense agencies, potentially influencing future research funding and ethical guidelines.",
+      "category": "AI",
+      "publishedAt": "2026-07-15T17:25:42Z"
+    },
+    {
+      "id": "art-1784244222240-9",
+      "title": "Overwatch Is No Longer Updating One Of Its Coolest Modes After Significant Player Drop-Off - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/overwatch-stadium-mode-updates-heroes-builds-blizzard-2000716267",
+      "summary": "Blizzard has stopped updating the Stadium mode in Overwatch after a sharp decline in player participation, citing insufficient engagement to justify further development. The decision highlights how player metrics can dictate feature support in live-service games.",
+      "whyItMatters": "It underscores the importance of data-driven resource allocation for developers, showing that maintaining underused features can divert critical updates and affect overall product health.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-15T17:15:31Z"
     }
   ]
 }
