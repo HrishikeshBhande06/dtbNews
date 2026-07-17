@@ -1,105 +1,105 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "articles": [
     {
-      "id": "art-1784244217473-0",
-      "title": "Android 17 QPR1 Beta 7 rolling out for Pixel - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/15/android-17-qpr1-beta-6-pixel-2/",
-      "summary": "Android 17 QPR1 Beta 7 is now rolling out for Pixel devices, following the previous release two weeks ago. The update brings early access to the latest Android 17 features and improvements for Pixel users.",
-      "whyItMatters": "This beta gives developers early exposure to new Android 17 capabilities, enabling them to test and optimize apps before the final release.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-15T21:29:00Z"
-    },
-    {
-      "id": "art-1784244218145-1",
-      "title": "Engineer identifies and explains every ’90s computer seen in Jurassic Park - Ars Technica",
+      "id": "art-1784330508886-0",
+      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\" - Ars Technica",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
-      "summary": "An engineer has catalogued and explained every 1990s computer featured in the film Jurassic Park, revealing that one of the systems was a Unix machine. The post details the specific hardware models and their roles in the movie’s iconic scenes.",
-      "whyItMatters": "Understanding legacy hardware and operating systems helps developers maintain and modernize older codebases, improving interoperability and reducing technical debt.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-15T21:04:22Z"
-    },
-    {
-      "id": "art-1784244218757-2",
-      "title": "AC Black Flag Resynced Update 1.04 Live Tomorrow, Patch Notes Revealed - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-update-1-04-live-tomorrow-patch-notes-revealed",
-      "summary": "The upcoming AC Black Flag Resynced Update 1.04 will be released live tomorrow, featuring new content and bug fixes as outlined in the patch notes. The update promises to enhance gameplay stability and introduce new features for players.",
-      "whyItMatters": "This demonstrates the importance of continuous integration and deployment practices in game development, highlighting how rapid patch cycles can improve user experience.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-15T20:00:00Z"
-    },
-    {
-      "id": "art-1784244219122-3",
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "summary": "OpenAI has unveiled a $230 light‑up keyboard designed to pair with its Codex coding app, amid a legal dispute with Apple over alleged hardware trade theft. The move signals a push toward specialized hardware that enhances AI‑powered coding workflows.",
-      "whyItMatters": "By offering a dedicated keyboard for AI coding, OpenAI could boost developer productivity and set a new standard for hardware integration with AI tools, influencing how software teams build and deploy code.",
+      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+      "summary": "Linus Torvalds dismissed calls to ban AI coding tools in Linux, saying he will ignore critics and encourage them to fork the project or leave. His stance underscores the growing debate over AI’s role in open-source development.",
+      "whyItMatters": "The decision signals that major open-source projects may continue to adopt AI-assisted coding, affecting how developers collaborate and maintain code quality.",
       "category": "AI",
-      "publishedAt": "2026-07-15T19:41:38Z"
+      "publishedAt": "2026-07-16T19:18:23Z"
     },
     {
-      "id": "art-1784244219610-4",
-      "title": "AppleCare+ gets a price increase for new Mac and iPad plans - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/15/applecare-gets-a-price-increase-for-new-mac-and-ipad-plans/",
-      "summary": "Apple has raised the monthly and annual AppleCare+ rates for new Mac and iPad customers, according to Bloomberg. The price hike affects users who purchase new devices and seek extended warranty coverage.",
-      "whyItMatters": "Higher AppleCare+ costs increase support expenses for developers and teams that rely on Apple hardware for app development and testing.",
+      "id": "art-1784330509381-1",
+      "title": "GameStop CEO Says Games Are \"Irrelevant\" To Company - Insider Gaming",
+      "source": "Insider-gaming.com",
+      "url": "https://insider-gaming.com/gamestop-ceo-says-games-irrelevant/",
+      "summary": "GameStop CEO Ryan Cohen has declared that games and software are \"irrelevant\" to the company's core business, signaling a shift away from its traditional retail focus. The statement underscores a broader industry trend where brick‑and‑mortar retailers are redefining their value propositions beyond digital content.",
+      "whyItMatters": "Developers may see reduced demand for GameStop as a distribution partner, prompting a pivot toward alternative platforms and direct-to-consumer models.",
       "category": "Mobile",
-      "publishedAt": "2026-07-15T19:04:00Z"
+      "publishedAt": "2026-07-16T19:04:24Z"
     },
     {
-      "id": "art-1784244219952-5",
-      "title": "Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra full specs leak - GSMArena.com news - GSMArena.com",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_and_galaxy_z_fold8_ultra_full_specs_leak-news-73738.php",
-      "summary": "Samsung has leaked full specifications for its upcoming Galaxy Z Fold8 and Galaxy Z Fold8 Ultra, revealing details about design, display, camera, and performance. The devices are slated for unveiling next week, promising enhanced foldable technology and potentially new features for users.",
-      "whyItMatters": "The new foldable specs will push developers to optimize apps for larger, flexible screens, influencing UI design and performance strategies across the mobile ecosystem.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-15T19:00:02Z"
-    },
-    {
-      "id": "art-1784244220708-6",
-      "title": "Microsoft patches bug in video game Age of Empires II - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
-      "summary": "Microsoft released a patch for a vulnerability in the classic game Age of Empires II that could let attackers hijack a user's computer via a malicious game invite. The fix addresses a flaw that had existed for decades, highlighting the need for ongoing security updates even for legacy software.",
-      "whyItMatters": "It reminds developers that legacy code can still pose serious security risks, requiring continuous vigilance and patch management.",
-      "category": "Security",
-      "publishedAt": "2026-07-15T18:47:01Z"
-    },
-    {
-      "id": "art-1784244221236-7",
-      "title": "Google releases first Pixel 11 teaser and shows Pixel Glow [Video] - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/15/pixel-11-first-tease/",
-      "summary": "Google unveiled the first teaser for the Pixel 11, showcasing its new Pixel Glow feature that illuminates the screen from the back of the device. The teaser hints at a refreshed design and updated hardware specs, setting the stage for the upcoming launch.",
-      "whyItMatters": "The Pixel Glow and updated hardware give developers new opportunities to create immersive UI experiences and optimize apps for the next-gen Pixel device.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-15T17:35:00Z"
-    },
-    {
-      "id": "art-1784244221699-8",
-      "title": "A DeepMind researcher resigned over its AI military deal: 'I couldn't stay at Google in good conscience' - Business Insider",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/google-deepmind-ai-researcher-resign-military-contract-pentagon-2026-7#article",
-      "summary": "Alex Turner, a DeepMind researcher, resigned after failing to persuade Google executives to halt a partnership with the Pentagon. His departure highlights growing ethical concerns over AI research being used for military applications.",
-      "whyItMatters": "It signals a shift in the AI industry where developers may increasingly scrutinize corporate collaborations with defense agencies, potentially influencing future research funding and ethical guidelines.",
-      "category": "AI",
-      "publishedAt": "2026-07-15T17:25:42Z"
-    },
-    {
-      "id": "art-1784244222240-9",
-      "title": "Overwatch Is No Longer Updating One Of Its Coolest Modes After Significant Player Drop-Off - Kotaku",
+      "id": "art-1784330509960-2",
+      "title": "Rockstar Added Two Trees To GTA Online And It Led To A Lot Of Anger And Confusion - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/overwatch-stadium-mode-updates-heroes-builds-blizzard-2000716267",
-      "summary": "Blizzard has stopped updating the Stadium mode in Overwatch after a sharp decline in player participation, citing insufficient engagement to justify further development. The decision highlights how player metrics can dictate feature support in live-service games.",
-      "whyItMatters": "It underscores the importance of data-driven resource allocation for developers, showing that maintaining underused features can divert critical updates and affect overall product health.",
+      "url": "https://kotaku.com/rockstar-added-two-trees-to-gta-online-and-it-led-to-a-lot-of-anger-and-confusion-2000716733",
+      "summary": "Rockstar Games added two new trees to GTA Online, sparking widespread player frustration and confusion. The update caused a surge of complaints, with many users questioning the necessity and impact of such minor changes.",
+      "whyItMatters": "It highlights the importance of careful change management and communication in live-service game development, where even small updates can lead to significant user backlash and operational challenges.",
       "category": "DevOps",
-      "publishedAt": "2026-07-15T17:15:31Z"
+      "publishedAt": "2026-07-16T18:23:44Z"
+    },
+    {
+      "id": "art-1784330510810-3",
+      "title": "Marathon Promises An Even Bigger PvE Mode In The Fall - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/marathon-promises-an-even-bigger-pve-mode-in-the-fall-2000716734",
+      "summary": "Marathon Games announced that its upcoming title will feature a significantly expanded PvE mode launching in the fall, alongside a roguelite version of Cryo Archive slated for release in the interim. This move signals a shift toward more dynamic, replayable content in their game lineup.",
+      "whyItMatters": "The announcement highlights the growing demand for iterative content updates, prompting developers to adopt more flexible release pipelines and continuous integration practices.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-16T17:50:07Z"
+    },
+    {
+      "id": "art-1784330511299-4",
+      "title": "Google preps letting you customize Gemini voices by Speed, Energy, and more - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/16/customize-gemini-voices/",
+      "summary": "Google is expanding Gemini’s voice customization, adding options for speed, energy, and other parameters. The new controls will allow users to fine‑tune the AI’s speech output for more natural and context‑appropriate interactions.",
+      "whyItMatters": "It gives developers finer control over AI voice output, enabling richer, more personalized user experiences in applications that rely on Gemini’s speech capabilities.",
+      "category": "AI",
+      "publishedAt": "2026-07-16T17:48:00Z"
+    },
+    {
+      "id": "art-1784330511972-5",
+      "title": "Pokémon TCG: Mega Evolution—Pitch Black Is Now Available in Pokémon TCG Live - Pokemon.com",
+      "source": "Pokemon.com",
+      "url": "https://www.pokemon.com/us/news/pokemon-tcg-mega-evolution-pitch-black-is-now-available-in-pokemon-tcg-live",
+      "summary": "Pokémon TCG Live has released the Mega Evolution—Pitch Black expansion, adding new Battle Pass decks and additional content. The update expands the game's card library and offers fresh gameplay options for players.",
+      "whyItMatters": "The release demonstrates how live-service games continuously deliver content to retain users, highlighting the importance of modular update pipelines and real-time analytics for mobile developers.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-16T17:07:49Z"
+    },
+    {
+      "id": "art-1784330512509-6",
+      "title": "Google is better than Apple at playing the AI regulations game - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+      "summary": "Google has secured a grace period to align Android with EU AI regulations, while Apple faces a deadline to make Siri AI compliant before its next launch. This shift underscores the growing regulatory pressure on major tech platforms to ensure their AI systems meet European standards.",
+      "whyItMatters": "Software developers must now anticipate and incorporate compliance requirements into their AI features, influencing both development timelines and feature design across the industry.",
+      "category": "AI",
+      "publishedAt": "2026-07-16T16:56:06Z"
+    },
+    {
+      "id": "art-1784330513238-7",
+      "title": "I'm Glad That Moss Is On Console Now, But It's Not The Same - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/moss-console-not-same-vr-2000716668",
+      "summary": "The article discusses the release of the game Moss on console platforms, noting that the experience differs from its original PC version. It highlights how the console version changes gameplay mechanics and user interaction, creating a sense of distance between the original and the new platform.",
+      "whyItMatters": "It underscores the challenges developers face when porting games to consoles, affecting design decisions, performance optimization, and user experience.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-16T16:09:48Z"
+    },
+    {
+      "id": "art-1784330513815-8",
+      "title": "Google is renaming NotebookLM to Gemini Notebook - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "summary": "Google is rebranding its AI note‑taking app NotebookLM as Gemini Notebook, aligning it with its Gemini AI platform. The company also plans to integrate notebooks into an AI‑mode feature within Google Search, offering users AI‑enhanced note creation directly in search results.",
+      "whyItMatters": "This move signals Google’s push to embed AI tools into everyday productivity workflows, encouraging developers to build extensions and integrations that leverage Gemini’s capabilities within search and note‑taking contexts.",
+      "category": "AI",
+      "publishedAt": "2026-07-16T16:00:00Z"
+    },
+    {
+      "id": "art-1784330514106-9",
+      "title": "Google AI Mode adds more Connected Apps, including YouTube Music - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/16/google-ai-mode-youtube-music/",
+      "summary": "Google has expanded its AI Mode to support additional first- and third-party apps, notably adding YouTube Music to the list of connected services. This update mirrors the functionality of Gemini, allowing users to seamlessly integrate more applications into the AI experience.",
+      "whyItMatters": "By broadening the range of apps that can be accessed through AI Mode, developers gain new opportunities to embed AI-driven features into their own services, fostering a richer, more interconnected ecosystem.",
+      "category": "AI",
+      "publishedAt": "2026-07-16T16:00:00Z"
     }
   ]
 }
