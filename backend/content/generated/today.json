@@ -1,105 +1,95 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "articles": [
     {
-      "id": "art-1784330508886-0",
-      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\" - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-      "summary": "Linus Torvalds dismissed calls to ban AI coding tools in Linux, saying he will ignore critics and encourage them to fork the project or leave. His stance underscores the growing debate over AI’s role in open-source development.",
-      "whyItMatters": "The decision signals that major open-source projects may continue to adopt AI-assisted coding, affecting how developers collaborate and maintain code quality.",
-      "category": "AI",
-      "publishedAt": "2026-07-16T19:18:23Z"
-    },
-    {
-      "id": "art-1784330509381-1",
-      "title": "GameStop CEO Says Games Are \"Irrelevant\" To Company - Insider Gaming",
-      "source": "Insider-gaming.com",
-      "url": "https://insider-gaming.com/gamestop-ceo-says-games-irrelevant/",
-      "summary": "GameStop CEO Ryan Cohen has declared that games and software are \"irrelevant\" to the company's core business, signaling a shift away from its traditional retail focus. The statement underscores a broader industry trend where brick‑and‑mortar retailers are redefining their value propositions beyond digital content.",
-      "whyItMatters": "Developers may see reduced demand for GameStop as a distribution partner, prompting a pivot toward alternative platforms and direct-to-consumer models.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-16T19:04:24Z"
-    },
-    {
-      "id": "art-1784330509960-2",
-      "title": "Rockstar Added Two Trees To GTA Online And It Led To A Lot Of Anger And Confusion - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/rockstar-added-two-trees-to-gta-online-and-it-led-to-a-lot-of-anger-and-confusion-2000716733",
-      "summary": "Rockstar Games added two new trees to GTA Online, sparking widespread player frustration and confusion. The update caused a surge of complaints, with many users questioning the necessity and impact of such minor changes.",
-      "whyItMatters": "It highlights the importance of careful change management and communication in live-service game development, where even small updates can lead to significant user backlash and operational challenges.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-16T18:23:44Z"
-    },
-    {
-      "id": "art-1784330510810-3",
-      "title": "Marathon Promises An Even Bigger PvE Mode In The Fall - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/marathon-promises-an-even-bigger-pve-mode-in-the-fall-2000716734",
-      "summary": "Marathon Games announced that its upcoming title will feature a significantly expanded PvE mode launching in the fall, alongside a roguelite version of Cryo Archive slated for release in the interim. This move signals a shift toward more dynamic, replayable content in their game lineup.",
-      "whyItMatters": "The announcement highlights the growing demand for iterative content updates, prompting developers to adopt more flexible release pipelines and continuous integration practices.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-16T17:50:07Z"
-    },
-    {
-      "id": "art-1784330511299-4",
-      "title": "Google preps letting you customize Gemini voices by Speed, Energy, and more - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/16/customize-gemini-voices/",
-      "summary": "Google is expanding Gemini’s voice customization, adding options for speed, energy, and other parameters. The new controls will allow users to fine‑tune the AI’s speech output for more natural and context‑appropriate interactions.",
-      "whyItMatters": "It gives developers finer control over AI voice output, enabling richer, more personalized user experiences in applications that rely on Gemini’s speech capabilities.",
-      "category": "AI",
-      "publishedAt": "2026-07-16T17:48:00Z"
-    },
-    {
-      "id": "art-1784330511972-5",
-      "title": "Pokémon TCG: Mega Evolution—Pitch Black Is Now Available in Pokémon TCG Live - Pokemon.com",
-      "source": "Pokemon.com",
-      "url": "https://www.pokemon.com/us/news/pokemon-tcg-mega-evolution-pitch-black-is-now-available-in-pokemon-tcg-live",
-      "summary": "Pokémon TCG Live has released the Mega Evolution—Pitch Black expansion, adding new Battle Pass decks and additional content. The update expands the game's card library and offers fresh gameplay options for players.",
-      "whyItMatters": "The release demonstrates how live-service games continuously deliver content to retain users, highlighting the importance of modular update pipelines and real-time analytics for mobile developers.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-16T17:07:49Z"
-    },
-    {
-      "id": "art-1784330512509-6",
-      "title": "Google is better than Apple at playing the AI regulations game - The Verge",
+      "id": "art-1784417042955-0",
+      "title": "Shark’s versatile ChillPill cooling system is back to its best price - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
-      "summary": "Google has secured a grace period to align Android with EU AI regulations, while Apple faces a deadline to make Siri AI compliant before its next launch. This shift underscores the growing regulatory pressure on major tech platforms to ensure their AI systems meet European standards.",
-      "whyItMatters": "Software developers must now anticipate and incorporate compliance requirements into their AI features, influencing both development timelines and feature design across the industry.",
-      "category": "AI",
-      "publishedAt": "2026-07-16T16:56:06Z"
+      "url": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
+      "summary": "Shark’s ChillPill Personal Fan and Cooling System is now available for $99.99, offering a ten-speed fan and dry-touch evaporative mister for versatile personal cooling. The product’s discounted price makes it an attractive option for consumers seeking affordable, portable climate control.",
+      "whyItMatters": "The availability of affordable, smart-capable cooling devices encourages developers to build companion mobile apps and integrate such hardware into IoT ecosystems, expanding the market for wearable and home automation solutions.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-17T20:15:54Z"
     },
     {
-      "id": "art-1784330513238-7",
-      "title": "I'm Glad That Moss Is On Console Now, But It's Not The Same - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/moss-console-not-same-vr-2000716668",
-      "summary": "The article discusses the release of the game Moss on console platforms, noting that the experience differs from its original PC version. It highlights how the console version changes gameplay mechanics and user interaction, creating a sense of distance between the original and the new platform.",
-      "whyItMatters": "It underscores the challenges developers face when porting games to consoles, affecting design decisions, performance optimization, and user experience.",
+      "id": "art-1784417043803-1",
+      "title": "Man with staggering $20 billion net worth put a car order in so big that Mercedes had to shut down its factory - supercarblondie.com",
+      "source": "Supercarblondie.com",
+      "url": "https://supercarblondie.com/rainbow-sheikh-car-order-shut-down-mercedes-factory/",
+      "summary": "A wealthy individual with a $20 billion net worth placed a car order so large that Mercedes had to halt production at one of its factories. The incident underscores how a single high-value transaction can disrupt manufacturing operations and supply chains.",
+      "whyItMatters": "It highlights the need for software developers to build more resilient, real-time supply‑chain and production‑management systems to handle extreme demand spikes.",
       "category": "DevOps",
-      "publishedAt": "2026-07-16T16:09:48Z"
+      "publishedAt": "2026-07-17T20:02:00Z"
     },
     {
-      "id": "art-1784330513815-8",
-      "title": "Google is renaming NotebookLM to Gemini Notebook - The Verge",
+      "id": "art-1784417044298-2",
+      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
+      "summary": "Apple and Google have been ordered to remove apps that facilitate nudity from their app stores, following a letter from San Francisco City Attorney David Chiu. The directive highlights enforcement of state law against hosting apps that enable illegal content.",
+      "whyItMatters": "Developers must now ensure their apps comply with local laws or risk removal, tightening content moderation on major mobile platforms.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-17T19:49:53Z"
+    },
+    {
+      "id": "art-1784417044813-3",
+      "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-      "summary": "Google is rebranding its AI note‑taking app NotebookLM as Gemini Notebook, aligning it with its Gemini AI platform. The company also plans to integrate notebooks into an AI‑mode feature within Google Search, offering users AI‑enhanced note creation directly in search results.",
-      "whyItMatters": "This move signals Google’s push to embed AI tools into everyday productivity workflows, encouraging developers to build extensions and integrations that leverage Gemini’s capabilities within search and note‑taking contexts.",
-      "category": "AI",
-      "publishedAt": "2026-07-16T16:00:00Z"
+      "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
+      "summary": "Pebble founder Eric Migicovsky explains that the company's 30‑day warranty on its new e‑paper smartwatches is designed to build trust after reports of issues. He emphasizes that the short warranty period reflects a commitment to quality and customer confidence.",
+      "whyItMatters": "The approach highlights how hardware manufacturers can use warranty policies to influence developer support and consumer expectations in the wearable tech market.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-17T19:14:42Z"
     },
     {
-      "id": "art-1784330514106-9",
-      "title": "Google AI Mode adds more Connected Apps, including YouTube Music - 9to5Google",
+      "id": "art-1784417045262-4",
+      "title": "Pixel 11 reportedly getting ‘improved’ face unlock as 11a said to use Tensor G6 - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/16/google-ai-mode-youtube-music/",
-      "summary": "Google has expanded its AI Mode to support additional first- and third-party apps, notably adding YouTube Music to the list of connected services. This update mirrors the functionality of Gemini, allowing users to seamlessly integrate more applications into the AI experience.",
-      "whyItMatters": "By broadening the range of apps that can be accessed through AI Mode, developers gain new opportunities to embed AI-driven features into their own services, fostering a richer, more interconnected ecosystem.",
-      "category": "AI",
-      "publishedAt": "2026-07-16T16:00:00Z"
+      "url": "http://9to5google.com/2026/07/17/pixel-11-face-unlock-11a-tensor-g6/",
+      "summary": "Rumors suggest the upcoming Pixel 11 will feature an improved face‑unlock system, while the Pixel 11a is expected to run on the Tensor G6 chip. These updates hint at a stronger, AI‑driven biometric authentication across the Pixel lineup.",
+      "whyItMatters": "Developers will need to adapt their apps to leverage the new face‑unlock APIs and ensure compatibility with the Tensor G6’s security features, potentially enhancing user privacy and device security.",
+      "category": "Security",
+      "publishedAt": "2026-07-17T18:49:00Z"
+    },
+    {
+      "id": "art-1784417045793-5",
+      "title": "Zelda: Ocarina Of Time Remake Price And Pre-Order Rumors Swirl - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/fans-are-desperate-for-a-zelda-ocarina-of-time-remake-nintendo-direct-as-price-and-pre-order-rumors-swirl-2000717069",
+      "summary": "Nintendo is rumored to set a price for the Ocarina of Time remake, sparking pre‑order speculation among fans. Meanwhile, Square Enix has announced the cancellation of the mobile version of Final Fantasy 14, disappointing the mobile gaming community.",
+      "whyItMatters": "The cancellation signals a shift in mobile game development priorities, prompting developers to reassess resource allocation for cross‑platform releases.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-17T18:45:39Z"
+    },
+    {
+      "id": "art-1784417046460-6",
+      "title": "Marathon Game Director Leaves As Player Counts Dwindle - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/marathons-game-director-is-leaving-bungie-2000717221",
+      "summary": "Joe Ziegler, the director of Marathon, is stepping down as player numbers continue to fall. The move signals a shift in the game's development focus and may prompt a reevaluation of its long-term strategy.",
+      "whyItMatters": "This departure highlights the challenges of sustaining player engagement, prompting developers to prioritize retention and monetization strategies.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-17T18:23:00Z"
+    },
+    {
+      "id": "art-1784417046997-7",
+      "title": "Apple Music Hikes Subscription Prices, Citing Rising Licensing Fees - Variety",
+      "source": "Variety",
+      "url": "https://variety.com/2026/music/news/apple-music-raises-prices-licensing-fees-1236814878/",
+      "summary": "Apple has increased the price of its Apple Music subscription plans, marking the first hike since fall 2022. The company attributes the rise to higher music licensing costs, which could affect consumer spending and competition among streaming services.",
+      "whyItMatters": "The price increase may pressure developers to seek alternative revenue models or negotiate better licensing terms, and could shift user preferences toward cheaper or ad‑supported platforms.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-17T18:04:00Z"
+    },
+    {
+      "id": "art-1784417047502-8",
+      "title": "Disco Elysium Studio Says Game About People Forced Into Impossible Situations Didn't Sell Well Enough To Prevent Layoffs - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/disco-elysium-studio-says-game-about-people-forced-into-impossible-situations-didnt-sell-well-enough-to-prevent-layoffs-2000717249",
+      "summary": "ZA/UM announced that it would lay off 32 developers after the release of Zero Parades: For Dead Spies, citing poor sales of the game. The studio’s decision highlights the financial risks of niche game development and the volatility of the indie gaming market.",
+      "whyItMatters": "The layoffs underscore how market performance can directly impact software development teams, prompting studios to reassess project viability and resource allocation.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-17T18:02:19Z"
     }
   ]
 }
