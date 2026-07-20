@@ -2,104 +2,94 @@
   "date": "2026-07-20",
   "articles": [
     {
-      "id": "art-1784516310598-0",
-      "title": "Galaxy Watch 9 is ‘Powered by Snapdragon Wear Elite,’ leaked images confirm [Gallery] - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/18/galaxy-watch-9-is-powered-by-snapdragon-wear-elite-leaked-images-confirm-gallery/",
-      "summary": "Samsung’s Galaxy Watch 9 will be powered by Qualcomm’s Snapdragon Wear Elite chip, marking a shift from its previous Exynos-based platform. Leaked images confirm the new design and the integration of the Snapdragon processor, promising improved performance and battery life for the smartwatch.",
-      "whyItMatters": "Developers will need to update their watchOS apps and drivers to support the Snapdragon architecture, potentially unlocking new performance and battery optimizations for the wearables market.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-18T22:30:00Z"
-    },
-    {
-      "id": "art-1784516311133-1",
-      "title": "5 Classic PS1 Games That Are Unplayable Today - svg.com",
-      "source": "SVG",
-      "url": "https://www.svg.com/2217998/classic-ps1-games-unplayable-today/",
-      "summary": "Five iconic PS1 titles are now unplayable due to hardware and software obsolescence. The article highlights how even the most celebrated games can become inaccessible over time.",
-      "whyItMatters": "It underscores the importance for developers to design software with long‑term compatibility and preservation in mind.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-18T22:00:00Z"
-    },
-    {
-      "id": "art-1784516311913-2",
+      "id": "art-1784590160543-0",
       "title": "iPhone 18 Pro Release Date: Apple’s 15-Year Event Timeline Signals Exact Date - Forbes",
       "source": "Forbes",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/07/18/iphone-18-pro-release-date-apples-15-year-event-timeline-points-to-one-september-date/",
-      "summary": "Forbes reports that Apple’s 15-year event timeline points to a specific date for the iPhone 18 Pro launch, narrowing the range of possible release dates. The analysis draws on patterns from past fall iPhone releases to pinpoint the exact day.",
-      "whyItMatters": "Knowing the precise launch date allows developers to plan app updates, beta testing, and marketing campaigns to align with the new hardware’s capabilities.",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/07/19/iphone-18-pro-release-date-apples-15-year-event-timeline-points-to-one-september-date/",
+      "summary": "Forbes has pinpointed the exact release date for the iPhone 18 Pro by analyzing Apple’s 15‑year event timeline, suggesting the device will launch on a specific fall date amid growing rumors. The article confirms that Apple’s predictable schedule will likely keep the 18 Pro on the market in the upcoming fall season.",
+      "whyItMatters": "Developers must prepare for new SDKs, APIs, and hardware capabilities ahead of the 18 Pro’s release to ensure timely app updates and compatibility.",
       "category": "Mobile",
-      "publishedAt": "2026-07-18T20:00:36Z"
+      "publishedAt": "2026-07-19T22:22:43Z"
     },
     {
-      "id": "art-1784516312458-3",
-      "title": "US grandpa cries after seeing his late wife's 1990 C4 Corvette cleaned for the first time in 25 years - supercarblondie.com",
-      "source": "Supercarblondie.com",
-      "url": "https://supercarblondie.com/1990-c4-corvette-grandpa-cries-cleaning-wd-detailing/",
-      "summary": "A US grandpa was moved after seeing his late wife's 1990 C4 Corvette cleaned for the first time in 25 years. The event highlights the emotional impact of restoring something cherished after decades of neglect.",
-      "whyItMatters": "It reminds developers that maintaining and restoring legacy systems can bring unexpected value and emotional satisfaction, encouraging better long-term support practices.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-18T19:50:00Z"
-    },
-    {
-      "id": "art-1784516313597-4",
-      "title": "Inside the Art of Campaign Evolved - Halo Waypoint",
-      "source": "Halowaypoint.com",
-      "url": "https://www.halowaypoint.com/news/inside-the-art-of-campaign-evolved",
-      "summary": "Halo: Campaign Evolved's art direction was discussed with Chris Matthews and Donnie Taylor, revealing the creative process behind the game's visuals. The interview highlights the collaboration between studio art directors and the techniques used to craft immersive environments.",
-      "whyItMatters": "Understanding the art pipeline informs developers how to integrate artistic assets efficiently, improving workflow and asset management in game development.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-18T19:38:37Z"
-    },
-    {
-      "id": "art-1784516314103-5",
-      "title": "Google might not kneecap the Pixel 11a with an old processor - The Verge",
+      "id": "art-1784590161173-1",
+      "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet) - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
-      "summary": "Google's upcoming Pixel 11a is rumored to use the newer Tensor G6 chip instead of an older processor, potentially avoiding performance bottlenecks. The device also reportedly includes a more reliable MediaTek modem, which could improve connectivity.",
-      "whyItMatters": "Developers can expect better AI acceleration and more stable network performance on the Pixel 11a, enabling richer mobile experiences.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-18T18:25:08Z"
-    },
-    {
-      "id": "art-1784516315501-6",
-      "title": "Disco Elysium Dev ZA/UM Announces Layoffs Affecting Up to 32 Staff - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/disco-elysium-dev-zaum-announces-layoffs-affecting-up-to-32-staff",
-      "summary": "ZA/UM, the studio behind Disco Elysium, announced layoffs that could affect up to 32 employees, just two months after releasing Zero Parades: For Dead Spies. The move signals financial pressures in the gaming industry and may impact future development projects.",
-      "whyItMatters": "The layoffs highlight the volatility of the gaming sector and underscore the need for sustainable business models for software developers.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-18T16:58:05Z"
-    },
-    {
-      "id": "art-1784516316200-7",
-      "title": "Google is open-sourcing its 3D emoji - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
-      "summary": "Google has released its Noto Emoji 3D set as an open-source library, allowing developers to incorporate realistic 3D emojis into their projects. The announcement also includes a glimpse into the design process behind the emojis for World Emoji Day.",
-      "whyItMatters": "By providing a freely available 3D emoji toolkit, Google enables developers to enhance user interfaces with richer, more engaging visual elements without licensing barriers.",
+      "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
+      "summary": "Four Tet, the electronic musician Kieran Hebden, has released a quirky side project featuring an unpronounceable string of Wingdings glyphs. The piece showcases a playful exploration of typography and digital art, blending music and visual design.",
+      "whyItMatters": "It demonstrates how developers can leverage Unicode and custom fonts to create engaging, interactive web experiences, encouraging experimentation with typography in front‑end projects.",
       "category": "Web Dev",
-      "publishedAt": "2026-07-18T16:40:55Z"
+      "publishedAt": "2026-07-19T21:02:45Z"
     },
     {
-      "id": "art-1784516316852-8",
-      "title": "Why KFC stopped calling itself Kentucky Fried Chicken — and the myths that still won't die - Fox News",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/food-drink/why-kfc-stopped-calling-itself-kentucky-fried-chicken-myths-still-wont-die",
-      "summary": "In 1991, KFC dropped 'Kentucky Fried Chicken' in favor of the shorter KFC to modernize its brand and address declining earnings, sparking myths about the name change. The move was driven by a desire to appeal to a broader audience and avoid the negative connotations of 'fried' amid health concerns.",
-      "whyItMatters": "For software developers, the case illustrates how branding decisions can shape user perception and adoption, underscoring the importance of clear, positive product naming in tech marketing.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-18T16:14:28Z"
+      "id": "art-1784590161672-2",
+      "title": "Here’s what the wide Galaxy Z Fold 8 looks like in real life [Gallery] - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/19/samsung-galaxy-z-fold-8-real-life-bts-leak/",
+      "summary": "Samsung’s Galaxy Z Fold 8 introduces a wider form factor, offering a more expansive display for multitasking and media consumption. A BTS member showcased the device in real life, highlighting its new design and potential usability improvements.",
+      "whyItMatters": "The wider screen changes UI design considerations for mobile developers, encouraging new layouts and interaction patterns to leverage the expanded real estate.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-19T20:50:00Z"
     },
     {
-      "id": "art-1784516317577-9",
-      "title": "Valve Says RAM Prices Are 'Lagging' And Will Only Get 'Worse' - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/valve-says-retail-memory-prices-are-lagging-and-are-about-to-become-even-more-expensive-its-still-getting-worse-2000717414",
-      "summary": "Valve’s senior Steam Machine engineers warn that RAM prices are currently lagging and are expected to rise further in the next three to six months, potentially making memory more expensive and harder to procure. They suggest that this trend could push developers to rethink hardware requirements and optimize memory usage in their upcoming projects.",
-      "whyItMatters": "Higher memory costs can increase development and deployment expenses, forcing software teams to optimize code and hardware usage to maintain performance and cost-efficiency.",
+      "id": "art-1784590161973-3",
+      "title": "Android Auto finally starts rolling out a speedometer in Google Maps - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/19/android-auto-finally-starts-rolling-out-a-speedometer-in-google-maps/",
+      "summary": "Android Auto is beginning to roll out a speedometer feature in Google Maps, allowing drivers to see real-time speed data while using the navigation app. The update is still limited in scope but signals a move toward more integrated vehicle telemetry within the Android Auto ecosystem.",
+      "whyItMatters": "Software developers can now access speed data for building safety and monitoring features, enhancing the functionality of in-car apps and potentially improving driver safety.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-19T20:30:00Z"
+    },
+    {
+      "id": "art-1784590162574-4",
+      "title": "Apple’s scrapped Mac Pro plans reportedly included a new Intel model - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/19/apples-scrapped-mac-pro-plans-reportedly-included-an-intel-model/",
+      "summary": "Apple reportedly developed two unreleased Mac Pro models before discontinuing the line, one of which was powered by Intel processors. The new report highlights a shift in Apple’s hardware strategy and the potential impact on future Mac Pro designs.",
+      "whyItMatters": "Developers may need to consider Intel-based compatibility and performance differences when building or optimizing software for upcoming Mac Pro hardware.",
       "category": "DevOps",
-      "publishedAt": "2026-07-18T16:00:37Z"
+      "publishedAt": "2026-07-19T20:10:00Z"
+    },
+    {
+      "id": "art-1784590163128-5",
+      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+      "summary": "Kodak has released the EC35, a $35 point‑and‑shoot film camera that aims to make the film photography renaissance more accessible. The low price point could spark renewed interest in analog photography among hobbyists and creatives.",
+      "whyItMatters": "The affordability of the EC35 may encourage developers to create new mobile and web applications that integrate analog photography workflows, such as digital scanning, editing, and sharing tools.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-19T19:26:06Z"
+    },
+    {
+      "id": "art-1784590163910-6",
+      "title": "Xbox Says More Exclusives Are Coming But Tells Players Not to 'Overly Fixate on Single-Player' Games - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/xbox-says-more-exclusives-are-coming-but-tells-players-not-to-overly-fixate-on-single-player-games",
+      "summary": "Xbox announced it will continue to bring exclusive titles to its platform, emphasizing that games like Gears of War: E-Day and Clockwork Revolution are just the beginning. The company also cautions players not to overly fixate on single‑player experiences, encouraging a broader view of its upcoming releases.",
+      "whyItMatters": "The announcement signals a strategic shift that may influence how developers prioritize platform exclusivity and feature sets for Xbox’s cloud‑gaming ecosystem.",
+      "category": "Cloud",
+      "publishedAt": "2026-07-19T19:23:11Z"
+    },
+    {
+      "id": "art-1784590164601-7",
+      "title": "The Air India First Class Lounge Delhi Is Delightful… What A Treat! - One Mile at a Time",
+      "source": "One Mile at a Time",
+      "url": "https://onemileatatime.com/insights/air-india-first-lounge-delhi/",
+      "summary": "Air India’s Maharaja Lounge in Delhi has unveiled a stunning first‑class section that impresses with its luxurious amenities and impeccable service. The new lounge sets a high standard for in‑flight hospitality, showcasing the airline’s commitment to premium passenger experience.",
+      "whyItMatters": "For software developers, the lounge’s sophisticated design and seamless service flow can inspire more intuitive and engaging user interfaces in airline booking and travel apps, driving higher customer satisfaction.",
+      "category": "Web Dev",
+      "publishedAt": "2026-07-19T19:15:44Z"
+    },
+    {
+      "id": "art-1784590165060-8",
+      "title": "Is The MacBook Air M1 Still Worth Buying In 2026? - bgr.com",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2215378/is-macbook-air-m1-still-worth-buying-in-2026/",
+      "summary": "The MacBook Air M1 remains a solid choice in 2026 for light work, offering strong performance and long battery life. Its affordable refurbished prices make it an attractive option for budget-conscious users.",
+      "whyItMatters": "Developers can continue to rely on the M1 for efficient coding and testing without needing the latest hardware, preserving productivity and reducing costs.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-19T18:17:00Z"
     }
   ]
 }
