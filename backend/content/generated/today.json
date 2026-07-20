@@ -1,95 +1,105 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-20",
   "articles": [
     {
-      "id": "art-1784417042955-0",
-      "title": "Shark’s versatile ChillPill cooling system is back to its best price - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
-      "summary": "Shark’s ChillPill Personal Fan and Cooling System is now available for $99.99, offering a ten-speed fan and dry-touch evaporative mister for versatile personal cooling. The product’s discounted price makes it an attractive option for consumers seeking affordable, portable climate control.",
-      "whyItMatters": "The availability of affordable, smart-capable cooling devices encourages developers to build companion mobile apps and integrate such hardware into IoT ecosystems, expanding the market for wearable and home automation solutions.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-17T20:15:54Z"
-    },
-    {
-      "id": "art-1784417043803-1",
-      "title": "Man with staggering $20 billion net worth put a car order in so big that Mercedes had to shut down its factory - supercarblondie.com",
-      "source": "Supercarblondie.com",
-      "url": "https://supercarblondie.com/rainbow-sheikh-car-order-shut-down-mercedes-factory/",
-      "summary": "A wealthy individual with a $20 billion net worth placed a car order so large that Mercedes had to halt production at one of its factories. The incident underscores how a single high-value transaction can disrupt manufacturing operations and supply chains.",
-      "whyItMatters": "It highlights the need for software developers to build more resilient, real-time supply‑chain and production‑management systems to handle extreme demand spikes.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-17T20:02:00Z"
-    },
-    {
-      "id": "art-1784417044298-2",
-      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-      "summary": "Apple and Google have been ordered to remove apps that facilitate nudity from their app stores, following a letter from San Francisco City Attorney David Chiu. The directive highlights enforcement of state law against hosting apps that enable illegal content.",
-      "whyItMatters": "Developers must now ensure their apps comply with local laws or risk removal, tightening content moderation on major mobile platforms.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-17T19:49:53Z"
-    },
-    {
-      "id": "art-1784417044813-3",
-      "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
-      "summary": "Pebble founder Eric Migicovsky explains that the company's 30‑day warranty on its new e‑paper smartwatches is designed to build trust after reports of issues. He emphasizes that the short warranty period reflects a commitment to quality and customer confidence.",
-      "whyItMatters": "The approach highlights how hardware manufacturers can use warranty policies to influence developer support and consumer expectations in the wearable tech market.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-17T19:14:42Z"
-    },
-    {
-      "id": "art-1784417045262-4",
-      "title": "Pixel 11 reportedly getting ‘improved’ face unlock as 11a said to use Tensor G6 - 9to5Google",
+      "id": "art-1784516310598-0",
+      "title": "Galaxy Watch 9 is ‘Powered by Snapdragon Wear Elite,’ leaked images confirm [Gallery] - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/17/pixel-11-face-unlock-11a-tensor-g6/",
-      "summary": "Rumors suggest the upcoming Pixel 11 will feature an improved face‑unlock system, while the Pixel 11a is expected to run on the Tensor G6 chip. These updates hint at a stronger, AI‑driven biometric authentication across the Pixel lineup.",
-      "whyItMatters": "Developers will need to adapt their apps to leverage the new face‑unlock APIs and ensure compatibility with the Tensor G6’s security features, potentially enhancing user privacy and device security.",
-      "category": "Security",
-      "publishedAt": "2026-07-17T18:49:00Z"
-    },
-    {
-      "id": "art-1784417045793-5",
-      "title": "Zelda: Ocarina Of Time Remake Price And Pre-Order Rumors Swirl - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/fans-are-desperate-for-a-zelda-ocarina-of-time-remake-nintendo-direct-as-price-and-pre-order-rumors-swirl-2000717069",
-      "summary": "Nintendo is rumored to set a price for the Ocarina of Time remake, sparking pre‑order speculation among fans. Meanwhile, Square Enix has announced the cancellation of the mobile version of Final Fantasy 14, disappointing the mobile gaming community.",
-      "whyItMatters": "The cancellation signals a shift in mobile game development priorities, prompting developers to reassess resource allocation for cross‑platform releases.",
+      "url": "http://9to5google.com/2026/07/18/galaxy-watch-9-is-powered-by-snapdragon-wear-elite-leaked-images-confirm-gallery/",
+      "summary": "Samsung’s Galaxy Watch 9 will be powered by Qualcomm’s Snapdragon Wear Elite chip, marking a shift from its previous Exynos-based platform. Leaked images confirm the new design and the integration of the Snapdragon processor, promising improved performance and battery life for the smartwatch.",
+      "whyItMatters": "Developers will need to update their watchOS apps and drivers to support the Snapdragon architecture, potentially unlocking new performance and battery optimizations for the wearables market.",
       "category": "Mobile",
-      "publishedAt": "2026-07-17T18:45:39Z"
+      "publishedAt": "2026-07-18T22:30:00Z"
     },
     {
-      "id": "art-1784417046460-6",
-      "title": "Marathon Game Director Leaves As Player Counts Dwindle - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/marathons-game-director-is-leaving-bungie-2000717221",
-      "summary": "Joe Ziegler, the director of Marathon, is stepping down as player numbers continue to fall. The move signals a shift in the game's development focus and may prompt a reevaluation of its long-term strategy.",
-      "whyItMatters": "This departure highlights the challenges of sustaining player engagement, prompting developers to prioritize retention and monetization strategies.",
+      "id": "art-1784516311133-1",
+      "title": "5 Classic PS1 Games That Are Unplayable Today - svg.com",
+      "source": "SVG",
+      "url": "https://www.svg.com/2217998/classic-ps1-games-unplayable-today/",
+      "summary": "Five iconic PS1 titles are now unplayable due to hardware and software obsolescence. The article highlights how even the most celebrated games can become inaccessible over time.",
+      "whyItMatters": "It underscores the importance for developers to design software with long‑term compatibility and preservation in mind.",
       "category": "DevOps",
-      "publishedAt": "2026-07-17T18:23:00Z"
+      "publishedAt": "2026-07-18T22:00:00Z"
     },
     {
-      "id": "art-1784417046997-7",
-      "title": "Apple Music Hikes Subscription Prices, Citing Rising Licensing Fees - Variety",
-      "source": "Variety",
-      "url": "https://variety.com/2026/music/news/apple-music-raises-prices-licensing-fees-1236814878/",
-      "summary": "Apple has increased the price of its Apple Music subscription plans, marking the first hike since fall 2022. The company attributes the rise to higher music licensing costs, which could affect consumer spending and competition among streaming services.",
-      "whyItMatters": "The price increase may pressure developers to seek alternative revenue models or negotiate better licensing terms, and could shift user preferences toward cheaper or ad‑supported platforms.",
+      "id": "art-1784516311913-2",
+      "title": "iPhone 18 Pro Release Date: Apple’s 15-Year Event Timeline Signals Exact Date - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/07/18/iphone-18-pro-release-date-apples-15-year-event-timeline-points-to-one-september-date/",
+      "summary": "Forbes reports that Apple’s 15-year event timeline points to a specific date for the iPhone 18 Pro launch, narrowing the range of possible release dates. The analysis draws on patterns from past fall iPhone releases to pinpoint the exact day.",
+      "whyItMatters": "Knowing the precise launch date allows developers to plan app updates, beta testing, and marketing campaigns to align with the new hardware’s capabilities.",
       "category": "Mobile",
-      "publishedAt": "2026-07-17T18:04:00Z"
+      "publishedAt": "2026-07-18T20:00:36Z"
     },
     {
-      "id": "art-1784417047502-8",
-      "title": "Disco Elysium Studio Says Game About People Forced Into Impossible Situations Didn't Sell Well Enough To Prevent Layoffs - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/disco-elysium-studio-says-game-about-people-forced-into-impossible-situations-didnt-sell-well-enough-to-prevent-layoffs-2000717249",
-      "summary": "ZA/UM announced that it would lay off 32 developers after the release of Zero Parades: For Dead Spies, citing poor sales of the game. The studio’s decision highlights the financial risks of niche game development and the volatility of the indie gaming market.",
-      "whyItMatters": "The layoffs underscore how market performance can directly impact software development teams, prompting studios to reassess project viability and resource allocation.",
+      "id": "art-1784516312458-3",
+      "title": "US grandpa cries after seeing his late wife's 1990 C4 Corvette cleaned for the first time in 25 years - supercarblondie.com",
+      "source": "Supercarblondie.com",
+      "url": "https://supercarblondie.com/1990-c4-corvette-grandpa-cries-cleaning-wd-detailing/",
+      "summary": "A US grandpa was moved after seeing his late wife's 1990 C4 Corvette cleaned for the first time in 25 years. The event highlights the emotional impact of restoring something cherished after decades of neglect.",
+      "whyItMatters": "It reminds developers that maintaining and restoring legacy systems can bring unexpected value and emotional satisfaction, encouraging better long-term support practices.",
       "category": "DevOps",
-      "publishedAt": "2026-07-17T18:02:19Z"
+      "publishedAt": "2026-07-18T19:50:00Z"
+    },
+    {
+      "id": "art-1784516313597-4",
+      "title": "Inside the Art of Campaign Evolved - Halo Waypoint",
+      "source": "Halowaypoint.com",
+      "url": "https://www.halowaypoint.com/news/inside-the-art-of-campaign-evolved",
+      "summary": "Halo: Campaign Evolved's art direction was discussed with Chris Matthews and Donnie Taylor, revealing the creative process behind the game's visuals. The interview highlights the collaboration between studio art directors and the techniques used to craft immersive environments.",
+      "whyItMatters": "Understanding the art pipeline informs developers how to integrate artistic assets efficiently, improving workflow and asset management in game development.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-18T19:38:37Z"
+    },
+    {
+      "id": "art-1784516314103-5",
+      "title": "Google might not kneecap the Pixel 11a with an old processor - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+      "summary": "Google's upcoming Pixel 11a is rumored to use the newer Tensor G6 chip instead of an older processor, potentially avoiding performance bottlenecks. The device also reportedly includes a more reliable MediaTek modem, which could improve connectivity.",
+      "whyItMatters": "Developers can expect better AI acceleration and more stable network performance on the Pixel 11a, enabling richer mobile experiences.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-18T18:25:08Z"
+    },
+    {
+      "id": "art-1784516315501-6",
+      "title": "Disco Elysium Dev ZA/UM Announces Layoffs Affecting Up to 32 Staff - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/disco-elysium-dev-zaum-announces-layoffs-affecting-up-to-32-staff",
+      "summary": "ZA/UM, the studio behind Disco Elysium, announced layoffs that could affect up to 32 employees, just two months after releasing Zero Parades: For Dead Spies. The move signals financial pressures in the gaming industry and may impact future development projects.",
+      "whyItMatters": "The layoffs highlight the volatility of the gaming sector and underscore the need for sustainable business models for software developers.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-18T16:58:05Z"
+    },
+    {
+      "id": "art-1784516316200-7",
+      "title": "Google is open-sourcing its 3D emoji - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+      "summary": "Google has released its Noto Emoji 3D set as an open-source library, allowing developers to incorporate realistic 3D emojis into their projects. The announcement also includes a glimpse into the design process behind the emojis for World Emoji Day.",
+      "whyItMatters": "By providing a freely available 3D emoji toolkit, Google enables developers to enhance user interfaces with richer, more engaging visual elements without licensing barriers.",
+      "category": "Web Dev",
+      "publishedAt": "2026-07-18T16:40:55Z"
+    },
+    {
+      "id": "art-1784516316852-8",
+      "title": "Why KFC stopped calling itself Kentucky Fried Chicken — and the myths that still won't die - Fox News",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/food-drink/why-kfc-stopped-calling-itself-kentucky-fried-chicken-myths-still-wont-die",
+      "summary": "In 1991, KFC dropped 'Kentucky Fried Chicken' in favor of the shorter KFC to modernize its brand and address declining earnings, sparking myths about the name change. The move was driven by a desire to appeal to a broader audience and avoid the negative connotations of 'fried' amid health concerns.",
+      "whyItMatters": "For software developers, the case illustrates how branding decisions can shape user perception and adoption, underscoring the importance of clear, positive product naming in tech marketing.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-18T16:14:28Z"
+    },
+    {
+      "id": "art-1784516317577-9",
+      "title": "Valve Says RAM Prices Are 'Lagging' And Will Only Get 'Worse' - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/valve-says-retail-memory-prices-are-lagging-and-are-about-to-become-even-more-expensive-its-still-getting-worse-2000717414",
+      "summary": "Valve’s senior Steam Machine engineers warn that RAM prices are currently lagging and are expected to rise further in the next three to six months, potentially making memory more expensive and harder to procure. They suggest that this trend could push developers to rethink hardware requirements and optimize memory usage in their upcoming projects.",
+      "whyItMatters": "Higher memory costs can increase development and deployment expenses, forcing software teams to optimize code and hardware usage to maintain performance and cost-efficiency.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-18T16:00:37Z"
     }
   ]
 }
