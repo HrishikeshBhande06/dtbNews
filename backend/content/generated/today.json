@@ -1,95 +1,105 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "articles": [
     {
-      "id": "art-1784590160543-0",
-      "title": "iPhone 18 Pro Release Date: Apple’s 15-Year Event Timeline Signals Exact Date - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/07/19/iphone-18-pro-release-date-apples-15-year-event-timeline-points-to-one-september-date/",
-      "summary": "Forbes has pinpointed the exact release date for the iPhone 18 Pro by analyzing Apple’s 15‑year event timeline, suggesting the device will launch on a specific fall date amid growing rumors. The article confirms that Apple’s predictable schedule will likely keep the 18 Pro on the market in the upcoming fall season.",
-      "whyItMatters": "Developers must prepare for new SDKs, APIs, and hardware capabilities ahead of the 18 Pro’s release to ensure timely app updates and compatibility.",
+      "id": "art-1784676445211-0",
+      "title": "Fallout New Vegas Director: RPGs Can't Let Players Control Everything - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/reported-director-of-obsidians-upcoming-fallout-game-says-rpgs-are-at-their-best-when-you-cant-control-everything-2000717793",
+      "summary": "The director of Fallout New Vegas, Josh Sawyer, argues that RPGs should not give players full control over every problem, preferring a more guided narrative experience. He believes that limiting player agency can lead to more meaningful storytelling and better game design.",
+      "whyItMatters": "Game developers must balance player freedom with narrative structure, influencing design decisions and player engagement metrics.",
+      "category": "AI",
+      "publishedAt": "2026-07-20T22:46:19Z"
+    },
+    {
+      "id": "art-1784676445724-1",
+      "title": "Everything New in iOS 27 Beta 4 - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/20/ios-27-beta-4-everything-new/",
+      "summary": "Apple has released iOS 27 Beta 4, continuing to refine the operating system ahead of its September launch, with a focus on polishing existing features rather than introducing major new ones. The beta includes subtle tweaks and bug fixes that aim to improve stability and developer experience.",
+      "whyItMatters": "Developers must update their apps to accommodate the latest API changes and performance improvements, ensuring compatibility and a smooth user experience when the final release hits the market.",
       "category": "Mobile",
-      "publishedAt": "2026-07-19T22:22:43Z"
+      "publishedAt": "2026-07-20T21:50:40Z"
     },
     {
-      "id": "art-1784590161173-1",
-      "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet) - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
-      "summary": "Four Tet, the electronic musician Kieran Hebden, has released a quirky side project featuring an unpronounceable string of Wingdings glyphs. The piece showcases a playful exploration of typography and digital art, blending music and visual design.",
-      "whyItMatters": "It demonstrates how developers can leverage Unicode and custom fonts to create engaging, interactive web experiences, encouraging experimentation with typography in front‑end projects.",
-      "category": "Web Dev",
-      "publishedAt": "2026-07-19T21:02:45Z"
-    },
-    {
-      "id": "art-1784590161672-2",
-      "title": "Here’s what the wide Galaxy Z Fold 8 looks like in real life [Gallery] - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/19/samsung-galaxy-z-fold-8-real-life-bts-leak/",
-      "summary": "Samsung’s Galaxy Z Fold 8 introduces a wider form factor, offering a more expansive display for multitasking and media consumption. A BTS member showcased the device in real life, highlighting its new design and potential usability improvements.",
-      "whyItMatters": "The wider screen changes UI design considerations for mobile developers, encouraging new layouts and interaction patterns to leverage the expanded real estate.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-19T20:50:00Z"
-    },
-    {
-      "id": "art-1784590161973-3",
-      "title": "Android Auto finally starts rolling out a speedometer in Google Maps - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/19/android-auto-finally-starts-rolling-out-a-speedometer-in-google-maps/",
-      "summary": "Android Auto is beginning to roll out a speedometer feature in Google Maps, allowing drivers to see real-time speed data while using the navigation app. The update is still limited in scope but signals a move toward more integrated vehicle telemetry within the Android Auto ecosystem.",
-      "whyItMatters": "Software developers can now access speed data for building safety and monitoring features, enhancing the functionality of in-car apps and potentially improving driver safety.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-19T20:30:00Z"
-    },
-    {
-      "id": "art-1784590162574-4",
-      "title": "Apple’s scrapped Mac Pro plans reportedly included a new Intel model - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/19/apples-scrapped-mac-pro-plans-reportedly-included-an-intel-model/",
-      "summary": "Apple reportedly developed two unreleased Mac Pro models before discontinuing the line, one of which was powered by Intel processors. The new report highlights a shift in Apple’s hardware strategy and the potential impact on future Mac Pro designs.",
-      "whyItMatters": "Developers may need to consider Intel-based compatibility and performance differences when building or optimizing software for upcoming Mac Pro hardware.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-19T20:10:00Z"
-    },
-    {
-      "id": "art-1784590163128-5",
-      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
-      "summary": "Kodak has released the EC35, a $35 point‑and‑shoot film camera that aims to make the film photography renaissance more accessible. The low price point could spark renewed interest in analog photography among hobbyists and creatives.",
-      "whyItMatters": "The affordability of the EC35 may encourage developers to create new mobile and web applications that integrate analog photography workflows, such as digital scanning, editing, and sharing tools.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-19T19:26:06Z"
-    },
-    {
-      "id": "art-1784590163910-6",
-      "title": "Xbox Says More Exclusives Are Coming But Tells Players Not to 'Overly Fixate on Single-Player' Games - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/xbox-says-more-exclusives-are-coming-but-tells-players-not-to-overly-fixate-on-single-player-games",
-      "summary": "Xbox announced it will continue to bring exclusive titles to its platform, emphasizing that games like Gears of War: E-Day and Clockwork Revolution are just the beginning. The company also cautions players not to overly fixate on single‑player experiences, encouraging a broader view of its upcoming releases.",
-      "whyItMatters": "The announcement signals a strategic shift that may influence how developers prioritize platform exclusivity and feature sets for Xbox’s cloud‑gaming ecosystem.",
+      "id": "art-1784676446462-2",
+      "title": "14 Classic Xbox 360 Games Are On Sale For Dirt Cheap Right Now - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/14-classic-xbox-360-games-are-on-sale-for-dirt-cheap-right-now-2000717632",
+      "summary": "Xbox 360 classics, including The Witcher 2, are now available at steep discounts on digital platforms. The sale offers gamers a chance to acquire beloved titles for a fraction of their original price.",
+      "whyItMatters": "The price drop could influence digital storefront strategies, prompting developers to consider dynamic pricing models to boost sales and engagement.",
       "category": "Cloud",
-      "publishedAt": "2026-07-19T19:23:11Z"
+      "publishedAt": "2026-07-20T21:30:16Z"
     },
     {
-      "id": "art-1784590164601-7",
-      "title": "The Air India First Class Lounge Delhi Is Delightful… What A Treat! - One Mile at a Time",
-      "source": "One Mile at a Time",
-      "url": "https://onemileatatime.com/insights/air-india-first-lounge-delhi/",
-      "summary": "Air India’s Maharaja Lounge in Delhi has unveiled a stunning first‑class section that impresses with its luxurious amenities and impeccable service. The new lounge sets a high standard for in‑flight hospitality, showcasing the airline’s commitment to premium passenger experience.",
-      "whyItMatters": "For software developers, the lounge’s sophisticated design and seamless service flow can inspire more intuitive and engaging user interfaces in airline booking and travel apps, driving higher customer satisfaction.",
+      "id": "art-1784676447324-3",
+      "title": "Sales Data Paints a Very Grim Picture for Physical PS5 Games in the USA - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/07/sales-data-paints-a-very-grim-picture-for-physical-ps5-games-in-the-usa",
+      "summary": "Sales data shows that only seven PS5 titles have sold more than 100,000 boxed copies in the United States, underscoring a steep decline in physical game sales. The trend highlights a shift toward digital distribution and the challenges publishers face in maintaining profitability for console hardware.",
+      "whyItMatters": "For software developers, the drop in physical sales signals a need to prioritize digital release strategies and rethink packaging costs, impacting revenue models and supply chain decisions.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-20T21:30:00Z"
+    },
+    {
+      "id": "art-1784676448141-4",
+      "title": "NYT Strands hints, answers for July 20, 2026 - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-july-20-2026",
+      "summary": "NYT Strands puzzle for July 20, 2026 has been updated with all hints, nudges, and answers to help solvers complete the crossword. The Mashable article provides a comprehensive guide for players to finish the puzzle.",
+      "whyItMatters": "By offering complete answers, developers can quickly verify puzzle solutions, saving time and reducing frustration when integrating puzzle-based learning modules.",
       "category": "Web Dev",
-      "publishedAt": "2026-07-19T19:15:44Z"
+      "publishedAt": "2026-07-20T20:47:27Z"
     },
     {
-      "id": "art-1784590165060-8",
-      "title": "Is The MacBook Air M1 Still Worth Buying In 2026? - bgr.com",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2215378/is-macbook-air-m1-still-worth-buying-in-2026/",
-      "summary": "The MacBook Air M1 remains a solid choice in 2026 for light work, offering strong performance and long battery life. Its affordable refurbished prices make it an attractive option for budget-conscious users.",
-      "whyItMatters": "Developers can continue to rely on the M1 for efficient coding and testing without needing the latest hardware, preserving productivity and reducing costs.",
+      "id": "art-1784676448957-5",
+      "title": "Here's How Your Dream Cars Change As You Get Older - Jalopnik",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/2218623/how-dream-cars-change-reader-answers/",
+      "summary": "The article discusses how our car preferences shift as we age, moving from high-performance sports cars to more practical family vehicles. It highlights the need for vehicles that can accommodate growing families and changing lifestyles.",
+      "whyItMatters": "Software developers must adapt automotive software to support family-oriented features, such as advanced safety, connectivity, and OTA updates, to meet evolving consumer demands.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-20T20:45:00Z"
+    },
+    {
+      "id": "art-1784676449558-6",
+      "title": "iPhone 18 Pro’s new A20 chip rumored to bring two major upgrades - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/20/iphone-18-pros-new-a20-chip-rumored-to-bring-two-major-upgrades/",
+      "summary": "Apple's upcoming iPhone 18 Pro is expected to feature the new A20 Pro chip, which is rumored to deliver significant performance improvements and enhanced power efficiency. The chip is said to bring two major upgrades, potentially boosting gaming, AR experiences, and overall device responsiveness.",
+      "whyItMatters": "Developers will need to optimize apps for the A20's new architecture to fully leverage its performance gains, while the industry may see a shift toward more demanding mobile experiences.",
       "category": "Mobile",
-      "publishedAt": "2026-07-19T18:17:00Z"
+      "publishedAt": "2026-07-20T20:34:00Z"
+    },
+    {
+      "id": "art-1784676450793-7",
+      "title": "5DEV Introduces the Jumpline Pedal - Pinkbike",
+      "source": "Pinkbike.com",
+      "url": "https://www.pinkbike.com/news/5dev-introduces-the-jumpline-pedal.html",
+      "summary": "5DEV has launched the Jumpline Pedal, a new flat pedal designed in the United States. The product emphasizes ergonomic design and lightweight construction for cyclists.",
+      "whyItMatters": "The introduction of the Jumpline Pedal highlights the growing intersection between hardware innovation and software ecosystems, encouraging developers to create companion apps and data‑tracking solutions for cycling equipment.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-20T20:21:08Z"
+    },
+    {
+      "id": "art-1784676451761-8",
+      "title": "The One Thing I Hate About Almost Every Jeep Since 1941 - The Autopian",
+      "source": "Theautopian.com",
+      "url": "https://www.theautopian.com/the-one-thing-i-hate-about-almost-every-jeep-since-1941/",
+      "summary": "The author, a Jeep enthusiast and former engineer, chronicles his decade-long passion for Jeeps, culminating in a complete WWII Jeep built from scratch. He reflects on the challenges and joys of restoring and customizing these iconic vehicles.",
+      "whyItMatters": "It reminds software developers that deep domain expertise and hands‑on craftsmanship can drive innovation and inspire meticulous attention to detail in their own projects.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-20T20:01:18Z"
+    },
+    {
+      "id": "art-1784676452261-9",
+      "title": "X relaunches a rebuilt Android app after year-long effort - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "summary": "X has released a rebuilt Android app globally after a year-long effort to overhaul its mobile experience. The new app promises improved performance, stability, and a refreshed user interface for Android users worldwide.",
+      "whyItMatters": "The launch signals X’s renewed focus on mobile, encouraging developers to update their integrations and potentially boosting engagement on the platform.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-20T19:37:39Z"
     }
   ]
 }
