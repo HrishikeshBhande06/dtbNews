@@ -1,85 +1,95 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "articles": [
     {
-      "id": "art-1784762907917-1",
-      "title": "Apple raises prices on some streaming services as licensing costs climb - Fox Business",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/apple-raises-prices-some-streaming-services-licensing-costs-climb",
-      "summary": "Apple increased its Apple Music subscription prices, raising the individual plan to $11.99 and the family plan to $19.99, citing higher licensing costs. The hike reflects broader industry pressures on streaming services to cover rising content expenses, potentially prompting competitors to adjust pricing or explore alternative revenue models.",
-      "whyItMatters": "The price increase may influence developers building music-related apps to reassess integration costs and could drive a shift toward more cost-effective streaming solutions or subscription bundling strategies.",
+      "id": "art-1784849169990-0",
+      "title": "Samsung’s Galaxy Z Fold 8 Is for Everyone Who Can’t Stop Scrolling - CNET",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-8-wide-design-social-media-scolling/",
+      "summary": "Samsung’s new Galaxy Z Fold 8 introduces a book‑style foldable design that promises a more natural scrolling experience for web browsing and video consumption. The device aims to blend the convenience of a tablet with the portability of a phone, potentially redefining how users interact with mobile content.",
+      "whyItMatters": "For developers, the Fold 8’s larger, foldable display opens opportunities for responsive UI designs and new app experiences that leverage multi‑window and adaptive layouts.",
       "category": "Mobile",
-      "publishedAt": "2026-07-21T19:53:00Z"
+      "publishedAt": "2026-07-22T22:45:00Z"
     },
     {
-      "id": "art-1784762908737-2",
-      "title": "Xbox VP Leaves Just 3 Months After Joining Asha Sharma's Team - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/new-xbox-vp-helping-ceo-with-our-most-complex-product-and-engineering-problems-is-already-leaving-three-months-later-2000718135",
-      "summary": "Jared Palmer, a former Microsoft CoreAI executive, was appointed as a VP at Xbox but departed after only three months. His brief tenure highlights the challenges of integrating AI talent into gaming leadership roles.",
-      "whyItMatters": "The rapid turnover signals uncertainty in how AI expertise is leveraged within large gaming companies, affecting developers seeking AI-driven tools.",
-      "category": "AI",
-      "publishedAt": "2026-07-21T19:41:18Z"
+      "id": "art-1784849170520-1",
+      "title": "Microsoft brings original Xbox backward compatibility to Windows PCs - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+      "summary": "Microsoft has announced that the original Xbox will run on Windows PCs, allowing the first four compatible games to be played even on a graphics card that is 11 years old. This marks a significant step toward unifying gaming experiences across console and PC platforms.",
+      "whyItMatters": "This enables developers to target a broader audience by ensuring legacy console titles remain playable on modern PCs, reducing the need for separate ports.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-22T20:36:19Z"
     },
     {
-      "id": "art-1784762909331-3",
-      "title": "AI and the rise of the universal entertainment app - TechCrunch",
+      "id": "art-1784849170802-2",
+      "title": "Pixel 11 series leaks in more official-looking images with new angles [Gallery] - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/22/google-pixel-11-series-leaked-images-angles/",
+      "summary": "Google’s Pixel 11 series has been leaked with new, more official-looking images that showcase additional angles and design details. The leak provides early insight into the device’s hardware, camera setup, and potential software features ahead of its official announcement.",
+      "whyItMatters": "The detailed leaks give mobile developers and the tech industry early clues about hardware capabilities, enabling them to optimize apps for performance, camera APIs, and new features before the device’s release.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-22T19:05:00Z"
+    },
+    {
+      "id": "art-1784849171216-3",
+      "title": "Samsung Galaxy Glasses revealed at Unpacked - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/samsung-galaxy-unpacked-galaxy-glasses-revealed",
+      "summary": "Samsung unveiled its Galaxy Glasses at the Unpacked event, announcing that the AR‑enabled eyewear will ship in the fall. The company highlighted features such as a high‑resolution display, voice control, and integration with its ecosystem.",
+      "whyItMatters": "The release signals a push toward mainstream AR, prompting developers to build new mobile experiences and apps that leverage wearable hardware.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-22T17:30:25Z"
+    },
+    {
+      "id": "art-1784849171901-4",
+      "title": "Google is making it easier to switch from iPhone to Android - TechCrunch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "summary": "Streaming services are converging into a single platform as AI simplifies content creation, organization, and recommendation. Companies like Spotify are expanding beyond music to offer a universal entertainment experience.",
-      "whyItMatters": "For developers, this shift demands building AI-driven recommendation engines and unified content APIs, reshaping how media apps are architected.",
-      "category": "AI",
-      "publishedAt": "2026-07-21T19:39:30Z"
-    },
-    {
-      "id": "art-1784762909968-4",
-      "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
-      "summary": "Nintendo has denied a lawsuit claiming that Switch buyers should receive refunds for higher prices paid due to tariffs, stating that consumers voluntarily paid those prices. The company urges the court to dismiss the case, asserting that buyers received the product they paid for.",
-      "whyItMatters": "The decision underscores that console manufacturers can defend against consumer price‑related claims, potentially influencing how developers price and market games on the platform.",
+      "url": "https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/",
+      "summary": "Google has introduced a new feature that allows users to wirelessly transfer a broader range of data types from an iPhone to an Android device without installing a separate app. This streamlines the migration process and reduces friction for users switching ecosystems.",
+      "whyItMatters": "The simplified data transfer reduces the need for third‑party migration tools, encouraging developers to focus on native Android experiences and potentially increasing Android adoption.",
       "category": "Mobile",
-      "publishedAt": "2026-07-21T19:09:19Z"
+      "publishedAt": "2026-07-22T17:08:03Z"
     },
     {
-      "id": "art-1784762910413-5",
-      "title": "Anyone in Bluetooth Range Can Unlock Cars, Kill Engines Through Alarms Owners May Never Have Paid For - The Drive",
-      "source": "The Drive",
-      "url": "https://www.thedrive.com/news/anyone-in-bluetooth-range-can-unlock-cars-kill-engines-through-alarms-owners-may-never-have-paid-for",
-      "summary": "A dealer-installed alarm system in about two million vehicles is susceptible to Bluetooth hacking, allowing attackers to unlock cars and disable engines. Many owners are unaware of the alarm's presence, making the vulnerability widespread and difficult to mitigate.",
-      "whyItMatters": "Software developers must prioritize secure Bluetooth implementations and conduct thorough vulnerability assessments to protect end-users from remote exploitation.",
-      "category": "Security",
-      "publishedAt": "2026-07-21T17:38:02Z"
-    },
-    {
-      "id": "art-1784762911102-6",
-      "title": "Nearly every Kindle is steeply discounted at Best Buy - The Verge",
+      "id": "art-1784849172312-5",
+      "title": "Apple is reportedly testing a MacBook Neo with more RAM - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale",
-      "summary": "Best Buy is offering steep discounts on nearly every Kindle model, along with deals on Google Pixel Watch 2, Pixel 7, Ring Battery Doorbell 2K, and Indoor Cam Plus. These promotions could drive increased consumer adoption of Amazon's e-readers and Google's mobile ecosystem.",
-      "whyItMatters": "Software developers may see higher demand for Kindle-compatible apps and Android apps, prompting more investment in content and app optimization.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-21T17:13:23Z"
+      "url": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade",
+      "summary": "Apple is reportedly testing a new MacBook Neo that could feature a faster processor, increased RAM, and fresh color options. The upgrade is expected to come with a higher price tag, signaling a push toward more powerful, premium laptops.",
+      "whyItMatters": "Developers will need to adapt their build and testing pipelines to leverage the increased memory and processing power, potentially improving performance for resource‑intensive applications.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-22T16:35:58Z"
     },
     {
-      "id": "art-1784762911854-7",
-      "title": "Steam Deck sales are losing steam since May's price hike - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/",
-      "summary": "Steam Deck sales have dropped sharply, with an 80% decline in sales rate since the May price hike. The handheld gaming device is losing momentum compared to its 2025 performance.",
-      "whyItMatters": "The decline signals a shift in consumer spending on portable gaming hardware, prompting developers to reconsider platform support and monetization strategies.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-21T17:12:34Z"
+      "id": "art-1784849172708-6",
+      "title": "AMD’s Zen 6 EPYC Venice Pictured as a 256-Core Monster, Massive Twin I/O Dies & First 2nm HPC Chip To Enter Volume Ramp - Wccftech",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/amd-256-core-epyc-venice-behemoth-cpu-pictured-confirms-32-cores-per-zen-6-ccd/",
+      "summary": "AMD unveiled its next‑generation EPYC Venice CPU, boasting a staggering 256 cores built on the Zen 6 architecture and a 2 nm process. The chip features massive twin I/O dies and marks the first 2 nm HPC processor to enter volume ramp production.",
+      "whyItMatters": "The unprecedented core count and advanced process node will dramatically boost data‑center performance, enabling more efficient AI workloads and high‑performance computing tasks for cloud providers.",
+      "category": "Cloud",
+      "publishedAt": "2026-07-22T13:41:04Z"
     },
     {
-      "id": "art-1784762912586-8",
-      "title": "Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/968750/apple-upgrade-program",
-      "summary": "Apple is set to replace its existing iPhone Upgrade Program with a new lease‑to‑own model that will cover iPhones, iPads, Macs, and Apple Watches. The change aims to offer customers more flexible payment options while phasing out the current upgrade plan.",
-      "whyItMatters": "Software developers will need to adapt to a broader range of device configurations and potentially longer support cycles as customers lease newer hardware.",
+      "id": "art-1784849173199-7",
+      "title": "WhatsApp adds Apple CarPlay and Android Auto upgrades, iPad sign-ups, and more - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/whatsapp-adds-apple-carplay-and-android-auto-upgrades-ipad-sign-ups-and-more/",
+      "summary": "WhatsApp has expanded its functionality to Apple CarPlay and Android Auto, allowing users to hear, reply to messages, make calls, view call history, and access favorite contacts directly from their car's screen. The update also includes iPad sign-ups and additional features, enhancing the app's integration across devices.",
+      "whyItMatters": "This integration streamlines in-car communication, encouraging developers to build richer automotive experiences and prompting competitors to adopt similar hands‑free capabilities.",
       "category": "Mobile",
-      "publishedAt": "2026-07-21T17:12:06Z"
+      "publishedAt": "2026-07-22T13:00:00Z"
+    },
+    {
+      "id": "art-1784849173611-8",
+      "title": "Splatoon Raiders 1.1.0 update out now, patch notes - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/splatoon-raiders-1-1-0-update-out-now-patch-notes/",
+      "summary": "Splatoon Raiders has released its day‑one update, version 1.1.0, bringing new features and bug fixes to the mobile shooter. Players can view the detailed patch notes on Nintendo Everything.",
+      "whyItMatters": "The update demonstrates the rapid iteration cycle typical of mobile game development, highlighting the importance of continuous delivery pipelines for maintaining player engagement.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-22T12:24:18Z"
     }
   ]
 }
