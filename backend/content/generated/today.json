@@ -1,105 +1,105 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "articles": [
     {
-      "id": "art-1785022129265-0",
-      "title": "Meta just created a moderation nightmare for its smart glasses - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
-      "summary": "Meta’s new smart glasses have sparked a moderation crisis as Instagram bans content filmed with the device, citing policy violations. The backlash highlights the difficulty of enforcing content rules on emerging AR hardware, forcing platforms to rethink moderation strategies.",
-      "whyItMatters": "Developers must now design AR experiences that comply with stricter content policies, or risk platform bans and reduced user reach.",
+      "id": "art-1785108426460-0",
+      "title": "ChatGPT now has a space for sharing medical records. Should you? - CBS News",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/chatgpt-health-medical-records-advice-expert-risks/",
+      "summary": "OpenAI has introduced a new feature in ChatGPT called Health in ChatGPT, allowing users to upload and share medical records within the chat interface. Experts weigh the benefits of easier medical data access against privacy and security concerns.",
+      "whyItMatters": "This development forces developers to consider new data privacy regulations and secure handling of sensitive health information in AI applications.",
       "category": "AI",
-      "publishedAt": "2026-07-24T19:23:44Z"
+      "publishedAt": "2026-07-25T23:10:03Z"
     },
     {
-      "id": "art-1785022130351-1",
-      "title": "'See You in the Sequel': Halo 2 Remake All But Confirmed - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/07/see-you-in-the-sequel-halo-2-remake-all-but-confirmed",
-      "summary": "Halo 2 Remake is confirmed with a bonus cutscene in the Legendary ending, as reported by Push Square. The announcement adds new content to the highly anticipated remake, promising fans an enhanced cinematic experience.",
-      "whyItMatters": "The addition of a bonus cutscene demonstrates how game studios can extend narrative depth in remakes, influencing future game development strategies.",
+      "id": "art-1785108426824-1",
+      "title": "'If People Want That, I Think Companies Should Provide It' — Rockstar Co-Founder Shares His Thoughts on the Conversation Around Physical Game Releases - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/rockstar-co-founder-says-if-people-want-physical-game-releases-then-companies-should-provide-it",
+      "summary": "Rockstar Games co‑founder Dan Houser has stated that if players want physical copies of games, companies should provide them. He argues that meeting consumer demand for tangible media is a legitimate business decision and should not be dismissed as a niche preference.",
+      "whyItMatters": "The stance signals that developers and publishers may need to maintain or reinvest in physical production and distribution pipelines, affecting supply chain logistics, inventory management, and cost structures in the gaming industry.",
       "category": "DevOps",
-      "publishedAt": "2026-07-24T18:22:10Z"
+      "publishedAt": "2026-07-25T22:56:51Z"
     },
     {
-      "id": "art-1785022130971-2",
-      "title": "Google confirms Pixel 11 price increase, reveals ‘dedicated’ effort to make Android more RAM-efficient - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/07/24/google-pixel-11-price-increase/",
-      "summary": "Google has raised the price of the Pixel 11 and announced a dedicated effort to make Android more RAM‑efficient amid a severe, supplier‑driven RAM memory crisis. The company is working to reduce memory usage in the operating system to mitigate shortages and keep device performance stable.",
-      "whyItMatters": "Developers must now optimize apps for lower RAM consumption, influencing performance, battery life, and compatibility across devices.",
+      "id": "art-1785108427178-2",
+      "title": "Sony Reon Pocket Pro Plus Air Conditioner Arrives In U.S. To Beat Summer Heatwaves - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/07/25/sony-reon-pocket-pro-plus-air-conditioner-arrives-in-us-to-beat-summer-heatwaves/",
+      "summary": "Sony has launched the Reon Pocket Pro Plus, a wearable air conditioner that can be worn on the body to keep users cool during heatwaves. The device, now available in the U.S., combines compact cooling technology with a mobile app for temperature control and usage monitoring.",
+      "whyItMatters": "It highlights the growing intersection of IoT and mobile app development, prompting software developers to create seamless integration, real-time monitoring, and energy‑efficiency features for wearable devices.",
       "category": "Mobile",
-      "publishedAt": "2026-07-24T18:03:00Z"
+      "publishedAt": "2026-07-25T21:03:00Z"
     },
     {
-      "id": "art-1785022131395-3",
-      "title": "Lara Croft can't catch a break: after delaying one Tomb Raider game, Amazon is delaying another and this one won't show up until 2028 - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/tomb-raider-catalyst-delay-2028",
-      "summary": "Amazon has announced that its Tomb Raider 1 reimagining will be delayed until 2028, following a previous postponement of a different Tomb Raider title. The decision reflects broader challenges in game development timelines and resource allocation within the industry.",
-      "whyItMatters": "The delay underscores the importance of robust release planning and resource management for software developers, highlighting how scheduling setbacks can ripple through production pipelines and stakeholder expectations.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-24T17:06:13Z"
-    },
-    {
-      "id": "art-1785022131812-4",
-      "title": "PlayStation Network down, leaving thousands of gamers unable to play - BBC",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2j0wy1gl5o",
-      "summary": "PlayStation Network experienced a widespread outage, leaving thousands of gamers unable to access the service. Sony acknowledged the issue and is working to resolve it as soon as possible.",
-      "whyItMatters": "The outage highlights the importance of robust infrastructure and incident response for large-scale online gaming platforms, affecting developers who rely on the network for game distribution and live services.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-24T16:59:25Z"
-    },
-    {
-      "id": "art-1785022132733-5",
-      "title": "Blizzard fire World Of Warcraft developer over use of forbidden magicks to insta-kill bosses for regular players during dungeon run - Rock Paper Shotgun",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/blizzard-fire-world-of-warcraft-developer-over-use-of-forbidden-magicks-to-insta-kill-bosses-for-regular-players-during-dungeon-run",
-      "summary": "Blizzard fired a World of Warcraft developer after it was discovered that dev‑only insta‑kill spells were used to eliminate bosses for regular players during a dungeon run. The incident exposed a lapse in access controls and quality assurance within the game's development pipeline.",
-      "whyItMatters": "It underscores the need for strict privilege management and code‑review processes to prevent unauthorized use of powerful features that can compromise game integrity.",
-      "category": "Security",
-      "publishedAt": "2026-07-24T16:08:17Z"
-    },
-    {
-      "id": "art-1785022133573-6",
-      "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug - BleepingComputer",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
-      "summary": "Microsoft attributed a massive Microsoft 365 outage to a bug in its automated network maintenance request system that mistakenly removed IP routes from too many devices, disrupting Azure and Microsoft 365 services. The incident highlighted the fragility of large-scale cloud operations and the importance of robust testing for automated infrastructure changes.",
-      "whyItMatters": "The outage disrupted critical cloud services used by developers and businesses worldwide, underscoring the need for reliable maintenance processes and real-time monitoring in cloud environments.",
+      "id": "art-1785108427638-3",
+      "title": "Warren Spector’s Thick As Thieves Ends Support After Two Months - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/warren-spectors-thick-as-thieves-ends-support-after-two-months-2000719337",
+      "summary": "Thick As Thieves, a sequel to the classic Thief series, has ended support after just two months following significant layoffs at the studio. The team plans to keep the game alive by shifting to a peer‑to‑peer server model.",
+      "whyItMatters": "It underscores the fragility of indie game projects and the growing reliance on decentralized server architectures, influencing how developers plan post‑launch maintenance and infrastructure.",
       "category": "Cloud",
-      "publishedAt": "2026-07-24T15:41:44Z"
+      "publishedAt": "2026-07-25T21:02:55Z"
     },
     {
-      "id": "art-1785022134229-7",
-      "title": "007: First Light’s first content update is available now - Video Games Chronicle",
-      "source": "Video Games Chronicle",
-      "url": "https://www.videogameschronicle.com/news/007-first-lights-first-content-update-is-available-now/",
-      "summary": "007: First Light has released its first content patch, marking the start of its Year One content roadmap. The update is available across all platforms, providing new features and improvements to players.",
-      "whyItMatters": "For software developers, this demonstrates the importance of efficient release pipelines and cross-platform deployment strategies.",
+      "id": "art-1785108428206-4",
+      "title": "The Tactical Tank Turns Splatoon Raiders Into Vampire Survivors - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/the-tactical-tank-turns-splatoon-raiders-into-vampire-survivors-2000719331",
+      "summary": "A new tactical tank feature in Splatoon Raiders transforms gameplay into a Vampire Survivors‑style experience, blending fast‑paced combat with survival mechanics. The update showcases how cross‑genre mashups can revitalize player engagement and drive content updates.",
+      "whyItMatters": "It demonstrates how mobile game developers can leverage genre blending to increase retention and monetize through dynamic content updates.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-25T20:23:00Z"
+    },
+    {
+      "id": "art-1785108428543-5",
+      "title": "Google basically confirms the Pixel 11 is getting a price hike - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+      "summary": "Google has effectively confirmed that the Pixel 11 will see a price increase, a move that follows the recent wave of RAMageddon-related adjustments. The announcement signals a shift in Google’s pricing strategy for its flagship smartphone line.",
+      "whyItMatters": "Higher device costs can pressure developers to optimize apps for lower-end hardware and may slow adoption of new Pixel models, impacting app testing and market reach.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-25T18:13:36Z"
+    },
+    {
+      "id": "art-1785108429352-6",
+      "title": "Rare Nintendo Console Discovered Throughout Japanese Love Hotel - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/rare-nintendo-console-discovered-throughout-japanese-love-hotel-2000719317",
+      "summary": "A rare Nintendo console, the Famicombox, was found installed in every room of an unnamed Japanese love hotel, sparking rumors that a former Nintendo president had secretly worked on it after hours. The discovery highlights the hidden history of Nintendo's hardware experimentation and its influence on modern gaming culture.",
+      "whyItMatters": "It shows how legacy hardware can inspire contemporary developers to explore unconventional platforms, encouraging innovation in game design and hardware integration.",
       "category": "DevOps",
-      "publishedAt": "2026-07-24T15:30:49Z"
+      "publishedAt": "2026-07-25T18:08:45Z"
     },
     {
-      "id": "art-1785022134671-8",
-      "title": "Pokémon Champions Regulation M-B Double Battles Overview - Pokemon.com",
-      "source": "Pokemon.com",
-      "url": "https://www.pokemon.com/us/features/pokemon-champions-regulation-m-b-double-battles-overview",
-      "summary": "The latest Pokémon Champions Regulation M-B Double Battles Overview highlights the dominance of Mega-Evolved Pokémon in competitive play. It raises questions about which new or existing Pokémon will rise to the top in upcoming tournaments.",
-      "whyItMatters": "Game developers can study these competitive dynamics to refine balancing algorithms and enhance player engagement in mobile titles.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-24T15:19:12Z"
-    },
-    {
-      "id": "art-1785022135371-9",
-      "title": "iOS 26.6 is coming next week for iPhone, here’s what’s new - 9to5Mac",
+      "id": "art-1785108429954-7",
+      "title": "iPhone 18 won’t debut this fall, here’s why - 9to5Mac",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/24/ios-26-6-is-coming-next-week-for-iphone-heres-whats-new/",
-      "summary": "Apple is set to release iOS 26.6 next week, bringing a range of bug fixes, performance improvements, and new privacy features. The update includes enhancements to the App Store, system UI tweaks, and updated APIs for developers.",
-      "whyItMatters": "The update introduces new APIs and privacy controls that developers must adapt to maintain app compatibility and user trust.",
+      "url": "https://9to5mac.com/2026/07/25/heres-why-iphone-18-wont-launch-in-september/",
+      "summary": "Apple has announced that the iPhone 18 will not launch in September as previously expected, pushing its debut to a later date. The delay is attributed to supply chain constraints and the need to ensure a smooth launch for the new device.",
+      "whyItMatters": "Developers will need to adjust their app release timelines and marketing plans, potentially delaying new features and updates that rely on the new hardware.",
       "category": "Mobile",
-      "publishedAt": "2026-07-24T15:15:00Z"
+      "publishedAt": "2026-07-25T17:35:00Z"
+    },
+    {
+      "id": "art-1785108430518-8",
+      "title": "The Nintendo Switch 2 has finally justified its existence - Polygon.com",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/nintendo-switch-2-tech-boost-splatoon-raiders/",
+      "summary": "Nintendo’s new Switch 2 delivers a noticeable performance boost, allowing games like Donkey Kong Bananza, Kirby Air Riders, and Splatoon Raiders to run with smoother graphics and faster load times. The console’s upgraded hardware proves that Nintendo’s investment in a more powerful platform is justified by tangible improvements in gameplay experience.",
+      "whyItMatters": "Game developers can now design more graphically intensive titles and complex physics engines for the Switch 2, expanding the creative possibilities and potentially increasing revenue streams for the industry.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-25T16:00:11Z"
+    },
+    {
+      "id": "art-1785108431035-9",
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "summary": "Librarians across the U.S. are offering \"Avoiding AI\" workshops in response to growing public frustration with large tech companies. The sessions, which teach how to sidestep AI tools and services, have seen record demand, highlighting a shift toward privacy-conscious digital habits.",
+      "whyItMatters": "It signals a growing demand for alternatives to AI-driven platforms, prompting developers to consider privacy and user autonomy in their product designs.",
+      "category": "AI",
+      "publishedAt": "2026-07-25T16:00:00Z"
     }
   ]
 }
