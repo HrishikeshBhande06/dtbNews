@@ -1,105 +1,105 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "articles": [
     {
-      "id": "art-1785108426460-0",
-      "title": "ChatGPT now has a space for sharing medical records. Should you? - CBS News",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/chatgpt-health-medical-records-advice-expert-risks/",
-      "summary": "OpenAI has introduced a new feature in ChatGPT called Health in ChatGPT, allowing users to upload and share medical records within the chat interface. Experts weigh the benefits of easier medical data access against privacy and security concerns.",
-      "whyItMatters": "This development forces developers to consider new data privacy regulations and secure handling of sensitive health information in AI applications.",
-      "category": "AI",
-      "publishedAt": "2026-07-25T23:10:03Z"
+      "id": "art-1785195166748-0",
+      "title": "Miyamoto Says Players No Longer Care About Hardware Specs - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/shigeru-miyamoto-believes-gamers-have-grown-disinterested-in-hardware-specs-as-if-they-had-a-choice-2000719415",
+      "summary": "Miyamoto reports that gamers no longer prioritize cutting‑edge graphics or performance, indicating a shift in what players value in games. The trend suggests that high hardware specs are becoming less critical for the gaming market.",
+      "whyItMatters": "Software developers can redirect resources from maximizing performance to enhancing gameplay, accessibility, and cross‑platform compatibility, potentially lowering development costs and expanding audience reach.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-26T21:20:11Z"
     },
     {
-      "id": "art-1785108426824-1",
-      "title": "'If People Want That, I Think Companies Should Provide It' — Rockstar Co-Founder Shares His Thoughts on the Conversation Around Physical Game Releases - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/rockstar-co-founder-says-if-people-want-physical-game-releases-then-companies-should-provide-it",
-      "summary": "Rockstar Games co‑founder Dan Houser has stated that if players want physical copies of games, companies should provide them. He argues that meeting consumer demand for tangible media is a legitimate business decision and should not be dismissed as a niche preference.",
-      "whyItMatters": "The stance signals that developers and publishers may need to maintain or reinvest in physical production and distribution pipelines, affecting supply chain logistics, inventory management, and cost structures in the gaming industry.",
+      "id": "art-1785195167704-1",
+      "title": "Jackery FridgeGuard review: Keep your refrigerator cooling during an outage - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/jackery-fridgeguard-review",
+      "summary": "Jackery's FridgeGuard is a portable battery system that keeps refrigerators running during power outages, ensuring food safety and peace of mind. The review highlights its ease of use, long runtime, and suitability for emergency preparedness.",
+      "whyItMatters": "For software developers, reliable power solutions enable uninterrupted operation of IoT devices and edge computing workloads, reducing downtime and data loss.",
       "category": "DevOps",
-      "publishedAt": "2026-07-25T22:56:51Z"
+      "publishedAt": "2026-07-26T21:03:43Z"
     },
     {
-      "id": "art-1785108427178-2",
-      "title": "Sony Reon Pocket Pro Plus Air Conditioner Arrives In U.S. To Beat Summer Heatwaves - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/07/25/sony-reon-pocket-pro-plus-air-conditioner-arrives-in-us-to-beat-summer-heatwaves/",
-      "summary": "Sony has launched the Reon Pocket Pro Plus, a wearable air conditioner that can be worn on the body to keep users cool during heatwaves. The device, now available in the U.S., combines compact cooling technology with a mobile app for temperature control and usage monitoring.",
-      "whyItMatters": "It highlights the growing intersection of IoT and mobile app development, prompting software developers to create seamless integration, real-time monitoring, and energy‑efficiency features for wearable devices.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-25T21:03:00Z"
-    },
-    {
-      "id": "art-1785108427638-3",
-      "title": "Warren Spector’s Thick As Thieves Ends Support After Two Months - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/warren-spectors-thick-as-thieves-ends-support-after-two-months-2000719337",
-      "summary": "Thick As Thieves, a sequel to the classic Thief series, has ended support after just two months following significant layoffs at the studio. The team plans to keep the game alive by shifting to a peer‑to‑peer server model.",
-      "whyItMatters": "It underscores the fragility of indie game projects and the growing reliance on decentralized server architectures, influencing how developers plan post‑launch maintenance and infrastructure.",
-      "category": "Cloud",
-      "publishedAt": "2026-07-25T21:02:55Z"
-    },
-    {
-      "id": "art-1785108428206-4",
-      "title": "The Tactical Tank Turns Splatoon Raiders Into Vampire Survivors - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/the-tactical-tank-turns-splatoon-raiders-into-vampire-survivors-2000719331",
-      "summary": "A new tactical tank feature in Splatoon Raiders transforms gameplay into a Vampire Survivors‑style experience, blending fast‑paced combat with survival mechanics. The update showcases how cross‑genre mashups can revitalize player engagement and drive content updates.",
-      "whyItMatters": "It demonstrates how mobile game developers can leverage genre blending to increase retention and monetize through dynamic content updates.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-25T20:23:00Z"
-    },
-    {
-      "id": "art-1785108428543-5",
-      "title": "Google basically confirms the Pixel 11 is getting a price hike - The Verge",
+      "id": "art-1785195168476-2",
+      "title": "Apple is banking on privacy to set its smart glasses apart - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-      "summary": "Google has effectively confirmed that the Pixel 11 will see a price increase, a move that follows the recent wave of RAMageddon-related adjustments. The announcement signals a shift in Google’s pricing strategy for its flagship smartphone line.",
-      "whyItMatters": "Higher device costs can pressure developers to optimize apps for lower-end hardware and may slow adoption of new Pixel models, impacting app testing and market reach.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-25T18:13:36Z"
+      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+      "summary": "Apple is positioning its upcoming smart glasses as a privacy-focused product, aiming to differentiate them from competitors by emphasizing data protection and user control. The company plans to unveil the device at WWDC next June, highlighting its commitment to secure user experiences.",
+      "whyItMatters": "Developers will need to adapt to stricter privacy APIs and data handling guidelines, potentially reshaping how apps collect and process sensor data on wearable devices.",
+      "category": "Security",
+      "publishedAt": "2026-07-26T19:36:38Z"
     },
     {
-      "id": "art-1785108429352-6",
-      "title": "Rare Nintendo Console Discovered Throughout Japanese Love Hotel - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/rare-nintendo-console-discovered-throughout-japanese-love-hotel-2000719317",
-      "summary": "A rare Nintendo console, the Famicombox, was found installed in every room of an unnamed Japanese love hotel, sparking rumors that a former Nintendo president had secretly worked on it after hours. The discovery highlights the hidden history of Nintendo's hardware experimentation and its influence on modern gaming culture.",
-      "whyItMatters": "It shows how legacy hardware can inspire contemporary developers to explore unconventional platforms, encouraging innovation in game design and hardware integration.",
+      "id": "art-1785195169219-3",
+      "title": "Angry PlayStation Fans Propose PS5 Blackout in Protest of Sony's Disc Decision - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/07/angry-playstation-fans-propose-ps5-blackout-in-protest-of-sonys-disc-decision",
+      "summary": "PlayStation enthusiasts are calling for a week-long PS5 blackout in August to protest Sony’s decision to discontinue physical discs. The movement urges fans to unplug their consoles, highlighting growing frustration over the shift to digital-only media.",
+      "whyItMatters": "The protest could pressure Sony to reconsider its distribution strategy, affecting how developers release and monetize games on the platform.",
       "category": "DevOps",
-      "publishedAt": "2026-07-25T18:08:45Z"
+      "publishedAt": "2026-07-26T18:59:15Z"
     },
     {
-      "id": "art-1785108429954-7",
-      "title": "iPhone 18 won’t debut this fall, here’s why - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/25/heres-why-iphone-18-wont-launch-in-september/",
-      "summary": "Apple has announced that the iPhone 18 will not launch in September as previously expected, pushing its debut to a later date. The delay is attributed to supply chain constraints and the need to ensure a smooth launch for the new device.",
-      "whyItMatters": "Developers will need to adjust their app release timelines and marketing plans, potentially delaying new features and updates that rely on the new hardware.",
+      "id": "art-1785195169679-4",
+      "title": "6 Cool New Gadgets For Cleaning Your Car - bgr.com",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2221979/cool-new-gadgets-cleaning-your-car/",
+      "summary": "The article highlights six innovative gadgets designed to simplify car cleaning, ranging from powerful vacuums and detailing tools to clever accessories that streamline the process. These tools combine ergonomic design with advanced features to make vehicle maintenance more efficient and user-friendly.",
+      "whyItMatters": "For software developers, these hardware innovations present opportunities to create companion mobile apps that track usage, provide maintenance reminders, and integrate with smart home ecosystems, thereby expanding the automotive IoT market.",
       "category": "Mobile",
-      "publishedAt": "2026-07-25T17:35:00Z"
+      "publishedAt": "2026-07-26T18:02:00Z"
     },
     {
-      "id": "art-1785108430518-8",
-      "title": "The Nintendo Switch 2 has finally justified its existence - Polygon.com",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/nintendo-switch-2-tech-boost-splatoon-raiders/",
-      "summary": "Nintendo’s new Switch 2 delivers a noticeable performance boost, allowing games like Donkey Kong Bananza, Kirby Air Riders, and Splatoon Raiders to run with smoother graphics and faster load times. The console’s upgraded hardware proves that Nintendo’s investment in a more powerful platform is justified by tangible improvements in gameplay experience.",
-      "whyItMatters": "Game developers can now design more graphically intensive titles and complex physics engines for the Switch 2, expanding the creative possibilities and potentially increasing revenue streams for the industry.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-25T16:00:11Z"
+      "id": "art-1785195170338-5",
+      "title": "The next Kratos God of War game will follow and connect to Laufey, says Cory Barlog - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/kratos-god-of-war-links-directly-to-laufey",
+      "summary": "Cory Barlog announced at Comic-Con that the upcoming God of War title will directly follow and connect to the events of Laufey, building on the groundwork laid in the Faye game. He emphasized that all development work on Faye is intended to set up the next chapter in the series.",
+      "whyItMatters": "For software developers, this highlights the importance of designing modular, forward-compatible codebases that can support long-term narrative and feature continuity across multiple releases.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-26T17:27:52Z"
     },
     {
-      "id": "art-1785108431035-9",
-      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-      "summary": "Librarians across the U.S. are offering \"Avoiding AI\" workshops in response to growing public frustration with large tech companies. The sessions, which teach how to sidestep AI tools and services, have seen record demand, highlighting a shift toward privacy-conscious digital habits.",
-      "whyItMatters": "It signals a growing demand for alternatives to AI-driven platforms, prompting developers to consider privacy and user autonomy in their product designs.",
+      "id": "art-1785195171441-6",
+      "title": "Big PlayStation Game Sale Is A Perfect Chance To Build Up Your Physical Collection Before Sony Kills Discs - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/big-playstation-game-sale-is-a-perfect-chance-to-build-up-your-physical-collection-before-sony-kills-discs-2000719394",
+      "summary": "Sony's PlayStation game sale offers steep discounts on critically acclaimed exclusives, giving collectors a chance to stock up on physical discs before the company reportedly plans to discontinue them. The promotion highlights a shift in Sony's strategy toward digital distribution, potentially accelerating the decline of physical media in the gaming industry.",
+      "whyItMatters": "The move signals a broader industry trend toward digital-only releases, which could reduce costs for developers but also limit revenue streams from physical sales and affect supply chain partners.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-26T17:13:58Z"
+    },
+    {
+      "id": "art-1785195171992-7",
+      "title": "Xtra suddenly cancels preorders for its clone of banned DJI Osmo Pocket 4 Pro camera - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/xtra-cancels-xtra-muse-2-pro-camera-preorders-dji-ban",
+      "summary": "Xtra Muse 2 Pro preorders were abruptly cancelled after the company announced a halt to sales of its clone of the banned DJI Osmo Pocket 4 Pro. The move follows reports that the FCC is investigating the device’s radio compliance, raising questions about regulatory hurdles for similar consumer tech.",
+      "whyItMatters": "The cancellation highlights how regulatory scrutiny can abruptly halt product launches, forcing developers and manufacturers to prioritize compliance and risk assessment in their supply chains.",
+      "category": "Security",
+      "publishedAt": "2026-07-26T16:36:43Z"
+    },
+    {
+      "id": "art-1785195172507-8",
+      "title": "5 British Car Brands You've Probably Never Seen On American Highways - Jalopnik",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/2220615/british-car-brands-never-seen-on-american-highways/",
+      "summary": "The article highlights five obscure British car brands that are rarely seen on American highways, featuring unique designs such as wooden chassis. It showcases the niche automotive heritage and the limited market presence of these brands in the U.S.",
+      "whyItMatters": "Understanding niche automotive markets can inform software developers building automotive IoT or infotainment systems about diverse vehicle architectures and potential integration challenges.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-26T16:25:00Z"
+    },
+    {
+      "id": "art-1785195173123-9",
+      "title": "AI devices that see, listen and record: Are we ready for the post-smartphone world? - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/26/tech/ai-devices-see-listen-record-meta-amazon-plaud",
+      "summary": "The article explores a future where AI-powered wearables—glasses that recognize visual content and bracelets that record conversations—become ubiquitous in the workplace, raising questions about surveillance and privacy. It examines how such devices could reshape everyday interactions and the ethical implications of constant data collection.",
+      "whyItMatters": "Software developers must anticipate stricter privacy regulations and design systems that can handle continuous, multimodal data streams while safeguarding user consent.",
       "category": "AI",
-      "publishedAt": "2026-07-25T16:00:00Z"
+      "publishedAt": "2026-07-26T16:00:25Z"
     }
   ]
 }
