@@ -1,105 +1,95 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "articles": [
     {
-      "id": "art-1785367754544-0",
-      "title": "Double Fine Announces Layoffs Following Split From Xbox - Game Informer",
-      "source": "Gameinformer.com",
-      "url": "https://gameinformer.com/2026/07/28/double-fine-announces-layoffs-following-split-from-xbox",
-      "summary": "Double Fine announced layoffs after ending its partnership with Xbox, citing the studio’s survival as the reason for the painful decision. Head Tim Schafer emphasized that such action would only be considered if the studio’s future was at stake.",
-      "whyItMatters": "The layoffs highlight the vulnerability of game studios to platform partnerships and underscore the importance of diversified revenue streams for software developers.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-28T20:11:00Z"
+      "id": "art-1785454289594-0",
+      "title": "Xbox revenue drops 10 percent as Microsoft’s cloud and AI business surges - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
+      "summary": "Xbox revenue fell 10% in Q4 2026, while Microsoft’s cloud and AI businesses grew sharply. The decline highlights a shift in consumer spending away from traditional console gaming toward cloud-based and AI-driven services.",
+      "whyItMatters": "Software developers should note the growing emphasis on cloud and AI platforms, signaling more opportunities for cloud-native and AI-integrated applications.",
+      "category": "Cloud",
+      "publishedAt": "2026-07-29T20:26:48Z"
     },
     {
-      "id": "art-1785367755141-1",
-      "title": "Nexus Mods New Boss Wants To Make Modding As Easy As Using Spotify - Kotaku",
+      "id": "art-1785454290318-1",
+      "title": "Pokémon TCG: Latest Mega Evolution Booster Bundles Drop to All-Time Low Prices at Amazon - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/pokemon-tcg-mega-evolution-booster-bundle-amazon-deals",
+      "summary": "Amazon has restocked Pokémon TCG booster bundles, including Pitch Black, Chaos Rising, and Perfect Order, and is offering them at all‑time low prices with fast Prime shipping. These deals make sealed Mega Evolution packs more accessible to collectors and hobbyists looking for value on the marketplace.",
+      "whyItMatters": "The price drop could influence e‑commerce developers to optimize pricing algorithms and inventory management for high‑demand collectible items, impacting revenue forecasting and dynamic pricing strategies.",
+      "category": "Web Dev",
+      "publishedAt": "2026-07-29T19:38:01Z"
+    },
+    {
+      "id": "art-1785454290898-2",
+      "title": "Pokémon Red And Blue Mod Turns The Game Boy Games Into A Gorgeous 3D Diorama - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/the-biggest-modding-site-around-wants-to-make-installing-mods-as-easy-as-using-spotify-2000719879",
-      "summary": "Nexus Mods has appointed a new boss who aims to simplify modding by making it as effortless as streaming music on Spotify. The goal is to eliminate the need for players to scour Reddit for troubleshooting, streamlining the mod installation process.",
-      "whyItMatters": "By lowering the barrier to entry for mod creation and deployment, this shift could accelerate community-driven software innovation and reduce support overhead for developers.",
+      "url": "https://kotaku.com/pokemon-red-blue-recompilation-project-voxel-3d-mod-2000720281",
+      "summary": "A new mod called the Recompilation Project transforms the classic Game Boy titles Pokémon Red and Blue into stunning 3D dioramas, allowing fans to view the games from fresh angles. The project showcases how modern rendering techniques can breathe new life into legacy software.",
+      "whyItMatters": "It demonstrates how re-compilation and advanced graphics can extend the lifespan of older games, inspiring developers to revisit and repurpose legacy codebases.",
       "category": "DevOps",
-      "publishedAt": "2026-07-28T19:45:08Z"
+      "publishedAt": "2026-07-29T18:45:30Z"
     },
     {
-      "id": "art-1785367755559-2",
-      "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
-      "summary": "Ozlo has released Sleepbuds 2, a new generation of sleep earbuds that extend battery life, improve connectivity, and deliver enhanced audio quality while adding fresh sleep‑tracking features. The update revives the product line that Bose abandoned, positioning Ozlo as a competitor in the niche sleep‑tech market.",
-      "whyItMatters": "For software developers, the new sleep‑tracking capabilities open opportunities to build health‑data integrations and personalized sleep‑analytics apps that can run on mobile platforms.",
+      "id": "art-1785454291483-3",
+      "title": "What’s the catch with the Apple Upgrade program? - theverge.com",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
+      "summary": "Apple's new Upgrade program lets customers lease iPhones, iPads, Macs, and Apple Watches at a low monthly cost, but the long-term costs and limited flexibility may outweigh the convenience. The program could shift consumer purchasing habits and affect device resale markets.",
+      "whyItMatters": "For software developers, the program may increase the number of devices running older OS versions, impacting app compatibility and testing strategies.",
       "category": "Mobile",
-      "publishedAt": "2026-07-28T19:09:18Z"
+      "publishedAt": "2026-07-29T18:40:06Z"
     },
     {
-      "id": "art-1785367756343-3",
-      "title": "Halo: Campaign Evolved Scales Well from PS5 Pro to Xbox Series S Despite Its Full-Throated Unreal Engine 5 Features - Digital Foundry",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/features/halo-campaign-evolved-scales-well-from-ps5-pro-to-xbox-series-s-despite-its-full-throated-unreal-engine-5-features",
-      "summary": "Halo: Campaign Evolved, a remake of the classic title, demonstrates that Unreal Engine 5 can deliver high-fidelity visuals while maintaining performance across a wide range of hardware, from the PS5 Pro to the Xbox Series S. Digital Foundry’s analysis shows that the game’s optimizations allow it to run smoothly even on lower‑end consoles without sacrificing graphical quality.",
-      "whyItMatters": "This showcases how modern game engines can be tuned for cross‑platform performance, informing developers on efficient resource management and scalability strategies.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-28T19:07:00Z"
-    },
-    {
-      "id": "art-1785367756877-4",
-      "title": "Xbox announces Gamescom 2026 plans - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/07/xbox-announces-gamescom-2026-plans",
-      "summary": "Xbox has announced its Gamescom 2026 plans, scheduled for August 26-30 at Koelnmesse in Cologne, Germany. The event will feature both first‑party and third‑party titles playable at the Xbox booth, along with live demonstrations and announcements.",
-      "whyItMatters": "The showcase will give developers early visibility into upcoming Xbox titles and platform features, influencing their development roadmaps and marketing strategies.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-28T18:39:57Z"
-    },
-    {
-      "id": "art-1785367757300-5",
-      "title": "Crazy Taxi: World Tour closed network test set for September 11 to 13 - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/07/crazy-taxi-world-tour-closed-network-test-set-for-september-11-to-13",
-      "summary": "SEGA will conduct a closed network test for Crazy Taxi: World Tour on PlayStation 5, Xbox Series, and PC from September 11 to 13. The test will run from 5:00 p.m. PT / 8:00 p.m. ET on the 11th until 5:00 p.m. PT / 8:00 p.m. ET on the 13th.",
-      "whyItMatters": "It gives developers a chance to evaluate and refine cross‑platform multiplayer performance, informing best practices for networked game deployment.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-28T17:59:35Z"
-    },
-    {
-      "id": "art-1785367758047-6",
-      "title": "Apple to lease iPhones, other products to users through Klarna partnership - Fox Business",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/technology/apple-lease-iphones-other-products-users-through-klarna-partnership",
-      "summary": "Apple has announced a partnership with Klarna that lets customers lease iPhones, iPads, Macs, and Apple Watches, with the option to return, upgrade, or buy the device when the lease ends. This move introduces a new financing model that could broaden access to Apple hardware and influence how developers target device availability and feature rollouts.",
-      "whyItMatters": "For software developers, the leasing model means a larger, more diverse user base that may adopt newer hardware more quickly, requiring developers to optimize for a broader range of device configurations.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-28T17:58:00Z"
-    },
-    {
-      "id": "art-1785367758651-7",
-      "title": "Tim Cook & John Ternus Talk CEO Transition, Apple TV’s Legacy & Future At ‘Ted Lasso’ S4 Premiere - Deadline",
-      "source": "Deadline",
-      "url": "http://deadline.com/2026/07/ted-lasso-premiere-apple-ceo-tim-cook-john-ternus-interview-1237005409/",
-      "summary": "Tim Cook and his successor John Ternus discussed the CEO transition and Apple TV’s legacy and future during the ‘Ted Lasso’ Season 4 premiere. They highlighted the company’s strategic direction for streaming content and the importance of maintaining Apple’s brand presence in entertainment.",
-      "whyItMatters": "The announcement signals potential new opportunities and strategic shifts for developers building apps and services on Apple’s streaming platforms, impacting how software is integrated with Apple’s ecosystem.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-28T17:32:00Z"
-    },
-    {
-      "id": "art-1785367759379-8",
-      "title": "Pokemon Pokopia DLC – Part 1, Bubbly Basin release date announced - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/pokemon-pokopia-dlc-part-1-bubbly-basin-release-date-announced/",
-      "summary": "Nintendo has announced the release date for the first part of the Pokemon Pokopia Expansion Pass DLC, titled Bubbly Basin, which will launch on August 5, 2026. The DLC introduces an underwater town and new Pokémon encounters, expanding the game's world and content.",
-      "whyItMatters": "This release demonstrates the importance of structured DLC pipelines and continuous delivery practices for game studios, highlighting how timely updates can sustain player engagement and revenue.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-28T17:18:38Z"
-    },
-    {
-      "id": "art-1785367759986-9",
-      "title": "Shigeru Miyamoto Sums Up Everything Wrong With The Industry In One Sentence - Kotaku",
+      "id": "art-1785454292431-4",
+      "title": "One Of The Best Lego Sets Ever Made Is On Sale For Under $50 - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/shigeru-miyamoto-sums-up-everything-wrong-with-the-industry-in-one-sentence-2000719771",
-      "summary": "Shigeru Miyamoto criticizes the current state of the video game industry in a single, scathing sentence, highlighting what he sees as its systemic flaws. He argues that Nintendo’s continued success stems from its focus on quality, innovation, and player experience, while competitors falter due to overemphasis on monetization and short‑term gains.",
-      "whyItMatters": "The critique underscores the importance of sustainable development practices and user‑centric design for software developers, warning that neglecting these can lead to industry-wide stagnation.",
-      "category": "DevOps",
-      "publishedAt": "2026-07-28T17:00:06Z"
+      "url": "https://kotaku.com/one-of-the-best-lego-sets-ever-made-is-on-sale-for-under-50-2000720270",
+      "summary": "Kotaku reports that the Lego Game Boy, considered one of the best Lego sets, is now available for under $50. The set is praised for its craftsmanship and enjoyable building experience.",
+      "whyItMatters": "The affordable, highly detailed Lego Game Boy can serve as a tangible prototype for developers to prototype handheld device designs, encouraging modular hardware‑software integration.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-29T18:30:54Z"
+    },
+    {
+      "id": "art-1785454293045-5",
+      "title": "All The Video Game Studios That Refuse To Use Generative AI - Aftermath",
+      "source": "Aftermath.site",
+      "url": "https://aftermath.site/video-games-no-ai/",
+      "summary": "The article lists video game studios that have chosen not to adopt generative AI tools, arguing that creativity and craftsmanship can thrive without them. It highlights a broader debate about the role of AI in creative industries and the persistence of traditional development practices.",
+      "whyItMatters": "For software developers, the refusal to use generative AI signals a continued demand for manual coding skills and may influence hiring and tool adoption trends in the gaming sector.",
+      "category": "AI",
+      "publishedAt": "2026-07-29T18:27:34Z"
+    },
+    {
+      "id": "art-1785454293349-6",
+      "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "summary": "OpenAI president Greg Brockman announced that the company is developing a range of AI-powered devices to bring its chatbots into everyday hardware. The initiative signals a shift toward embedding generative AI directly into consumer products rather than just cloud services.",
+      "whyItMatters": "Software developers will need to adapt to new hardware APIs and consider how generative AI can be integrated into device ecosystems, potentially opening new revenue streams and changing user interaction paradigms.",
+      "category": "AI",
+      "publishedAt": "2026-07-29T18:15:02Z"
+    },
+    {
+      "id": "art-1785454294051-7",
+      "title": "Xenoblade Chronicles 2 Nintendo Switch 2 Edition Impressions – Upgrade Comparisons, Boost Mode, and More - RPG Site",
+      "source": "RPG Site",
+      "url": "https://www.rpgsite.net/feature/20994-xenoblade-chronicles-2-nintendo-switch-2-edition-review-vs-switch-1-impressions-comparison-upgrade",
+      "summary": "The article reviews the Xenoblade Chronicles 2 Nintendo Switch 2 Edition, comparing its upgraded visuals, frame rate, and load times to the original game and Torna. It highlights how the new edition’s performance boosts and Boost Mode enhance the handheld gaming experience.",
+      "whyItMatters": "The improved performance and optimization techniques showcased can inform developers on how to efficiently scale graphics and reduce load times on limited hardware, benefiting the broader mobile and handheld game development community.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-29T17:56:32Z"
+    },
+    {
+      "id": "art-1785454294611-8",
+      "title": "8 Best Games To Play After The Adventures Of Elliot - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/8-best-games-to-play-after-the-adventures-of-elliot-2000719865",
+      "summary": "Kotaku lists eight games that are great follow-ups to \"The Adventures of Elliot\", offering fresh adventures for players. The article highlights diverse genres and platforms, encouraging gamers to explore new titles after finishing the original.",
+      "whyItMatters": "For software developers, understanding player preferences and trends in adventure game releases can inform future game design and marketing strategies.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-29T17:52:10Z"
     }
   ]
 }
