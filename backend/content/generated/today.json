@@ -1,95 +1,105 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "articles": [
     {
-      "id": "art-1785454289594-0",
-      "title": "Xbox revenue drops 10 percent as Microsoft’s cloud and AI business surges - The Verge",
+      "id": "art-1785540515856-0",
+      "title": "Tim Cook says Apple may charge for AI Siri - Axios",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/30/tim-cook-apple-may-charge-for-ai-siri",
+      "summary": "Apple is considering charging for heavy use of its AI-powered Siri, potentially requiring users to subscribe to iCloud+ for advanced features. This move signals a shift toward monetizing AI services within the Apple ecosystem.",
+      "whyItMatters": "Developers building Siri-integrated apps may face new revenue models and subscription requirements, impacting user adoption and app design.",
+      "category": "AI",
+      "publishedAt": "2026-07-30T22:10:31Z"
+    },
+    {
+      "id": "art-1785540516464-1",
+      "title": "Xbox CEO says the team has one year to start growing again - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
-      "summary": "Xbox revenue fell 10% in Q4 2026, while Microsoft’s cloud and AI businesses grew sharply. The decline highlights a shift in consumer spending away from traditional console gaming toward cloud-based and AI-driven services.",
-      "whyItMatters": "Software developers should note the growing emphasis on cloud and AI platforms, signaling more opportunities for cloud-native and AI-integrated applications.",
-      "category": "Cloud",
-      "publishedAt": "2026-07-29T20:26:48Z"
-    },
-    {
-      "id": "art-1785454290318-1",
-      "title": "Pokémon TCG: Latest Mega Evolution Booster Bundles Drop to All-Time Low Prices at Amazon - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/pokemon-tcg-mega-evolution-booster-bundle-amazon-deals",
-      "summary": "Amazon has restocked Pokémon TCG booster bundles, including Pitch Black, Chaos Rising, and Perfect Order, and is offering them at all‑time low prices with fast Prime shipping. These deals make sealed Mega Evolution packs more accessible to collectors and hobbyists looking for value on the marketplace.",
-      "whyItMatters": "The price drop could influence e‑commerce developers to optimize pricing algorithms and inventory management for high‑demand collectible items, impacting revenue forecasting and dynamic pricing strategies.",
-      "category": "Web Dev",
-      "publishedAt": "2026-07-29T19:38:01Z"
-    },
-    {
-      "id": "art-1785454290898-2",
-      "title": "Pokémon Red And Blue Mod Turns The Game Boy Games Into A Gorgeous 3D Diorama - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/pokemon-red-blue-recompilation-project-voxel-3d-mod-2000720281",
-      "summary": "A new mod called the Recompilation Project transforms the classic Game Boy titles Pokémon Red and Blue into stunning 3D dioramas, allowing fans to view the games from fresh angles. The project showcases how modern rendering techniques can breathe new life into legacy software.",
-      "whyItMatters": "It demonstrates how re-compilation and advanced graphics can extend the lifespan of older games, inspiring developers to revisit and repurpose legacy codebases.",
+      "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
+      "summary": "Xbox CEO Asha Sharma announced that the company has one year to resume player and revenue growth, as stated in a memo to staff. This follows a major restructuring aimed at revitalizing the console's market position.",
+      "whyItMatters": "It signals a shift in Microsoft's gaming strategy, affecting developers who rely on Xbox's platform for revenue and player engagement.",
       "category": "DevOps",
-      "publishedAt": "2026-07-29T18:45:30Z"
+      "publishedAt": "2026-07-30T22:10:13Z"
     },
     {
-      "id": "art-1785454291483-3",
-      "title": "What’s the catch with the Apple Upgrade program? - theverge.com",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
-      "summary": "Apple's new Upgrade program lets customers lease iPhones, iPads, Macs, and Apple Watches at a low monthly cost, but the long-term costs and limited flexibility may outweigh the convenience. The program could shift consumer purchasing habits and affect device resale markets.",
-      "whyItMatters": "For software developers, the program may increase the number of devices running older OS versions, impacting app compatibility and testing strategies.",
+      "id": "art-1785540516891-2",
+      "title": "The disc is not the game: Physical releases increasingly require extra downloads - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
+      "summary": "Physical game discs increasingly require additional downloads to function, turning them into hybrid digital products. This shift means that even traditional retail releases now depend on online infrastructure for activation, updates, and content delivery.",
+      "whyItMatters": "Developers must integrate online services and continuous delivery pipelines into physical products, blurring the line between physical and digital distribution and increasing dependency on network availability.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-30T20:12:50Z"
+    },
+    {
+      "id": "art-1785540517263-3",
+      "title": "Casio’s Tiny Ring Watch Is Now a Full-Blown Oura Alternative - Gizmodo",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/casios-tiny-ring-watch-is-now-a-full-blown-oura-alternative-2000793116",
+      "summary": "Casio has unveiled the CRW-H001, a tiny ring watch that rivals the popular Oura ring by tracking heart rate, blood oxygen, and sleep patterns while providing notification alerts via vibration. The device positions Casio as a new contender in the wearable health market, offering a more affordable and compact alternative to existing smart rings.",
+      "whyItMatters": "The CRW-H001’s entry into the health‑tracking space forces developers to consider broader device ecosystems and data interoperability, potentially expanding API integration opportunities for mobile health apps.",
       "category": "Mobile",
-      "publishedAt": "2026-07-29T18:40:06Z"
+      "publishedAt": "2026-07-30T19:30:55Z"
     },
     {
-      "id": "art-1785454292431-4",
-      "title": "One Of The Best Lego Sets Ever Made Is On Sale For Under $50 - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/one-of-the-best-lego-sets-ever-made-is-on-sale-for-under-50-2000720270",
-      "summary": "Kotaku reports that the Lego Game Boy, considered one of the best Lego sets, is now available for under $50. The set is praised for its craftsmanship and enjoyable building experience.",
-      "whyItMatters": "The affordable, highly detailed Lego Game Boy can serve as a tangible prototype for developers to prototype handheld device designs, encouraging modular hardware‑software integration.",
+      "id": "art-1785540517635-4",
+      "title": "iPhone 18 Pro could introduce new Apple solution for cellular, hints report - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/30/iphone-18-pro-could-introduce-new-apple-solution-for-cellular-hints-report/",
+      "summary": "Apple may replace Qualcomm modems in the iPhone 18 Pro with its own C2 modem, marking a significant shift in the device’s cellular architecture. This move could alter how future iPhones handle connectivity and power management.",
+      "whyItMatters": "Developers will need to adapt to new modem APIs and potentially new power‑saving features, affecting app performance and testing on upcoming iPhone models.",
       "category": "Mobile",
-      "publishedAt": "2026-07-29T18:30:54Z"
+      "publishedAt": "2026-07-30T19:13:00Z"
     },
     {
-      "id": "art-1785454293045-5",
-      "title": "All The Video Game Studios That Refuse To Use Generative AI - Aftermath",
+      "id": "art-1785540518032-5",
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "summary": "Google reported that it fixed more Chrome bugs in June alone than it had in the previous two years, attributing the surge to the use of large language models and AI tools. The company’s rapid bug‑patching pace highlights how AI is transforming software maintenance and quality assurance processes.",
+      "whyItMatters": "For software developers, this demonstrates that AI can dramatically accelerate defect detection and resolution, reshaping development workflows and reducing release cycles.",
+      "category": "AI",
+      "publishedAt": "2026-07-30T18:57:58Z"
+    },
+    {
+      "id": "art-1785540518503-6",
+      "title": "Pixel Watch 5 leaks in official-looking images with same charging system - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/30/pixel-watch-5-angles-leak/",
+      "summary": "Pixel Watch 5 leaks reveal that the new model will share the same external design and case as its predecessor, with identical charging system. Official-looking images confirm the unchanged aesthetic and hardware layout.",
+      "whyItMatters": "Developers can anticipate continuity in UI design and hardware integration, simplifying app compatibility and wearables support.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-30T18:21:00Z"
+    },
+    {
+      "id": "art-1785540518997-7",
+      "title": "Apple is about to launch Home product overhaul I’ve wanted for years - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/30/apple-is-about-to-launch-home-product-overhaul-ive-wanted-for-years/",
+      "summary": "Apple is set to launch a major overhaul of its Home product line, introducing new features and integrations that promise to enhance smart home experiences. The announcement signals a significant push into the home automation market, potentially reshaping how developers build apps for Apple’s ecosystem.",
+      "whyItMatters": "It opens new opportunities for mobile developers to create richer home automation apps and could shift the competitive landscape in the smart home industry.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-30T17:29:00Z"
+    },
+    {
+      "id": "art-1785540519276-8",
+      "title": "Pixel 11 series leaks with seemingly official renders, includes all-matte Pixel 11 Pro [Gallery] - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/07/30/pixel-11-series-leaks-with-seemingly-official-renders-includes-all-matte-pixel-11-pro-gallery/",
+      "summary": "Leaks of the Pixel 11 series reveal official-looking renders, including a matte Pixel 11 Pro, showing new design details and potential hardware changes.",
+      "whyItMatters": "Developers will need to adapt app UI and performance optimizations to the new Pixel 11 hardware and design specifications.",
+      "category": "Mobile",
+      "publishedAt": "2026-07-30T17:20:00Z"
+    },
+    {
+      "id": "art-1785540520370-9",
+      "title": "Do Not Buy The War Crime N64 - Aftermath",
       "source": "Aftermath.site",
-      "url": "https://aftermath.site/video-games-no-ai/",
-      "summary": "The article lists video game studios that have chosen not to adopt generative AI tools, arguing that creativity and craftsmanship can thrive without them. It highlights a broader debate about the role of AI in creative industries and the persistence of traditional development practices.",
-      "whyItMatters": "For software developers, the refusal to use generative AI signals a continued demand for manual coding skills and may influence hiring and tool adoption trends in the gaming sector.",
-      "category": "AI",
-      "publishedAt": "2026-07-29T18:27:34Z"
-    },
-    {
-      "id": "art-1785454293349-6",
-      "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "summary": "OpenAI president Greg Brockman announced that the company is developing a range of AI-powered devices to bring its chatbots into everyday hardware. The initiative signals a shift toward embedding generative AI directly into consumer products rather than just cloud services.",
-      "whyItMatters": "Software developers will need to adapt to new hardware APIs and consider how generative AI can be integrated into device ecosystems, potentially opening new revenue streams and changing user interaction paradigms.",
-      "category": "AI",
-      "publishedAt": "2026-07-29T18:15:02Z"
-    },
-    {
-      "id": "art-1785454294051-7",
-      "title": "Xenoblade Chronicles 2 Nintendo Switch 2 Edition Impressions – Upgrade Comparisons, Boost Mode, and More - RPG Site",
-      "source": "RPG Site",
-      "url": "https://www.rpgsite.net/feature/20994-xenoblade-chronicles-2-nintendo-switch-2-edition-review-vs-switch-1-impressions-comparison-upgrade",
-      "summary": "The article reviews the Xenoblade Chronicles 2 Nintendo Switch 2 Edition, comparing its upgraded visuals, frame rate, and load times to the original game and Torna. It highlights how the new edition’s performance boosts and Boost Mode enhance the handheld gaming experience.",
-      "whyItMatters": "The improved performance and optimization techniques showcased can inform developers on how to efficiently scale graphics and reduce load times on limited hardware, benefiting the broader mobile and handheld game development community.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-29T17:56:32Z"
-    },
-    {
-      "id": "art-1785454294611-8",
-      "title": "8 Best Games To Play After The Adventures Of Elliot - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/8-best-games-to-play-after-the-adventures-of-elliot-2000719865",
-      "summary": "Kotaku lists eight games that are great follow-ups to \"The Adventures of Elliot\", offering fresh adventures for players. The article highlights diverse genres and platforms, encouraging gamers to explore new titles after finishing the original.",
-      "whyItMatters": "For software developers, understanding player preferences and trends in adventure game releases can inform future game design and marketing strategies.",
-      "category": "Mobile",
-      "publishedAt": "2026-07-29T17:52:10Z"
+      "url": "https://aftermath.site/war-crime-n64-palmer-luckey-m64-modretro/",
+      "summary": "The article warns against purchasing the ‘War Crime N64 – Aftermath’, a project allegedly tied to Palmer Luckey, arguing that there are many legitimate ways to enjoy the N64 without supporting his venture. It calls on consumers to avoid backing the project, citing concerns over its legitimacy and impact on the broader N64 community.",
+      "whyItMatters": "By discouraging support for this niche hardware initiative, the piece underscores how consumer choices can directly influence the viability of legacy console projects and the developers who maintain them.",
+      "category": "DevOps",
+      "publishedAt": "2026-07-30T17:07:41Z"
     }
   ]
 }
