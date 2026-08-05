@@ -1,95 +1,95 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "articles": [
     {
-      "id": "art-1785886279873-0",
-      "title": "Lamborghini Honors A Legendary Supercar With Some Fancy Paint - Motor1.com",
-      "source": "Motor1 ",
-      "url": "https://www.motor1.com/news/803585/lamborghini-revuelto-miura-homage-package/",
-      "summary": "Lamborghini is celebrating the 60th anniversary of the iconic Miura by releasing a limited‑run special Revuelto with unique exterior colors and liveries. The move highlights the brand’s commitment to heritage while offering collectors a rare, high‑performance edition.",
-      "whyItMatters": "It demonstrates how automotive manufacturers can apply software‑like iterative, limited‑release strategies to hardware, encouraging developers to adopt similar approaches for rapid prototyping and market differentiation.",
+      "id": "art-1785972495414-0",
+      "title": "Everything Apple Is Expected to Announce in September - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/04/apple-september-2026-announcements/",
+      "summary": "Apple is expected to unveil at least five new devices at its September event, likely including a new iPhone, iPad, Mac, Apple Watch, and AirPods. The announcement will also cover updates to existing product lines and potentially introduce new accessories or services.",
+      "whyItMatters": "Developers will need to adapt their apps and SDKs to support the new hardware, while the broader tech industry will see shifts in supply chains and competitive positioning.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-04T22:10:01Z"
+    },
+    {
+      "id": "art-1785972495925-1",
+      "title": "'It Would Be a Real Shame for That Culture to Disappear': Final Fantasy 7 Revelation Director Says Physical Game Releases Must Continue - ign.com",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/it-would-be-a-real-shame-for-that-culture-to-disappear-final-fantasy-7-revelation-director-says-physical-game-releases-must-continue",
+      "summary": "Final Fantasy 7 Remake trilogy director Naoki Hamaguchi has warned that ending physical game releases could cause cultural loss, following Sony's decision to discontinue PS5 discs. He emphasizes the importance of maintaining physical media for preserving gaming heritage.",
+      "whyItMatters": "The shift away from physical media forces developers to rely solely on digital distribution, potentially limiting revenue models and affecting supply chain strategies.",
       "category": "DevOps",
-      "publishedAt": "2026-08-04T00:34:14Z"
+      "publishedAt": "2026-08-04T22:01:42Z"
     },
     {
-      "id": "art-1785886280400-1",
-      "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
-      "summary": "Snap CEO Evan Spiegel avoided answering questions about the Specs preorder during the Q2 earnings call, instead noting that mass‑market adoption of the product is not expected until the end of the decade. He emphasized that the company remains focused on long‑term growth rather than immediate sales.",
-      "whyItMatters": "The delayed consumer uptake signals that mobile hardware innovations may lag behind software trends, prompting developers to prioritize feature development over hardware integration.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-03T22:10:58Z"
-    },
-    {
-      "id": "art-1785886281164-2",
-      "title": "Fans Discovered A Chaotic Secret In Divinity's Reveal Trailer - Kotaku",
+      "id": "art-1785972496901-2",
+      "title": "New Baldur’s Gate 3 Player Stats Prove You’re All Knife-Happy Bard Murderers - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/chaotic-secret-larian-divinity-reveal-trailer-2000721274",
-      "summary": "Fans discovered a chaotic secret in Divinity's reveal trailer, revealing hidden content that surprised the community. The unexpected Easter egg sparked discussions about game marketing and audience engagement.",
-      "whyItMatters": "It highlights the importance of thorough quality assurance and content review in game releases, as unexpected surprises can influence player perception and brand trust.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-03T22:00:12Z"
+      "url": "https://kotaku.com/baldurs-gate-3-player-stats-alfira-murderers-dark-urge-2000721639",
+      "summary": "Kotaku reports that new player statistics from Baldur’s Gate 3 reveal a trend of players favoring knife-based bard characters, sparking controversy over character choices. The data, sourced from in-game analytics, suggests a shift in gameplay strategies that could influence future game design and community discussions.",
+      "whyItMatters": "The release of detailed player data highlights the need for developers to implement robust privacy safeguards and transparent data handling practices in game analytics.",
+      "category": "Security",
+      "publishedAt": "2026-08-04T20:15:59Z"
     },
     {
-      "id": "art-1785886281734-4",
-      "title": "Google Pixel 11 Pro marketing materials leak confirming some specs - GSMArena.com news - GSMArena.com",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/google_pixel_11_pro_marketing_materials_leak_confirming_some_specs-news-73988.php",
-      "summary": "Leaked marketing materials for the Google Pixel 11 and Pixel 11 Pro Fold confirm design details and key specifications. The leak provides early insight into Google's upcoming flagship smartphone features.",
-      "whyItMatters": "Software developers can anticipate new hardware capabilities, enabling early optimization of Android apps for the Pixel 11 Pro's anticipated performance and camera features.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-03T21:22:02Z"
+      "id": "art-1785972497331-3",
+      "title": "Telegram says Apple suspension followed content norms violation by one user - Al Jazeera",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user",
+      "summary": "Telegram claims Apple suspended its app after discovering a user posted child sexual abuse material, violating Apple's content guidelines. Apple confirmed the review found the material and took action to remove the offending content.",
+      "whyItMatters": "App developers must rigorously enforce content policies to avoid platform bans and protect user safety, underscoring the importance of robust moderation tools.",
+      "category": "Security",
+      "publishedAt": "2026-08-04T19:36:18Z"
     },
     {
-      "id": "art-1785886282198-5",
-      "title": "Here’s everything new in Android 17 QPR2 Beta 2 [Gallery] - 9to5Google",
+      "id": "art-1785972497812-4",
+      "title": "Microsoft is retiring its peer-feedback tool as it overhauls employee reviews, an internal message shows - Business Insider",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/microsoft-retires-peer-feedback-tool-in-review-system-revamp-2026-8#article",
+      "summary": "Microsoft is discontinuing its peer-feedback tool as part of a broader overhaul of employee review processes, a move that signals a shift away from the previously praised \"kinder, gentler\" culture. The decision reflects a strategic pivot to new performance management systems aimed at improving efficiency and alignment across the organization.",
+      "whyItMatters": "For software developers, the retirement of this tool means a change in how peer input is gathered and evaluated, potentially affecting collaboration, feedback loops, and career development within Microsoft and the wider tech industry.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-04T19:14:58Z"
+    },
+    {
+      "id": "art-1785972498402-6",
+      "title": "Here’s the first Asus Googlebook as the floodgates start to open - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/03/android-17-qpr2-beta-2-everything-new/",
-      "summary": "Google has released Android 17 QPR2 Beta 2, continuing its preview cycle and signaling a stable launch in December 2026. The beta introduces new features and refinements that developers can test ahead of the final release.",
-      "whyItMatters": "It gives mobile developers an early window to adapt apps to upcoming API changes and performance improvements, ensuring smoother releases when the stable version arrives.",
+      "url": "http://9to5google.com/2026/08/04/heres-the-first-asus-googlebook/",
+      "summary": "Asus has unveiled the first Googlebook, a Google-branded laptop that follows a similar device from another PC maker. The release signals Google’s push into hardware, offering a pre-integrated platform for its services.",
+      "whyItMatters": "The Googlebook gives developers a ready-to-use environment to test and optimize Google APIs and services, potentially streamlining development workflows and reducing setup time.",
       "category": "Mobile",
-      "publishedAt": "2026-08-03T21:19:00Z"
+      "publishedAt": "2026-08-04T18:37:00Z"
     },
     {
-      "id": "art-1785886282504-6",
-      "title": "Apple iPhone 18 Pro Release Date September Signaled In Keynote Update - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/08/03/apple-iphone-18-pro-september-release-date-signaled-in-keynote-update/",
-      "summary": "Apple is expected to announce the iPhone 18 Pro at its upcoming September keynote, with the device slated to go on sale shortly thereafter. The announcement will likely reveal new hardware specs and features that could shape the next wave of mobile app development.",
-      "whyItMatters": "The new iPhone’s hardware and feature set will dictate performance benchmarks, API support, and optimization strategies for developers building apps for the latest iOS platform.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-03T21:15:10Z"
-    },
-    {
-      "id": "art-1785886282941-7",
-      "title": "Apple’s Incoming CEO John Ternus Rehires Retired Executive Laura Legros - Bloomberg",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/apple-s-new-ceo-taps-retired-hardware-executive-for-management-team",
-      "summary": "Apple’s incoming CEO John Ternus has rehired retired executive Laura Legros, a trusted lieutenant from his hardware engineering days, to join his new management team. The move signals a continuity of leadership focus on Apple’s hardware‑software integration strategy as the company transitions to new executive oversight.",
-      "whyItMatters": "For software developers, the reappointment of a hardware‑engineering veteran suggests Apple may prioritize tighter hardware‑software collaboration, potentially influencing future developer tools and device capabilities.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-03T20:09:45Z"
-    },
-    {
-      "id": "art-1785886283596-8",
-      "title": "Midnight Club 5 Was Possibly Set In London But Was Canceled In 2010 - Kotaku",
+      "id": "art-1785972498801-7",
+      "title": "Fans Upset Over Some New Vinyl Records Missing Content And Final Mixes - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/former-dev-says-midnight-club-5-was-canceled-because-the-series-was-rockstars-red-headed-stepchild-2000721232",
-      "summary": "Midnight Club 5 was rumored to be set in London, but the project was canceled in 2010. With the series over a decade and a half since its last release, a new entry seems unlikely.",
-      "whyItMatters": "The cancellation signals a shift in resource allocation for game studios, prompting developers to prioritize projects with higher commercial viability.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-03T19:39:36Z"
+      "url": "https://kotaku.com/physical-media-fans-are-sick-of-expensive-vinyl-albums-with-unfinished-tracks-or-missing-songs-a-bait-and-switch-isnt-cool-2000721582",
+      "summary": "Fans are upset that new vinyl records from artists like Olivia Rodrigo and Raye are missing content and final mixes, leading to criticism from collectors. The issue highlights the importance of thorough quality control and accurate metadata in physical media releases.",
+      "whyItMatters": "It underscores the need for robust release pipelines and quality assurance practices that extend beyond digital platforms, affecting how developers manage production and distribution workflows.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-04T18:15:53Z"
     },
     {
-      "id": "art-1785886284187-9",
-      "title": "This 1979 Mercedes-Benz 280TE Was Trapped Inside An Italian Garage For 38 Years, Now It's Probably The Most Valuable W123 Ever - Jalopnik",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2229411/1979-mercedes-benz-280te-auction-probably-most-valuable-w123-ever/",
-      "summary": "A 1979 Mercedes-Benz 280TE was hidden in an Italian garage for 38 years before resurfacing, and it is now considered the most valuable W123 model ever auctioned. The story highlights how rare, well-preserved items can command extraordinary prices after decades of obscurity.",
-      "whyItMatters": "For software developers, the tale underscores the importance of meticulous long-term asset management and preservation practices, mirroring the need to safeguard critical code and data over time.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-03T19:27:50Z"
+      "id": "art-1785972499186-8",
+      "title": "Android 17 August update rolling out with three Pixel 10 fixes - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/04/android-17-august-pixel-update/",
+      "summary": "Google is rolling out the August 2026 security patch for Android 17 on the Pixel 10 Pro, Pixel 10 Pro XL, Pixel 10 Pro Fold, and Pixel 10a, addressing three specific fixes. The update ensures the devices remain secure and compliant with the latest Android security standards.",
+      "whyItMatters": "Developers must update and test their apps to accommodate the new security patches and ensure compatibility with the latest Android 17 features.",
+      "category": "Security",
+      "publishedAt": "2026-08-04T18:12:00Z"
+    },
+    {
+      "id": "art-1785972499809-9",
+      "title": "DuckDuckGo Is Selling Anti Pervert Glasses That Contain Zero AI, Cameras, or Even Electronics Whatsoever - Yahoo News Canada",
+      "source": "Futurism",
+      "url": "https://futurism.com/artificial-intelligence/duckduckgo-selling-anti-pervert-glasses",
+      "summary": "DuckDuckGo has announced a novelty product called anti‑pervert glasses that contain no AI, cameras, or electronics, aiming to deter unwanted attention. The glasses are marketed as a humorous, privacy‑focused accessory with no functional tech components.",
+      "whyItMatters": "It underscores the growing consumer interest in privacy‑centric hardware, though it offers no direct implications for software developers or the broader tech industry.",
+      "category": "Security",
+      "publishedAt": "2026-08-04T17:48:00Z"
     }
   ]
 }
