@@ -1,95 +1,105 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-07",
   "articles": [
     {
-      "id": "art-1785972495414-0",
-      "title": "Everything Apple Is Expected to Announce in September - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/04/apple-september-2026-announcements/",
-      "summary": "Apple is expected to unveil at least five new devices at its September event, likely including a new iPhone, iPad, Mac, Apple Watch, and AirPods. The announcement will also cover updates to existing product lines and potentially introduce new accessories or services.",
-      "whyItMatters": "Developers will need to adapt their apps and SDKs to support the new hardware, while the broader tech industry will see shifts in supply chains and competitive positioning.",
+      "id": "art-1786066562537-0",
+      "title": "Apple Watch Ultra 4: Three new features that already have me excited - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/05/apple-watch-ultra-4-three-new-features-that-already-have-me-excited/",
+      "summary": "Apple's upcoming Watch Ultra 4 is slated to debut next month, featuring three rumored enhancements that excite the author. The new additions include improved battery life, advanced health monitoring sensors, and a more robust GPS system, promising better performance for outdoor and fitness applications.",
+      "whyItMatters": "These upgrades will push mobile developers to create more battery‑efficient, sensor‑rich apps and could set new standards for wearable health tech.",
       "category": "Mobile",
-      "publishedAt": "2026-08-04T22:10:01Z"
+      "publishedAt": "2026-08-05T20:04:00Z"
     },
     {
-      "id": "art-1785972495925-1",
-      "title": "'It Would Be a Real Shame for That Culture to Disappear': Final Fantasy 7 Revelation Director Says Physical Game Releases Must Continue - ign.com",
+      "id": "art-1786066562879-1",
+      "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+      "summary": "Reddit announced that it will make significant changes to the old.reddit.com interface, citing widespread misuse of the site for bad behavior. The company plans to overhaul or remove features that enable such activity, signaling a shift in how the legacy platform will operate.",
+      "whyItMatters": "Web developers and designers must anticipate changes to the site’s structure and API, which could affect third‑party tools, bots, and content‑delivery workflows.",
+      "category": "Web Dev",
+      "publishedAt": "2026-08-05T20:01:32Z"
+    },
+    {
+      "id": "art-1786066563420-2",
+      "title": "Sonic Team boss says more “surprises” are yet to come for Sonic 35th anniversary - My Nintendo News",
+      "source": "My Nintendo News",
+      "url": "https://mynintendonews.com/2026/08/05/sonic-team-boss-says-more-surprises-are-yet-to-come-for-sonic-35th-anniversary/",
+      "summary": "Sonic Team head Takashi Iizuka announced that more surprises are planned for the 35th anniversary of the Sonic franchise, hinting at upcoming releases and events. The company has already teased several projects, building anticipation among fans worldwide.",
+      "whyItMatters": "The announcement signals continued investment in a major IP, encouraging developers to explore new monetization models and cross-platform strategies for long-running franchises.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-05T19:50:07Z"
+    },
+    {
+      "id": "art-1786066563866-3",
+      "title": "Some Gen Zers swap their smartphones for \"dumb\" phones to curb social media habits - CBS News",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/social-media-smartphones-gen-z-dumb-phones/",
+      "summary": "A group of Gen Z individuals are replacing their smartphones with basic feature phones to reduce social media usage, citing mental clarity and improved focus. The trend reflects a growing desire among young users to disconnect from constant digital stimulation.",
+      "whyItMatters": "Software developers may need to adapt app designs to accommodate a segment of users who prefer minimalistic devices, potentially driving demand for lightweight, low-bandwidth mobile experiences.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-05T19:50:00Z"
+    },
+    {
+      "id": "art-1786066564492-4",
+      "title": "This Refurbished Switch 2 Deal May Be Your Last Chance to Buy a Console Under $400 - IGN",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/it-would-be-a-real-shame-for-that-culture-to-disappear-final-fantasy-7-revelation-director-says-physical-game-releases-must-continue",
-      "summary": "Final Fantasy 7 Remake trilogy director Naoki Hamaguchi has warned that ending physical game releases could cause cultural loss, following Sony's decision to discontinue PS5 discs. He emphasizes the importance of maintaining physical media for preserving gaming heritage.",
-      "whyItMatters": "The shift away from physical media forces developers to rely solely on digital distribution, potentially limiting revenue models and affecting supply chain strategies.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-04T22:01:42Z"
-    },
-    {
-      "id": "art-1785972496901-2",
-      "title": "New Baldur’s Gate 3 Player Stats Prove You’re All Knife-Happy Bard Murderers - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/baldurs-gate-3-player-stats-alfira-murderers-dark-urge-2000721639",
-      "summary": "Kotaku reports that new player statistics from Baldur’s Gate 3 reveal a trend of players favoring knife-based bard characters, sparking controversy over character choices. The data, sourced from in-game analytics, suggests a shift in gameplay strategies that could influence future game design and community discussions.",
-      "whyItMatters": "The release of detailed player data highlights the need for developers to implement robust privacy safeguards and transparent data handling practices in game analytics.",
-      "category": "Security",
-      "publishedAt": "2026-08-04T20:15:59Z"
-    },
-    {
-      "id": "art-1785972497331-3",
-      "title": "Telegram says Apple suspension followed content norms violation by one user - Al Jazeera",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user",
-      "summary": "Telegram claims Apple suspended its app after discovering a user posted child sexual abuse material, violating Apple's content guidelines. Apple confirmed the review found the material and took action to remove the offending content.",
-      "whyItMatters": "App developers must rigorously enforce content policies to avoid platform bans and protect user safety, underscoring the importance of robust moderation tools.",
-      "category": "Security",
-      "publishedAt": "2026-08-04T19:36:18Z"
-    },
-    {
-      "id": "art-1785972497812-4",
-      "title": "Microsoft is retiring its peer-feedback tool as it overhauls employee reviews, an internal message shows - Business Insider",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/microsoft-retires-peer-feedback-tool-in-review-system-revamp-2026-8#article",
-      "summary": "Microsoft is discontinuing its peer-feedback tool as part of a broader overhaul of employee review processes, a move that signals a shift away from the previously praised \"kinder, gentler\" culture. The decision reflects a strategic pivot to new performance management systems aimed at improving efficiency and alignment across the organization.",
-      "whyItMatters": "For software developers, the retirement of this tool means a change in how peer input is gathered and evaluated, potentially affecting collaboration, feedback loops, and career development within Microsoft and the wider tech industry.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-04T19:14:58Z"
-    },
-    {
-      "id": "art-1785972498402-6",
-      "title": "Here’s the first Asus Googlebook as the floodgates start to open - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/04/heres-the-first-asus-googlebook/",
-      "summary": "Asus has unveiled the first Googlebook, a Google-branded laptop that follows a similar device from another PC maker. The release signals Google’s push into hardware, offering a pre-integrated platform for its services.",
-      "whyItMatters": "The Googlebook gives developers a ready-to-use environment to test and optimize Google APIs and services, potentially streamlining development workflows and reducing setup time.",
+      "url": "https://www.ign.com/articles/grab-a-refurb-switch-2-for-399-ahead-of-next-months-price-hike",
+      "summary": "Nintendo’s refurbished Switch 2 is available for $399, offering a last chance to buy the console before a price increase. The deal highlights a temporary price dip that could influence consumer purchasing decisions and market dynamics.",
+      "whyItMatters": "The lower price point may boost sales volume, impacting developers’ revenue projections and prompting them to adjust pricing or marketing strategies for upcoming titles.",
       "category": "Mobile",
-      "publishedAt": "2026-08-04T18:37:00Z"
+      "publishedAt": "2026-08-05T19:38:14Z"
     },
     {
-      "id": "art-1785972498801-7",
-      "title": "Fans Upset Over Some New Vinyl Records Missing Content And Final Mixes - Kotaku",
+      "id": "art-1786066564943-5",
+      "title": "Fallout 3 Dev Excited For Remaster To Improve Game's Visuals - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/physical-media-fans-are-sick-of-expensive-vinyl-albums-with-unfinished-tracks-or-missing-songs-a-bait-and-switch-isnt-cool-2000721582",
-      "summary": "Fans are upset that new vinyl records from artists like Olivia Rodrigo and Raye are missing content and final mixes, leading to criticism from collectors. The issue highlights the importance of thorough quality control and accurate metadata in physical media releases.",
-      "whyItMatters": "It underscores the need for robust release pipelines and quality assurance practices that extend beyond digital platforms, affecting how developers manage production and distribution workflows.",
+      "url": "https://kotaku.com/fallout-3-dev-excited-for-the-remaster-because-the-original-games-visuals-were-100-percent-not-what-we-intended-2000721988",
+      "summary": "Bethesda’s Fallout 3 developer Nathan Purkeypile expressed excitement over the upcoming remaster, hoping it will lift the game’s visuals beyond the original tech constraints. The announcement highlights how modern hardware and development pipelines can breathe new life into classic titles.",
+      "whyItMatters": "It demonstrates how developers can leverage updated tooling and optimization techniques to extend the lifespan of legacy games, informing best practices for performance engineering.",
       "category": "DevOps",
-      "publishedAt": "2026-08-04T18:15:53Z"
+      "publishedAt": "2026-08-05T19:30:25Z"
     },
     {
-      "id": "art-1785972499186-8",
-      "title": "Android 17 August update rolling out with three Pixel 10 fixes - 9to5Google",
+      "id": "art-1786066565245-6",
+      "title": "Here's how Pixel 11 Pro HiLight will work with Google Contacts - Android Authority",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/contacts-pixel-11-hilight-3694988/",
+      "summary": "Pixel 11 Pro introduces a new HiLight notification system that highlights relevant contacts directly in the notification shade. Google’s Contacts app demonstrates how these highlights will surface contact details and actions for incoming messages and calls.",
+      "whyItMatters": "Developers must update their apps to support HiLight’s contact-aware notifications, enabling richer user experiences and tighter integration with Google’s ecosystem.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-05T19:26:00Z"
+    },
+    {
+      "id": "art-1786066565648-7",
+      "title": "iPhone 18 Pro event date: When Apple announced its event over the last six years - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/05/iphone-18-pro-event-date-when-announcement/",
+      "summary": "Apple has announced its event two weeks in advance for four straight years, indicating that the iPhone 18 Pro will likely be announced this month.",
+      "whyItMatters": "Early event announcements give developers time to prepare for new SDKs, APIs, and app updates, impacting release schedules and feature planning.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-05T19:10:00Z"
+    },
+    {
+      "id": "art-1786066566203-8",
+      "title": "Samsung insists the Galaxy Z Fold 8 is ‘perfect’ for ‘full-screen’ video – it’s not - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/04/android-17-august-pixel-update/",
-      "summary": "Google is rolling out the August 2026 security patch for Android 17 on the Pixel 10 Pro, Pixel 10 Pro XL, Pixel 10 Pro Fold, and Pixel 10a, addressing three specific fixes. The update ensures the devices remain secure and compliant with the latest Android security standards.",
-      "whyItMatters": "Developers must update and test their apps to accommodate the new security patches and ensure compatibility with the latest Android 17 features.",
-      "category": "Security",
-      "publishedAt": "2026-08-04T18:12:00Z"
+      "url": "http://9to5google.com/2026/08/05/samsung-galaxy-z-fold-8-video/",
+      "summary": "Samsung claims the Galaxy Z Fold 8 delivers a perfect full‑screen video experience, but independent reviews suggest the device falls short of that promise. The discrepancy highlights the gap between marketing hype and actual performance on foldable displays.",
+      "whyItMatters": "Developers targeting foldable devices must verify real‑world video rendering and performance rather than relying on manufacturer claims, as inaccurate marketing can mislead app optimization.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-05T19:05:00Z"
     },
     {
-      "id": "art-1785972499809-9",
-      "title": "DuckDuckGo Is Selling Anti Pervert Glasses That Contain Zero AI, Cameras, or Even Electronics Whatsoever - Yahoo News Canada",
-      "source": "Futurism",
-      "url": "https://futurism.com/artificial-intelligence/duckduckgo-selling-anti-pervert-glasses",
-      "summary": "DuckDuckGo has announced a novelty product called anti‑pervert glasses that contain no AI, cameras, or electronics, aiming to deter unwanted attention. The glasses are marketed as a humorous, privacy‑focused accessory with no functional tech components.",
-      "whyItMatters": "It underscores the growing consumer interest in privacy‑centric hardware, though it offers no direct implications for software developers or the broader tech industry.",
-      "category": "Security",
-      "publishedAt": "2026-08-04T17:48:00Z"
+      "id": "art-1786066566901-9",
+      "title": "Minecraft reveals Nintendo Switch 2 release date, new details - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/minecraft-reveals-nintendo-switch-2-release-date-new-details/",
+      "summary": "Minecraft announced the release date for the Nintendo Switch 2 and added new details about the console, including an upgraded Super Mario Mash‑up Pack. The announcement signals a fresh wave of content and hardware updates for the Switch ecosystem.",
+      "whyItMatters": "The release of a new console generation and bundled content gives developers a new platform to target, potentially driving demand for updated games and accessories.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-05T18:26:20Z"
     }
   ]
 }
