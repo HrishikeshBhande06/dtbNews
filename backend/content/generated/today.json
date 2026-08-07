@@ -2,104 +2,104 @@
   "date": "2026-08-07",
   "articles": [
     {
-      "id": "art-1786066562537-0",
-      "title": "Apple Watch Ultra 4: Three new features that already have me excited - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/05/apple-watch-ultra-4-three-new-features-that-already-have-me-excited/",
-      "summary": "Apple's upcoming Watch Ultra 4 is slated to debut next month, featuring three rumored enhancements that excite the author. The new additions include improved battery life, advanced health monitoring sensors, and a more robust GPS system, promising better performance for outdoor and fitness applications.",
-      "whyItMatters": "These upgrades will push mobile developers to create more battery‑efficient, sensor‑rich apps and could set new standards for wearable health tech.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-05T20:04:00Z"
-    },
-    {
-      "id": "art-1786066562879-1",
-      "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
-      "summary": "Reddit announced that it will make significant changes to the old.reddit.com interface, citing widespread misuse of the site for bad behavior. The company plans to overhaul or remove features that enable such activity, signaling a shift in how the legacy platform will operate.",
-      "whyItMatters": "Web developers and designers must anticipate changes to the site’s structure and API, which could affect third‑party tools, bots, and content‑delivery workflows.",
-      "category": "Web Dev",
-      "publishedAt": "2026-08-05T20:01:32Z"
-    },
-    {
-      "id": "art-1786066563420-2",
-      "title": "Sonic Team boss says more “surprises” are yet to come for Sonic 35th anniversary - My Nintendo News",
-      "source": "My Nintendo News",
-      "url": "https://mynintendonews.com/2026/08/05/sonic-team-boss-says-more-surprises-are-yet-to-come-for-sonic-35th-anniversary/",
-      "summary": "Sonic Team head Takashi Iizuka announced that more surprises are planned for the 35th anniversary of the Sonic franchise, hinting at upcoming releases and events. The company has already teased several projects, building anticipation among fans worldwide.",
-      "whyItMatters": "The announcement signals continued investment in a major IP, encouraging developers to explore new monetization models and cross-platform strategies for long-running franchises.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-05T19:50:07Z"
-    },
-    {
-      "id": "art-1786066563866-3",
-      "title": "Some Gen Zers swap their smartphones for \"dumb\" phones to curb social media habits - CBS News",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/social-media-smartphones-gen-z-dumb-phones/",
-      "summary": "A group of Gen Z individuals are replacing their smartphones with basic feature phones to reduce social media usage, citing mental clarity and improved focus. The trend reflects a growing desire among young users to disconnect from constant digital stimulation.",
-      "whyItMatters": "Software developers may need to adapt app designs to accommodate a segment of users who prefer minimalistic devices, potentially driving demand for lightweight, low-bandwidth mobile experiences.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-05T19:50:00Z"
-    },
-    {
-      "id": "art-1786066564492-4",
-      "title": "This Refurbished Switch 2 Deal May Be Your Last Chance to Buy a Console Under $400 - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/grab-a-refurb-switch-2-for-399-ahead-of-next-months-price-hike",
-      "summary": "Nintendo’s refurbished Switch 2 is available for $399, offering a last chance to buy the console before a price increase. The deal highlights a temporary price dip that could influence consumer purchasing decisions and market dynamics.",
-      "whyItMatters": "The lower price point may boost sales volume, impacting developers’ revenue projections and prompting them to adjust pricing or marketing strategies for upcoming titles.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-05T19:38:14Z"
-    },
-    {
-      "id": "art-1786066564943-5",
-      "title": "Fallout 3 Dev Excited For Remaster To Improve Game's Visuals - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/fallout-3-dev-excited-for-the-remaster-because-the-original-games-visuals-were-100-percent-not-what-we-intended-2000721988",
-      "summary": "Bethesda’s Fallout 3 developer Nathan Purkeypile expressed excitement over the upcoming remaster, hoping it will lift the game’s visuals beyond the original tech constraints. The announcement highlights how modern hardware and development pipelines can breathe new life into classic titles.",
-      "whyItMatters": "It demonstrates how developers can leverage updated tooling and optimization techniques to extend the lifespan of legacy games, informing best practices for performance engineering.",
+      "id": "art-1786143822732-0",
+      "title": "Quake remaster ‘Dawn of the Machine’ update now available - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/08/quake-remaster-dawn-of-the-machine-update-now-available",
+      "summary": "Bethesda Softworks, id Software, and Nightdive Studios have released a free update for the 2021 Quake remaster, adding the new expansion \"Dawn of the Machine.\" The update expands the game’s content and extends its lifespan for fans and collectors.",
+      "whyItMatters": "It demonstrates how legacy titles can be revitalized through collaborative development and continuous delivery, encouraging developers to invest in post-launch support for older IPs.",
       "category": "DevOps",
-      "publishedAt": "2026-08-05T19:30:25Z"
+      "publishedAt": "2026-08-06T18:10:52Z"
     },
     {
-      "id": "art-1786066565245-6",
-      "title": "Here's how Pixel 11 Pro HiLight will work with Google Contacts - Android Authority",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/contacts-pixel-11-hilight-3694988/",
-      "summary": "Pixel 11 Pro introduces a new HiLight notification system that highlights relevant contacts directly in the notification shade. Google’s Contacts app demonstrates how these highlights will surface contact details and actions for incoming messages and calls.",
-      "whyItMatters": "Developers must update their apps to support HiLight’s contact-aware notifications, enabling richer user experiences and tighter integration with Google’s ecosystem.",
+      "id": "art-1786143823385-1",
+      "title": "Tesla Rolls Out New Maps Update in North America - Not a Tesla App",
+      "source": "Notateslaapp.com",
+      "url": "https://www.notateslaapp.com/news/4548/tesla-rolls-out-new-maps-update-in-north-america",
+      "summary": "Tesla has released a new maps update across North America, adding updated street layouts, revised speed limits, and new points of interest. The update is delivered over-the-air to all Tesla vehicles on the continent.",
+      "whyItMatters": "The rollout demonstrates the importance of continuous integration and deployment pipelines for automotive software, enabling developers to push critical navigation updates without physical service visits.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-06T17:54:00Z"
+    },
+    {
+      "id": "art-1786143824148-2",
+      "title": "5 Lawsuits Accusing PlayStation Of Being Anti-Competitive, Explained - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/playstation-is-being-sued-in-five-different-countries-over-anti-competitive-concerns-and-the-end-of-discs-isnt-helping-2000722141",
+      "summary": "Five lawsuits allege that Sony’s PlayStation platform engages in anti‑competitive practices, targeting exclusive deals, pricing, and developer access. The legal action highlights growing scrutiny of major console makers and could reshape how games are distributed and monetized.",
+      "whyItMatters": "If the claims succeed, developers may gain broader, less restrictive access to the PlayStation ecosystem, potentially lowering barriers to entry and fostering greater competition in the gaming market.",
       "category": "Mobile",
-      "publishedAt": "2026-08-05T19:26:00Z"
+      "publishedAt": "2026-08-06T17:44:00Z"
     },
     {
-      "id": "art-1786066565648-7",
-      "title": "iPhone 18 Pro event date: When Apple announced its event over the last six years - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/05/iphone-18-pro-event-date-when-announcement/",
-      "summary": "Apple has announced its event two weeks in advance for four straight years, indicating that the iPhone 18 Pro will likely be announced this month.",
-      "whyItMatters": "Early event announcements give developers time to prepare for new SDKs, APIs, and app updates, impacting release schedules and feature planning.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-05T19:10:00Z"
+      "id": "art-1786143824460-3",
+      "title": "ChatGPT brings unlimited text chats to free users - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "summary": "OpenAI has announced that ChatGPT free and Go users will now enjoy unlimited text chats and a new think button for handling complex queries. This update expands free tier capabilities and enhances user interaction with the model.",
+      "whyItMatters": "It allows developers and hobbyists to experiment more freely with AI without subscription limits, accelerating prototyping and integration of advanced language features into applications.",
+      "category": "AI",
+      "publishedAt": "2026-08-06T17:34:42Z"
     },
     {
-      "id": "art-1786066566203-8",
-      "title": "Samsung insists the Galaxy Z Fold 8 is ‘perfect’ for ‘full-screen’ video – it’s not - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/05/samsung-galaxy-z-fold-8-video/",
-      "summary": "Samsung claims the Galaxy Z Fold 8 delivers a perfect full‑screen video experience, but independent reviews suggest the device falls short of that promise. The discrepancy highlights the gap between marketing hype and actual performance on foldable displays.",
-      "whyItMatters": "Developers targeting foldable devices must verify real‑world video rendering and performance rather than relying on manufacturer claims, as inaccurate marketing can mislead app optimization.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-05T19:05:00Z"
+      "id": "art-1786143824977-4",
+      "title": "Apple Releases macOS Tahoe 26.6.1 With Security Fixes - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/06/apple-releases-macos-tahoe-26-6-1/",
+      "summary": "Apple has released macOS Tahoe 26.6.1, a minor update to last year’s macOS Tahoe operating system that includes several security fixes. The update addresses vulnerabilities that could be exploited by attackers, improving overall system stability and protection.",
+      "whyItMatters": "Software developers must update their applications and test environments to ensure compatibility with the new security patches and to protect users from potential exploits.",
+      "category": "Security",
+      "publishedAt": "2026-08-06T17:34:39Z"
     },
     {
-      "id": "art-1786066566901-9",
-      "title": "Minecraft reveals Nintendo Switch 2 release date, new details - Nintendo Everything",
+      "id": "art-1786143825574-5",
+      "title": "Square Enix teases Octopath Traveler 3, aware of high expectations for the game - Nintendo Everything",
       "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/minecraft-reveals-nintendo-switch-2-release-date-new-details/",
-      "summary": "Minecraft announced the release date for the Nintendo Switch 2 and added new details about the console, including an upgraded Super Mario Mash‑up Pack. The announcement signals a fresh wave of content and hardware updates for the Switch ecosystem.",
-      "whyItMatters": "The release of a new console generation and bundled content gives developers a new platform to target, potentially driving demand for updated games and accessories.",
+      "url": "https://nintendoeverything.com/square-enix-teases-octopath-traveler-3-aware-of-high-expectations-for-the-game/",
+      "summary": "Square Enix has hinted at a third entry in the Octopath Traveler series, acknowledging the high expectations from fans. The announcement comes during an interview where developers confirmed plans for Octopath Traveler 3, signaling a continued commitment to the franchise.",
+      "whyItMatters": "The confirmation signals that Square Enix will continue investing in a successful IP, encouraging developers to prioritize long-term franchise development and iterative design.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-06T16:46:22Z"
+    },
+    {
+      "id": "art-1786143826302-6",
+      "title": "Ghost Recon: Future Soldier is free to claim on PC for the next week - Video Games Chronicle",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/ghost-recon-future-soldier-is-free-to-claim-on-pc-for-the-next-week/",
+      "summary": "Ubisoft is offering the PC version of Ghost Recon: Future Soldier for free for the next week to celebrate the series' 25th anniversary. The promotion allows players to claim the game at no cost, marking a significant milestone for the franchise.",
+      "whyItMatters": "The free distribution model demonstrates how publishers can leverage anniversaries to boost engagement and drive platform adoption, influencing future marketing strategies for software developers.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-06T16:15:49Z"
+    },
+    {
+      "id": "art-1786143826858-7",
+      "title": "Sony's Looking to Bring More Ads to PlayStation, and Fans Won't Like It - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/08/sonys-looking-to-bring-more-ads-to-playstation-and-fans-wont-like-it",
+      "summary": "Sony plans to increase advertising on PlayStation consoles, a move that has sparked backlash from fans. The company argues that ads will help fund free games and services, but critics fear it will degrade the gaming experience.",
+      "whyItMatters": "For software developers, the shift means new revenue opportunities through ad integration but also potential constraints on user experience and platform policies.",
       "category": "Mobile",
-      "publishedAt": "2026-08-05T18:26:20Z"
+      "publishedAt": "2026-08-06T16:05:00Z"
+    },
+    {
+      "id": "art-1786143827301-8",
+      "title": "Ghost Recon Wildlands: Last Rites – A Major Free Update Powered by Community Feedback and Player Insights - XBOX Wire",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/08/06/ghost-recon-wildlands-last-rites-community-feedback/",
+      "summary": "Ghost Recon Wildlands: Last Rites is a major free update released for Xbox Series X|S, featuring new content and improvements. The update was developed with extensive input from the player community, showcasing a collaborative approach to game development.",
+      "whyItMatters": "It demonstrates how continuous delivery and community-driven feedback can accelerate feature releases and improve player satisfaction, offering a model for agile software development practices.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-06T16:00:55Z"
+    },
+    {
+      "id": "art-1786143827807-9",
+      "title": "Google Home update adds support for viewing third-party cameras from Wyze, Eufy, more - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/06/google-home-third-party-cameras-update/",
+      "summary": "Google Home has rolled out an update that expands its compatibility with third‑party security cameras, including Wyze and Anker’s Eufy. The new feature allows users to view live feeds directly from the Google Home app, streamlining home‑security management across multiple brands.",
+      "whyItMatters": "This broadens the ecosystem for camera manufacturers, encouraging developers to build more interoperable APIs and giving consumers a unified security interface.",
+      "category": "Security",
+      "publishedAt": "2026-08-06T15:55:00Z"
     }
   ]
 }
