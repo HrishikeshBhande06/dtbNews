@@ -1,105 +1,95 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "articles": [
     {
-      "id": "art-1786143822732-0",
-      "title": "Quake remaster ‘Dawn of the Machine’ update now available - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/08/quake-remaster-dawn-of-the-machine-update-now-available",
-      "summary": "Bethesda Softworks, id Software, and Nightdive Studios have released a free update for the 2021 Quake remaster, adding the new expansion \"Dawn of the Machine.\" The update expands the game’s content and extends its lifespan for fans and collectors.",
-      "whyItMatters": "It demonstrates how legacy titles can be revitalized through collaborative development and continuous delivery, encouraging developers to invest in post-launch support for older IPs.",
+      "id": "art-1786229767187-0",
+      "title": "THQ Nordic Showcase 2026 — All Xbox reveals and announcements - trueachievements.com",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/news/thq-nordic-2026-showcase-xbox-announcements",
+      "summary": "THQ Nordic’s 2026 Showcase unveiled new Xbox titles, including Wreckfest 2 and Reanimal, along with several other upcoming releases. The event highlighted the studio’s continued focus on expanding its game portfolio and strengthening its presence on the Xbox platform.",
+      "whyItMatters": "The announcements signal increased investment in game development pipelines, prompting developers to adopt more robust DevOps practices for rapid iteration and deployment.",
       "category": "DevOps",
-      "publishedAt": "2026-08-06T18:10:52Z"
+      "publishedAt": "2026-08-07T19:50:25Z"
     },
     {
-      "id": "art-1786143823385-1",
-      "title": "Tesla Rolls Out New Maps Update in North America - Not a Tesla App",
+      "id": "art-1786229767950-2",
+      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+      "summary": "Quake's 30th anniversary mission pack introduces 19 new maps and fresh mechanics, extending the game's storyline. The pack builds on MachineGames' previous campaign expansions, offering players new content and gameplay variations.",
+      "whyItMatters": "For software developers, the release showcases how legacy game engines can be extended with modular content, highlighting opportunities for reusable code and asset pipelines.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-07T18:00:02Z"
+    },
+    {
+      "id": "art-1786229768906-3",
+      "title": "A new survey shows the scale of Xbox's fall vs. PlayStation — and the scale of Asha Sharma's opportunity - Windows Central",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/xbox/a-new-survey-shows-the-scale-of-xboxs-fall-vs-playstation-and-the-scale-of-asha-sharmas-opportunity",
+      "summary": "Statista research reveals that Xbox's market share in the U.S. has fallen significantly compared to PlayStation, highlighting a shift in consumer preference. The data also points to a sizable opportunity for stakeholders to capitalize on this changing landscape.",
+      "whyItMatters": "Game developers must reassess platform priorities, as PlayStation's growing dominance could influence where they invest development resources and marketing.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-07T17:42:49Z"
+    },
+    {
+      "id": "art-1786229769492-4",
+      "title": "The First Details on Garmin’s Fenix 9 Smartwatch Have Leaked - Gizmodo",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/the-first-details-on-garmins-fenix-9-smartwatch-have-leaked-2000795964",
+      "summary": "Garmin's upcoming Fenix 9 smartwatch has leaked details, with rumors and regulatory filings indicating it will launch before year-end. The device promises advanced fitness tracking, battery life, and new features such as improved GPS and health sensors.",
+      "whyItMatters": "The release signals a competitive push in wearable tech, prompting developers to prepare new SDKs and APIs for richer health data integration.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-07T16:45:15Z"
+    },
+    {
+      "id": "art-1786229770377-5",
+      "title": "App Store Rejection of the Week: Dark Hours - Daring Fireball",
+      "source": "Daringfireball.net",
+      "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+      "summary": "The App Store rejected the Dark Hours app for violating Apple's guidelines, citing the use of a private API that modifies system-wide dark mode settings. The developer argues that the feature enhances user experience by automatically switching to dark mode during nighttime hours, but Apple insists on stricter compliance with public APIs.",
+      "whyItMatters": "This rejection highlights the ongoing tension between innovative app features and Apple's strict enforcement of its API policies, forcing mobile developers to carefully navigate guideline compliance to avoid delays or rejections.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-07T16:45:03Z"
+    },
+    {
+      "id": "art-1786229770958-6",
+      "title": "Tesla Rolls Out Rare Software Update to Mobile Connectors - Not a Tesla App",
       "source": "Notateslaapp.com",
-      "url": "https://www.notateslaapp.com/news/4548/tesla-rolls-out-new-maps-update-in-north-america",
-      "summary": "Tesla has released a new maps update across North America, adding updated street layouts, revised speed limits, and new points of interest. The update is delivered over-the-air to all Tesla vehicles on the continent.",
-      "whyItMatters": "The rollout demonstrates the importance of continuous integration and deployment pipelines for automotive software, enabling developers to push critical navigation updates without physical service visits.",
+      "url": "https://www.notateslaapp.com/news/4555/tesla-rolls-out-rare-software-update-to-mobile-connectors",
+      "summary": "Tesla has released a firmware update for its portable Mobile Connector charging units, a hardware component rather than a software app. The update, delivered over-the-air, enhances the functionality and reliability of the charging units without requiring physical service visits.",
+      "whyItMatters": "It demonstrates how automotive companies are extending OTA update practices to hardware, prompting software developers to design firmware with robust remote update capabilities and security considerations.",
       "category": "DevOps",
-      "publishedAt": "2026-08-06T17:54:00Z"
+      "publishedAt": "2026-08-07T16:27:00Z"
     },
     {
-      "id": "art-1786143824148-2",
-      "title": "5 Lawsuits Accusing PlayStation Of Being Anti-Competitive, Explained - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/playstation-is-being-sued-in-five-different-countries-over-anti-competitive-concerns-and-the-end-of-discs-isnt-helping-2000722141",
-      "summary": "Five lawsuits allege that Sony’s PlayStation platform engages in anti‑competitive practices, targeting exclusive deals, pricing, and developer access. The legal action highlights growing scrutiny of major console makers and could reshape how games are distributed and monetized.",
-      "whyItMatters": "If the claims succeed, developers may gain broader, less restrictive access to the PlayStation ecosystem, potentially lowering barriers to entry and fostering greater competition in the gaming market.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-06T17:44:00Z"
-    },
-    {
-      "id": "art-1786143824460-3",
-      "title": "ChatGPT brings unlimited text chats to free users - TechCrunch",
+      "id": "art-1786229771502-7",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents - TechCrunch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "summary": "OpenAI has announced that ChatGPT free and Go users will now enjoy unlimited text chats and a new think button for handling complex queries. This update expands free tier capabilities and enhances user interaction with the model.",
-      "whyItMatters": "It allows developers and hobbyists to experiment more freely with AI without subscription limits, accelerating prototyping and integration of advanced language features into applications.",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "summary": "Cloudflare has unveiled Kitesurf, a cloud-hosted browser engineered specifically for AI agents rather than human users. The new browser claims to consume less computing power than Chromium for common automation tasks, enabling developers to build browser-based AI agents more efficiently.",
+      "whyItMatters": "By reducing resource overhead for AI-driven web interactions, Kitesurf can lower infrastructure costs and accelerate the deployment of AI agents across web services.",
       "category": "AI",
-      "publishedAt": "2026-08-06T17:34:42Z"
+      "publishedAt": "2026-08-07T16:16:09Z"
     },
     {
-      "id": "art-1786143824977-4",
-      "title": "Apple Releases macOS Tahoe 26.6.1 With Security Fixes - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/06/apple-releases-macos-tahoe-26-6-1/",
-      "summary": "Apple has released macOS Tahoe 26.6.1, a minor update to last year’s macOS Tahoe operating system that includes several security fixes. The update addresses vulnerabilities that could be exploited by attackers, improving overall system stability and protection.",
-      "whyItMatters": "Software developers must update their applications and test environments to ensure compatibility with the new security patches and to protect users from potential exploits.",
-      "category": "Security",
-      "publishedAt": "2026-08-06T17:34:39Z"
-    },
-    {
-      "id": "art-1786143825574-5",
-      "title": "Square Enix teases Octopath Traveler 3, aware of high expectations for the game - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/square-enix-teases-octopath-traveler-3-aware-of-high-expectations-for-the-game/",
-      "summary": "Square Enix has hinted at a third entry in the Octopath Traveler series, acknowledging the high expectations from fans. The announcement comes during an interview where developers confirmed plans for Octopath Traveler 3, signaling a continued commitment to the franchise.",
-      "whyItMatters": "The confirmation signals that Square Enix will continue investing in a successful IP, encouraging developers to prioritize long-term franchise development and iterative design.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-06T16:46:22Z"
-    },
-    {
-      "id": "art-1786143826302-6",
-      "title": "Ghost Recon: Future Soldier is free to claim on PC for the next week - Video Games Chronicle",
-      "source": "Video Games Chronicle",
-      "url": "https://www.videogameschronicle.com/news/ghost-recon-future-soldier-is-free-to-claim-on-pc-for-the-next-week/",
-      "summary": "Ubisoft is offering the PC version of Ghost Recon: Future Soldier for free for the next week to celebrate the series' 25th anniversary. The promotion allows players to claim the game at no cost, marking a significant milestone for the franchise.",
-      "whyItMatters": "The free distribution model demonstrates how publishers can leverage anniversaries to boost engagement and drive platform adoption, influencing future marketing strategies for software developers.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-06T16:15:49Z"
-    },
-    {
-      "id": "art-1786143826858-7",
-      "title": "Sony's Looking to Bring More Ads to PlayStation, and Fans Won't Like It - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/08/sonys-looking-to-bring-more-ads-to-playstation-and-fans-wont-like-it",
-      "summary": "Sony plans to increase advertising on PlayStation consoles, a move that has sparked backlash from fans. The company argues that ads will help fund free games and services, but critics fear it will degrade the gaming experience.",
-      "whyItMatters": "For software developers, the shift means new revenue opportunities through ad integration but also potential constraints on user experience and platform policies.",
+      "id": "art-1786229772209-8",
+      "title": "Sony could release a cheaper version of its WH-1000XM4 headphones, according to leaks - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/976735/sony-wireless-headphones-anc-wh-1000xm4c-leak",
+      "summary": "Sony is rumored to launch a budget variant of its flagship WH‑1000XM4 ANC headphones, dubbed the WH‑1000XM4C, slated for September. The new model would use the same six‑year‑old design, potentially offering a lower price point for consumers.",
+      "whyItMatters": "The price drop could pressure competitors to lower costs, influencing the audio hardware market and affecting developers building audio‑related apps and services.",
       "category": "Mobile",
-      "publishedAt": "2026-08-06T16:05:00Z"
+      "publishedAt": "2026-08-07T16:15:46Z"
     },
     {
-      "id": "art-1786143827301-8",
-      "title": "Ghost Recon Wildlands: Last Rites – A Major Free Update Powered by Community Feedback and Player Insights - XBOX Wire",
-      "source": "Xbox.com",
-      "url": "https://news.xbox.com/en-us/2026/08/06/ghost-recon-wildlands-last-rites-community-feedback/",
-      "summary": "Ghost Recon Wildlands: Last Rites is a major free update released for Xbox Series X|S, featuring new content and improvements. The update was developed with extensive input from the player community, showcasing a collaborative approach to game development.",
-      "whyItMatters": "It demonstrates how continuous delivery and community-driven feedback can accelerate feature releases and improve player satisfaction, offering a model for agile software development practices.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-06T16:00:55Z"
-    },
-    {
-      "id": "art-1786143827807-9",
-      "title": "Google Home update adds support for viewing third-party cameras from Wyze, Eufy, more - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/06/google-home-third-party-cameras-update/",
-      "summary": "Google Home has rolled out an update that expands its compatibility with third‑party security cameras, including Wyze and Anker’s Eufy. The new feature allows users to view live feeds directly from the Google Home app, streamlining home‑security management across multiple brands.",
-      "whyItMatters": "This broadens the ecosystem for camera manufacturers, encouraging developers to build more interoperable APIs and giving consumers a unified security interface.",
-      "category": "Security",
-      "publishedAt": "2026-08-06T15:55:00Z"
+      "id": "art-1786229773248-9",
+      "title": "Blizzard Swears Overwatch’s New Mech Hero Isn’t ‘D.Va 2.0’ - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/overwatch-dmon-dva-new-tank-hero-season-4-trailer-ability-2000722499",
+      "summary": "Blizzard has clarified that its upcoming Overwatch mech hero, D.Mon, is not a rehash of D.Va but a distinct character with an icy, confident demeanor. The new hero will complement D.Va’s aggressive playstyle by offering a more strategic, leadership-focused option.",
+      "whyItMatters": "Game developers can learn how introducing differentiated hero archetypes can refresh gameplay and maintain player engagement.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-07T16:00:21Z"
     }
   ]
 }
