@@ -1,95 +1,85 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "articles": [
     {
-      "id": "art-1786229767187-0",
-      "title": "THQ Nordic Showcase 2026 — All Xbox reveals and announcements - trueachievements.com",
-      "source": "TrueAchievements",
-      "url": "https://www.trueachievements.com/news/thq-nordic-2026-showcase-xbox-announcements",
-      "summary": "THQ Nordic’s 2026 Showcase unveiled new Xbox titles, including Wreckfest 2 and Reanimal, along with several other upcoming releases. The event highlighted the studio’s continued focus on expanding its game portfolio and strengthening its presence on the Xbox platform.",
-      "whyItMatters": "The announcements signal increased investment in game development pipelines, prompting developers to adopt more robust DevOps practices for rapid iteration and deployment.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-07T19:50:25Z"
-    },
-    {
-      "id": "art-1786229767950-2",
-      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-      "summary": "Quake's 30th anniversary mission pack introduces 19 new maps and fresh mechanics, extending the game's storyline. The pack builds on MachineGames' previous campaign expansions, offering players new content and gameplay variations.",
-      "whyItMatters": "For software developers, the release showcases how legacy game engines can be extended with modular content, highlighting opportunities for reusable code and asset pipelines.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-07T18:00:02Z"
-    },
-    {
-      "id": "art-1786229768906-3",
-      "title": "A new survey shows the scale of Xbox's fall vs. PlayStation — and the scale of Asha Sharma's opportunity - Windows Central",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/xbox/a-new-survey-shows-the-scale-of-xboxs-fall-vs-playstation-and-the-scale-of-asha-sharmas-opportunity",
-      "summary": "Statista research reveals that Xbox's market share in the U.S. has fallen significantly compared to PlayStation, highlighting a shift in consumer preference. The data also points to a sizable opportunity for stakeholders to capitalize on this changing landscape.",
-      "whyItMatters": "Game developers must reassess platform priorities, as PlayStation's growing dominance could influence where they invest development resources and marketing.",
+      "id": "art-1786316314828-0",
+      "title": "Why you should buy iPhone 17 Pro now instead of waiting - 9to5mac.com",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/08/buy-iphone-17-pro-vs-iphone-18-pro/",
+      "summary": "The article argues that buying the iPhone 17 Pro now is more cost‑effective than waiting for the rumored iPhone 18 Pro, which could be $200–$300 pricier. It highlights the financial advantage and the potential for early adoption of current hardware features.",
+      "whyItMatters": "Developers should plan app releases around the 17 Pro’s hardware to avoid delays and extra costs associated with the next generation’s higher price and possible feature changes.",
       "category": "Mobile",
-      "publishedAt": "2026-08-07T17:42:49Z"
+      "publishedAt": "2026-08-08T18:13:00Z"
     },
     {
-      "id": "art-1786229769492-4",
-      "title": "The First Details on Garmin’s Fenix 9 Smartwatch Have Leaked - Gizmodo",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/the-first-details-on-garmins-fenix-9-smartwatch-have-leaked-2000795964",
-      "summary": "Garmin's upcoming Fenix 9 smartwatch has leaked details, with rumors and regulatory filings indicating it will launch before year-end. The device promises advanced fitness tracking, battery life, and new features such as improved GPS and health sensors.",
-      "whyItMatters": "The release signals a competitive push in wearable tech, prompting developers to prepare new SDKs and APIs for richer health data integration.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-07T16:45:15Z"
-    },
-    {
-      "id": "art-1786229770377-5",
-      "title": "App Store Rejection of the Week: Dark Hours - Daring Fireball",
-      "source": "Daringfireball.net",
-      "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
-      "summary": "The App Store rejected the Dark Hours app for violating Apple's guidelines, citing the use of a private API that modifies system-wide dark mode settings. The developer argues that the feature enhances user experience by automatically switching to dark mode during nighttime hours, but Apple insists on stricter compliance with public APIs.",
-      "whyItMatters": "This rejection highlights the ongoing tension between innovative app features and Apple's strict enforcement of its API policies, forcing mobile developers to carefully navigate guideline compliance to avoid delays or rejections.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-07T16:45:03Z"
-    },
-    {
-      "id": "art-1786229770958-6",
-      "title": "Tesla Rolls Out Rare Software Update to Mobile Connectors - Not a Tesla App",
-      "source": "Notateslaapp.com",
-      "url": "https://www.notateslaapp.com/news/4555/tesla-rolls-out-rare-software-update-to-mobile-connectors",
-      "summary": "Tesla has released a firmware update for its portable Mobile Connector charging units, a hardware component rather than a software app. The update, delivered over-the-air, enhances the functionality and reliability of the charging units without requiring physical service visits.",
-      "whyItMatters": "It demonstrates how automotive companies are extending OTA update practices to hardware, prompting software developers to design firmware with robust remote update capabilities and security considerations.",
+      "id": "art-1786316315379-1",
+      "title": "1-of-1 1970 Plymouth GTX 440 Six Barrel 4-Speed Discovered In Canada - Yahoo Autos",
+      "source": "Guessingheadlights.com",
+      "url": "https://guessingheadlights.com/1-of-1-1970-plymouth-gtx-440-six-barrel-4-speed-discovered-in-canada/",
+      "summary": "A 1970 Plymouth GTX with a 440 Six Barrel V8 and a four‑speed manual has been discovered in Canada, marking a rare find in Mopar history. The vehicle, a one‑of‑one, showcases the enduring appeal of classic American muscle cars.",
+      "whyItMatters": "It has no direct impact on software developers or the tech industry.",
       "category": "DevOps",
-      "publishedAt": "2026-08-07T16:27:00Z"
+      "publishedAt": "2026-08-08T18:00:18Z"
     },
     {
-      "id": "art-1786229771502-7",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents - TechCrunch",
+      "id": "art-1786316315950-2",
+      "title": "The Super Bee Is Back: Dodge's Newest Charger Packs 600 Horsepower - Motor1.com",
+      "source": "Motor1 ",
+      "url": "https://www.motor1.com/news/804106/2027-dodge-charger-super-bee-sixpack-engine-specs-details/",
+      "summary": "The 2027 Dodge Super Bee returns with a 600‑horsepower twin‑turbocharged engine and upgraded cooling, making it the most powerful Charger yet. The new powertrain showcases significant performance gains and engineering refinements.",
+      "whyItMatters": "It demonstrates how aggressive hardware optimization can drive performance, offering insights for developers building high‑performance software systems.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-08T16:33:15Z"
+    },
+    {
+      "id": "art-1786316316387-3",
+      "title": "Why You Should Think Twice Before Buying That '10,000 Lumen' Flashlight - SlashGear",
+      "source": "SlashGear",
+      "url": "https://www.slashgear.com/2229396/think-twice-before-buying-10000-lumen-flashlight/",
+      "summary": "The article warns that flashlights claiming 10,000 lumens often fall short in real-world performance, despite meeting the advertised figure. It highlights how such high numbers can be misleading, with actual brightness and battery life rarely matching the hype.",
+      "whyItMatters": "Software developers and hardware teams must validate performance claims and ensure accurate specifications to maintain user trust and avoid costly recalls.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-08T15:15:00Z"
+    },
+    {
+      "id": "art-1786316316737-4",
+      "title": "Google’s top hacker hunter explains why hacking groups get codenames - TechCrunch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "summary": "Cloudflare has unveiled Kitesurf, a cloud-hosted browser engineered specifically for AI agents rather than human users. The new browser claims to consume less computing power than Chromium for common automation tasks, enabling developers to build browser-based AI agents more efficiently.",
-      "whyItMatters": "By reducing resource overhead for AI-driven web interactions, Kitesurf can lower infrastructure costs and accelerate the deployment of AI agents across web services.",
-      "category": "AI",
-      "publishedAt": "2026-08-07T16:16:09Z"
+      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+      "summary": "Google has revised its practice of naming hacking groups, opting for a new system of codenames. TechCrunch interviewed a leading hacker-tracking expert to explain why companies use these aliases and how the change reflects evolving threat intelligence strategies.",
+      "whyItMatters": "By standardizing how threat actors are identified, developers and security teams can more efficiently share intelligence, coordinate defenses, and reduce confusion in incident response.",
+      "category": "Security",
+      "publishedAt": "2026-08-08T15:00:00Z"
     },
     {
-      "id": "art-1786229772209-8",
-      "title": "Sony could release a cheaper version of its WH-1000XM4 headphones, according to leaks - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/976735/sony-wireless-headphones-anc-wh-1000xm4c-leak",
-      "summary": "Sony is rumored to launch a budget variant of its flagship WH‑1000XM4 ANC headphones, dubbed the WH‑1000XM4C, slated for September. The new model would use the same six‑year‑old design, potentially offering a lower price point for consumers.",
-      "whyItMatters": "The price drop could pressure competitors to lower costs, influencing the audio hardware market and affecting developers building audio‑related apps and services.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-07T16:15:46Z"
+      "id": "art-1786316317281-5",
+      "title": "Talking Point: Xbox Is Getting Its Own Platinum Trophy, But What Will Make It Different? - Pure Xbox",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/08/talking-point-xbox-is-getting-its-own-platinum-trophy-but-what-will-make-it-different",
+      "summary": "Xbox is introducing a new Platinum trophy tier, potentially renamed Diamond Achievements, to reward players for completing all games in a series. The move aims to deepen player engagement and create a new benchmark for achievement completion.",
+      "whyItMatters": "The new tier will push developers to design games with more comprehensive achievement systems, influencing how they structure content and reward progression.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-08T15:00:00Z"
     },
     {
-      "id": "art-1786229773248-9",
-      "title": "Blizzard Swears Overwatch’s New Mech Hero Isn’t ‘D.Va 2.0’ - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/overwatch-dmon-dva-new-tank-hero-season-4-trailer-ability-2000722499",
-      "summary": "Blizzard has clarified that its upcoming Overwatch mech hero, D.Mon, is not a rehash of D.Va but a distinct character with an icy, confident demeanor. The new hero will complement D.Va’s aggressive playstyle by offering a more strategic, leadership-focused option.",
-      "whyItMatters": "Game developers can learn how introducing differentiated hero archetypes can refresh gameplay and maintain player engagement.",
+      "id": "art-1786316317660-7",
+      "title": "Google’s Pixel Watch 5 takes notes from the Fitbit Air in latest leak - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/08/googles-pixel-watch-5-takes-notes-from-the-fitbit-air-in-latest-leak/",
+      "summary": "Google’s Pixel Watch 5 leak reveals it will adopt a key feature from the Fitbit Air, signaling a shift in smartwatch design and functionality. The move suggests Google is aiming to compete more directly with Fitbit’s lightweight, battery‑efficient wearables.",
+      "whyItMatters": "Developers will need to account for the new hardware capabilities and potential API changes when building apps for the next generation of Pixel Watches.",
       "category": "Mobile",
-      "publishedAt": "2026-08-07T16:00:21Z"
+      "publishedAt": "2026-08-08T14:45:00Z"
+    },
+    {
+      "id": "art-1786316318010-8",
+      "title": "Meowth, Alolan Meowth, and Their Illustration Rares from \"30th Celebration\" Revealed! - PokeBeach",
+      "source": "Pokebeach.com",
+      "url": "https://www.pokebeach.com/2026/08/meowth-and-its-illustration-rare-from-30th-celebration-revealed",
+      "summary": "Pokémon has announced the release of new Meowth and Alolan Meowth illustration rares as part of its 30th Celebration event. The cards feature updated artwork and are now available to collectors and players worldwide.",
+      "whyItMatters": "The announcement signals a continued push toward digital collectibles and mobile gaming experiences, encouraging developers to integrate new card mechanics and community features into their mobile platforms.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-08T14:24:51Z"
     }
   ]
 }
