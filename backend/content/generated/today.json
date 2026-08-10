@@ -1,85 +1,95 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "articles": [
     {
-      "id": "art-1786316314828-0",
-      "title": "Why you should buy iPhone 17 Pro now instead of waiting - 9to5mac.com",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/08/buy-iphone-17-pro-vs-iphone-18-pro/",
-      "summary": "The article argues that buying the iPhone 17 Pro now is more cost‑effective than waiting for the rumored iPhone 18 Pro, which could be $200–$300 pricier. It highlights the financial advantage and the potential for early adoption of current hardware features.",
-      "whyItMatters": "Developers should plan app releases around the 17 Pro’s hardware to avoid delays and extra costs associated with the next generation’s higher price and possible feature changes.",
+      "id": "art-1786403107858-0",
+      "title": "Made by Google 2026 Launch Live: Pixel 11, Pixel 11 Pro Fold, Pixel Watch 5, Gemini, and all the news - Android Central",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/phones/live/made-by-google-2026-launch-live-pixel-11-pixel-11-pro-fold-pixel-watch-5-gemini-and-all-the-news",
+      "summary": "Google is set to unveil its latest Pixel lineup, including the Pixel 11, Pixel 11 Pro Fold, and Pixel Watch 5, at its upcoming 2026 launch event. The event will also showcase Gemini, Google's new AI platform, signaling a push toward integrating advanced AI into its ecosystem.",
+      "whyItMatters": "Developers will need to adapt to new hardware capabilities and leverage Gemini's AI APIs to enhance app performance and user experience.",
       "category": "Mobile",
-      "publishedAt": "2026-08-08T18:13:00Z"
+      "publishedAt": "2026-08-09T20:02:36Z"
     },
     {
-      "id": "art-1786316315379-1",
-      "title": "1-of-1 1970 Plymouth GTX 440 Six Barrel 4-Speed Discovered In Canada - Yahoo Autos",
-      "source": "Guessingheadlights.com",
-      "url": "https://guessingheadlights.com/1-of-1-1970-plymouth-gtx-440-six-barrel-4-speed-discovered-in-canada/",
-      "summary": "A 1970 Plymouth GTX with a 440 Six Barrel V8 and a four‑speed manual has been discovered in Canada, marking a rare find in Mopar history. The vehicle, a one‑of‑one, showcases the enduring appeal of classic American muscle cars.",
-      "whyItMatters": "It has no direct impact on software developers or the tech industry.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-08T18:00:18Z"
-    },
-    {
-      "id": "art-1786316315950-2",
-      "title": "The Super Bee Is Back: Dodge's Newest Charger Packs 600 Horsepower - Motor1.com",
-      "source": "Motor1 ",
-      "url": "https://www.motor1.com/news/804106/2027-dodge-charger-super-bee-sixpack-engine-specs-details/",
-      "summary": "The 2027 Dodge Super Bee returns with a 600‑horsepower twin‑turbocharged engine and upgraded cooling, making it the most powerful Charger yet. The new powertrain showcases significant performance gains and engineering refinements.",
-      "whyItMatters": "It demonstrates how aggressive hardware optimization can drive performance, offering insights for developers building high‑performance software systems.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-08T16:33:15Z"
-    },
-    {
-      "id": "art-1786316316387-3",
-      "title": "Why You Should Think Twice Before Buying That '10,000 Lumen' Flashlight - SlashGear",
-      "source": "SlashGear",
-      "url": "https://www.slashgear.com/2229396/think-twice-before-buying-10000-lumen-flashlight/",
-      "summary": "The article warns that flashlights claiming 10,000 lumens often fall short in real-world performance, despite meeting the advertised figure. It highlights how such high numbers can be misleading, with actual brightness and battery life rarely matching the hype.",
-      "whyItMatters": "Software developers and hardware teams must validate performance claims and ensure accurate specifications to maintain user trust and avoid costly recalls.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-08T15:15:00Z"
-    },
-    {
-      "id": "art-1786316316737-4",
-      "title": "Google’s top hacker hunter explains why hacking groups get codenames - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-      "summary": "Google has revised its practice of naming hacking groups, opting for a new system of codenames. TechCrunch interviewed a leading hacker-tracking expert to explain why companies use these aliases and how the change reflects evolving threat intelligence strategies.",
-      "whyItMatters": "By standardizing how threat actors are identified, developers and security teams can more efficiently share intelligence, coordinate defenses, and reduce confusion in incident response.",
+      "id": "art-1786403108351-1",
+      "title": "Rumored, Never-to-Be-Released Apple Feature May Have Been Too Much Truth for Most Consumers - Gizmodo",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/rumored-never-to-be-released-apple-feature-may-have-been-too-much-truth-for-most-consumers-2000796260",
+      "summary": "Apple reportedly planned a feature that would disclose the extent of data collected on users, but the feature was never released. The move sparked debate over transparency and privacy in consumer tech.",
+      "whyItMatters": "It highlights the growing demand for data transparency, prompting developers to rethink privacy practices and compliance.",
       "category": "Security",
-      "publishedAt": "2026-08-08T15:00:00Z"
+      "publishedAt": "2026-08-09T19:46:14Z"
     },
     {
-      "id": "art-1786316317281-5",
-      "title": "Talking Point: Xbox Is Getting Its Own Platinum Trophy, But What Will Make It Different? - Pure Xbox",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/08/talking-point-xbox-is-getting-its-own-platinum-trophy-but-what-will-make-it-different",
-      "summary": "Xbox is introducing a new Platinum trophy tier, potentially renamed Diamond Achievements, to reward players for completing all games in a series. The move aims to deepen player engagement and create a new benchmark for achievement completion.",
-      "whyItMatters": "The new tier will push developers to design games with more comprehensive achievement systems, influencing how they structure content and reward progression.",
+      "id": "art-1786403109083-2",
+      "title": "Modder bypasses GeForce NOW interface to reach the Windows desktop - Neowin",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/modder-bypasses-geforce-now-interface-to-reach-the-windows-desktop/",
+      "summary": "A modder has shown how to bypass the GeForce NOW interface and access the underlying Windows desktop during a session. This demonstrates a potential security flaw in NVIDIA's cloud gaming platform.",
+      "whyItMatters": "Developers must address such vulnerabilities to protect user data and maintain trust in cloud gaming services.",
+      "category": "Security",
+      "publishedAt": "2026-08-09T17:32:00Z"
+    },
+    {
+      "id": "art-1786403109920-3",
+      "title": "Steam Deck can now do something Sony usually charges £200 for thanks to this new cloud-streaming app - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/steam-deck-ps5-streaming-app-asobi",
+      "summary": "A new cloud‑streaming app now lets users play PlayStation titles on the Steam Deck and Steam Machines without owning a PS5. The service, which has opened a playtest, offers a low‑cost alternative to Sony’s £200 PlayStation Now subscription.",
+      "whyItMatters": "It demonstrates how cloud gaming can democratize access to console exclusives, potentially reshaping the business models of both hardware and game publishers.",
+      "category": "Cloud",
+      "publishedAt": "2026-08-09T16:16:25Z"
+    },
+    {
+      "id": "art-1786403110507-5",
+      "title": "Foldable 'iPhone Ultra 3' Rumored to Feature Larger Displays - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-3-rumored-to-feature-larger-displays/",
+      "summary": "Apple is reportedly preparing its third-generation foldable iPhone, the 'iPhone Ultra 3', with a larger display and a launch window as early as 2028. The move signals a continued push into flexible-screen smartphones, potentially reshaping the mobile hardware landscape.",
+      "whyItMatters": "Developers will need to adapt apps for foldable form factors, creating new UI paradigms and testing across multiple screen states, which could drive innovation in responsive design and platform APIs.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-09T15:55:37Z"
+    },
+    {
+      "id": "art-1786403111145-6",
+      "title": "This Battlefield 6 player somehow got a full refund with 470 hours on the clock - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/battlefield-6-steam-refund-rush-mode",
+      "summary": "A Battlefield 6 player with 470 hours of playtime claims to have received a full refund from Steam after the removal of the Rush mode. The incident highlights potential issues with Steam's refund policy and player trust.",
+      "whyItMatters": "It underscores the importance of transparent refund policies for digital distribution platforms, affecting developer revenue and customer satisfaction.",
       "category": "DevOps",
-      "publishedAt": "2026-08-08T15:00:00Z"
+      "publishedAt": "2026-08-09T15:28:46Z"
     },
     {
-      "id": "art-1786316317660-7",
-      "title": "Google’s Pixel Watch 5 takes notes from the Fitbit Air in latest leak - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/08/googles-pixel-watch-5-takes-notes-from-the-fitbit-air-in-latest-leak/",
-      "summary": "Google’s Pixel Watch 5 leak reveals it will adopt a key feature from the Fitbit Air, signaling a shift in smartwatch design and functionality. The move suggests Google is aiming to compete more directly with Fitbit’s lightweight, battery‑efficient wearables.",
-      "whyItMatters": "Developers will need to account for the new hardware capabilities and potential API changes when building apps for the next generation of Pixel Watches.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-08T14:45:00Z"
+      "id": "art-1786403111912-7",
+      "title": "Bride cautions others before wedding day about risky beauty treatments: 'Pain wasn't worth it' - Fox News",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/health/bride-cautions-others-before-wedding-day-risky-beauty-treatments-pain-wasnt-worth-it",
+      "summary": "A bride experienced severe eye infection after getting eyelash extensions, leading to hospitalization. The incident highlights risks associated with cosmetic procedures and the need for better safety protocols.",
+      "whyItMatters": "It underscores the importance of secure and reliable software in medical device ecosystems, reminding developers to prioritize safety and compliance to prevent adverse health outcomes.",
+      "category": "Security",
+      "publishedAt": "2026-08-09T15:05:40Z"
     },
     {
-      "id": "art-1786316318010-8",
-      "title": "Meowth, Alolan Meowth, and Their Illustration Rares from \"30th Celebration\" Revealed! - PokeBeach",
-      "source": "Pokebeach.com",
-      "url": "https://www.pokebeach.com/2026/08/meowth-and-its-illustration-rare-from-30th-celebration-revealed",
-      "summary": "Pokémon has announced the release of new Meowth and Alolan Meowth illustration rares as part of its 30th Celebration event. The cards feature updated artwork and are now available to collectors and players worldwide.",
-      "whyItMatters": "The announcement signals a continued push toward digital collectibles and mobile gaming experiences, encouraging developers to integrate new card mechanics and community features into their mobile platforms.",
+      "id": "art-1786403112651-8",
+      "title": "BeamNG.drive is getting DLSS and FSR after major graphics overhaul - VideoCardz.com",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/beamng-drive-is-getting-dlss-and-fsr-after-major-graphics-overhaul",
+      "summary": "BeamNG.drive will now support NVIDIA DLSS and AMD FSR, adding AI‑based upscaling to its newly default DirectX 12 renderer. The update promises higher frame rates and improved visual fidelity for players on both NVIDIA and AMD hardware.",
+      "whyItMatters": "By integrating DLSS and FSR, developers can deliver better performance and image quality without extensive engine rewrites, setting a new standard for real‑time simulation games.",
+      "category": "AI",
+      "publishedAt": "2026-08-09T14:50:51Z"
+    },
+    {
+      "id": "art-1786403113265-9",
+      "title": "Apple Explores Shaking Up Its Smartwatch for a New Era - Bloomberg.com",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-09/apple-explores-apple-watch-shake-up-company-prepares-for-september-iphone-event",
+      "summary": "Apple is reportedly considering significant updates to its Apple Watch lineup to align with a new strategic direction, potentially introducing new hardware features and software capabilities. The company is also preparing for its upcoming iPhone event, hinting at a broader ecosystem refresh.",
+      "whyItMatters": "These changes could open new opportunities for wearable app developers and shift the competitive landscape in the smartwatch market.",
       "category": "Mobile",
-      "publishedAt": "2026-08-08T14:24:51Z"
+      "publishedAt": "2026-08-09T14:00:01Z"
     }
   ]
 }
