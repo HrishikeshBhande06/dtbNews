@@ -1,105 +1,105 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "articles": [
     {
-      "id": "art-1786576115109-0",
-      "title": "Chrome adopts what may be the best protection yet against account takeovers - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-      "summary": "Google Chrome now uses device-bound session credentials to prevent account takeovers, a growing threat where attackers hijack sessions without passwords. The feature ties authentication to the device, making it harder for attackers to reuse stolen session tokens across devices.",
-      "whyItMatters": "Developers must adapt authentication flows to support device-bound credentials, enhancing security for web applications and reducing the risk of credential theft.",
-      "category": "Security",
-      "publishedAt": "2026-08-11T20:59:52Z"
-    },
-    {
-      "id": "art-1786576115556-1",
-      "title": "Ultra rare Nintendo Mario game cartridges discovered in Wisconsin - AP News",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/nintendo-wisconsin-mario-cartridges-video-de88a9fd5643913454328830e73f74c2",
-      "summary": "A set of ultra-rare Super Mario cartridges was discovered in a gaming store in Waukesha, Wisconsin, and will be auctioned starting Friday. The find highlights the enduring value of physical game media and the hidden treasures still present in retail spaces.",
-      "whyItMatters": "The discovery underscores the importance of preserving legacy software and hardware, reminding developers that physical media can retain significant cultural and monetary value even as digital distribution dominates.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-11T20:02:00Z"
-    },
-    {
-      "id": "art-1786576116030-2",
-      "title": "‘Everyone’ at Apple uses iPhone Ultra name, says Mark Gurman - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/",
-      "summary": "Mark Gurman reports that Apple internally refers to its upcoming foldable iPhone as the 'iPhone Ultra'. The name suggests a high-end, premium device that could reshape the smartphone market.",
-      "whyItMatters": "Developers will need to prepare for new form factors and potential changes in UI guidelines, affecting app design and testing.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-11T19:40:00Z"
-    },
-    {
-      "id": "art-1786576116950-3",
-      "title": "King's Field IV Will Kill You, And Some Of You Will Like It - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569",
-      "summary": "King's Field IV, a notoriously difficult action RPG, introduces a poison mechanic that can kill the player, making the game even more unforgiving. The article highlights how this mechanic adds to the game's brutal challenge and appeals to hardcore gamers.",
-      "whyItMatters": "The game's emphasis on unforgiving difficulty and unique mechanics like poison can inspire developers to design more challenging gameplay experiences, influencing game design trends.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-11T19:32:14Z"
-    },
-    {
-      "id": "art-1786576117374-4",
-      "title": "AirPods Pro 3 and more just got new public beta firmware - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/11/airpods-pro-3-and-more-just-got-new-public-beta-firmware/",
-      "summary": "Apple has released iOS 27 public beta 3 and simultaneously rolled out new public beta firmware for AirPods Pro 3, AirPods Pro 2, and other devices. The update allows users to test the latest features and improvements on their AirPods before the official release.",
-      "whyItMatters": "Software developers and hardware integrators must update their testing pipelines to ensure compatibility with the new firmware and iOS features, impacting app performance and user experience.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-11T18:46:00Z"
-    },
-    {
-      "id": "art-1786576117788-5",
-      "title": "In Protest Of Mass Layoffs, Bethesda Devs Greet Xbox Leadership With A Giant Inflatable Rat - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/xbox-protests-zenimax-studios-maryland-scabby-cwa-2000723471",
-      "summary": "Bethesda developers staged a protest against Microsoft’s mass layoffs by greeting Xbox leadership with a giant inflatable rat during a visit to their office. The stunt drew media attention and highlighted growing tensions between game studios and corporate parent companies.",
-      "whyItMatters": "It underscores the increasing pressure on software developers to navigate corporate decisions that can abruptly alter job security and creative autonomy.",
+      "id": "art-1786662657722-0",
+      "title": "Hogwarts Legacy 2 Is Officially in the Works, Confirms Warner Bros. - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/hogwarts-legacy-2-is-officially-in-the-works-confirms-warner-bros",
+      "summary": "Warner Bros. confirms that a sequel to Hogwarts Legacy is actively in development, marking a significant expansion of the franchise. The announcement signals continued investment in high-profile, narrative-driven games for the upcoming console and PC markets.",
+      "whyItMatters": "Game developers will need to adopt more robust CI/CD pipelines and asset management workflows to handle the larger scale and complexity of a sequel, driving demand for advanced DevOps tooling.",
       "category": "DevOps",
-      "publishedAt": "2026-08-11T18:45:04Z"
+      "publishedAt": "2026-08-12T21:22:25Z"
     },
     {
-      "id": "art-1786576118187-6",
-      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days - BleepingComputer",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
-      "summary": "Microsoft released its August 2026 Patch Tuesday, addressing 400 vulnerabilities, including one actively exploited flaw and two publicly disclosed zero-day exploits. The update underscores the ongoing challenge of securing large-scale software ecosystems.",
-      "whyItMatters": "Developers must prioritize timely patching to protect applications from widespread exploits that can compromise user data and system integrity.",
-      "category": "Security",
-      "publishedAt": "2026-08-11T18:08:50Z"
-    },
-    {
-      "id": "art-1786576118601-7",
-      "title": "Stop Killing Games Joins Lawsuit Against Sony Over Its ‘Total Control Of PlayStation Store Pricing’ - Kotaku",
+      "id": "art-1786662658377-1",
+      "title": "Things I Said Out Loud While Suffering Through King's Field 4 - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/stop-killing-games-joins-lawsuit-against-sony-over-its-total-control-of-playstation-store-pricing-2000723377",
-      "summary": "Stop Killing Games has joined a lawsuit against Sony, accusing the company of exerting total control over PlayStation Store pricing and stifling competition. The legal action, supported by other industry groups, seeks to challenge Sony’s dominance and protect independent developers’ ability to set fair prices for their games.",
-      "whyItMatters": "The lawsuit threatens to reshape digital storefront economics, potentially granting developers greater pricing autonomy and reducing platform gatekeeping.",
-      "category": "Web Dev",
-      "publishedAt": "2026-08-11T17:53:14Z"
+      "url": "https://kotaku.com/things-said-kings-field-4-ancient-city-dark-souls-warp-week-2002-2000723445",
+      "summary": "The Kotaku article recounts the author's candid outbursts while playing King's Field 4, drawing parallels to the frustration-inducing gameplay of Dark Souls. It highlights the game's challenging combat and unforgiving difficulty, echoing the emotional rollercoaster that fans of the series expect.",
+      "whyItMatters": "The article underscores the importance of designing games with clear difficulty curves, informing developers on balancing player frustration and engagement.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-12T20:30:44Z"
     },
     {
-      "id": "art-1786576119239-8",
-      "title": "Tesla's New 'Preferred Routes' Doesn't Require the Summer Update - notateslaapp.com",
-      "source": "Notateslaapp.com",
-      "url": "https://www.notateslaapp.com/news/4566/teslas-new-preferred-routes-doesnt-require-the-summer-update",
-      "summary": "Tesla has launched a new 'Preferred Routes' feature that can be enabled without the 2026.26 Summer Update, allowing drivers to access route optimization immediately. This demonstrates Tesla’s ability to deliver functional updates through smaller, incremental OTA releases rather than waiting for a major update cycle.",
-      "whyItMatters": "It highlights the importance of continuous delivery and OTA deployment strategies in automotive software, enabling developers to push features faster and reduce dependency on large update windows.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-11T17:44:00Z"
-    },
-    {
-      "id": "art-1786576119897-9",
-      "title": "Grok Bot is an all-new iPhone and Mac app from SpaceXAI and Cursor - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/11/grok-bot-is-an-all-new-iphone-and-mac-app-from-spacexai-and-cursor/",
-      "summary": "SpaceXAI and Cursor have announced Grok Bot, a new AI-powered assistant available as an iPhone and Mac app. The collaboration marks a step toward merging the two companies while offering developers a powerful tool for quick code generation and debugging.",
-      "whyItMatters": "The app gives developers instant AI assistance on mobile and desktop, streamlining coding workflows and reducing context switching.",
+      "id": "art-1786662658819-2",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "summary": "Amazon will automatically use Twitch streamers’ content to train its AI models unless the creators opt out. This policy shift means that a vast amount of user-generated video and audio data will be leveraged for machine learning without explicit consent.",
+      "whyItMatters": "Software developers will need to account for new data usage policies and potential legal implications when building AI-powered applications that rely on user-generated content.",
       "category": "AI",
-      "publishedAt": "2026-08-11T17:10:00Z"
+      "publishedAt": "2026-08-12T20:10:40Z"
+    },
+    {
+      "id": "art-1786662659663-3",
+      "title": "Xbox Reveals Stunning 3D-Moulded Gears of War: E-Day Limited Edition Controllers - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/xbox-reveals-stunning-3d-moulded-gears-of-war-e-day-limited-edition-controllers",
+      "summary": "Microsoft unveiled a pair of highly detailed, 3D‑moulded Gears of War: E‑Day Limited Edition Xbox controllers, featuring gruff, grizzled designs that echo the game’s aesthetic. The limited‑edition peripherals showcase a new level of craftsmanship for console accessories.",
+      "whyItMatters": "The release highlights the growing importance of peripheral design in enhancing player immersion, encouraging developers to integrate hardware aesthetics into the overall gaming experience.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-12T19:33:53Z"
+    },
+    {
+      "id": "art-1786662660532-4",
+      "title": "Kinetic Publishing Showcase Recap: Every Reveal, Including the New Sam Barlow Game - XBOX Wire",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/08/12/kinetic-publishing-showcase-recap-sam-barlow/",
+      "summary": "Kinetic Publishing hosted its inaugural showcase, unveiling five games including a new title by Sam Barlow. The event highlighted the studio’s expanding portfolio and its focus on delivering polished experiences across multiple platforms.",
+      "whyItMatters": "The showcase demonstrates Kinetic Publishing’s growing influence in the gaming ecosystem, encouraging developers to pursue partnerships with emerging publishers for broader market reach.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-12T19:32:10Z"
+    },
+    {
+      "id": "art-1786662661011-5",
+      "title": "iPhone 18 Pro set to become Apple’s new default model - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/",
+      "summary": "Apple is set to unveil the iPhone 18 Pro as its new default flagship model, marking a significant shift in its product lineup. This change positions the 18 Pro as the baseline for future software and hardware development.",
+      "whyItMatters": "Developers will need to target the iPhone 18 Pro as the primary hardware baseline, influencing app performance, feature support, and testing strategies.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-12T17:50:00Z"
+    },
+    {
+      "id": "art-1786662661599-6",
+      "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
+      "summary": "Google has unveiled the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Fold, offering preorders that include up to $350 in gift cards. The announcement highlights a new lineup of smartphones, including a foldable model, available through retailers and carriers.",
+      "whyItMatters": "The new Pixel devices, especially the foldable form factor, will prompt developers to optimize apps for varied screen sizes and touch interactions, expanding the mobile ecosystem.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-12T17:47:54Z"
+    },
+    {
+      "id": "art-1786662661854-7",
+      "title": "iPhone Ultra’s cameras might get very unorthodox placement, per leak - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/",
+      "summary": "A leak suggests that the upcoming iPhone Ultra may feature front cameras placed in unconventional locations, potentially altering the device’s aesthetic and functionality. The design change could affect how the phone’s camera system is integrated into apps and user interfaces.",
+      "whyItMatters": "Developers will need to account for new camera placements when designing UI, AR experiences, and camera-based features, which could require updates to APIs and layout logic.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-12T17:27:00Z"
+    },
+    {
+      "id": "art-1786662662289-8",
+      "title": "Warhammer 40,000: Dawn of War IV delayed to December 3 - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/08/warhammer-40000-dawn-of-war-iv-delayed-to-december-3",
+      "summary": "Warhammer 40,000: Dawn of War IV has been delayed from its originally planned September 17 release to December 3. The publisher Deep Silver and developer KING Art Games announced the change, with the game now slated for PC availability.",
+      "whyItMatters": "Delays like this highlight the importance of robust release management and continuous integration pipelines for game developers, ensuring quality while meeting market expectations.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-12T16:09:56Z"
+    },
+    {
+      "id": "art-1786662662839-9",
+      "title": "Dodge Says It's Making A GLH Hot Hatch Crossover With Performance 'People Didn't Quite See Coming' - Jalopnik",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/2235504/dodge-making-glh-hot-hatch-crossover/",
+      "summary": "Dodge announced the GLH, a hot hatch crossover that builds on the Hornet platform, aiming to deliver a more refined and performance‑oriented experience. The company claims the GLH represents a next‑generation iteration that should have been introduced earlier, signaling a shift in its vehicle design strategy.",
+      "whyItMatters": "The GLH’s emphasis on modular platform engineering and rapid iteration reflects trends in automotive software development, encouraging developers to adopt continuous integration and deployment practices for vehicle features.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-12T16:01:43Z"
     }
   ]
 }
