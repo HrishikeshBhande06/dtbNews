@@ -1,105 +1,95 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "articles": [
     {
-      "id": "art-1786833928244-0",
-      "title": "Vulnerability giving attackers full control of Macs is under active exploitation - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-      "summary": "A critical screen‑sharing vulnerability in macOS allows remote attackers to gain full control of a Mac without a password, effectively bypassing authentication. The flaw is actively exploited, enabling hackers to log in and execute arbitrary code on affected machines.",
-      "whyItMatters": "Developers must urgently patch macOS and review remote access implementations to prevent unauthorized control and protect user data.",
-      "category": "Security",
-      "publishedAt": "2026-08-14T18:32:14Z"
+      "id": "art-1786920269046-0",
+      "title": "Super Mario 64 is now playable on YouTube - Dexerto",
+      "source": "Dexerto",
+      "url": "https://www.dexerto.com/youtube/super-mario-64-is-now-playable-on-youtube-3398697/",
+      "summary": "Super Mario 64 can now be played directly in a web browser using a YouTube video that leverages the platform’s 360° spherical video player and closed captions. This demonstrates how existing video infrastructure can be repurposed for interactive gaming experiences without requiring downloads or additional software.",
+      "whyItMatters": "It shows that web developers can create playable games using standard video players, reducing the need for specialized game engines and lowering barriers to entry for browser-based entertainment.",
+      "category": "Web Dev",
+      "publishedAt": "2026-08-15T17:41:44Z"
     },
     {
-      "id": "art-1786833928993-1",
-      "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
-      "summary": "Lamborghini has introduced the Revuelto SV, a limited‑edition V12 hybrid that delivers over 1,050 horsepower and can accelerate from 0 to 100 kph in just 2.4 seconds. The model starts at $741,172, making it the brand’s most powerful production car to date.",
-      "whyItMatters": "The car’s advanced hybrid powertrain relies on sophisticated software for engine management and energy recovery, highlighting the growing importance of automotive software engineering and DevOps practices in high‑performance vehicle production.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-14T18:00:01Z"
+      "id": "art-1786920269619-1",
+      "title": "Former Square Enix Exec Believes Disc-Free PlayStation Will Drive Game Prices Down - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/former-square-enix-exec-believes-disc-free-playstation-will-drive-game-prices-down-2000724716",
+      "summary": "Former Square Enix executive Jacob Navok argues that a disc‑free PlayStation will force major publishers into constant competition, potentially driving game prices down. He acknowledges that the mechanism for cost reduction remains speculative.",
+      "whyItMatters": "It could lower entry costs for developers and shift the industry toward more frequent, lower‑priced releases.",
+      "category": "Cloud",
+      "publishedAt": "2026-08-15T17:00:20Z"
     },
     {
-      "id": "art-1786833929569-2",
-      "title": "The new Flachbau RS is a one-off Porsche 911 GT2 RS built to look (a bit) like Moby Dick - Top Gear",
-      "source": "Top Gear",
-      "url": "https://www.topgear.com/car-news/supercars/new-flachbau-rs-a-one-porsche-911-gt2-rs-built-look-a-bit-moby-dick",
-      "summary": "Porsche unveiled a one-off 911 GT2 RS called the Flachbau RS, styled to resemble the novel’s iconic whale, Moby Dick. The car’s extravagant design and limited production highlight Porsche’s willingness to push creative boundaries while maintaining engineering precision.",
-      "whyItMatters": "It reminds software teams that bold, creative design can coexist with rigorous engineering, encouraging developers to balance aesthetics and performance in their own products.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-14T18:00:00Z"
+      "id": "art-1786920270086-2",
+      "title": "I freed up 10GB of Gmail space in 5 minutes without deleting important emails - Android Police",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/free-up-gmail-storage/",
+      "summary": "The article explains a method to reclaim 10GB of Gmail storage in five minutes without deleting critical emails, using inbox audit and cleanup techniques. It demonstrates how users can efficiently manage cloud storage without sacrificing important data.",
+      "whyItMatters": "It shows developers can optimize storage usage in email services, reducing costs and improving user experience.",
+      "category": "Cloud",
+      "publishedAt": "2026-08-15T17:00:15Z"
     },
     {
-      "id": "art-1786833929976-3",
-      "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
-      "summary": "Unforgetful, a new reminders app from indie developer Marco Arment, aims to make reminders harder to ignore or accidentally dismiss by keeping notifications persistent and enforcing snooze limits. The app introduces design choices that keep reminders visible until the user explicitly acknowledges them, reducing accidental dismissal.",
-      "whyItMatters": "It underscores the importance of thoughtful notification design, prompting developers to rethink how reminders and alerts are handled to reduce user fatigue and improve engagement.",
+      "id": "art-1786920270586-3",
+      "title": "I finally found a magnetic phone grip I never want to remove - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
+      "summary": "The OhSnap Snap Grip Stand, priced at $50, offers a magnetic phone grip that allows users to hold their phones vertically, a feature lacking in most magnet rings. Reviewers praise its stability and convenience, making it a standout accessory for mobile users.",
+      "whyItMatters": "For mobile developers, the popularity of such accessories highlights the importance of designing apps that remain usable in various phone orientations and with external hardware.",
       "category": "Mobile",
-      "publishedAt": "2026-08-14T16:21:04Z"
+      "publishedAt": "2026-08-15T14:10:16Z"
     },
     {
-      "id": "art-1786833930333-4",
-      "title": "Google will now allow users to remove visible watermark from its AI generations - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "summary": "Google has introduced a setting that lets users remove the visible watermark from AI-generated images and text, while still retaining invisible markers for internal benchmarking. This change means that AI outputs can appear unbranded to end users, but Google will continue to track usage behind the scenes.",
-      "whyItMatters": "Developers and content platforms may now face challenges in verifying AI provenance, potentially increasing the risk of misinformation and complicating compliance with transparency regulations.",
-      "category": "AI",
-      "publishedAt": "2026-08-14T16:13:40Z"
+      "id": "art-1786920271036-4",
+      "title": "Xteink’s tiny e-readers are getting access to free books through Libby - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
+      "summary": "Xteink’s pocket‑size e‑readers now offer free access to DRM‑protected ebooks through the Libby and Kobo platforms, expanding their appeal to budget‑conscious readers. The integration brings a new library of titles directly to the device, enhancing the user experience without additional cost.",
+      "whyItMatters": "It demonstrates how hardware vendors can leverage library APIs and DRM solutions to add value, encouraging developers to build seamless content‑delivery integrations for mobile devices.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-15T13:00:00Z"
     },
     {
-      "id": "art-1786833930841-5",
-      "title": "‘Monkey Island’ Creator Finds Wealthy Investor for Next Game - Bloomberg.com",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-14/-monkey-island-creator-finds-wealthy-investor-for-thimbleweed-park-2",
-      "summary": "Ron Gilbert, the creator of Monkey Island, secured a wealthy investor to fund Thimbleweed Park 2 instead of partnering with a traditional publisher. This move highlights a growing trend of indie developers seeking alternative financing to maintain creative control.",
-      "whyItMatters": "It demonstrates that independent developers can successfully bypass conventional publishing models, encouraging more creative freedom and potentially reshaping funding strategies in the gaming industry.",
+      "id": "art-1786920271571-5",
+      "title": "Microsoft gears up to ship major Taskbar and Start menu updates for Windows 11 - Windows Central",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-confirms-that-it-will-begin-shipping-major-windows-11-taskbar-and-start-menu-updates-in-the-next-few-weeks-big-os-update-enters-final-preview-phase-before-public-rollout-begins",
+      "summary": "Microsoft is preparing to release significant updates to the Taskbar and Start menu in Windows 11, with improvements expected to roll out to all users next month. These changes build on the latest preview builds and aim to enhance usability and visual consistency across the operating system.",
+      "whyItMatters": "Developers will need to test and potentially adjust their applications for the new UI elements to ensure compatibility and a smooth user experience.",
       "category": "DevOps",
-      "publishedAt": "2026-08-14T16:00:01Z"
+      "publishedAt": "2026-08-15T10:16:32Z"
     },
     {
-      "id": "art-1786833931522-6",
-      "title": "Watch Gameplay of a Brand New Control Resonant Boss Fight - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/control-resonant-exclusive-boss-fight-gameplay-ign-first",
-      "summary": "IGN releases new gameplay footage of Control Resonant's biggest boss fight, showcasing intense combat mechanics and visual effects. The clip highlights the game's advanced AI-driven enemy behavior and offers fans a preview of upcoming content.",
-      "whyItMatters": "The release demonstrates how sophisticated AI can enhance player engagement, informing developers on integrating dynamic combat systems.",
-      "category": "AI",
-      "publishedAt": "2026-08-14T16:00:00Z"
+      "id": "art-1786920272038-6",
+      "title": "Lamborghini Revuelto SV Revealed: V12 Hybrid Tuned For Track Domination - Motor1.com",
+      "source": "Motor1 ",
+      "url": "https://www.motor1.com/news/804953/lamborghini-revuelto-sv-track-focus/",
+      "summary": "Lamborghini unveiled the Revuelto SV, a track‑focused version of its hybrid V12 flagship, featuring revised aerodynamics, chassis tweaks, and updated powertrain calibration. The new model emphasizes performance and efficiency, positioning Lamborghini as a leader in high‑performance hybrid technology.",
+      "whyItMatters": "The advanced powertrain calibration and software tuning required for the Revuelto SV highlight the growing importance of embedded software and DevOps practices in automotive performance engineering.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-15T07:35:02Z"
     },
     {
-      "id": "art-1786833931958-7",
-      "title": "Google ordered to make it easier to download alternative Android app stores - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
-      "summary": "Google has been ordered by a court to simplify the process for users to download alternative Android app stores, potentially expanding the ecosystem beyond the official Play Store. This move could increase competition and give developers more distribution channels.",
-      "whyItMatters": "It gives developers additional avenues to reach users, potentially reducing reliance on Google Play's policies and fees.",
+      "id": "art-1786920272600-7",
+      "title": "Google Pixel 11 vs Samsung Galaxy S26: Specs, price, camera details - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/google-pixel-11-vs-samsung-galaxy-s26-specs-price-cameras",
+      "summary": "The article compares the Google Pixel 11 and Samsung Galaxy S26, highlighting differences in specs, pricing, and camera performance. It provides a side‑by‑side analysis to help consumers decide which flagship phone best meets their needs.",
+      "whyItMatters": "For software developers, understanding the hardware capabilities of flagship devices informs app optimization and feature support across Android ecosystems.",
       "category": "Mobile",
-      "publishedAt": "2026-08-14T15:46:40Z"
+      "publishedAt": "2026-08-15T07:12:35Z"
     },
     {
-      "id": "art-1786833932490-8",
-      "title": "Rideshare Stimulator finally gets its genAI disclosure after much Saber-rattling, and it turns out the game also uses the tech for in-game music - Rock Paper Shotgun",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/rideshare-stimulator-finally-gets-its-genai-disclosure-after-much-saber-rattling-and-it-turns-out-the-game-also-uses-the-tech-for-in-game-music",
-      "summary": "Rideshare Stimulator has finally complied with Steam's new generative AI disclosure requirements after a public outcry. The game also incorporates AI-generated music, highlighting the expanding use of generative models in entertainment.",
-      "whyItMatters": "It signals that game developers must now transparently disclose AI usage, influencing how studios integrate and communicate generative technologies.",
+      "id": "art-1786920273144-8",
+      "title": "10 minutes babbling to ChatGPT works better than any perfect prompt - TechRadar",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/ai-platforms-assistants/i-stopped-writing-careful-chatgpt-prompts-and-rambled-at-it-for-10-minutes-instead-the-results-changed-how-i-use-ai",
+      "summary": "The article reports that a 10‑minute free‑form conversation with ChatGPT helped the author clarify complex ideas more effectively than carefully crafted prompts. It suggests that spontaneous dialogue can unlock deeper insights from the model.",
+      "whyItMatters": "It demonstrates that developers can achieve better results by engaging in exploratory dialogue with AI, cutting down on prompt‑engineering effort and speeding up problem solving.",
       "category": "AI",
-      "publishedAt": "2026-08-14T15:26:30Z"
-    },
-    {
-      "id": "art-1786833933185-9",
-      "title": "Feature: One Year On, Is Anyone Still Playing Drag x Drive? - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/features/one-year-on-is-anyone-still-playing-drag-x-drive",
-      "summary": "The article revisits Drag x Drive, a mobile racing game released a year ago, assessing its current player base and community engagement. It highlights the game's unique drag racing mechanics and the challenges of sustaining interest in a niche genre.",
-      "whyItMatters": "For mobile developers, the article underscores the importance of continuous community engagement and post-launch content updates to maintain player retention in competitive casual gaming markets.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-14T15:00:00Z"
+      "publishedAt": "2026-08-15T05:00:00Z"
     }
   ]
 }
