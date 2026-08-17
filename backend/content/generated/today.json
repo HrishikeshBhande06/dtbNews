@@ -1,95 +1,95 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "articles": [
     {
-      "id": "art-1786920269046-0",
-      "title": "Super Mario 64 is now playable on YouTube - Dexerto",
-      "source": "Dexerto",
-      "url": "https://www.dexerto.com/youtube/super-mario-64-is-now-playable-on-youtube-3398697/",
-      "summary": "Super Mario 64 can now be played directly in a web browser using a YouTube video that leverages the platform’s 360° spherical video player and closed captions. This demonstrates how existing video infrastructure can be repurposed for interactive gaming experiences without requiring downloads or additional software.",
-      "whyItMatters": "It shows that web developers can create playable games using standard video players, reducing the need for specialized game engines and lowering barriers to entry for browser-based entertainment.",
+      "id": "art-1787006903716-0",
+      "title": "Pyrex Collectors Are Always Looking For This Rare Mod Pattern - Tasting Table",
+      "source": "Tastingtable.com",
+      "url": "https://www.tastingtable.com/2234550/rare-mod-kitchen-pyrex-collectors-always-looking/",
+      "summary": "Vintage Pyrex dishes are prized by collectors for their colors and patterns, and the Mod Kitchen dish is especially rare. The article highlights the demand for this specific pattern among enthusiasts.",
+      "whyItMatters": "It shows how niche collectibles can drive specialized online marketplaces, influencing web development strategies for e-commerce sites.",
       "category": "Web Dev",
-      "publishedAt": "2026-08-15T17:41:44Z"
+      "publishedAt": "2026-08-16T19:40:00Z"
     },
     {
-      "id": "art-1786920269619-1",
-      "title": "Former Square Enix Exec Believes Disc-Free PlayStation Will Drive Game Prices Down - Kotaku",
+      "id": "art-1787006904681-1",
+      "title": "Insomniac Staff Pins Overnight Wolverine Hate On Twitter - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/former-square-enix-exec-believes-disc-free-playstation-will-drive-game-prices-down-2000724716",
-      "summary": "Former Square Enix executive Jacob Navok argues that a disc‑free PlayStation will force major publishers into constant competition, potentially driving game prices down. He acknowledges that the mechanism for cost reduction remains speculative.",
-      "whyItMatters": "It could lower entry costs for developers and shift the industry toward more frequent, lower‑priced releases.",
-      "category": "Cloud",
-      "publishedAt": "2026-08-15T17:00:20Z"
-    },
-    {
-      "id": "art-1786920270086-2",
-      "title": "I freed up 10GB of Gmail space in 5 minutes without deleting important emails - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/free-up-gmail-storage/",
-      "summary": "The article explains a method to reclaim 10GB of Gmail storage in five minutes without deleting critical emails, using inbox audit and cleanup techniques. It demonstrates how users can efficiently manage cloud storage without sacrificing important data.",
-      "whyItMatters": "It shows developers can optimize storage usage in email services, reducing costs and improving user experience.",
-      "category": "Cloud",
-      "publishedAt": "2026-08-15T17:00:15Z"
-    },
-    {
-      "id": "art-1786920270586-3",
-      "title": "I finally found a magnetic phone grip I never want to remove - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
-      "summary": "The OhSnap Snap Grip Stand, priced at $50, offers a magnetic phone grip that allows users to hold their phones vertically, a feature lacking in most magnet rings. Reviewers praise its stability and convenience, making it a standout accessory for mobile users.",
-      "whyItMatters": "For mobile developers, the popularity of such accessories highlights the importance of designing apps that remain usable in various phone orientations and with external hardware.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-15T14:10:16Z"
-    },
-    {
-      "id": "art-1786920271036-4",
-      "title": "Xteink’s tiny e-readers are getting access to free books through Libby - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
-      "summary": "Xteink’s pocket‑size e‑readers now offer free access to DRM‑protected ebooks through the Libby and Kobo platforms, expanding their appeal to budget‑conscious readers. The integration brings a new library of titles directly to the device, enhancing the user experience without additional cost.",
-      "whyItMatters": "It demonstrates how hardware vendors can leverage library APIs and DRM solutions to add value, encouraging developers to build seamless content‑delivery integrations for mobile devices.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-15T13:00:00Z"
-    },
-    {
-      "id": "art-1786920271571-5",
-      "title": "Microsoft gears up to ship major Taskbar and Start menu updates for Windows 11 - Windows Central",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-confirms-that-it-will-begin-shipping-major-windows-11-taskbar-and-start-menu-updates-in-the-next-few-weeks-big-os-update-enters-final-preview-phase-before-public-rollout-begins",
-      "summary": "Microsoft is preparing to release significant updates to the Taskbar and Start menu in Windows 11, with improvements expected to roll out to all users next month. These changes build on the latest preview builds and aim to enhance usability and visual consistency across the operating system.",
-      "whyItMatters": "Developers will need to test and potentially adjust their applications for the new UI elements to ensure compatibility and a smooth user experience.",
+      "url": "https://kotaku.com/insomniac-staff-blame-social-media-feedback-loops-for-overnight-wolverine-hate-2000724780",
+      "summary": "Insomniac’s marketing director publicly vented on Twitter about the sudden surge of criticism toward the Wolverine game, calling the backlash a toxic culture that harms mental health. The post highlights the intense pressure and scrutiny game studios face from fans and media.",
+      "whyItMatters": "It underscores how high‑profile criticism can affect developers’ well‑being, prompting studios to rethink communication and support practices.",
       "category": "DevOps",
-      "publishedAt": "2026-08-15T10:16:32Z"
+      "publishedAt": "2026-08-16T19:11:50Z"
     },
     {
-      "id": "art-1786920272038-6",
-      "title": "Lamborghini Revuelto SV Revealed: V12 Hybrid Tuned For Track Domination - Motor1.com",
-      "source": "Motor1 ",
-      "url": "https://www.motor1.com/news/804953/lamborghini-revuelto-sv-track-focus/",
-      "summary": "Lamborghini unveiled the Revuelto SV, a track‑focused version of its hybrid V12 flagship, featuring revised aerodynamics, chassis tweaks, and updated powertrain calibration. The new model emphasizes performance and efficiency, positioning Lamborghini as a leader in high‑performance hybrid technology.",
-      "whyItMatters": "The advanced powertrain calibration and software tuning required for the Revuelto SV highlight the growing importance of embedded software and DevOps practices in automotive performance engineering.",
+      "id": "art-1787006905196-2",
+      "title": "iCloud Private Relay leaks can expose your real IP - Fox News",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/tech/icloud-private-relay-leaks-expose-real-ip",
+      "summary": "Apple's iCloud Private Relay, designed to mask users' IP addresses, can be circumvented by three WebKit features, allowing websites to see the real IP when browsing Safari. This flaw undermines the privacy promise of the service and could expose users to tracking and targeted attacks.",
+      "whyItMatters": "Developers must audit WebKit integrations and Safari extensions to prevent IP leakage, as compromised privacy can erode user trust and trigger regulatory scrutiny.",
+      "category": "Security",
+      "publishedAt": "2026-08-16T18:15:50Z"
+    },
+    {
+      "id": "art-1787006906022-3",
+      "title": "Velocity Micro Raptor Z55i (2026) Review: A Low-Key Little Gaming Leviathan - PCMag",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/reviews/velocity-micro-raptor-z55i-2026",
+      "summary": "Velocity Micro's Raptor Z55i is a compact, workstation‑style gaming PC that packs powerful components into a low‑key chassis. The review highlights its aggressive pricing and peak performance when pushed to the limits.",
+      "whyItMatters": "For software developers, the Raptor Z55i offers a cost‑effective, high‑performance machine that can accelerate development, testing, and rendering workloads.",
       "category": "DevOps",
-      "publishedAt": "2026-08-15T07:35:02Z"
+      "publishedAt": "2026-08-16T18:00:53Z"
     },
     {
-      "id": "art-1786920272600-7",
-      "title": "Google Pixel 11 vs Samsung Galaxy S26: Specs, price, camera details - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/google-pixel-11-vs-samsung-galaxy-s26-specs-price-cameras",
-      "summary": "The article compares the Google Pixel 11 and Samsung Galaxy S26, highlighting differences in specs, pricing, and camera performance. It provides a side‑by‑side analysis to help consumers decide which flagship phone best meets their needs.",
-      "whyItMatters": "For software developers, understanding the hardware capabilities of flagship devices informs app optimization and feature support across Android ecosystems.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-15T07:12:35Z"
+      "id": "art-1787006906792-4",
+      "title": "Now It Will Be Sonic Who Gets To Have A Gun In Latest Fortnite Update - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/now-it-will-be-sonic-who-gets-to-have-a-gun-in-latest-fortnite-update-2000724774",
+      "summary": "Fortnite’s latest update introduces Sonic with a gun and adds other classic gaming IPs like Mega Man, Crash Bandicoot, Spyro, and Jazz Jackrabbit to its roster. The move expands the game’s cross‑brand appeal and offers players new skins and weapons tied to beloved franchises.",
+      "whyItMatters": "It demonstrates how large‑scale live‑service games leverage IP licensing to drive engagement, influencing how developers design monetization and content pipelines.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-16T17:55:42Z"
     },
     {
-      "id": "art-1786920273144-8",
-      "title": "10 minutes babbling to ChatGPT works better than any perfect prompt - TechRadar",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/ai-platforms-assistants/i-stopped-writing-careful-chatgpt-prompts-and-rambled-at-it-for-10-minutes-instead-the-results-changed-how-i-use-ai",
-      "summary": "The article reports that a 10‑minute free‑form conversation with ChatGPT helped the author clarify complex ideas more effectively than carefully crafted prompts. It suggests that spontaneous dialogue can unlock deeper insights from the model.",
-      "whyItMatters": "It demonstrates that developers can achieve better results by engaging in exploratory dialogue with AI, cutting down on prompt‑engineering effort and speeding up problem solving.",
+      "id": "art-1787006907298-5",
+      "title": "Saber's CEO defends the studio's AI use as an AI disclaimer finally appears on Steam - Eurogamer",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/saber-rideshare-stimulator-steam-ai-disclaimer",
+      "summary": "Saber Interactive added an AI disclaimer to the Steam page for Rideshare Stimulator after the game launched without one. The move follows criticism over the studio’s use of AI in development and reflects growing pressure for transparency in AI‑powered content.",
+      "whyItMatters": "It signals that game studios may need to disclose AI involvement to meet consumer expectations and regulatory scrutiny, influencing how developers document and communicate AI usage.",
       "category": "AI",
-      "publishedAt": "2026-08-15T05:00:00Z"
+      "publishedAt": "2026-08-16T17:34:21Z"
+    },
+    {
+      "id": "art-1787006907912-6",
+      "title": "It’s time for iOS to have its own Material You - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/16/its-time-for-ios-to-have-its-own-material-you/",
+      "summary": "Apple is moving toward a more customizable iOS interface, drawing inspiration from Google's Material You design language. The shift promises richer personalization options for users and new UI possibilities for developers.",
+      "whyItMatters": "Developers will need to adapt their apps to support dynamic theming and color schemes, opening opportunities for more engaging user experiences.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-16T17:33:00Z"
+    },
+    {
+      "id": "art-1787006908726-7",
+      "title": "10 Best 'Good Neighbor' Cities - Newser",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/394563/10-best-good-neighbor-cities.html",
+      "summary": "Newser has released its list of the top 10 'Good Neighbor' cities, highlighting Madison, Wisconsin as the top performer. The ranking showcases cities that excel in community engagement, sustainability, and quality of life.",
+      "whyItMatters": "Software developers may consider relocating to high-ranking cities like Madison for better work‑life balance, which can influence talent acquisition and team productivity.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-16T17:13:00Z"
+    },
+    {
+      "id": "art-1787006909510-8",
+      "title": "LEGO Super Mario Minifigure Sets Reportedly Leaked For 2027 - TwistedVoxel",
+      "source": "Twistedvoxel.com",
+      "url": "https://twistedvoxel.com/lego-super-mario-2027-sets/",
+      "summary": "LEGO has reportedly leaked eight Super Mario minifigure sets slated for release in January 2027, with prices ranging from $9.99 to $99.99. The leak includes eight sets featuring minifigures and various price points.",
+      "whyItMatters": "The leak underscores the need for robust security practices in product development and supply chain management, as early exposure of product details can impact competitive strategy and market timing.",
+      "category": "Security",
+      "publishedAt": "2026-08-16T16:58:34Z"
     }
   ]
 }
