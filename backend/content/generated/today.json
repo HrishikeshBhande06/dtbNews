@@ -1,95 +1,105 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "articles": [
     {
-      "id": "art-1787006903716-0",
-      "title": "Pyrex Collectors Are Always Looking For This Rare Mod Pattern - Tasting Table",
-      "source": "Tastingtable.com",
-      "url": "https://www.tastingtable.com/2234550/rare-mod-kitchen-pyrex-collectors-always-looking/",
-      "summary": "Vintage Pyrex dishes are prized by collectors for their colors and patterns, and the Mod Kitchen dish is especially rare. The article highlights the demand for this specific pattern among enthusiasts.",
-      "whyItMatters": "It shows how niche collectibles can drive specialized online marketplaces, influencing web development strategies for e-commerce sites.",
-      "category": "Web Dev",
-      "publishedAt": "2026-08-16T19:40:00Z"
-    },
-    {
-      "id": "art-1787006904681-1",
-      "title": "Insomniac Staff Pins Overnight Wolverine Hate On Twitter - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/insomniac-staff-blame-social-media-feedback-loops-for-overnight-wolverine-hate-2000724780",
-      "summary": "Insomniac’s marketing director publicly vented on Twitter about the sudden surge of criticism toward the Wolverine game, calling the backlash a toxic culture that harms mental health. The post highlights the intense pressure and scrutiny game studios face from fans and media.",
-      "whyItMatters": "It underscores how high‑profile criticism can affect developers’ well‑being, prompting studios to rethink communication and support practices.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-16T19:11:50Z"
-    },
-    {
-      "id": "art-1787006905196-2",
-      "title": "iCloud Private Relay leaks can expose your real IP - Fox News",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/tech/icloud-private-relay-leaks-expose-real-ip",
-      "summary": "Apple's iCloud Private Relay, designed to mask users' IP addresses, can be circumvented by three WebKit features, allowing websites to see the real IP when browsing Safari. This flaw undermines the privacy promise of the service and could expose users to tracking and targeted attacks.",
-      "whyItMatters": "Developers must audit WebKit integrations and Safari extensions to prevent IP leakage, as compromised privacy can erode user trust and trigger regulatory scrutiny.",
-      "category": "Security",
-      "publishedAt": "2026-08-16T18:15:50Z"
-    },
-    {
-      "id": "art-1787006906022-3",
-      "title": "Velocity Micro Raptor Z55i (2026) Review: A Low-Key Little Gaming Leviathan - PCMag",
-      "source": "PCMag.com",
-      "url": "https://www.pcmag.com/reviews/velocity-micro-raptor-z55i-2026",
-      "summary": "Velocity Micro's Raptor Z55i is a compact, workstation‑style gaming PC that packs powerful components into a low‑key chassis. The review highlights its aggressive pricing and peak performance when pushed to the limits.",
-      "whyItMatters": "For software developers, the Raptor Z55i offers a cost‑effective, high‑performance machine that can accelerate development, testing, and rendering workloads.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-16T18:00:53Z"
-    },
-    {
-      "id": "art-1787006906792-4",
-      "title": "Now It Will Be Sonic Who Gets To Have A Gun In Latest Fortnite Update - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/now-it-will-be-sonic-who-gets-to-have-a-gun-in-latest-fortnite-update-2000724774",
-      "summary": "Fortnite’s latest update introduces Sonic with a gun and adds other classic gaming IPs like Mega Man, Crash Bandicoot, Spyro, and Jazz Jackrabbit to its roster. The move expands the game’s cross‑brand appeal and offers players new skins and weapons tied to beloved franchises.",
-      "whyItMatters": "It demonstrates how large‑scale live‑service games leverage IP licensing to drive engagement, influencing how developers design monetization and content pipelines.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-16T17:55:42Z"
-    },
-    {
-      "id": "art-1787006907298-5",
-      "title": "Saber's CEO defends the studio's AI use as an AI disclaimer finally appears on Steam - Eurogamer",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/saber-rideshare-stimulator-steam-ai-disclaimer",
-      "summary": "Saber Interactive added an AI disclaimer to the Steam page for Rideshare Stimulator after the game launched without one. The move follows criticism over the studio’s use of AI in development and reflects growing pressure for transparency in AI‑powered content.",
-      "whyItMatters": "It signals that game studios may need to disclose AI involvement to meet consumer expectations and regulatory scrutiny, influencing how developers document and communicate AI usage.",
+      "id": "art-1787093326738-0",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team - techcrunch.com",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "summary": "Relay, an AI automation startup, has shut down, with its staff moving to Google’s Chrome team to work on AI integration in the browser. The company’s founder, Jacob Bank, hinted at ambitious plans to enhance Chrome’s AI capabilities before the closure.",
+      "whyItMatters": "The move signals a consolidation of AI expertise into major browser ecosystems, potentially accelerating AI-driven productivity features for developers and users alike.",
       "category": "AI",
-      "publishedAt": "2026-08-16T17:34:21Z"
+      "publishedAt": "2026-08-17T21:27:05Z"
     },
     {
-      "id": "art-1787006907912-6",
-      "title": "It’s time for iOS to have its own Material You - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/16/its-time-for-ios-to-have-its-own-material-you/",
-      "summary": "Apple is moving toward a more customizable iOS interface, drawing inspiration from Google's Material You design language. The shift promises richer personalization options for users and new UI possibilities for developers.",
-      "whyItMatters": "Developers will need to adapt their apps to support dynamic theming and color schemes, opening opportunities for more engaging user experiences.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-16T17:33:00Z"
-    },
-    {
-      "id": "art-1787006908726-7",
-      "title": "10 Best 'Good Neighbor' Cities - Newser",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/394563/10-best-good-neighbor-cities.html",
-      "summary": "Newser has released its list of the top 10 'Good Neighbor' cities, highlighting Madison, Wisconsin as the top performer. The ranking showcases cities that excel in community engagement, sustainability, and quality of life.",
-      "whyItMatters": "Software developers may consider relocating to high-ranking cities like Madison for better work‑life balance, which can influence talent acquisition and team productivity.",
+      "id": "art-1787093327149-1",
+      "title": "Star Citizen Dev Hosts Disastrous Livestream To Show How A Mission Works And Is Told To Pull The Plug: 'It's Your Show, Wrap It Up' - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/star-citizen-live-stream-fail-siege-of-orison-mission-2000725084",
+      "summary": "Star Citizen developers hosted a live stream to demonstrate the Siege of Orison mission, but the broadcast was chaotic and poorly executed, leading to criticism from the community. The stream ended abruptly when the developer was told to pull the plug and wrap up the show.",
+      "whyItMatters": "It highlights how live production environments can expose technical and communication flaws, underscoring the need for robust testing and clear protocols in software deployment.",
       "category": "DevOps",
-      "publishedAt": "2026-08-16T17:13:00Z"
+      "publishedAt": "2026-08-17T20:59:33Z"
     },
     {
-      "id": "art-1787006909510-8",
-      "title": "LEGO Super Mario Minifigure Sets Reportedly Leaked For 2027 - TwistedVoxel",
-      "source": "Twistedvoxel.com",
-      "url": "https://twistedvoxel.com/lego-super-mario-2027-sets/",
-      "summary": "LEGO has reportedly leaked eight Super Mario minifigure sets slated for release in January 2027, with prices ranging from $9.99 to $99.99. The leak includes eight sets featuring minifigures and various price points.",
-      "whyItMatters": "The leak underscores the need for robust security practices in product development and supply chain management, as early exposure of product details can impact competitive strategy and market timing.",
+      "id": "art-1787093327662-2",
+      "title": "Google rolling out Android 17 QPR1 Beta 9 for Pixel - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/17/android-17-qpr1-beta-9-pixel/",
+      "summary": "Google has released Android 17 QPR1 Beta 9 for Pixel devices, extending the preview phase of the upcoming Android 17 release. The update includes new features and bug fixes, giving developers early access to the latest platform changes.",
+      "whyItMatters": "Early access to Android 17 Beta 9 allows developers to test and optimize apps for the next major Android release, reducing time to market and ensuring compatibility.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-17T20:43:00Z"
+    },
+    {
+      "id": "art-1787093328070-3",
+      "title": "This compact Glorious mechanical keyboard is just $35 - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale",
+      "summary": "The GMMK 3 compact mechanical keyboard is now available for $35 or less on Woot using the coupon code WOOTGAMING. It offers a small layout, swappable switches, and RGB lighting for budget-conscious gamers and developers.",
+      "whyItMatters": "Affordable, high‑quality keyboards lower the barrier for developers to customize their input devices, potentially boosting productivity and comfort during coding sessions.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-17T19:27:49Z"
+    },
+    {
+      "id": "art-1787093328803-4",
+      "title": "Best Buy 60th Anniversary Sale Offers Huge Deals on Apple, LG, Dyson and More - CNET",
+      "source": "CNET",
+      "url": "https://www.cnet.com/news-live/best-buy-60th-anniversary-sale-offers-huge-deals-on-apple-lg-dyson-and-more/",
+      "summary": "Best Buy is celebrating its 60th anniversary with a massive sale offering discounts on a wide range of products, including Apple devices, LG electronics, and Dyson appliances. The promotion spans from AirPods to air fryers, aiming to attract tech‑savvy shoppers looking for deals on both gadgets and home appliances.",
+      "whyItMatters": "The sale provides developers with affordable access to the latest Apple hardware, enabling them to test and optimize mobile applications on current devices.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-17T19:18:53Z"
+    },
+    {
+      "id": "art-1787093329277-5",
+      "title": "Wordle meets Clippy in this new word game - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game",
+      "summary": "The Game Band, known for Blaseball, has launched Dartwords, a daily word game that combines Wordle-style puzzles with a Clippy-inspired AI helper. The game offers a fresh take on word games by adding interactive, personality-driven hints to the traditional guessing format.",
+      "whyItMatters": "It showcases how playful AI interfaces can enhance user engagement, encouraging developers to experiment with conversational agents in casual apps.",
+      "category": "AI",
+      "publishedAt": "2026-08-17T19:03:41Z"
+    },
+    {
+      "id": "art-1787093329672-6",
+      "title": "Rare deals land on Apple’s new AirTag 2 trackers at the best prices in months - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/cnn-underscored/deals/apple-airtag-sale-08-17-2026",
+      "summary": "Apple’s second‑generation AirTags are now available for as little as $22 each thanks to limited‑time deals, making the new trackers more affordable than ever.",
+      "whyItMatters": "Lower prices could boost adoption of AirTags, encouraging developers to build more location‑based and IoT features into mobile apps.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-17T19:00:00Z"
+    },
+    {
+      "id": "art-1787093330307-7",
+      "title": "ELDEN RING Tarnished Edition hands-on leaves press member \"utterly speechless\" in terms of smooth performance, footage shared - GoNintendo",
+      "source": "GoNintendo",
+      "url": "https://gonintendo.com/contents/63860-elden-ring-tarnished-edition-hands-on-leaves-press-member-utterly-speechless-in",
+      "summary": "The Elden Ring Tarnished Edition hands‑on on the Nintendo Switch impressed reviewers with its smooth performance and high‑quality visuals, leaving a press member 'utterly speechless.' Footage shared by GoNintendo confirms that the port delivers a near‑console experience on a handheld platform.",
+      "whyItMatters": "It demonstrates how rigorous performance optimization and efficient porting can bring AAA titles to handheld devices without compromising quality, setting a new benchmark for cross‑platform development.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-17T18:40:50Z"
+    },
+    {
+      "id": "art-1787093330680-8",
+      "title": "iOS 26.6.1 has fixes for 20+ security issues on iPhone, details here - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/17/ios-26-6-1-has-fixes-for-20-security-issues-on-iphone-details-here/",
+      "summary": "Apple released iOS 26.6.1, a new iPhone update that patches more than 20 security vulnerabilities.",
+      "whyItMatters": "Developers need to update and test their apps against the new OS to maintain security compliance and ensure users are protected from the fixed exploits.",
       "category": "Security",
-      "publishedAt": "2026-08-16T16:58:34Z"
+      "publishedAt": "2026-08-17T18:29:00Z"
+    },
+    {
+      "id": "art-1787093331282-9",
+      "title": "iPhone 18 Pro and iPhone Ultra: New Details Leak as Apple Event Nears - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/17/iphone-18-pro-and-iphone-ultra-rumors/",
+      "summary": "Leaked details reveal that Apple is preparing to launch the iPhone 18 Pro and a new foldable iPhone Ultra, with the Ultra expected to have a very limited supply upon its initial release later this year. The announcement hints at Apple's continued push into high‑end, innovative smartphone designs ahead of its upcoming event.",
+      "whyItMatters": "Developers will need to prepare for new hardware capabilities and potential app optimization challenges as the foldable Ultra introduces unique form factors and performance expectations.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-17T18:09:40Z"
     }
   ]
 }
