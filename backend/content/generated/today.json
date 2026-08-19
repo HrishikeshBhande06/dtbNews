@@ -1,105 +1,105 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "articles": [
     {
-      "id": "art-1787093326738-0",
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team - techcrunch.com",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "summary": "Relay, an AI automation startup, has shut down, with its staff moving to Google’s Chrome team to work on AI integration in the browser. The company’s founder, Jacob Bank, hinted at ambitious plans to enhance Chrome’s AI capabilities before the closure.",
-      "whyItMatters": "The move signals a consolidation of AI expertise into major browser ecosystems, potentially accelerating AI-driven productivity features for developers and users alike.",
-      "category": "AI",
-      "publishedAt": "2026-08-17T21:27:05Z"
-    },
-    {
-      "id": "art-1787093327149-1",
-      "title": "Star Citizen Dev Hosts Disastrous Livestream To Show How A Mission Works And Is Told To Pull The Plug: 'It's Your Show, Wrap It Up' - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/star-citizen-live-stream-fail-siege-of-orison-mission-2000725084",
-      "summary": "Star Citizen developers hosted a live stream to demonstrate the Siege of Orison mission, but the broadcast was chaotic and poorly executed, leading to criticism from the community. The stream ended abruptly when the developer was told to pull the plug and wrap up the show.",
-      "whyItMatters": "It highlights how live production environments can expose technical and communication flaws, underscoring the need for robust testing and clear protocols in software deployment.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-17T20:59:33Z"
-    },
-    {
-      "id": "art-1787093327662-2",
-      "title": "Google rolling out Android 17 QPR1 Beta 9 for Pixel - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/17/android-17-qpr1-beta-9-pixel/",
-      "summary": "Google has released Android 17 QPR1 Beta 9 for Pixel devices, extending the preview phase of the upcoming Android 17 release. The update includes new features and bug fixes, giving developers early access to the latest platform changes.",
-      "whyItMatters": "Early access to Android 17 Beta 9 allows developers to test and optimize apps for the next major Android release, reducing time to market and ensuring compatibility.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-17T20:43:00Z"
-    },
-    {
-      "id": "art-1787093328070-3",
-      "title": "This compact Glorious mechanical keyboard is just $35 - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale",
-      "summary": "The GMMK 3 compact mechanical keyboard is now available for $35 or less on Woot using the coupon code WOOTGAMING. It offers a small layout, swappable switches, and RGB lighting for budget-conscious gamers and developers.",
-      "whyItMatters": "Affordable, high‑quality keyboards lower the barrier for developers to customize their input devices, potentially boosting productivity and comfort during coding sessions.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-17T19:27:49Z"
-    },
-    {
-      "id": "art-1787093328803-4",
-      "title": "Best Buy 60th Anniversary Sale Offers Huge Deals on Apple, LG, Dyson and More - CNET",
-      "source": "CNET",
-      "url": "https://www.cnet.com/news-live/best-buy-60th-anniversary-sale-offers-huge-deals-on-apple-lg-dyson-and-more/",
-      "summary": "Best Buy is celebrating its 60th anniversary with a massive sale offering discounts on a wide range of products, including Apple devices, LG electronics, and Dyson appliances. The promotion spans from AirPods to air fryers, aiming to attract tech‑savvy shoppers looking for deals on both gadgets and home appliances.",
-      "whyItMatters": "The sale provides developers with affordable access to the latest Apple hardware, enabling them to test and optimize mobile applications on current devices.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-17T19:18:53Z"
-    },
-    {
-      "id": "art-1787093329277-5",
-      "title": "Wordle meets Clippy in this new word game - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game",
-      "summary": "The Game Band, known for Blaseball, has launched Dartwords, a daily word game that combines Wordle-style puzzles with a Clippy-inspired AI helper. The game offers a fresh take on word games by adding interactive, personality-driven hints to the traditional guessing format.",
-      "whyItMatters": "It showcases how playful AI interfaces can enhance user engagement, encouraging developers to experiment with conversational agents in casual apps.",
-      "category": "AI",
-      "publishedAt": "2026-08-17T19:03:41Z"
-    },
-    {
-      "id": "art-1787093329672-6",
-      "title": "Rare deals land on Apple’s new AirTag 2 trackers at the best prices in months - CNN",
-      "source": "CNN",
-      "url": "https://www.cnn.com/cnn-underscored/deals/apple-airtag-sale-08-17-2026",
-      "summary": "Apple’s second‑generation AirTags are now available for as little as $22 each thanks to limited‑time deals, making the new trackers more affordable than ever.",
-      "whyItMatters": "Lower prices could boost adoption of AirTags, encouraging developers to build more location‑based and IoT features into mobile apps.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-17T19:00:00Z"
-    },
-    {
-      "id": "art-1787093330307-7",
-      "title": "ELDEN RING Tarnished Edition hands-on leaves press member \"utterly speechless\" in terms of smooth performance, footage shared - GoNintendo",
-      "source": "GoNintendo",
-      "url": "https://gonintendo.com/contents/63860-elden-ring-tarnished-edition-hands-on-leaves-press-member-utterly-speechless-in",
-      "summary": "The Elden Ring Tarnished Edition hands‑on on the Nintendo Switch impressed reviewers with its smooth performance and high‑quality visuals, leaving a press member 'utterly speechless.' Footage shared by GoNintendo confirms that the port delivers a near‑console experience on a handheld platform.",
-      "whyItMatters": "It demonstrates how rigorous performance optimization and efficient porting can bring AAA titles to handheld devices without compromising quality, setting a new benchmark for cross‑platform development.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-17T18:40:50Z"
-    },
-    {
-      "id": "art-1787093330680-8",
-      "title": "iOS 26.6.1 has fixes for 20+ security issues on iPhone, details here - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/17/ios-26-6-1-has-fixes-for-20-security-issues-on-iphone-details-here/",
-      "summary": "Apple released iOS 26.6.1, a new iPhone update that patches more than 20 security vulnerabilities.",
-      "whyItMatters": "Developers need to update and test their apps against the new OS to maintain security compliance and ensure users are protected from the fixed exploits.",
+      "id": "art-1787179757945-0",
+      "title": "GTA 6 Gameplay Leak Appears Online Ahead of Official Reveal - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leak-appears-online-ahead-of-official-reveal",
+      "summary": "A leaked clip of GTA 6 gameplay featuring basketball practice and driving sequences has surfaced online ahead of the game's official reveal. The footage, posted by an unknown source, shows early gameplay mechanics and level design, sparking speculation among fans and industry observers.",
+      "whyItMatters": "The leak highlights vulnerabilities in Rockstar's pre-release security protocols, underscoring the need for stronger content protection measures in the gaming industry.",
       "category": "Security",
-      "publishedAt": "2026-08-17T18:29:00Z"
+      "publishedAt": "2026-08-18T18:15:00Z"
     },
     {
-      "id": "art-1787093331282-9",
-      "title": "iPhone 18 Pro and iPhone Ultra: New Details Leak as Apple Event Nears - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/17/iphone-18-pro-and-iphone-ultra-rumors/",
-      "summary": "Leaked details reveal that Apple is preparing to launch the iPhone 18 Pro and a new foldable iPhone Ultra, with the Ultra expected to have a very limited supply upon its initial release later this year. The announcement hints at Apple's continued push into high‑end, innovative smartphone designs ahead of its upcoming event.",
-      "whyItMatters": "Developers will need to prepare for new hardware capabilities and potential app optimization challenges as the foldable Ultra introduces unique form factors and performance expectations.",
+      "id": "art-1787179758693-1",
+      "title": "Irate Physical Game Fans Prepare for Their Big PS5 Blackout - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/08/irate-physical-game-fans-prepare-for-their-big-ps5-blackout",
+      "summary": "Sony’s PS5 supply chain issues are causing a blackout that will affect physical game fans starting this weekend. Developers and publishers may need to adjust release plans and shift to digital distribution to mitigate the impact.",
+      "whyItMatters": "The blackout forces developers to rethink release strategies, potentially accelerating digital-first approaches and impacting supply chain management.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-18T18:00:00Z"
+    },
+    {
+      "id": "art-1787179759538-2",
+      "title": "12 Tips To Know Before You Start Playing Mortal Shell 2 - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/12-tips-to-know-before-you-start-playing-mortal-shell-2-2000725388",
+      "summary": "The Kotaku article offers 12 essential tips for players before diving into Mortal Shell 2, covering key settings adjustments and common pitfalls to avoid. It serves as a quick guide to help gamers optimize their experience and reduce frustration during gameplay.",
+      "whyItMatters": "By highlighting optimal settings and potential issues, the article underscores the importance of user experience tuning, a critical consideration for developers aiming to deliver polished, player-friendly releases.",
       "category": "Mobile",
-      "publishedAt": "2026-08-17T18:09:40Z"
+      "publishedAt": "2026-08-18T17:10:29Z"
+    },
+    {
+      "id": "art-1787179760050-3",
+      "title": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27 [U: watchOS 27] - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/18/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
+      "summary": "Apple has released public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27, and watchOS 27, following the earlier developer beta 6 launch. The update brings new features, bug fixes, and performance improvements across all major Apple platforms.",
+      "whyItMatters": "Developers must update their apps to ensure compatibility with the latest OS changes and to take advantage of new APIs, which can affect app stability and user experience.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-18T17:07:00Z"
+    },
+    {
+      "id": "art-1787179760544-4",
+      "title": "Metal Gear Solid Master Collection Vol. 2 has apparently removed MGS4's PS3 on Nintendo Switch 2 and Switch - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/metal-gear-solid-master-collection-vol-2-has-apparently-removed-mgs4s-ps3-on-nintendo-switch-2-and-switch/",
+      "summary": "Metal Gear Solid Master Collection Vol. 2 will launch on Nintendo Switch 2 and Switch on August 27 2026, but it will not include the PS3 version of Metal Gear Solid 4. The collection gives Switch players access to MGS 4 and MGS Peace Walker for the first time on the platform.",
+      "whyItMatters": "The exclusion of the PS3 version highlights the complexities of licensing and porting legacy titles to new hardware, influencing how developers plan cross‑platform releases.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-18T16:49:32Z"
+    },
+    {
+      "id": "art-1787179761356-5",
+      "title": "Video: Elden Ring Gameplay Showcase Released Ahead Of Switch 2 Launch - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/08/video-elden-ring-gameplay-showcase-released-ahead-of-switch-2-launch",
+      "summary": "Elden Ring's gameplay showcase was released ahead of the Switch 2 launch, giving fans a glimpse of the next‑gen console's capabilities. The video highlights improved graphics and performance, hinting at a more powerful handheld experience.",
+      "whyItMatters": "The showcase signals that developers will need to adapt their engines and optimization strategies to leverage the Switch 2's enhanced hardware, potentially raising the bar for handheld game performance.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-18T16:30:00Z"
+    },
+    {
+      "id": "art-1787179761963-6",
+      "title": "Control Resonant Developer Announces Last-Minute Delay For Physical Edition - ign.com",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/control-resonant-developer-announces-last-minute-delay-for-physical-edition",
+      "summary": "Control Resonant, a game developer, has announced a last‑minute delay that will postpone the launch of its physical editions. The delay may affect collectors and early adopters who were anticipating the physical release.",
+      "whyItMatters": "The delay highlights the challenges of physical distribution for indie developers, potentially impacting revenue streams and community engagement.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-18T15:58:56Z"
+    },
+    {
+      "id": "art-1787179762389-7",
+      "title": "‘Dead’ Destiny 2’s Playercount Now Matches ‘ARC Raiders’ - forbes.com",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/08/18/dead-destiny-2s-playercount-now-matches-arc-raiders/",
+      "summary": "Destiny 2’s player count has reached the same level as the long‑dead game ARC Raiders, even though no new content has been released for years. The news highlights how some games can sustain a dedicated player base long after their active development has ceased.",
+      "whyItMatters": "It shows that maintaining robust server infrastructure and community engagement can keep a game viable, informing developers about the importance of long‑term support and resource allocation.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-18T15:16:16Z"
+    },
+    {
+      "id": "art-1787179762922-8",
+      "title": "The physical media selection at Sony's Crunchyroll is even worse than fans feared after store update: all books removed and Blu-ray lineup gutted - GamesRadar+",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/entertainment/anime-shows/the-physical-media-selection-at-sonys-crunchyroll-is-even-worse-than-fans-feared-after-store-update-all-books-removed-and-blu-ray-lineup-gutted/",
+      "summary": "Sony’s Crunchyroll store update has removed all physical media titles, wiping out books and drastically reducing the Blu‑ray lineup. The change has left fans without access to a wide range of manga, light novels, and other collectibles that were previously available for purchase.",
+      "whyItMatters": "The abrupt removal of catalog items highlights the risks of aggressive content pruning in digital storefronts, forcing developers to prioritize robust change management and clear communication to avoid alienating users.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-18T15:05:57Z"
+    },
+    {
+      "id": "art-1787179763473-9",
+      "title": "TMNT: Splintered Fate Ver. 2.0 Update Caps Off The Main Story With A New Final Boss - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/08/tmnt-splintered-fate-ver-2-0-update-caps-off-the-main-story-with-a-new-final-boss",
+      "summary": "Nintendo Life reports that the latest update for TMNT: Splintered Fate Ver. 2.0 concludes the main story with a new final boss and introduces additional character DLC. The patch expands the game’s content and offers players fresh challenges and cosmetic options.",
+      "whyItMatters": "The update demonstrates how iterative content releases can sustain player engagement and drive continuous revenue, highlighting best practices for managing live service deployments in the gaming industry.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-18T15:00:00Z"
     }
   ]
 }
