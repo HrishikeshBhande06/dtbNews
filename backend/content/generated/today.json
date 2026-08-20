@@ -1,105 +1,105 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "articles": [
     {
-      "id": "art-1787179757945-0",
-      "title": "GTA 6 Gameplay Leak Appears Online Ahead of Official Reveal - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leak-appears-online-ahead-of-official-reveal",
-      "summary": "A leaked clip of GTA 6 gameplay featuring basketball practice and driving sequences has surfaced online ahead of the game's official reveal. The footage, posted by an unknown source, shows early gameplay mechanics and level design, sparking speculation among fans and industry observers.",
-      "whyItMatters": "The leak highlights vulnerabilities in Rockstar's pre-release security protocols, underscoring the need for stronger content protection measures in the gaming industry.",
+      "id": "art-1787266412683-0",
+      "title": "The ReTerminal Sticky Is An E-Paper Display Begging You To Hack It - Aftermath",
+      "source": "Aftermath.site",
+      "url": "https://aftermath.site/reterminal-sticky-review-ereader-xteink/",
+      "summary": "The ReTerminal Sticky e‑paper display is intentionally designed to be hackable, drawing in hobbyists and tinkerers. Companies like Xteink and Seeed Studio are actively cultivating communities around this open‑hardware platform.",
+      "whyItMatters": "It demonstrates how open hardware can accelerate security research and innovation for developers working with low‑power, flexible displays.",
       "category": "Security",
-      "publishedAt": "2026-08-18T18:15:00Z"
+      "publishedAt": "2026-08-19T19:29:39Z"
     },
     {
-      "id": "art-1787179758693-1",
-      "title": "Irate Physical Game Fans Prepare for Their Big PS5 Blackout - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/08/irate-physical-game-fans-prepare-for-their-big-ps5-blackout",
-      "summary": "Sony’s PS5 supply chain issues are causing a blackout that will affect physical game fans starting this weekend. Developers and publishers may need to adjust release plans and shift to digital distribution to mitigate the impact.",
-      "whyItMatters": "The blackout forces developers to rethink release strategies, potentially accelerating digital-first approaches and impacting supply chain management.",
+      "id": "art-1787266413021-1",
+      "title": "Pixel 11 introduces unified ‘Pixel search,’ hides it in the drawer - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/19/pixel-11-search/",
+      "summary": "Pixel 11 adds a new unified search companion called Pixel Search, which is integrated into the system but hidden in the drawer for quick access to personal information. The feature promises faster retrieval of data across apps and services.",
+      "whyItMatters": "It shows Google’s push to embed AI‑powered search deeper into mobile OS, prompting developers to consider how their apps expose data for seamless search integration.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-19T19:15:00Z"
+    },
+    {
+      "id": "art-1787266413468-2",
+      "title": "Watch Valve set up the Steam Frame in its own leaked videos - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
+      "summary": "Valve has leaked a series of videos that walk through the setup process for its upcoming Steam Frame virtual‑reality headset, revealing detailed hardware and software integration steps. The footage showcases the headset’s modular design, controller pairing, and software stack, giving developers a clearer view of the platform’s capabilities.",
+      "whyItMatters": "The leaks give developers early insight into the Steam Frame’s architecture, enabling them to optimize VR applications for the new hardware and potentially accelerate content creation for Valve’s ecosystem.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-19T18:16:27Z"
+    },
+    {
+      "id": "art-1787266414073-3",
+      "title": "The Original Xbox Is Back, And This Time You Have To Build It Yourself - GameSpot",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/the-original-xbox-is-back-and-this-time-you-have-to-build-it-yourself/",
+      "summary": "A new kit lets enthusiasts rebuild the original Xbox from scratch, offering a nostalgic experience at a lower cost than the latest console. The package includes all necessary parts and instructions, making it accessible to hobbyists and developers alike.",
+      "whyItMatters": "It empowers developers to experiment with legacy hardware, fostering skills in low-level programming and hardware integration that can inform modern console design.",
       "category": "DevOps",
-      "publishedAt": "2026-08-18T18:00:00Z"
+      "publishedAt": "2026-08-19T17:20:12Z"
     },
     {
-      "id": "art-1787179759538-2",
-      "title": "12 Tips To Know Before You Start Playing Mortal Shell 2 - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/12-tips-to-know-before-you-start-playing-mortal-shell-2-2000725388",
-      "summary": "The Kotaku article offers 12 essential tips for players before diving into Mortal Shell 2, covering key settings adjustments and common pitfalls to avoid. It serves as a quick guide to help gamers optimize their experience and reduce frustration during gameplay.",
-      "whyItMatters": "By highlighting optimal settings and potential issues, the article underscores the importance of user experience tuning, a critical consideration for developers aiming to deliver polished, player-friendly releases.",
+      "id": "art-1787266414529-4",
+      "title": "GTA VI keeps leaking ahead of its gameplay premiere - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
+      "summary": "Clips that appear to show Grand Theft Auto VI have surfaced online, potentially revealing gameplay details before Rockstar Games' official deep dive. The footage has already prompted the removal of some clips by the platform hosting them.",
+      "whyItMatters": "Early leaks can undermine a game's marketing strategy and expose proprietary content, highlighting the need for stronger security measures in game development pipelines.",
+      "category": "Security",
+      "publishedAt": "2026-08-19T17:03:11Z"
+    },
+    {
+      "id": "art-1787266414960-5",
+      "title": "Google rolling out new gradient AI ring for subscribers on Android, web - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/19/google-account-gradient-ring/",
+      "summary": "Google has introduced a blue gradient ring around users’ account photos to visually indicate paid subscription status on Android and web platforms. The feature will appear automatically for subscribers, providing a quick visual cue across Google services.",
+      "whyItMatters": "Developers need to account for this UI change when designing interfaces that display user avatars, ensuring consistent visual feedback for subscription status across mobile and web apps.",
       "category": "Mobile",
-      "publishedAt": "2026-08-18T17:10:29Z"
+      "publishedAt": "2026-08-19T16:35:00Z"
     },
     {
-      "id": "art-1787179760050-3",
-      "title": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27 [U: watchOS 27] - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/18/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
-      "summary": "Apple has released public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27, and watchOS 27, following the earlier developer beta 6 launch. The update brings new features, bug fixes, and performance improvements across all major Apple platforms.",
-      "whyItMatters": "Developers must update their apps to ensure compatibility with the latest OS changes and to take advantage of new APIs, which can affect app stability and user experience.",
+      "id": "art-1787266415435-6",
+      "title": "Google Pixel 11 series review: Is the magic fading? - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+      "summary": "The Google Pixel 11 series offers solid performance and camera quality, but introduces some compromises such as a less powerful processor and reduced battery life compared to its predecessor. Despite these trade-offs, the phones remain competitive and deliver a satisfying user experience.",
+      "whyItMatters": "For software developers, the Pixel 11's hardware changes may influence app optimization strategies, especially for performance‑intensive and battery‑draining applications, prompting a reevaluation of target device profiles.",
       "category": "Mobile",
-      "publishedAt": "2026-08-18T17:07:00Z"
+      "publishedAt": "2026-08-19T16:11:30Z"
     },
     {
-      "id": "art-1787179760544-4",
-      "title": "Metal Gear Solid Master Collection Vol. 2 has apparently removed MGS4's PS3 on Nintendo Switch 2 and Switch - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/metal-gear-solid-master-collection-vol-2-has-apparently-removed-mgs4s-ps3-on-nintendo-switch-2-and-switch/",
-      "summary": "Metal Gear Solid Master Collection Vol. 2 will launch on Nintendo Switch 2 and Switch on August 27 2026, but it will not include the PS3 version of Metal Gear Solid 4. The collection gives Switch players access to MGS 4 and MGS Peace Walker for the first time on the platform.",
-      "whyItMatters": "The exclusion of the PS3 version highlights the complexities of licensing and porting legacy titles to new hardware, influencing how developers plan cross‑platform releases.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-18T16:49:32Z"
+      "id": "art-1787266415924-7",
+      "title": "Available for XBOX Insiders: Home Improvements, Local Save Game Management, and Profile Badges - XBOX Wire",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/08/19/xbox-insiders-october-2026-console-features-2/",
+      "summary": "Xbox Insiders now have access to new achievement features that refresh the visual layout, allow hiding games, and highlight fully completed titles. These changes give players more control over their profiles and enhance personalization.",
+      "whyItMatters": "By enabling granular control over profile content, developers can better engage users and gather insights on feature adoption, informing future UI/UX improvements.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-19T16:02:25Z"
     },
     {
-      "id": "art-1787179761356-5",
-      "title": "Video: Elden Ring Gameplay Showcase Released Ahead Of Switch 2 Launch - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/08/video-elden-ring-gameplay-showcase-released-ahead-of-switch-2-launch",
-      "summary": "Elden Ring's gameplay showcase was released ahead of the Switch 2 launch, giving fans a glimpse of the next‑gen console's capabilities. The video highlights improved graphics and performance, hinting at a more powerful handheld experience.",
-      "whyItMatters": "The showcase signals that developers will need to adapt their engines and optimization strategies to leverage the Switch 2's enhanced hardware, potentially raising the bar for handheld game performance.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-18T16:30:00Z"
-    },
-    {
-      "id": "art-1787179761963-6",
-      "title": "Control Resonant Developer Announces Last-Minute Delay For Physical Edition - ign.com",
+      "id": "art-1787266416436-8",
+      "title": "‘You Don’t Get XP, But Zones Do’ — How Control Resonant Is Rewriting the Action RPG Rule Book - IGN",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/control-resonant-developer-announces-last-minute-delay-for-physical-edition",
-      "summary": "Control Resonant, a game developer, has announced a last‑minute delay that will postpone the launch of its physical editions. The delay may affect collectors and early adopters who were anticipating the physical release.",
-      "whyItMatters": "The delay highlights the challenges of physical distribution for indie developers, potentially impacting revenue streams and community engagement.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-18T15:58:56Z"
+      "url": "https://www.ign.com/articles/you-dont-get-xp-but-zones-do-how-control-resonant-is-rewriting-the-action-rpg-rule-book",
+      "summary": "Control Resonant introduces a novel boss design where defeating enemies alters the game world, eliminating traditional XP rewards in favor of zone-based progression. The game’s dynamic environment encourages players to rethink strategy, as each victory reshapes Manhattan’s monster landscape.",
+      "whyItMatters": "Game developers can learn how adaptive world design enhances player engagement, informing future projects that aim to create more immersive, consequence-driven experiences.",
+      "category": "AI",
+      "publishedAt": "2026-08-19T16:00:00Z"
     },
     {
-      "id": "art-1787179762389-7",
-      "title": "‘Dead’ Destiny 2’s Playercount Now Matches ‘ARC Raiders’ - forbes.com",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/08/18/dead-destiny-2s-playercount-now-matches-arc-raiders/",
-      "summary": "Destiny 2’s player count has reached the same level as the long‑dead game ARC Raiders, even though no new content has been released for years. The news highlights how some games can sustain a dedicated player base long after their active development has ceased.",
-      "whyItMatters": "It shows that maintaining robust server infrastructure and community engagement can keep a game viable, informing developers about the importance of long‑term support and resource allocation.",
+      "id": "art-1787266416783-9",
+      "title": "Runescape: Dragonwilds is coming to Xbox Game Pass at launch - TrueAchievements",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/news/runescape-dragonwilds-xbox-game-pass-day-one",
+      "summary": "Jagex announced that Runescape: Dragonwilds, a co‑op survival spin‑off of the popular MMO, will launch on Xbox Game Pass on day one this September. The move marks a significant partnership between the game developer and Microsoft’s subscription service, expanding the title’s reach to console players.",
+      "whyItMatters": "Releasing a major title simultaneously on a subscription platform underscores the importance of streamlined release pipelines and cross‑platform distribution strategies for modern game developers.",
       "category": "DevOps",
-      "publishedAt": "2026-08-18T15:16:16Z"
-    },
-    {
-      "id": "art-1787179762922-8",
-      "title": "The physical media selection at Sony's Crunchyroll is even worse than fans feared after store update: all books removed and Blu-ray lineup gutted - GamesRadar+",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/entertainment/anime-shows/the-physical-media-selection-at-sonys-crunchyroll-is-even-worse-than-fans-feared-after-store-update-all-books-removed-and-blu-ray-lineup-gutted/",
-      "summary": "Sony’s Crunchyroll store update has removed all physical media titles, wiping out books and drastically reducing the Blu‑ray lineup. The change has left fans without access to a wide range of manga, light novels, and other collectibles that were previously available for purchase.",
-      "whyItMatters": "The abrupt removal of catalog items highlights the risks of aggressive content pruning in digital storefronts, forcing developers to prioritize robust change management and clear communication to avoid alienating users.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-18T15:05:57Z"
-    },
-    {
-      "id": "art-1787179763473-9",
-      "title": "TMNT: Splintered Fate Ver. 2.0 Update Caps Off The Main Story With A New Final Boss - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/08/tmnt-splintered-fate-ver-2-0-update-caps-off-the-main-story-with-a-new-final-boss",
-      "summary": "Nintendo Life reports that the latest update for TMNT: Splintered Fate Ver. 2.0 concludes the main story with a new final boss and introduces additional character DLC. The patch expands the game’s content and offers players fresh challenges and cosmetic options.",
-      "whyItMatters": "The update demonstrates how iterative content releases can sustain player engagement and drive continuous revenue, highlighting best practices for managing live service deployments in the gaming industry.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-18T15:00:00Z"
+      "publishedAt": "2026-08-19T15:51:10Z"
     }
   ]
 }
