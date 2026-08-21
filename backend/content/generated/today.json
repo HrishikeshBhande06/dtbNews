@@ -1,105 +1,105 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "articles": [
     {
-      "id": "art-1787266412683-0",
-      "title": "The ReTerminal Sticky Is An E-Paper Display Begging You To Hack It - Aftermath",
-      "source": "Aftermath.site",
-      "url": "https://aftermath.site/reterminal-sticky-review-ereader-xteink/",
-      "summary": "The ReTerminal Sticky e‑paper display is intentionally designed to be hackable, drawing in hobbyists and tinkerers. Companies like Xteink and Seeed Studio are actively cultivating communities around this open‑hardware platform.",
-      "whyItMatters": "It demonstrates how open hardware can accelerate security research and innovation for developers working with low‑power, flexible displays.",
-      "category": "Security",
-      "publishedAt": "2026-08-19T19:29:39Z"
-    },
-    {
-      "id": "art-1787266413021-1",
-      "title": "Pixel 11 introduces unified ‘Pixel search,’ hides it in the drawer - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/19/pixel-11-search/",
-      "summary": "Pixel 11 adds a new unified search companion called Pixel Search, which is integrated into the system but hidden in the drawer for quick access to personal information. The feature promises faster retrieval of data across apps and services.",
-      "whyItMatters": "It shows Google’s push to embed AI‑powered search deeper into mobile OS, prompting developers to consider how their apps expose data for seamless search integration.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-19T19:15:00Z"
-    },
-    {
-      "id": "art-1787266413468-2",
-      "title": "Watch Valve set up the Steam Frame in its own leaked videos - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
-      "summary": "Valve has leaked a series of videos that walk through the setup process for its upcoming Steam Frame virtual‑reality headset, revealing detailed hardware and software integration steps. The footage showcases the headset’s modular design, controller pairing, and software stack, giving developers a clearer view of the platform’s capabilities.",
-      "whyItMatters": "The leaks give developers early insight into the Steam Frame’s architecture, enabling them to optimize VR applications for the new hardware and potentially accelerate content creation for Valve’s ecosystem.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-19T18:16:27Z"
-    },
-    {
-      "id": "art-1787266414073-3",
-      "title": "The Original Xbox Is Back, And This Time You Have To Build It Yourself - GameSpot",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/the-original-xbox-is-back-and-this-time-you-have-to-build-it-yourself/",
-      "summary": "A new kit lets enthusiasts rebuild the original Xbox from scratch, offering a nostalgic experience at a lower cost than the latest console. The package includes all necessary parts and instructions, making it accessible to hobbyists and developers alike.",
-      "whyItMatters": "It empowers developers to experiment with legacy hardware, fostering skills in low-level programming and hardware integration that can inform modern console design.",
+      "id": "art-1787352529813-0",
+      "title": "Xbox And EA Aren’t Sharing U.S. Digital Sales Data Anymore, And That’s Worrisome - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/xbox-isnt-sharing-us-digital-sales-data-anymore-2000726257",
+      "summary": "Xbox and EA have stopped sharing U.S. digital sales data, reducing transparency in the gaming industry. This move leaves developers and publishers without key market insights, potentially hindering strategic decisions.",
+      "whyItMatters": "Without access to sales data, developers cannot accurately gauge demand or optimize pricing, which can stifle innovation and market competitiveness.",
       "category": "DevOps",
-      "publishedAt": "2026-08-19T17:20:12Z"
+      "publishedAt": "2026-08-20T20:50:28Z"
     },
     {
-      "id": "art-1787266414529-4",
-      "title": "GTA VI keeps leaking ahead of its gameplay premiere - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
-      "summary": "Clips that appear to show Grand Theft Auto VI have surfaced online, potentially revealing gameplay details before Rockstar Games' official deep dive. The footage has already prompted the removal of some clips by the platform hosting them.",
-      "whyItMatters": "Early leaks can undermine a game's marketing strategy and expose proprietary content, highlighting the need for stronger security measures in game development pipelines.",
-      "category": "Security",
-      "publishedAt": "2026-08-19T17:03:11Z"
-    },
-    {
-      "id": "art-1787266414960-5",
-      "title": "Google rolling out new gradient AI ring for subscribers on Android, web - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/19/google-account-gradient-ring/",
-      "summary": "Google has introduced a blue gradient ring around users’ account photos to visually indicate paid subscription status on Android and web platforms. The feature will appear automatically for subscribers, providing a quick visual cue across Google services.",
-      "whyItMatters": "Developers need to account for this UI change when designing interfaces that display user avatars, ensuring consistent visual feedback for subscription status across mobile and web apps.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-19T16:35:00Z"
-    },
-    {
-      "id": "art-1787266415435-6",
-      "title": "Google Pixel 11 series review: Is the magic fading? - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-      "summary": "The Google Pixel 11 series offers solid performance and camera quality, but introduces some compromises such as a less powerful processor and reduced battery life compared to its predecessor. Despite these trade-offs, the phones remain competitive and deliver a satisfying user experience.",
-      "whyItMatters": "For software developers, the Pixel 11's hardware changes may influence app optimization strategies, especially for performance‑intensive and battery‑draining applications, prompting a reevaluation of target device profiles.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-19T16:11:30Z"
-    },
-    {
-      "id": "art-1787266415924-7",
-      "title": "Available for XBOX Insiders: Home Improvements, Local Save Game Management, and Profile Badges - XBOX Wire",
-      "source": "Xbox.com",
-      "url": "https://news.xbox.com/en-us/2026/08/19/xbox-insiders-october-2026-console-features-2/",
-      "summary": "Xbox Insiders now have access to new achievement features that refresh the visual layout, allow hiding games, and highlight fully completed titles. These changes give players more control over their profiles and enhance personalization.",
-      "whyItMatters": "By enabling granular control over profile content, developers can better engage users and gather insights on feature adoption, informing future UI/UX improvements.",
+      "id": "art-1787352530440-1",
+      "title": "Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live - GamesIndustry.biz",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live",
+      "summary": "Geoff Keighley explained that Gamescom Opening Night Live selects game trailers editorially, allowing certain titles to appear for free while others require paid placements. The process highlights a structured approach to promotional content at a major industry event.",
+      "whyItMatters": "Developers must understand that gaining free exposure at Gamescom depends on editorial selection, influencing marketing budgets and visibility strategies.",
       "category": "DevOps",
-      "publishedAt": "2026-08-19T16:02:25Z"
+      "publishedAt": "2026-08-20T19:19:08Z"
     },
     {
-      "id": "art-1787266416436-8",
-      "title": "‘You Don’t Get XP, But Zones Do’ — How Control Resonant Is Rewriting the Action RPG Rule Book - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/you-dont-get-xp-but-zones-do-how-control-resonant-is-rewriting-the-action-rpg-rule-book",
-      "summary": "Control Resonant introduces a novel boss design where defeating enemies alters the game world, eliminating traditional XP rewards in favor of zone-based progression. The game’s dynamic environment encourages players to rethink strategy, as each victory reshapes Manhattan’s monster landscape.",
-      "whyItMatters": "Game developers can learn how adaptive world design enhances player engagement, informing future projects that aim to create more immersive, consequence-driven experiences.",
+      "id": "art-1787352531080-2",
+      "title": "Riot Will End Active Development On 2XKO At The End Of The Year - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/riot-will-end-active-development-on-2xko-at-the-end-of-the-year-2000726270",
+      "summary": "Riot Games announced it will stop active development of the multiplayer action title 2XKO by the end of the year, meaning the game will not reach its first anniversary. The decision reflects a shift in Riot’s resource allocation and signals the end of support for the title’s community and ecosystem.",
+      "whyItMatters": "Developers and the broader gaming industry lose a platform that could have served as a testbed for new multiplayer mechanics, potentially affecting talent and technology transfer.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-20T19:18:48Z"
+    },
+    {
+      "id": "art-1787352531376-3",
+      "title": "Google Pixel screen savers add new styles and iPhone-like switching [Gallery] - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/20/google-pixel-screen-savers-updates-pixel-11/",
+      "summary": "Google has updated the Pixel screen savers, adding new styles and a panel‑switching feature similar to iPhone’s. The update expands customization options for users and developers alike.",
+      "whyItMatters": "It introduces new APIs for screen saver customization, enabling developers to create richer, more interactive experiences on Android devices.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-20T18:40:00Z"
+    },
+    {
+      "id": "art-1787352531747-4",
+      "title": "AirPods Pro 3 and more just got new firmware release in beta - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/20/airpods-pro-3-and-more-just-got-new-firmware-release-in-beta/",
+      "summary": "Apple has released a new beta firmware update for AirPods Pro 3 and select other models, adding new features and improvements. The update is now available for users to install via the AirPods app or iOS settings.",
+      "whyItMatters": "The firmware update enables developers to test and optimize apps that rely on AirPods’ new capabilities, such as enhanced audio processing and connectivity features, ensuring better user experiences across the ecosystem.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-20T18:33:00Z"
+    },
+    {
+      "id": "art-1787352532161-5",
+      "title": "Google releases Pixel 11 series factory images - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/20/pixel-11-factory-images/",
+      "summary": "Google has released factory images for the new Pixel 11, 11a, and 11 Pro devices, making the official firmware available to developers and enthusiasts. The images provide a clean slate for testing, custom ROM development, and early software validation as the phones hit store shelves.",
+      "whyItMatters": "Access to factory images enables developers to build, debug, and certify apps on the latest Pixel hardware, accelerating feature rollout and ensuring compatibility for the Android ecosystem.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-20T18:14:00Z"
+    },
+    {
+      "id": "art-1787352532494-6",
+      "title": "ChatGPT update adds Apple Messages integration on Mac - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/",
+      "summary": "ChatGPT’s latest update introduces integration with Apple Messages on macOS, allowing users to access and manage their conversations directly within the ChatGPT interface. This feature enables seamless AI assistance while using the native messaging app, enhancing productivity and user experience.",
+      "whyItMatters": "It opens new opportunities for developers to embed AI capabilities into existing messaging workflows, potentially driving innovation in productivity tools and customer support solutions.",
       "category": "AI",
-      "publishedAt": "2026-08-19T16:00:00Z"
+      "publishedAt": "2026-08-20T17:59:00Z"
     },
     {
-      "id": "art-1787266416783-9",
-      "title": "Runescape: Dragonwilds is coming to Xbox Game Pass at launch - TrueAchievements",
-      "source": "TrueAchievements",
-      "url": "https://www.trueachievements.com/news/runescape-dragonwilds-xbox-game-pass-day-one",
-      "summary": "Jagex announced that Runescape: Dragonwilds, a co‑op survival spin‑off of the popular MMO, will launch on Xbox Game Pass on day one this September. The move marks a significant partnership between the game developer and Microsoft’s subscription service, expanding the title’s reach to console players.",
-      "whyItMatters": "Releasing a major title simultaneously on a subscription platform underscores the importance of streamlined release pipelines and cross‑platform distribution strategies for modern game developers.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-19T15:51:10Z"
+      "id": "art-1787352533037-7",
+      "title": "Best Buy's 60th Anniversary Sale is live: We found the best deals on TVs, iPhones, Pokémon, and more - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/best-buy-60th-anniversary-sale-live-deals-august-2026",
+      "summary": "Best Buy is celebrating its 60th anniversary with a massive sale featuring discounts on TVs, iPhones, Pokémon merchandise, and more. The promotion promises the biggest tech deals of the year, likely driving consumer spending until October.",
+      "whyItMatters": "The sale offers developers and tech enthusiasts access to discounted hardware and software, potentially lowering costs for prototyping and testing new mobile applications.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-20T17:25:23Z"
+    },
+    {
+      "id": "art-1787352533636-8",
+      "title": "My Kid Messed Around and Found Out. My Wife Wants to Blame Someone. - Slate Magazine",
+      "source": "Slate Magazine",
+      "url": "https://slate.com/advice/2026/08/parenting-advice-skateboard-scrape-blame.html",
+      "summary": "A parent recounts how their child inadvertently discovered a flaw in a popular smart home device, leading to a security incident that the spouse blames on the manufacturer. The story highlights the risks of untested consumer tech and the importance of secure design.",
+      "whyItMatters": "It underscores the need for developers to prioritize security testing in IoT products to prevent accidental exploitation by end users.",
+      "category": "Security",
+      "publishedAt": "2026-08-20T17:10:00Z"
+    },
+    {
+      "id": "art-1787352534397-9",
+      "title": "The Big Call of Duty: Modern Warfare 4 Interview — Infinity Ward on the Beta, Matchmaking, and Much More - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/the-big-call-of-duty-modern-warfare-4-interview-infinity-ward-on-the-beta-matchmaking-and-much-more",
+      "summary": "Infinity Ward discusses the upcoming beta of Call of Duty: Modern Warfare 4, highlighting new matchmaking features and gameplay improvements. The interview also covers the game's development pipeline, community feedback integration, and future content plans.",
+      "whyItMatters": "The focus on scalable matchmaking and beta testing illustrates how large-scale multiplayer games rely on cloud-based infrastructure, offering developers insights into real-time data handling and user experience optimization.",
+      "category": "Cloud",
+      "publishedAt": "2026-08-20T17:00:36Z"
     }
   ]
 }
