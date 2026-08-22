@@ -1,105 +1,105 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "articles": [
     {
-      "id": "art-1787352529813-0",
-      "title": "Xbox And EA Aren’t Sharing U.S. Digital Sales Data Anymore, And That’s Worrisome - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/xbox-isnt-sharing-us-digital-sales-data-anymore-2000726257",
-      "summary": "Xbox and EA have stopped sharing U.S. digital sales data, reducing transparency in the gaming industry. This move leaves developers and publishers without key market insights, potentially hindering strategic decisions.",
-      "whyItMatters": "Without access to sales data, developers cannot accurately gauge demand or optimize pricing, which can stifle innovation and market competitiveness.",
+      "id": "art-1787438773223-0",
+      "title": "Call of Duty: Modern Warfare 4 Beta: Start Times, How to Get Early Access, and What's Included - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/guides/call-of-duty-modern-warfare-4-beta-start-times-how-to-get-early-access-and-whats-included",
+      "summary": "Call of Duty: Modern Warfare 4 is launching a beta with specified start times and early access options, detailing how players can join and what features are included. The article outlines the beta schedule, access methods, and the content players can expect during the testing phase.",
+      "whyItMatters": "Beta releases like this provide developers with real-world testing data and user feedback, informing iterative improvements before the full launch.",
       "category": "DevOps",
-      "publishedAt": "2026-08-20T20:50:28Z"
+      "publishedAt": "2026-08-21T19:10:41Z"
     },
     {
-      "id": "art-1787352530440-1",
-      "title": "Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live - GamesIndustry.biz",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live",
-      "summary": "Geoff Keighley explained that Gamescom Opening Night Live selects game trailers editorially, allowing certain titles to appear for free while others require paid placements. The process highlights a structured approach to promotional content at a major industry event.",
-      "whyItMatters": "Developers must understand that gaining free exposure at Gamescom depends on editorial selection, influencing marketing budgets and visibility strategies.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-20T19:19:08Z"
-    },
-    {
-      "id": "art-1787352531080-2",
-      "title": "Riot Will End Active Development On 2XKO At The End Of The Year - Kotaku",
+      "id": "art-1787438773799-1",
+      "title": "Psychonauts Dev Now Owns All Its Games And Publishing Rights - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/riot-will-end-active-development-on-2xko-at-the-end-of-the-year-2000726270",
-      "summary": "Riot Games announced it will stop active development of the multiplayer action title 2XKO by the end of the year, meaning the game will not reach its first anniversary. The decision reflects a shift in Riot’s resource allocation and signals the end of support for the title’s community and ecosystem.",
-      "whyItMatters": "Developers and the broader gaming industry lose a platform that could have served as a testbed for new multiplayer mechanics, potentially affecting talent and technology transfer.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-20T19:18:48Z"
+      "url": "https://kotaku.com/psychonauts-dev-now-owns-all-its-games-publishing-rights-2000726713",
+      "summary": "Psychonauts developers have regained full ownership of their games and publishing rights, marking a significant shift in control over their intellectual property. The company announced that all IP has been transferred back to them, restoring their ability to publish and monetize their titles independently.",
+      "whyItMatters": "Reclaiming IP empowers developers to directly manage distribution, pricing, and future updates, reducing reliance on third‑party publishers and potentially increasing revenue and creative freedom.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-21T18:57:26Z"
     },
     {
-      "id": "art-1787352531376-3",
-      "title": "Google Pixel screen savers add new styles and iPhone-like switching [Gallery] - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/20/google-pixel-screen-savers-updates-pixel-11/",
-      "summary": "Google has updated the Pixel screen savers, adding new styles and a panel‑switching feature similar to iPhone’s. The update expands customization options for users and developers alike.",
-      "whyItMatters": "It introduces new APIs for screen saver customization, enabling developers to create richer, more interactive experiences on Android devices.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-20T18:40:00Z"
-    },
-    {
-      "id": "art-1787352531747-4",
-      "title": "AirPods Pro 3 and more just got new firmware release in beta - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/20/airpods-pro-3-and-more-just-got-new-firmware-release-in-beta/",
-      "summary": "Apple has released a new beta firmware update for AirPods Pro 3 and select other models, adding new features and improvements. The update is now available for users to install via the AirPods app or iOS settings.",
-      "whyItMatters": "The firmware update enables developers to test and optimize apps that rely on AirPods’ new capabilities, such as enhanced audio processing and connectivity features, ensuring better user experiences across the ecosystem.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-20T18:33:00Z"
-    },
-    {
-      "id": "art-1787352532161-5",
-      "title": "Google releases Pixel 11 series factory images - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/20/pixel-11-factory-images/",
-      "summary": "Google has released factory images for the new Pixel 11, 11a, and 11 Pro devices, making the official firmware available to developers and enthusiasts. The images provide a clean slate for testing, custom ROM development, and early software validation as the phones hit store shelves.",
-      "whyItMatters": "Access to factory images enables developers to build, debug, and certify apps on the latest Pixel hardware, accelerating feature rollout and ensuring compatibility for the Android ecosystem.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-20T18:14:00Z"
-    },
-    {
-      "id": "art-1787352532494-6",
-      "title": "ChatGPT update adds Apple Messages integration on Mac - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/",
-      "summary": "ChatGPT’s latest update introduces integration with Apple Messages on macOS, allowing users to access and manage their conversations directly within the ChatGPT interface. This feature enables seamless AI assistance while using the native messaging app, enhancing productivity and user experience.",
-      "whyItMatters": "It opens new opportunities for developers to embed AI capabilities into existing messaging workflows, potentially driving innovation in productivity tools and customer support solutions.",
+      "id": "art-1787438774084-2",
+      "title": "Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams - Bloomberg.com",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams",
+      "summary": "Apple is cutting jobs in its Siri digital assistant and Vision Pro immersive video and gaming teams, signaling a shift toward prioritizing new devices and artificial intelligence. The layoffs reflect a broader industry trend of reallocating resources to high-growth AI initiatives while scaling back legacy projects.",
+      "whyItMatters": "Software developers may see reduced support and fewer opportunities for integration with Siri and Vision Pro, potentially slowing innovation in AI-driven mobile experiences.",
       "category": "AI",
-      "publishedAt": "2026-08-20T17:59:00Z"
+      "publishedAt": "2026-08-21T18:45:32Z"
     },
     {
-      "id": "art-1787352533037-7",
-      "title": "Best Buy's 60th Anniversary Sale is live: We found the best deals on TVs, iPhones, Pokémon, and more - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/best-buy-60th-anniversary-sale-live-deals-august-2026",
-      "summary": "Best Buy is celebrating its 60th anniversary with a massive sale featuring discounts on TVs, iPhones, Pokémon merchandise, and more. The promotion promises the biggest tech deals of the year, likely driving consumer spending until October.",
-      "whyItMatters": "The sale offers developers and tech enthusiasts access to discounted hardware and software, potentially lowering costs for prototyping and testing new mobile applications.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-20T17:25:23Z"
+      "id": "art-1787438774646-3",
+      "title": "AMD Ryzen 7 5800X3D 10th Anniversary Review - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/review/amd-ryzen-7-5800x3d-10th-anniversary/",
+      "summary": "AMD has released the Ryzen 7 5800X3D 10th Anniversary Edition, a $340 CPU that reintroduces its famed 3D V‑Cache technology for enhanced gaming and productivity performance on AM4 motherboards. The review highlights its competitive price point and the inclusion of a Carbice thermal pad, making it an attractive upgrade for existing AM4 users.",
+      "whyItMatters": "The added cache and price advantage give developers and gamers a cost‑effective way to boost performance, potentially reducing the need for more expensive hardware upgrades.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-21T18:00:00Z"
     },
     {
-      "id": "art-1787352533636-8",
-      "title": "My Kid Messed Around and Found Out. My Wife Wants to Blame Someone. - Slate Magazine",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/advice/2026/08/parenting-advice-skateboard-scrape-blame.html",
-      "summary": "A parent recounts how their child inadvertently discovered a flaw in a popular smart home device, leading to a security incident that the spouse blames on the manufacturer. The story highlights the risks of untested consumer tech and the importance of secure design.",
-      "whyItMatters": "It underscores the need for developers to prioritize security testing in IoT products to prevent accidental exploitation by end users.",
+      "id": "art-1787438775134-4",
+      "title": "$100 Best Buy gift cards will be $60 at stores Saturday - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
+      "summary": "Best Buy is celebrating its 60th anniversary by offering $100 gift cards for $60 in stores on August 22, 2026. The promotion is limited to in‑store purchases and is part of a broader marketing push to boost foot traffic and sales.",
+      "whyItMatters": "The deal may increase traffic to Best Buy’s online and mobile platforms, encouraging developers to optimize checkout flows and integrate new payment APIs to handle the surge.",
+      "category": "Web Dev",
+      "publishedAt": "2026-08-21T18:00:00Z"
+    },
+    {
+      "id": "art-1787438775659-5",
+      "title": "Metal Gear Solid: Master Collection Vol. 2 updates MGS4 joke, even brings back original voice actor - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/metal-gear-solid-master-collection-vol-2-updates-mgs4-joke-even-brings-back-original-voice-actor/",
+      "summary": "Metal Gear Solid: Master Collection Vol. 2 has updated a joke from Metal Gear Solid 4 and even reinstated the original voice actor for a key character. The change demonstrates the developers’ attention to detail and fan nostalgia in the re-release.",
+      "whyItMatters": "It shows that maintaining legacy content and engaging the community can sustain a game's relevance and revenue, a lesson valuable for software teams managing long‑term product support.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-21T17:37:04Z"
+    },
+    {
+      "id": "art-1787438776182-6",
+      "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
+      "summary": "Microsoft and Discord have been subpoenaed by Take‑Two Interactive to identify alleged infringers after leaked gameplay footage of Grand Theft Auto VI surfaced. The legal action underscores the growing scrutiny of platform providers over user‑generated content and IP protection.",
+      "whyItMatters": "It highlights the need for developers to implement robust content moderation and compliance tools to mitigate legal risks on their platforms.",
       "category": "Security",
-      "publishedAt": "2026-08-20T17:10:00Z"
+      "publishedAt": "2026-08-21T16:52:56Z"
     },
     {
-      "id": "art-1787352534397-9",
-      "title": "The Big Call of Duty: Modern Warfare 4 Interview — Infinity Ward on the Beta, Matchmaking, and Much More - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/the-big-call-of-duty-modern-warfare-4-interview-infinity-ward-on-the-beta-matchmaking-and-much-more",
-      "summary": "Infinity Ward discusses the upcoming beta of Call of Duty: Modern Warfare 4, highlighting new matchmaking features and gameplay improvements. The interview also covers the game's development pipeline, community feedback integration, and future content plans.",
-      "whyItMatters": "The focus on scalable matchmaking and beta testing illustrates how large-scale multiplayer games rely on cloud-based infrastructure, offering developers insights into real-time data handling and user experience optimization.",
+      "id": "art-1787438776552-7",
+      "title": "Trump to honor Artemis II crew with nation's top space medal - CBS News",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-artemis-ii-crew-space-medal/",
+      "summary": "President Trump announced he will award the Congressional Space Medal of Honor to the crew of NASA's Artemis II mission in a ceremony on August 28. The honor recognizes the crew’s role in advancing human spaceflight and underscores the U.S. commitment to the Artemis program.",
+      "whyItMatters": "The award highlights the growing importance of space-related software, encouraging developers to build robust, high‑reliability systems for future missions and potentially driving investment in space‑grade cloud infrastructure.",
       "category": "Cloud",
-      "publishedAt": "2026-08-20T17:00:36Z"
+      "publishedAt": "2026-08-21T16:40:00Z"
+    },
+    {
+      "id": "art-1787438776952-8",
+      "title": "Fortnite Admin Panel Lobby Hack Codes List - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/guides/fortnite-lobby-hack-codes-admin-panel",
+      "summary": "Nintendo Life has published a list of lobby hack codes for Fortnite's admin panel, detailing how players can manipulate in-game lobbies. The article explains where to input these codes and provides a comprehensive overview of all hacks released to date.",
+      "whyItMatters": "This exposes vulnerabilities in Fortnite's admin controls, highlighting the need for stronger security measures in online gaming platforms.",
+      "category": "Security",
+      "publishedAt": "2026-08-21T16:34:22Z"
+    },
+    {
+      "id": "art-1787438777427-9",
+      "title": "Pixel Camera adds 'Launch control' and new 'Quick access' slider controls on Pixel 11 [Gallery] - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/21/google-pixel-camera-11-update-launch-mode-quick-access/",
+      "summary": "Google has updated the Pixel 11 camera app to include new 'Launch control' and 'Quick access' slider controls, allowing users to quickly toggle features like HDR, night mode, and more. These additions aim to streamline the shooting experience and give photographers more immediate control over settings.",
+      "whyItMatters": "The update demonstrates how OEMs can enhance camera UX through software tweaks, encouraging developers to focus on intuitive UI controls and real-time feature toggling in mobile photography apps.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-21T16:05:00Z"
     }
   ]
 }
