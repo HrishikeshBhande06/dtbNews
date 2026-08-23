@@ -1,105 +1,85 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "articles": [
     {
-      "id": "art-1787438773223-0",
-      "title": "Call of Duty: Modern Warfare 4 Beta: Start Times, How to Get Early Access, and What's Included - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/guides/call-of-duty-modern-warfare-4-beta-start-times-how-to-get-early-access-and-whats-included",
-      "summary": "Call of Duty: Modern Warfare 4 is launching a beta with specified start times and early access options, detailing how players can join and what features are included. The article outlines the beta schedule, access methods, and the content players can expect during the testing phase.",
-      "whyItMatters": "Beta releases like this provide developers with real-world testing data and user feedback, informing iterative improvements before the full launch.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-21T19:10:41Z"
-    },
-    {
-      "id": "art-1787438773799-1",
-      "title": "Psychonauts Dev Now Owns All Its Games And Publishing Rights - Kotaku",
+      "id": "art-1787525169322-0",
+      "title": "PlayStation Blasts Out Poorly Timed Reminder About Digital Games - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/psychonauts-dev-now-owns-all-its-games-publishing-rights-2000726713",
-      "summary": "Psychonauts developers have regained full ownership of their games and publishing rights, marking a significant shift in control over their intellectual property. The company announced that all IP has been transferred back to them, restoring their ability to publish and monetize their titles independently.",
-      "whyItMatters": "Reclaiming IP empowers developers to directly manage distribution, pricing, and future updates, reducing reliance on third‑party publishers and potentially increasing revenue and creative freedom.",
+      "url": "https://kotaku.com/playstation-chooses-the-worst-possible-time-to-blast-players-with-reminders-that-they-dont-own-their-digital-games-2000727054",
+      "summary": "PlayStation sent out a terms‑of‑service reminder to many PSN users at a time when the company was already facing backlash over the discontinuation of physical PlayStation discs. The message was widely criticized for being poorly timed and for adding to user frustration during a sensitive period.",
+      "whyItMatters": "The incident highlights the importance of coordinated release and communication strategies for software developers, as mistimed updates can erode user trust and damage brand reputation.",
       "category": "DevOps",
-      "publishedAt": "2026-08-21T18:57:26Z"
+      "publishedAt": "2026-08-22T19:30:09Z"
     },
     {
-      "id": "art-1787438774084-2",
-      "title": "Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams - Bloomberg.com",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams",
-      "summary": "Apple is cutting jobs in its Siri digital assistant and Vision Pro immersive video and gaming teams, signaling a shift toward prioritizing new devices and artificial intelligence. The layoffs reflect a broader industry trend of reallocating resources to high-growth AI initiatives while scaling back legacy projects.",
-      "whyItMatters": "Software developers may see reduced support and fewer opportunities for integration with Siri and Vision Pro, potentially slowing innovation in AI-driven mobile experiences.",
-      "category": "AI",
-      "publishedAt": "2026-08-21T18:45:32Z"
-    },
-    {
-      "id": "art-1787438774646-3",
-      "title": "AMD Ryzen 7 5800X3D 10th Anniversary Review - TechPowerUp",
-      "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/review/amd-ryzen-7-5800x3d-10th-anniversary/",
-      "summary": "AMD has released the Ryzen 7 5800X3D 10th Anniversary Edition, a $340 CPU that reintroduces its famed 3D V‑Cache technology for enhanced gaming and productivity performance on AM4 motherboards. The review highlights its competitive price point and the inclusion of a Carbice thermal pad, making it an attractive upgrade for existing AM4 users.",
-      "whyItMatters": "The added cache and price advantage give developers and gamers a cost‑effective way to boost performance, potentially reducing the need for more expensive hardware upgrades.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-21T18:00:00Z"
-    },
-    {
-      "id": "art-1787438775134-4",
-      "title": "$100 Best Buy gift cards will be $60 at stores Saturday - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
-      "summary": "Best Buy is celebrating its 60th anniversary by offering $100 gift cards for $60 in stores on August 22, 2026. The promotion is limited to in‑store purchases and is part of a broader marketing push to boost foot traffic and sales.",
-      "whyItMatters": "The deal may increase traffic to Best Buy’s online and mobile platforms, encouraging developers to optimize checkout flows and integrate new payment APIs to handle the surge.",
-      "category": "Web Dev",
-      "publishedAt": "2026-08-21T18:00:00Z"
-    },
-    {
-      "id": "art-1787438775659-5",
-      "title": "Metal Gear Solid: Master Collection Vol. 2 updates MGS4 joke, even brings back original voice actor - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/metal-gear-solid-master-collection-vol-2-updates-mgs4-joke-even-brings-back-original-voice-actor/",
-      "summary": "Metal Gear Solid: Master Collection Vol. 2 has updated a joke from Metal Gear Solid 4 and even reinstated the original voice actor for a key character. The change demonstrates the developers’ attention to detail and fan nostalgia in the re-release.",
-      "whyItMatters": "It shows that maintaining legacy content and engaging the community can sustain a game's relevance and revenue, a lesson valuable for software teams managing long‑term product support.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-21T17:37:04Z"
-    },
-    {
-      "id": "art-1787438776182-6",
-      "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
-      "summary": "Microsoft and Discord have been subpoenaed by Take‑Two Interactive to identify alleged infringers after leaked gameplay footage of Grand Theft Auto VI surfaced. The legal action underscores the growing scrutiny of platform providers over user‑generated content and IP protection.",
-      "whyItMatters": "It highlights the need for developers to implement robust content moderation and compliance tools to mitigate legal risks on their platforms.",
+      "id": "art-1787525169853-1",
+      "title": "Latest 'GTA 6' leaks reveal strip club setting and new slow-motion camera - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/entertainment/latest-gta6-leaks-reveal-strip-club-setting-and-new-slow-motion-camera",
+      "summary": "The latest leaks for Rockstar's upcoming GTA 6 disclose a strip club location and a new slow‑motion camera feature, fueling speculation about the game's content. These revelations come just before the studio's planned Netflix gameplay reveal, adding pressure on Rockstar to manage leaks and public expectations.",
+      "whyItMatters": "Leaked game details can expose vulnerabilities in development pipelines and highlight the need for stronger security practices among software teams.",
       "category": "Security",
-      "publishedAt": "2026-08-21T16:52:56Z"
+      "publishedAt": "2026-08-22T18:08:54Z"
     },
     {
-      "id": "art-1787438776552-7",
-      "title": "Trump to honor Artemis II crew with nation's top space medal - CBS News",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/trump-artemis-ii-crew-space-medal/",
-      "summary": "President Trump announced he will award the Congressional Space Medal of Honor to the crew of NASA's Artemis II mission in a ceremony on August 28. The honor recognizes the crew’s role in advancing human spaceflight and underscores the U.S. commitment to the Artemis program.",
-      "whyItMatters": "The award highlights the growing importance of space-related software, encouraging developers to build robust, high‑reliability systems for future missions and potentially driving investment in space‑grade cloud infrastructure.",
-      "category": "Cloud",
-      "publishedAt": "2026-08-21T16:40:00Z"
-    },
-    {
-      "id": "art-1787438776952-8",
-      "title": "Fortnite Admin Panel Lobby Hack Codes List - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/guides/fortnite-lobby-hack-codes-admin-panel",
-      "summary": "Nintendo Life has published a list of lobby hack codes for Fortnite's admin panel, detailing how players can manipulate in-game lobbies. The article explains where to input these codes and provides a comprehensive overview of all hacks released to date.",
-      "whyItMatters": "This exposes vulnerabilities in Fortnite's admin controls, highlighting the need for stronger security measures in online gaming platforms.",
+      "id": "art-1787525170134-2",
+      "title": "Big Router is watching you: WiFi could secretly track you even if you leave your phone at home - New York Post",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/22/world-news/wifi-could-secretly-track-you-even-if-you-leave-your-phone-at-home/",
+      "summary": "Scientists at the Karlsruhe Institute of Technology demonstrated that WiFi routers can use sound waves to track people even when their phones are turned off, revealing a hidden surveillance capability in everyday devices. The experiment shows that the ubiquitous presence of WiFi routers could be exploited to monitor individuals without their knowledge.",
+      "whyItMatters": "Developers must consider the privacy implications of WiFi infrastructure and implement safeguards to protect users from covert tracking.",
       "category": "Security",
-      "publishedAt": "2026-08-21T16:34:22Z"
+      "publishedAt": "2026-08-22T17:46:00Z"
     },
     {
-      "id": "art-1787438777427-9",
-      "title": "Pixel Camera adds 'Launch control' and new 'Quick access' slider controls on Pixel 11 [Gallery] - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/21/google-pixel-camera-11-update-launch-mode-quick-access/",
-      "summary": "Google has updated the Pixel 11 camera app to include new 'Launch control' and 'Quick access' slider controls, allowing users to quickly toggle features like HDR, night mode, and more. These additions aim to streamline the shooting experience and give photographers more immediate control over settings.",
-      "whyItMatters": "The update demonstrates how OEMs can enhance camera UX through software tweaks, encouraging developers to focus on intuitive UI controls and real-time feature toggling in mobile photography apps.",
+      "id": "art-1787525170508-3",
+      "title": "iPhone 18 Pro event date: When Apple announced its event over the last six years - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/22/iphone-18-pro-event-date-when-announcement/",
+      "summary": "Apple has announced its event two weeks in advance for four straight years, indicating that the iPhone 18 Pro will likely be announced this month.",
+      "whyItMatters": "Software developers can plan app updates, SDK releases, and marketing strategies around the upcoming event, ensuring timely feature support and launch readiness.",
       "category": "Mobile",
-      "publishedAt": "2026-08-21T16:05:00Z"
+      "publishedAt": "2026-08-22T17:32:00Z"
+    },
+    {
+      "id": "art-1787525170900-4",
+      "title": "Modern Warfare 4 beta's first update is live, adding a new map, mode, and toned-down footsteps - Eurogamer",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/modern-warfare-4-beta-day-1-update-footstep-audio-weapon-balance",
+      "summary": "Infinity Ward released the first major update to the Modern Warfare 4 beta, adding a new map, a new game mode, and reducing the intensity of in‑game footsteps. The patch addresses player feedback from the beta’s opening day and refines gameplay mechanics for a smoother experience.",
+      "whyItMatters": "It demonstrates how rapid, feedback‑driven deployment cycles can improve user experience and inform continuous integration practices for game and software developers.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-22T16:11:35Z"
+    },
+    {
+      "id": "art-1787525171582-5",
+      "title": "What is the ‘Android Pulse’ app that just appeared in Google Play Store updates? - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/22/android-pulse-app-google-play/",
+      "summary": "The Android Pulse app has surfaced in the Google Play Store update list, prompting curiosity among users. Its sudden appearance raises questions about its purpose and potential impact on device security.",
+      "whyItMatters": "Developers should be aware of unexpected app updates like Android Pulse, as they can signal new security threats or changes in app distribution practices.",
+      "category": "Security",
+      "publishedAt": "2026-08-22T15:50:00Z"
+    },
+    {
+      "id": "art-1787525171973-6",
+      "title": "The Blood of Dawnwalker won't run at 60fps on PS5 or Xbox at launch, new gameplay confirms - Eurogamer",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/blood-of-dawnwalker-no-60fps-console-launch",
+      "summary": "The Blood of Dawnwalker will launch capped at 40fps on PS5, PS5 Pro, and Xbox Series X/S, with no 60fps mode planned. New gameplay footage confirms the performance limitation across all current consoles.",
+      "whyItMatters": "Developers must adjust optimization strategies and player expectations for next‑gen console titles, impacting release timelines and marketing plans.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-22T15:06:33Z"
+    },
+    {
+      "id": "art-1787525173058-7",
+      "title": "Gamescom Opening Night Live: Date, Start Times & What To Expect - Pure Xbox",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/features/gamescom-opening-night-live-date-start-times-and-what-to-expect",
+      "summary": "Gamescom's opening night live event is approaching, with details on dates, start times, and what attendees can expect. The coverage promises insights into upcoming releases and industry trends.",
+      "whyItMatters": "The event offers developers a chance to preview upcoming titles, gauge audience reactions, and secure partnerships, influencing release strategies and marketing.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-22T15:00:00Z"
     }
   ]
 }
