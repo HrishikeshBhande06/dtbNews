@@ -1,105 +1,105 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "articles": [
     {
-      "id": "art-1787611908117-0",
-      "title": "That Weird 'Other' Section in Apple Stores Is Reportedly Being Revamped for a New Line of Home Products - Gizmodo",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/that-weird-other-section-in-apple-stores-is-reportedly-being-revamped-for-a-new-line-of-home-products-2000802007",
-      "summary": "Apple is revamping the \"Avenues\" section in its retail stores to showcase a new line of home products, signaling a shift toward integrated home technology. The move aims to introduce consumers to a fresh device that will likely tie into Apple’s existing ecosystem.",
-      "whyItMatters": "It expands the Apple HomeKit ecosystem, creating new opportunities and challenges for developers building apps and services that integrate with Apple’s home hardware.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-23T19:20:29Z"
-    },
-    {
-      "id": "art-1787611908601-1",
-      "title": "The ‘GTA 6’ Leaks Get Higher Quality With No End In Sight - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/08/23/the-gta-6-leaks-get-higher-quality-with-no-end-in-sight/",
-      "summary": "Grand Theft Auto 6 leaks are flooding the internet, with a high‑resolution build from leaker Cyberleeks. The leaks have been ongoing for nearly a week, with no sign of stopping.",
-      "whyItMatters": "The leaks expose vulnerabilities in game distribution and highlight the need for stronger security measures in software release pipelines.",
+      "id": "art-1787698387349-0",
+      "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red handed - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+      "summary": "Researchers discovered that inaudible audio signals can be used to fingerprint browsers, exposing a privacy vulnerability that was recently exploited by AliExpress. Although the technique is considered outdated, it remains a creepy reminder of how subtle hardware features can be abused for tracking.",
+      "whyItMatters": "Developers must be aware that even seemingly harmless browser APIs can leak identifying information, prompting stricter privacy controls and auditing of web features.",
       "category": "Security",
-      "publishedAt": "2026-08-23T18:52:00Z"
+      "publishedAt": "2026-08-24T19:19:21Z"
     },
     {
-      "id": "art-1787611909495-2",
-      "title": "M6 iMac Coming This Year in New Colors - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/23/m6-imac-this-year-new-colors/",
-      "summary": "Apple is set to launch new iMac models this year featuring the upgraded M6 chip and a range of fresh color options. Bloomberg’s Mark Gurman reports that the redesigned machines will bring performance gains and a more vibrant aesthetic to the desktop lineup.",
-      "whyItMatters": "Software developers will need to update and test their applications on the new M6 architecture to ensure optimal performance and compatibility, potentially influencing build pipelines and release schedules.",
+      "id": "art-1787698388317-1",
+      "title": "Alien Breed 35th Anniversary Collection announced for PS5, Xbox Series, Switch, and PC - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/08/alien-breed-35th-anniversary-collection-announced-for-ps5-xbox-series-switch-and-pc",
+      "summary": "Alien Breed 35th Anniversary Collection, a compilation of the classic series, has been announced for PlayStation 5, Xbox Series, Nintendo Switch, and PC. The collection will be released by publisher Commodore and developer Antstream in partnership with Team17, bringing the franchise to modern platforms.",
+      "whyItMatters": "This multi‑platform release demonstrates how legacy game IPs can be revitalized for current consoles, encouraging developers to invest in porting and remastering older titles.",
       "category": "DevOps",
-      "publishedAt": "2026-08-23T18:36:39Z"
+      "publishedAt": "2026-08-24T19:10:16Z"
     },
     {
-      "id": "art-1787611910146-3",
-      "title": "Viture Pro 2 and Beast XR Glasses: Switch 2 Docked Mode OLED Gaming On The Go - Digital Foundry",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/features/viture-pro-2-and-beast-xr-glasses-switch-2-docked-mode-oled-gaming-on-the-go",
-      "summary": "The Digital Foundry review covers the Viture Pro 2 and Beast XR glasses, showcasing the Switch 2 docked mode that delivers a virtual 146‑inch OLED TV experience on the go. The review praises the high‑quality OLED panel and seamless integration of gaming and TV modes, highlighting a new level of portable immersive entertainment.",
-      "whyItMatters": "For software developers, the ability to run Switch 2 games in a docked OLED mode on lightweight glasses expands the target platform for game engines and encourages optimization for high‑resolution, low‑latency displays, potentially driving new development tools and middleware.",
+      "id": "art-1787698388870-2",
+      "title": "Five features the iPhone Ultra reportedly won't have - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/24/iphone-ultra-wont-have-these-five-features/",
+      "summary": "Apple's upcoming iPhone Ultra is rumored to omit key features such as Face ID, MagSafe, and other functionalities, despite its $2,000 price tag. The move could signal a shift in the company's hardware strategy and affect user expectations.",
+      "whyItMatters": "Developers may need to adjust app compatibility and security workflows due to the absence of Face ID and MagSafe, potentially increasing reliance on alternative authentication and accessory solutions.",
       "category": "Mobile",
-      "publishedAt": "2026-08-23T18:12:40Z"
+      "publishedAt": "2026-08-24T18:58:00Z"
     },
     {
-      "id": "art-1787611910509-4",
-      "title": "DDR5 scalper bots now generate 91% of listing traffic at one retailer - VideoCardz.com",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/ddr5-scalper-bots-now-generate-91-of-listing-traffic-at-one-retailer",
-      "summary": "DDR5 scalper bots now generate 91% of listing traffic at VideoCardz.com, producing roughly ten requests for every legitimate visit. Previously, DataDome recorded stock checks every 6.5 seconds, but the new bot activity has dramatically increased traffic volume and frequency.",
-      "whyItMatters": "The surge in bot traffic forces developers to implement stronger bot mitigation and traffic filtering to protect site performance and ensure fair access for genuine users.",
-      "category": "Security",
-      "publishedAt": "2026-08-23T17:25:03Z"
-    },
-    {
-      "id": "art-1787611910887-5",
-      "title": "Industry analyst says he doesn't see a path back for the Epic Games Store - Eurogamer",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/epic-games-store-recovery-newzoo-analyst-steam-fortnite",
-      "summary": "Newzoo analyst Emmanuel Rosier argues that Epic Games Store has no realistic path back to relevance, citing Steam’s entrenched dominance and the challenges of Epic’s planned launcher overhaul. He warns that the industry’s focus will likely remain on Steam, limiting Epic’s ability to attract developers and users.",
-      "whyItMatters": "If Epic cannot regain traction, developers will continue to prioritize Steam for distribution, affecting revenue models and platform competition.",
+      "id": "art-1787698389867-3",
+      "title": "Cult 16-Bit RPG Makes Its Official US Debut in 2027 on PS5 - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/08/cult-16-bit-rpg-terranigma-lands-first-ever-us-release-in-2027-will-get-physical-ps5-version",
+      "summary": "A cult 16‑bit RPG, originally released 30 years ago, is set to debut in the United States on the PS5 in 2027. The release marks a nostalgic revival of classic gaming on modern hardware, offering both longtime fans and new players a chance to experience the title on a contemporary platform.",
+      "whyItMatters": "It demonstrates how legacy game engines can be ported to modern consoles, encouraging developers to preserve and monetize retro IPs.",
       "category": "DevOps",
-      "publishedAt": "2026-08-23T16:19:53Z"
+      "publishedAt": "2026-08-24T18:10:00Z"
     },
     {
-      "id": "art-1787611911368-6",
-      "title": "Amazon Hikes Prices by as Much as 60% Across Echo, Fire TV, Kindle Lines - PCMag",
-      "source": "PCMag.com",
-      "url": "https://www.pcmag.com/news/amazon-hikes-prices-by-as-much-as-60-across-echo-fire-tv-kindle-lines",
-      "summary": "Amazon has increased prices on its Echo, Fire TV, and Kindle devices by up to 60%, with the Echo Dot seeing the largest hike. The move could pressure consumers and developers who rely on these platforms for Alexa skills, streaming apps, and e-reading solutions.",
-      "whyItMatters": "Higher device costs may reduce user adoption of Alexa-enabled products, impacting developers who build skills and services for the Amazon ecosystem.",
+      "id": "art-1787698390607-4",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "summary": "Instinct’s AI assistant, praised for its capabilities, has sparked concerns over its extensive data access and broad terms that allow it to act on users’ behalf. Early testers applaud its power, but critics warn that the trade-offs could compromise privacy and security.",
+      "whyItMatters": "Developers must balance powerful AI features with stringent privacy safeguards to avoid regulatory backlash and user mistrust.",
+      "category": "Security",
+      "publishedAt": "2026-08-24T18:03:55Z"
+    },
+    {
+      "id": "art-1787698391010-5",
+      "title": "iOS 27 beta 7 now available as Apple tests major Siri AI upgrade - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/24/ios-27-beta-7/",
+      "summary": "Apple has released iOS 27 beta 7 for developer testing, continuing its summer beta cycle. The update focuses on a major Siri AI upgrade, introducing new capabilities and improvements to the voice assistant.",
+      "whyItMatters": "Developers must update their apps to accommodate the new Siri AI features and APIs, which could affect app functionality, user experience, and integration strategies.",
       "category": "AI",
-      "publishedAt": "2026-08-23T15:18:39Z"
+      "publishedAt": "2026-08-24T17:28:00Z"
     },
     {
-      "id": "art-1787611911728-7",
-      "title": "Should Tesla Introduce UI Themes? - Not a Tesla App",
-      "source": "Notateslaapp.com",
-      "url": "https://www.notateslaapp.com/news/4564/should-tesla-introduce-ui-themes",
-      "summary": "Tesla owners could soon customize their car’s cabin with a new theme selector in the Toybox or Display settings, allowing for a personalized visual experience. The feature would let users choose from pre‑built themes or create their own, enhancing the in‑car interface’s aesthetic appeal.",
-      "whyItMatters": "It encourages automotive software developers to adopt modular UI frameworks and theme engines, similar to mobile app ecosystems, boosting cross‑platform consistency and user engagement.",
+      "id": "art-1787698391979-6",
+      "title": "The Witcher 4 Release Date Confirmed, Gamescom Songs of the Past Showcase Announced - Digital Foundry",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/news/2026/08/the-witcher-4-release-date-confirmed-gamescom-songs-of-the-past-showcase-announced",
+      "summary": "The Witcher 4 release date has been confirmed for 2028, with the Gamescom event featuring a new Songs of the Past showcase. Digital Foundry reports that the upcoming title will build on the series' legacy while introducing fresh gameplay elements.",
+      "whyItMatters": "Game developers will need to plan for the 2028 release cycle, adjusting production timelines and resource allocation to meet the new schedule.",
       "category": "Mobile",
-      "publishedAt": "2026-08-23T14:51:00Z"
+      "publishedAt": "2026-08-24T17:00:00Z"
     },
     {
-      "id": "art-1787611912260-8",
-      "title": "Some people outside of Apple have already used the folding iPhone - AppleInsider",
-      "source": "AppleInsider",
-      "url": "https://appleinsider.com/articles/26/08/23/some-people-outside-of-apple-have-already-used-the-folding-iphone",
-      "summary": "Apple's upcoming folding iPhone Ultra has been tested by external users, who report that it meets expectations for a premium device. The feedback suggests the phone could justify its high price point and potentially set a new standard for foldable smartphones.",
-      "whyItMatters": "Developers will need to adapt their apps to support the Ultra's unique folding form factor, influencing UI design and performance optimization across the mobile ecosystem.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-23T14:41:43Z"
-    },
-    {
-      "id": "art-1787611912777-9",
-      "title": "Amiga-Inspired AROS Goes Bare Metal On Raspberry Pi - Hackaday",
-      "source": "Hackaday",
-      "url": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
-      "summary": "AROS, an Amiga-inspired operating system, has been ported to run directly on Raspberry Pi hardware without a host OS, enabling bare-metal performance and low-level control. The new build allows developers to run legacy Amiga applications on modern, inexpensive single-board computers.",
-      "whyItMatters": "It expands the reach of legacy Amiga software to contemporary embedded platforms, giving developers a lightweight, low-overhead environment for testing and deployment.",
+      "id": "art-1787698392567-7",
+      "title": "Ex-Forza Horizon Devs Finally Find a Publisher for Clutch, PS5's Promising Open World Racer - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/08/ex-forza-horizon-devs-finally-find-a-publisher-for-clutch-ps5s-promising-open-world-racer",
+      "summary": "Ex-Forza Horizon developers have secured a publisher for their open‑world racer Clutch, slated for release on PS5. The partnership signals a new opportunity for the studio to bring its ambitious racing experience to a major console platform.",
+      "whyItMatters": "Securing a publisher enables indie studios to leverage larger distribution networks and marketing resources, illustrating how strategic partnerships can accelerate game development cycles and bring innovative titles to market.",
       "category": "DevOps",
-      "publishedAt": "2026-08-23T14:00:00Z"
+      "publishedAt": "2026-08-24T17:00:00Z"
+    },
+    {
+      "id": "art-1787698393318-8",
+      "title": "A Market Basket-inspired cabaret show is coming to Boston - The Boston Globe",
+      "source": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/2026/08/24/lifestyle/market-basket-cabaret-drag-burlesque/",
+      "summary": "A new cabaret show in Boston will pay homage to the Market Basket supermarket chain through drag and burlesque performances. The show, set to debut next month, celebrates the chain's cultural impact with theatrical flair.",
+      "whyItMatters": "The event underscores how cultural references can be leveraged in marketing, encouraging developers to weave local brand narratives into web interfaces for better user engagement.",
+      "category": "Web Dev",
+      "publishedAt": "2026-08-24T16:37:15Z"
+    },
+    {
+      "id": "art-1787698394126-9",
+      "title": "I Played Two Brand New Control Resonant Missions, And Feel Foolish For Ever Doubting It — IGN First - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/control-resonant-final-preview",
+      "summary": "The author played two new Control Resonant missions and now feels foolish for doubting them. The preview concludes that the missions are worth playing.",
+      "whyItMatters": "It shows how game developers can create engaging content that keeps players invested, influencing future game design and monetization strategies.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-24T16:00:00Z"
     }
   ]
 }
