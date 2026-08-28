@@ -1,85 +1,95 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "articles": [
     {
-      "id": "art-1787801140362-0",
-      "title": "Everything Announced At Gamescom Opening Night Live 2026 - Game Informer",
-      "source": "Gameinformer.com",
-      "url": "https://gameinformer.com/gamescom-2026/2026/08/25/everything-announced-at-gamescom-opening-night-live-2026",
-      "summary": "Gamescom's opening night live event unveiled a slate of new titles, hardware, and services, including a major cloud gaming platform expansion and AI-driven development tools. The announcements signal a shift toward more integrated cloud and AI solutions in the gaming ecosystem.",
-      "whyItMatters": "These developments enable developers to deploy games more rapidly and reach wider audiences through cloud infrastructure, boosting scalability and reducing distribution costs.",
-      "category": "Cloud",
-      "publishedAt": "2026-08-26T01:27:00Z"
-    },
-    {
-      "id": "art-1787801140876-1",
-      "title": "Dozens of engineers laid off at Apple headquarters - SFGATE",
-      "source": "SFGate",
-      "url": "https://www.sfgate.com/tech/article/apple-engineers-layoff-22403206.php",
-      "summary": "Apple announced 147 layoffs, primarily targeting engineers at its Cupertino headquarters. The move signals a shift in the company's engineering priorities amid a broader industry slowdown.",
-      "whyItMatters": "The layoffs may reduce the talent pool for mobile app development and could slow innovation in Apple's ecosystem.",
+      "id": "art-1787897560656-0",
+      "title": "Here’s how many foldable iPhones IDC expects Apple to ship in one year - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/26/heres-how-many-foldable-iphones-idc-expects-apple-to-ship-in-one-year/",
+      "summary": "IDC predicts Apple will ship a significant number of foldable iPhones in its first year, signaling strong consumer demand and a shift toward flexible displays. Bloomberg reports that this bullish outlook could accelerate the adoption of foldable devices across the market.",
+      "whyItMatters": "The expected volume of foldable iPhones will push developers to optimize apps for foldable form factors, influencing UI/UX design and performance considerations.",
       "category": "Mobile",
-      "publishedAt": "2026-08-25T21:40:36Z"
+      "publishedAt": "2026-08-26T21:13:00Z"
     },
     {
-      "id": "art-1787801141455-2",
-      "title": "Exclusive | $16.9M listing for Old Hollywood mansion is exposes bitter family feud - New York Post",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/25/real-estate/16-9m-listing-for-old-hollywood-mansion-is-exposes-bitter-family-feud/",
-      "summary": "A $16.9 million Old Hollywood mansion tied to the late Paris Nourafchan is now on the market amid a bitter family feud. The listing highlights how personal legal disputes can affect property values and public perception.",
-      "whyItMatters": "While not directly affecting software development, high-profile legal disputes can influence data privacy regulations and the need for secure handling of personal information in real estate tech platforms.",
+      "id": "art-1787897561232-1",
+      "title": "New Twitter launches, says Musk’s X gave up the name - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
+      "summary": "Elon Musk’s X Corp has officially abandoned the Twitter brand, rebranding the platform as X, while a judge has yet to rule on a preliminary injunction that could halt the change. Despite the legal uncertainty, Operation Bluebird, the internal team driving the transition, continues to push forward with the rebranding rollout.",
+      "whyItMatters": "Developers who rely on Twitter’s API and brand identity must adapt to new endpoints and branding guidelines, potentially affecting integrations and user experience.",
+      "category": "Web Dev",
+      "publishedAt": "2026-08-26T20:49:04Z"
+    },
+    {
+      "id": "art-1787897561861-2",
+      "title": "'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/entertainment/grand-theft-auto-vi-cyberleek-leaks-august-26",
+      "summary": "A leak of GTA VI Cyberleek update footage, including the Lucia character, was released after a leaker fulfilled a threat to share the content. The leak revealed gameplay details and design elements that were previously undisclosed to the public.",
+      "whyItMatters": "Such leaks expose vulnerabilities in game development pipelines and can undermine intellectual property protection, prompting developers to strengthen security practices.",
       "category": "Security",
-      "publishedAt": "2026-08-25T21:21:00Z"
+      "publishedAt": "2026-08-26T20:32:19Z"
     },
     {
-      "id": "art-1787801142048-3",
-      "title": "Geralt Returns in The Witcher 3: Wild Hunt — Songs of the Past and Remastered - XBOX Wire",
-      "source": "Xbox.com",
-      "url": "https://news.xbox.com/en-us/2026/08/25/witcher-3-remastered-and-songs-of-the-past/",
-      "summary": "The Witcher 3: Wild Hunt Remastered will launch on September 29, featuring performance improvements and modernized graphics. An additional expansion, Songs of the Past, is slated for release in 2027.",
-      "whyItMatters": "The release demonstrates the importance of continuous integration and deployment pipelines for large-scale game updates, highlighting best practices for managing long-term product lifecycles.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-25T21:02:11Z"
-    },
-    {
-      "id": "art-1787801142402-4",
-      "title": "Apple Maps Ads Are Here, and There's No Way to Turn Them Off - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/25/apple-maps-ads-live/",
-      "summary": "Apple has introduced ads in its Maps app across the United States and Canada, appearing during location searches and when viewing places. The new feature is mandatory and cannot be turned off, affecting how users interact with the app and how developers design location-based experiences.",
-      "whyItMatters": "Mobile developers must account for the presence of ads in Maps, potentially adjusting UI, handling user expectations, and ensuring compliance with Apple’s new advertising policy.",
+      "id": "art-1787897562545-3",
+      "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
+      "summary": "Amazon is offering a $150 discount on Pixel 11 phones, along with up to $200 in gift cards, while also providing deals on the Scuf Valor Pro, a Cuktech 100W battery pack, and the lowest price yet for Doom: The Dark Ages.",
+      "whyItMatters": "Lower device costs reduce testing budgets for mobile developers and can accelerate app adoption on Pixel hardware.",
       "category": "Mobile",
-      "publishedAt": "2026-08-25T20:40:09Z"
+      "publishedAt": "2026-08-26T19:18:23Z"
     },
     {
-      "id": "art-1787801142812-5",
-      "title": "Final Fantasy 7 Revelation Gamescom Trailer Shows Off Submarine Combat, Weapon Boss Fights, and More - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/final-fantasy-7-revelations-gets-new-trailer-at-gamescom-2026-showing-off-submarine-combat-weapons-and-more",
-      "summary": "The latest Final Fantasy 7 Revelation trailer unveiled at Gamescom’s Opening Night Live showcase features new submarine combat sequences and intense weapon boss fights, expanding the game’s combat variety. The footage also highlights additional gameplay elements that hint at a richer, more dynamic experience for fans.",
-      "whyItMatters": "For software developers, the trailer underscores the growing demand for sophisticated real-time rendering and complex AI behaviors in modern game engines, driving innovation in performance optimization and pipeline automation.",
+      "id": "art-1787897563651-4",
+      "title": "Review: Resonance: A Plague Tale Legacy Is a Visual Feast to Cherish on Every Console - Digital Foundry",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/reviews/resonance-a-plague-tale-legacy-is-a-visual-feast-to-cherish-on-every-console",
+      "summary": "Resonance: A Plague Tale Legacy delivers stunning visuals on all consoles, making it a visual feast for players. The review highlights that the PS5 Pro offers a significant performance boost, setting it apart from other platforms.",
+      "whyItMatters": "The game's cross-platform optimization showcases how developers can leverage hardware differences to enhance visual fidelity, informing future console and PC game development strategies.",
       "category": "DevOps",
-      "publishedAt": "2026-08-25T20:36:51Z"
+      "publishedAt": "2026-08-26T18:40:00Z"
     },
     {
-      "id": "art-1787801143468-6",
-      "title": "Memory and Storage Configurations and Pricing for the New Mac Minis (M6/M5 Pro) and Mac Studios (M5 Max/M5 Ultra) - Daring Fireball",
-      "source": "Daringfireball.net",
-      "url": "https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios",
-      "summary": "Apple has released detailed tables outlining the RAM and SSD options for its new Mac Mini (M6/M5 Pro) and Mac Studio (M5 Max/M5 Ultra) models, including pricing for each configuration. The information clarifies the available memory and storage combinations and their costs, helping consumers and professionals choose the right setup for their needs.",
-      "whyItMatters": "Knowing the exact memory and storage options and their prices enables developers and IT teams to plan hardware budgets, optimize performance, and ensure compatibility with their software workloads.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-25T20:01:10Z"
+      "id": "art-1787897564492-5",
+      "title": "Elden Ring On Switch 2 – The Worst Way To Play The Best Game - Game Informer",
+      "source": "Gameinformer.com",
+      "url": "https://gameinformer.com/2026/08/26/elden-ring-on-switch-2-the-worst-way-to-play-the-best-game-new-gameplay-today",
+      "summary": "Elden Ring on Switch 2 delivers the core experience but falls short of the original's quality. The review highlights performance issues and reduced features, labeling it the worst way to play the best game.",
+      "whyItMatters": "Developers must consider hardware constraints when porting high‑end games to handheld platforms, impacting optimization strategies.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-26T18:36:02Z"
     },
     {
-      "id": "art-1787801144030-7",
-      "title": "Gears of War: E-Day somehow feels exactly like a direct continuation of the original Xbox 360 trilogy, for better and for worse - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/gears-of-war-eday-preview",
-      "summary": "The Coalition's Gears of War E-Day release feels like a direct continuation of the original Xbox 360 trilogy, blending nostalgia with new elements. Critics argue it glosses over the innovations introduced in Gears 5, favoring a familiar formula.",
-      "whyItMatters": "Game studios may prioritize legacy engine support and familiar gameplay loops over experimentation, influencing resource allocation and release strategies.",
+      "id": "art-1787897565122-7",
+      "title": "Fable Looks Absolutely Incredible In New 18-Minute Quest Gameplay - Pure Xbox",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/08/fable-looks-absolutely-incredible-in-new-18-minute-quest-gameplay",
+      "summary": "Fable has released a new 18‑minute quest gameplay that showcases its stunning visuals and engaging mechanics, drawing praise from critics. The release highlights the game’s potential for Game of the Year status and demonstrates the studio’s commitment to delivering high‑quality content.",
+      "whyItMatters": "The release underscores the importance of rapid iteration and high‑fidelity asset pipelines in modern game development, offering insights for software developers on optimizing performance and player engagement.",
       "category": "DevOps",
-      "publishedAt": "2026-08-25T20:00:00Z"
+      "publishedAt": "2026-08-26T17:08:00Z"
+    },
+    {
+      "id": "art-1787897565588-8",
+      "title": "Xbox’s new disc-to-digital program gives physical games a digital future - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/",
+      "summary": "Xbox has launched a disc‑to‑digital program that lets players keep their physical discs while also claiming a digital copy. The move applies to most Xbox One and Series X titles, ensuring discs remain playable after the claim.",
+      "whyItMatters": "It streamlines game distribution and updates, reducing the need for physical media handling and simplifying patch deployment for developers.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-26T16:59:41Z"
+    },
+    {
+      "id": "art-1787897566331-9",
+      "title": "Netflix’s ‘GTA 6’ Extended Look Isn’t The Only ‘GTA’ Preview Tomorrow - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/08/26/netflixs-gta-6-extended-look-isnt-the-only-gta-preview-tomorrow/",
+      "summary": "Netflix’s upcoming 'GTA 6' extended look is not the only preview scheduled for tomorrow, as a leaked long story section containing Lucia spoilers has surfaced. The leak precedes official coverage following the Netflix event, adding buzz to the highly anticipated game.",
+      "whyItMatters": "The unauthorized leak highlights the importance of robust content protection for developers and publishers, underscoring the need for stronger security measures in the gaming industry.",
+      "category": "Security",
+      "publishedAt": "2026-08-26T16:53:29Z"
     }
   ]
 }
