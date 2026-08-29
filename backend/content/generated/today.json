@@ -1,95 +1,105 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "articles": [
     {
-      "id": "art-1787897560656-0",
-      "title": "Here’s how many foldable iPhones IDC expects Apple to ship in one year - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/26/heres-how-many-foldable-iphones-idc-expects-apple-to-ship-in-one-year/",
-      "summary": "IDC predicts Apple will ship a significant number of foldable iPhones in its first year, signaling strong consumer demand and a shift toward flexible displays. Bloomberg reports that this bullish outlook could accelerate the adoption of foldable devices across the market.",
-      "whyItMatters": "The expected volume of foldable iPhones will push developers to optimize apps for foldable form factors, influencing UI/UX design and performance considerations.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-26T21:13:00Z"
+      "id": "art-1787975229248-0",
+      "title": "Laser-wielding mosquito killer hits market promising to track and zap backyard pests midair - Fox Business",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/technology/laser-wielding-mosquito-killer-hits-market-promising-track-zap-backyard-pests-midair",
+      "summary": "Photon Matrix has launched a laser mosquito zapper that uses lidar, radar, and AI vision to detect and eliminate mosquitoes midair. The device, priced at nearly $1,000, represents a high-tech approach to pest control that could reshape consumer electronics for outdoor use.",
+      "whyItMatters": "The integration of AI vision with lidar and radar in a consumer product demonstrates the expanding reach of AI into everyday hardware, prompting developers to consider new sensor fusion and real-time processing challenges.",
+      "category": "AI",
+      "publishedAt": "2026-08-28T01:53:00Z"
     },
     {
-      "id": "art-1787897561232-1",
-      "title": "New Twitter launches, says Musk’s X gave up the name - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
-      "summary": "Elon Musk’s X Corp has officially abandoned the Twitter brand, rebranding the platform as X, while a judge has yet to rule on a preliminary injunction that could halt the change. Despite the legal uncertainty, Operation Bluebird, the internal team driving the transition, continues to push forward with the rebranding rollout.",
-      "whyItMatters": "Developers who rely on Twitter’s API and brand identity must adapt to new endpoints and branding guidelines, potentially affecting integrations and user experience.",
-      "category": "Web Dev",
-      "publishedAt": "2026-08-26T20:49:04Z"
-    },
-    {
-      "id": "art-1787897561861-2",
-      "title": "'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/entertainment/grand-theft-auto-vi-cyberleek-leaks-august-26",
-      "summary": "A leak of GTA VI Cyberleek update footage, including the Lucia character, was released after a leaker fulfilled a threat to share the content. The leak revealed gameplay details and design elements that were previously undisclosed to the public.",
-      "whyItMatters": "Such leaks expose vulnerabilities in game development pipelines and can undermine intellectual property protection, prompting developers to strengthen security practices.",
-      "category": "Security",
-      "publishedAt": "2026-08-26T20:32:19Z"
-    },
-    {
-      "id": "art-1787897562545-3",
-      "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards - The Verge",
+      "id": "art-1787975229677-1",
+      "title": "The GTA VI ‘extended look’ is now streaming on YouTube - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
-      "summary": "Amazon is offering a $150 discount on Pixel 11 phones, along with up to $200 in gift cards, while also providing deals on the Scuf Valor Pro, a Cuktech 100W battery pack, and the lowest price yet for Doom: The Dark Ages.",
-      "whyItMatters": "Lower device costs reduce testing budgets for mobile developers and can accelerate app adoption on Pixel hardware.",
+      "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
+      "summary": "Rockstar Games has released the official YouTube version of the GTA VI ‘extended look’, a behind‑the‑scenes video that originally premiered exclusively for Netflix subscribers. The clip showcases the game’s development process and is now freely accessible to a wider audience via YouTube’s streaming platform.",
+      "whyItMatters": "It demonstrates how game studios can leverage mainstream streaming services and CDNs to distribute high‑definition content, influencing how developers plan media delivery and monetization strategies.",
+      "category": "Cloud",
+      "publishedAt": "2026-08-28T01:05:18Z"
+    },
+    {
+      "id": "art-1787975230366-2",
+      "title": "Pikachu Visits Apple Park, Meets Tim Cook and John Ternus - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/27/pikachu-apple-park-cook-ternus/",
+      "summary": "Pikachu visited Apple Park and met with CEO Tim Cook and Apple’s chief design officer John Ternus in a playful event. Cook used the occasion to discuss his upcoming resignation and the future direction of Apple.",
+      "whyItMatters": "The CEO transition signals potential shifts in Apple’s mobile strategy, affecting developers who rely on iOS updates and new hardware releases.",
       "category": "Mobile",
-      "publishedAt": "2026-08-26T19:18:23Z"
+      "publishedAt": "2026-08-27T22:10:05Z"
     },
     {
-      "id": "art-1787897563651-4",
-      "title": "Review: Resonance: A Plague Tale Legacy Is a Visual Feast to Cherish on Every Console - Digital Foundry",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/reviews/resonance-a-plague-tale-legacy-is-a-visual-feast-to-cherish-on-every-console",
-      "summary": "Resonance: A Plague Tale Legacy delivers stunning visuals on all consoles, making it a visual feast for players. The review highlights that the PS5 Pro offers a significant performance boost, setting it apart from other platforms.",
-      "whyItMatters": "The game's cross-platform optimization showcases how developers can leverage hardware differences to enhance visual fidelity, informing future console and PC game development strategies.",
+      "id": "art-1787975230942-3",
+      "title": "GTA 6 Sounds Like It Won't Be 60FPS At Launch - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/gta-6-will-be-30fps-at-launch-rockstar-reportedly-not-sure-about-60fps-performance-mode-2000729032",
+      "summary": "Rockstar Games’ upcoming GTA 6 is expected to launch at less than 60 frames per second, according to Kotaku. The company may release performance patches later to boost frame rates.",
+      "whyItMatters": "This indicates that game developers may need to prioritize post‑launch performance optimization and patching strategies, impacting release schedules and resource allocation.",
       "category": "DevOps",
-      "publishedAt": "2026-08-26T18:40:00Z"
+      "publishedAt": "2026-08-27T22:01:17Z"
     },
     {
-      "id": "art-1787897564492-5",
-      "title": "Elden Ring On Switch 2 – The Worst Way To Play The Best Game - Game Informer",
-      "source": "Gameinformer.com",
-      "url": "https://gameinformer.com/2026/08/26/elden-ring-on-switch-2-the-worst-way-to-play-the-best-game-new-gameplay-today",
-      "summary": "Elden Ring on Switch 2 delivers the core experience but falls short of the original's quality. The review highlights performance issues and reduced features, labeling it the worst way to play the best game.",
-      "whyItMatters": "Developers must consider hardware constraints when porting high‑end games to handheld platforms, impacting optimization strategies.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-26T18:36:02Z"
-    },
-    {
-      "id": "art-1787897565122-7",
-      "title": "Fable Looks Absolutely Incredible In New 18-Minute Quest Gameplay - Pure Xbox",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/08/fable-looks-absolutely-incredible-in-new-18-minute-quest-gameplay",
-      "summary": "Fable has released a new 18‑minute quest gameplay that showcases its stunning visuals and engaging mechanics, drawing praise from critics. The release highlights the game’s potential for Game of the Year status and demonstrates the studio’s commitment to delivering high‑quality content.",
-      "whyItMatters": "The release underscores the importance of rapid iteration and high‑fidelity asset pipelines in modern game development, offering insights for software developers on optimizing performance and player engagement.",
+      "id": "art-1787975231546-4",
+      "title": "GTA 6 is a humongous game with 600,000 unique animations, doubling the animation work put into Red Dead Redemption 2 - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/gta-6-has-more-than-10-times-the-animations-in-gta-5-and-double-the-amount-in-red-dead-redemption-2-rockstar-confirms",
+      "summary": "Rockstar Games has announced that GTA 6 will feature 600,000 unique animations, more than double the 300,000 animations in Red Dead Redemption 2. This massive animation library underscores the scale of the game's open-world design and the extensive development effort behind it.",
+      "whyItMatters": "The sheer volume of animations highlights the need for advanced asset pipeline automation and performance optimization, pushing software developers to adopt more efficient tools and workflows for large-scale game production.",
       "category": "DevOps",
-      "publishedAt": "2026-08-26T17:08:00Z"
+      "publishedAt": "2026-08-27T21:07:47Z"
     },
     {
-      "id": "art-1787897565588-8",
-      "title": "Xbox’s new disc-to-digital program gives physical games a digital future - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/",
-      "summary": "Xbox has launched a disc‑to‑digital program that lets players keep their physical discs while also claiming a digital copy. The move applies to most Xbox One and Series X titles, ensuring discs remain playable after the claim.",
-      "whyItMatters": "It streamlines game distribution and updates, reducing the need for physical media handling and simplifying patch deployment for developers.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-26T16:59:41Z"
-    },
-    {
-      "id": "art-1787897566331-9",
-      "title": "Netflix’s ‘GTA 6’ Extended Look Isn’t The Only ‘GTA’ Preview Tomorrow - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/08/26/netflixs-gta-6-extended-look-isnt-the-only-gta-preview-tomorrow/",
-      "summary": "Netflix’s upcoming 'GTA 6' extended look is not the only preview scheduled for tomorrow, as a leaked long story section containing Lucia spoilers has surfaced. The leak precedes official coverage following the Netflix event, adding buzz to the highly anticipated game.",
-      "whyItMatters": "The unauthorized leak highlights the importance of robust content protection for developers and publishers, underscoring the need for stronger security measures in the gaming industry.",
+      "id": "art-1787975232031-5",
+      "title": "Rockstar Games pulls back the curtain on ‘Grand Theft Auto VI’ after leak - NBC News",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/rockstar-games-netflix-grand-theft-auto-vi-teaser-preview-what-to-know-rcna591225",
+      "summary": "Rockstar Games revealed new content for Grand Theft Auto VI in partnership with Netflix, giving fans an extended look at the Vice City storyline. The release came just days after a hack exposed unreleased game material, highlighting ongoing security concerns.",
+      "whyItMatters": "The incident underscores the importance of robust security practices for game developers, as leaks can damage brand reputation and revenue.",
       "category": "Security",
-      "publishedAt": "2026-08-26T16:53:29Z"
+      "publishedAt": "2026-08-27T20:57:13Z"
+    },
+    {
+      "id": "art-1787975232698-6",
+      "title": "Ikea’s New Collection Is a Mislabeled Gold Mine of Smart Home Office Upgrades - Gear Patrol",
+      "source": "Gear Patrol",
+      "url": "https://www.gearpatrol.com/home/ikea-xbox-gaming-yxstaby-furniture-collection-revealed/",
+      "summary": "Ikea's latest collection, marketed to gamers, also offers a range of smart home office and small-space furniture. The pieces feature integrated technology that enhances workspace ergonomics and connectivity.",
+      "whyItMatters": "The integration of smart furniture signals a growing trend for developers to create companion apps and APIs that control and optimize home office environments.",
+      "category": "AI",
+      "publishedAt": "2026-08-27T20:54:41Z"
+    },
+    {
+      "id": "art-1787975233031-7",
+      "title": "Google announces ‘Expert Intelligence’ to let you add Play Books in Gemini Notebook - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/08/27/gemini-notebook-play-books/",
+      "summary": "Google has unveiled Expert Intelligence, a cross‑Google initiative that lets users integrate trusted sources into its AI products. The first rollout will connect Play Books with Gemini Notebook, enabling richer, source‑verified content within the AI workspace.",
+      "whyItMatters": "By embedding trusted content directly into AI tools, developers can build more reliable, context‑aware applications that reduce misinformation and improve user trust.",
+      "category": "AI",
+      "publishedAt": "2026-08-27T19:58:00Z"
+    },
+    {
+      "id": "art-1787975233488-8",
+      "title": "GTA 6's driving and car-jacking will be \"more challenging\", Rockstar says, amid a seemingly big push for realism - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/gta-6-driving-car-theft-more-challenging-rockstar-realism-push",
+      "summary": "Rockstar Games announced that GTA 6 will feature more realistic driving and car-jacking mechanics, making these activities more challenging for players. The company is revamping its pick‑up‑and‑play systems to deliver a deeper, more immersive experience.",
+      "whyItMatters": "Developers will need to invest in advanced physics engines and AI-driven behavior models, raising the bar for realism in open‑world games and influencing future toolchains.",
+      "category": "AI",
+      "publishedAt": "2026-08-27T19:44:05Z"
+    },
+    {
+      "id": "art-1787975233950-9",
+      "title": "Say Hello To GTA 6's Awesome New Dialogue System - Polygon.com",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/gta-6-dialogue-npc-how-does-it-work-netflix-trailer-gameplay/",
+      "summary": "Rockstar Games has unveiled a new dialogue system for GTA 6 that allows characters like Jason and Lucia to speak with more natural, context‑aware interactions, while NPCs have been reworked for a more realistic experience. The update showcases advanced AI-driven conversation mechanics that aim to deepen immersion and narrative complexity in the upcoming title.",
+      "whyItMatters": "It demonstrates how sophisticated natural language processing and behavior modeling can be integrated into large‑scale game engines, offering developers insights into scalable AI dialogue systems and realistic NPC behavior for future projects.",
+      "category": "AI",
+      "publishedAt": "2026-08-27T19:12:46Z"
     }
   ]
 }
