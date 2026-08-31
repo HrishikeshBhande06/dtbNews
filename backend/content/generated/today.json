@@ -1,95 +1,95 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "articles": [
     {
-      "id": "art-1788049822855-0",
-      "title": "Android 17 QPR2 adds Status bar customization for notification, system icons - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/08/28/android-17-qpr2-status-bar/",
-      "summary": "Android 17 QPR2 introduces new status bar settings that let users customize notification and system icons, enhancing personalization. The update is available in Beta 4 and expands the platform’s UI flexibility for developers and users alike.",
-      "whyItMatters": "These new customization options give developers more control over the visual experience, enabling richer branding and improved user engagement on Android devices.",
+      "id": "art-1788136981868-0",
+      "title": "Sonic Team head talks possibility of Sonic Mania 2 - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/sonic-team-head-talks-possibility-of-sonic-mania-2/",
+      "summary": "Sonic Team head Takazhi Iizuka said there is no immediate plan for Sonic Mania 2, but he left the possibility open. The game is approaching its tenth anniversary, sparking renewed fan interest in a potential sequel.",
+      "whyItMatters": "It highlights how legacy IPs can still drive future development cycles, encouraging developers to explore revivals and remasters for long‑standing franchises.",
       "category": "Mobile",
-      "publishedAt": "2026-08-28T22:29:00Z"
+      "publishedAt": "2026-08-29T22:05:22Z"
     },
     {
-      "id": "art-1788049823348-1",
-      "title": "Xbox CEO calls Project Helix a ‘family of devices’ - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
-      "summary": "Xbox CEO Asha Sharma announced that Project Helix will be a ‘family of devices,’ signalling a unified hardware strategy for the next generation of Xbox consoles and related products. The statement suggests a shift toward a cohesive ecosystem that could streamline game development across multiple platforms.",
-      "whyItMatters": "Developers will need to design games that run seamlessly on a range of devices within the Helix family, potentially simplifying cross-platform support and expanding audience reach.",
-      "category": "Cloud",
-      "publishedAt": "2026-08-28T22:03:13Z"
+      "id": "art-1788136982238-1",
+      "title": "'This Looks Like Dogsh*t': Disturbing DLSS 5 AI Filter Applied to Major PS5 Games After Leaking - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/08/this-looks-like-dogsht-disturbing-dlss-5-ai-filter-applied-to-major-ps5-games-after-leaking",
+      "summary": "A leaked DLSS 5 AI filter was applied to major PS5 titles, producing disturbing and inappropriate visual effects that sparked backlash. The incident highlighted how quickly AI-driven image manipulation can spread across popular games.",
+      "whyItMatters": "It underscores the need for stricter AI content moderation and safeguards in game development pipelines, as unchecked filters can damage brand reputation and user trust.",
+      "category": "AI",
+      "publishedAt": "2026-08-29T19:00:00Z"
     },
     {
-      "id": "art-1788049824315-2",
-      "title": "26 GTA 6 Screenshot Comparisons Showing How Much Things Have Changed Since Vice City - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/26-gta-6-screenshot-comparisons-showing-how-much-things-have-changed-since-vice-city-2000729444",
-      "summary": "The article compares screenshots from Vice City on PS2 with GTA 6 on PS5, highlighting visual and gameplay changes over time. It showcases the evolution of graphics, physics, and level design in the franchise.",
-      "whyItMatters": "It demonstrates how advances in hardware and game engine technology enable richer, more realistic gaming experiences, informing developers about the potential of next-gen consoles.",
+      "id": "art-1788136982926-2",
+      "title": "“We’re aware,” Microsoft on Windows 11 KB5120998 breaking the mouse cursor - Windows Latest",
+      "source": "WindowsLatest",
+      "url": "https://www.windowslatest.com/2026/08/29/were-aware-microsoft-on-windows-11-kb5120998-breaking-the-mouse-cursor/",
+      "summary": "Microsoft has confirmed that the Windows 11 update KB5120998 is breaking mouse cursors across the OS. The company is actively investigating the issue and working on a fix.",
+      "whyItMatters": "The cursor malfunction can disrupt user interfaces, forcing developers to test for UI regressions and delaying releases.",
       "category": "DevOps",
-      "publishedAt": "2026-08-28T21:36:23Z"
+      "publishedAt": "2026-08-29T17:40:32Z"
     },
     {
-      "id": "art-1788049824922-3",
-      "title": "TCRF Accuses AI-Bro After Site Taken Offline By DDoS Attack - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
-      "summary": "TCRF accused an AI enthusiast of orchestrating a DDoS attack that took the site offline, and the accused retaliated by sending a crude MS Paint image of a butthole. The incident highlights how personal disputes can spill into cyberattacks and online harassment.",
-      "whyItMatters": "It underscores the importance of robust DDoS protection and incident response for web developers to safeguard site availability.",
-      "category": "Security",
-      "publishedAt": "2026-08-28T20:52:29Z"
-    },
-    {
-      "id": "art-1788049825478-4",
-      "title": "Kick Streamer Neon Responds After Rockstar Seemingly Includes a Reference to Him in GTA 6 Netflix Showcase - IGN",
+      "id": "art-1788136983536-3",
+      "title": "State of Decay 3 Hands-On: This Could Be the Punchier, Deeper Entry the Zombie Survival Series Needs - IGN",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/kick-streamer-neon-responds-after-rockstar-seemingly-includes-a-reference-to-him-in-gta-6-netflix-showcase",
-      "summary": "Kick streamer Neon reacted after Rockstar seemingly referenced him in a side mission shown during the GTA 6 first-look trailer on Netflix. The incident sparked discussion among the gaming community about in-game Easter eggs and influencer recognition.",
-      "whyItMatters": "It highlights how game developers can influence online content creators, affecting community engagement and marketing strategies for future releases.",
-      "category": "Web Dev",
-      "publishedAt": "2026-08-28T19:42:34Z"
+      "url": "https://www.ign.com/articles/we-played-state-of-decay-3-and-its-in-good-shape-despite-the-xbox-upheaval",
+      "summary": "State of Decay 3's early alpha build shows a more action‑heavy and deeper gameplay experience compared to its predecessors, with improved combat mechanics and richer world design. The 30‑minute hands‑on test indicates the studio is addressing past criticisms and could revitalize the franchise.",
+      "whyItMatters": "The game's development progress demonstrates how iterative alpha testing can refine gameplay and inform future production pipelines for indie and AAA studios.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-29T15:58:06Z"
     },
     {
-      "id": "art-1788049826038-5",
-      "title": "Game Developers Devastated By Gamescom Laptop Theft Spree - Aftermath",
-      "source": "Aftermath.site",
-      "url": "https://aftermath.site/gamescom-laptop-theft-spree-iam8bit-mimic/",
-      "summary": "At Gamescom, a large number of game developers had their laptops stolen during a Thursday night spree, leaving many projects disrupted. The incident highlights the vulnerability of on-site equipment during major industry events.",
-      "whyItMatters": "The theft hampers development timelines and exposes sensitive code, underscoring the need for stronger onsite security measures in the gaming industry.",
-      "category": "Security",
-      "publishedAt": "2026-08-28T18:29:15Z"
-    },
-    {
-      "id": "art-1788049826546-6",
-      "title": "Here’s how Apple Watch Ultra 4 will differentiate itself from prior models - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/28/heres-how-apple-watch-ultra-4-will-differentiate-itself-from-prior-models/",
-      "summary": "Apple is set to unveil the Apple Watch Ultra 4 on September 9, promising new features that set it apart from earlier models. Rumors suggest enhancements in battery life, durability, and health‑tracking capabilities that could redefine the smartwatch market.",
-      "whyItMatters": "Developers will need to adapt watchOS SDKs to support the Ultra 4’s advanced sensors and extended battery life, potentially opening new app opportunities.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-28T18:09:00Z"
-    },
-    {
-      "id": "art-1788049827099-7",
-      "title": "ER doctors say popular hair accessory is a death trap: ‘They get embedded in your skull’ - New York Post",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/28/lifestyle/er-docs-say-claw-clip-is-a-death-trap/",
-      "summary": "ER doctors warn that a popular hair accessory can become embedded in the skull, posing a serious death risk. The article highlights the need for better safety regulations and consumer awareness.",
-      "whyItMatters": "Software developers must consider safety compliance and risk management when creating or integrating medical or consumer product applications.",
-      "category": "Security",
-      "publishedAt": "2026-08-28T17:57:00Z"
-    },
-    {
-      "id": "art-1788049828049-8",
-      "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be coming next - Mashable",
+      "id": "art-1788136984198-4",
+      "title": "Apple's iOS 27 and Siri AI are coming soon: Everything we know so far - Mashable",
       "source": "Mashable",
-      "url": "https://mashable.com/entertainment/grand-theft-auto-vi-cyberleek-leaks-everything-posted-so-far",
-      "summary": "The latest GTA 6 Cyberleek update leaks have been compiled, detailing features and potential future content. However, insiders suggest that the leak wave may have subsided for now.",
-      "whyItMatters": "For software developers, leaked game code can expose vulnerabilities and intellectual property risks, prompting stricter security practices.",
-      "category": "Security",
-      "publishedAt": "2026-08-28T17:41:49Z"
+      "url": "https://mashable.com/tech/apple-iphone-ios-27-everything-we-know",
+      "summary": "Apple is set to release iOS 27, featuring a revamped Siri powered by advanced AI capabilities. The update promises smarter voice interactions, improved privacy controls, and new developer tools for integrating AI into apps.",
+      "whyItMatters": "Developers will need to adapt to new AI APIs and updated privacy guidelines, enabling richer, context‑aware app experiences.",
+      "category": "AI",
+      "publishedAt": "2026-08-29T15:37:44Z"
+    },
+    {
+      "id": "art-1788136984524-5",
+      "title": "Apple will be launching its first pair of smart glasses next year: Here’s what’s coming - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/",
+      "summary": "Apple is set to launch its first AI‑powered smart glasses next year, featuring integrated visual intelligence for enhanced AR experiences. The new device promises to blend wearable technology with advanced machine learning to deliver real‑time contextual information to users.",
+      "whyItMatters": "Developers will need to create new AR and vision‑based applications, opening opportunities for innovative software that leverages Apple’s visual intelligence APIs.",
+      "category": "AI",
+      "publishedAt": "2026-08-29T14:48:00Z"
+    },
+    {
+      "id": "art-1788136985278-6",
+      "title": "The ‘Iron Man’ Game Lives, And Its First Look Leaked - Gizmodo",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/the-iron-man-game-lives-and-its-first-look-leaked-2000804575",
+      "summary": "Motive's highly anticipated Iron Man game has been delayed, with the first look now leaked. Fans and developers alike will need to adjust expectations and timelines.",
+      "whyItMatters": "Game delays can shift development priorities and impact the broader mobile gaming ecosystem.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-29T14:30:44Z"
+    },
+    {
+      "id": "art-1788136986004-7",
+      "title": "GTA 6's gameplay reveal broke a streaming record, and also broke Twitch and Netflix - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
+      "summary": "GTA 6's first gameplay reveal drew more than 3.97 million peak viewers across platforms, breaking streaming records. The event also surpassed viewership numbers on Twitch and Netflix, highlighting the game's massive hype.",
+      "whyItMatters": "The record-breaking viewership demonstrates the need for scalable cloud infrastructure and efficient content delivery, prompting developers to optimize for high concurrency and low latency.",
+      "category": "Cloud",
+      "publishedAt": "2026-08-29T14:25:56Z"
+    },
+    {
+      "id": "art-1788136986647-8",
+      "title": "Why Rockstar Has Said Nothing About ‘GTA 6 Online’ So Far - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2026/08/29/why-rockstar-has-said-nothing-about-gta-6-online-so-far/",
+      "summary": "Rockstar has opened the doors to Grand Theft Auto 6 previews but has explicitly avoided discussing the online component or its release date. The company’s silence fuels speculation about the game’s multiplayer launch strategy and its potential impact on the gaming ecosystem.",
+      "whyItMatters": "The lack of clarity on GTA 6 Online signals a shift in how major studios manage multiplayer releases, influencing developers’ expectations for infrastructure, monetization models, and community engagement strategies.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-29T14:18:35Z"
     }
   ]
 }
