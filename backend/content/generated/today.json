@@ -1,95 +1,95 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "articles": [
     {
-      "id": "art-1788136981868-0",
-      "title": "Sonic Team head talks possibility of Sonic Mania 2 - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/sonic-team-head-talks-possibility-of-sonic-mania-2/",
-      "summary": "Sonic Team head Takazhi Iizuka said there is no immediate plan for Sonic Mania 2, but he left the possibility open. The game is approaching its tenth anniversary, sparking renewed fan interest in a potential sequel.",
-      "whyItMatters": "It highlights how legacy IPs can still drive future development cycles, encouraging developers to explore revivals and remasters for long‑standing franchises.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-29T22:05:22Z"
-    },
-    {
-      "id": "art-1788136982238-1",
-      "title": "'This Looks Like Dogsh*t': Disturbing DLSS 5 AI Filter Applied to Major PS5 Games After Leaking - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/08/this-looks-like-dogsht-disturbing-dlss-5-ai-filter-applied-to-major-ps5-games-after-leaking",
-      "summary": "A leaked DLSS 5 AI filter was applied to major PS5 titles, producing disturbing and inappropriate visual effects that sparked backlash. The incident highlighted how quickly AI-driven image manipulation can spread across popular games.",
-      "whyItMatters": "It underscores the need for stricter AI content moderation and safeguards in game development pipelines, as unchecked filters can damage brand reputation and user trust.",
-      "category": "AI",
-      "publishedAt": "2026-08-29T19:00:00Z"
-    },
-    {
-      "id": "art-1788136982926-2",
-      "title": "“We’re aware,” Microsoft on Windows 11 KB5120998 breaking the mouse cursor - Windows Latest",
-      "source": "WindowsLatest",
-      "url": "https://www.windowslatest.com/2026/08/29/were-aware-microsoft-on-windows-11-kb5120998-breaking-the-mouse-cursor/",
-      "summary": "Microsoft has confirmed that the Windows 11 update KB5120998 is breaking mouse cursors across the OS. The company is actively investigating the issue and working on a fix.",
-      "whyItMatters": "The cursor malfunction can disrupt user interfaces, forcing developers to test for UI regressions and delaying releases.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-29T17:40:32Z"
-    },
-    {
-      "id": "art-1788136983536-3",
-      "title": "State of Decay 3 Hands-On: This Could Be the Punchier, Deeper Entry the Zombie Survival Series Needs - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/we-played-state-of-decay-3-and-its-in-good-shape-despite-the-xbox-upheaval",
-      "summary": "State of Decay 3's early alpha build shows a more action‑heavy and deeper gameplay experience compared to its predecessors, with improved combat mechanics and richer world design. The 30‑minute hands‑on test indicates the studio is addressing past criticisms and could revitalize the franchise.",
-      "whyItMatters": "The game's development progress demonstrates how iterative alpha testing can refine gameplay and inform future production pipelines for indie and AAA studios.",
-      "category": "DevOps",
-      "publishedAt": "2026-08-29T15:58:06Z"
-    },
-    {
-      "id": "art-1788136984198-4",
-      "title": "Apple's iOS 27 and Siri AI are coming soon: Everything we know so far - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/apple-iphone-ios-27-everything-we-know",
-      "summary": "Apple is set to release iOS 27, featuring a revamped Siri powered by advanced AI capabilities. The update promises smarter voice interactions, improved privacy controls, and new developer tools for integrating AI into apps.",
-      "whyItMatters": "Developers will need to adapt to new AI APIs and updated privacy guidelines, enabling richer, context‑aware app experiences.",
-      "category": "AI",
-      "publishedAt": "2026-08-29T15:37:44Z"
-    },
-    {
-      "id": "art-1788136984524-5",
-      "title": "Apple will be launching its first pair of smart glasses next year: Here’s what’s coming - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/",
-      "summary": "Apple is set to launch its first AI‑powered smart glasses next year, featuring integrated visual intelligence for enhanced AR experiences. The new device promises to blend wearable technology with advanced machine learning to deliver real‑time contextual information to users.",
-      "whyItMatters": "Developers will need to create new AR and vision‑based applications, opening opportunities for innovative software that leverages Apple’s visual intelligence APIs.",
-      "category": "AI",
-      "publishedAt": "2026-08-29T14:48:00Z"
-    },
-    {
-      "id": "art-1788136985278-6",
-      "title": "The ‘Iron Man’ Game Lives, And Its First Look Leaked - Gizmodo",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/the-iron-man-game-lives-and-its-first-look-leaked-2000804575",
-      "summary": "Motive's highly anticipated Iron Man game has been delayed, with the first look now leaked. Fans and developers alike will need to adjust expectations and timelines.",
-      "whyItMatters": "Game delays can shift development priorities and impact the broader mobile gaming ecosystem.",
-      "category": "Mobile",
-      "publishedAt": "2026-08-29T14:30:44Z"
-    },
-    {
-      "id": "art-1788136986004-7",
-      "title": "GTA 6's gameplay reveal broke a streaming record, and also broke Twitch and Netflix - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
-      "summary": "GTA 6's first gameplay reveal drew more than 3.97 million peak viewers across platforms, breaking streaming records. The event also surpassed viewership numbers on Twitch and Netflix, highlighting the game's massive hype.",
-      "whyItMatters": "The record-breaking viewership demonstrates the need for scalable cloud infrastructure and efficient content delivery, prompting developers to optimize for high concurrency and low latency.",
+      "id": "art-1788225638085-0",
+      "title": "GTA VI Extended Gameplay Preview Attracted Over 4 Million Live Viewers - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/352158/gta-vi-extended-gameplay-preview-attracted-over-4-million-live-viewers",
+      "summary": "Rockstar’s extended gameplay preview for GTA VI drew over 4 million live viewers, underscoring the game’s massive hype and potential market impact. Analysts project week‑one sales of $4.5 billion upon its November launch, positioning the title as a blockbuster in the gaming industry.",
+      "whyItMatters": "The unprecedented viewership and projected sales highlight the importance of scalable streaming infrastructure and content delivery for developers aiming to support high‑traffic live events.",
       "category": "Cloud",
-      "publishedAt": "2026-08-29T14:25:56Z"
+      "publishedAt": "2026-08-30T22:02:27Z"
     },
     {
-      "id": "art-1788136986647-8",
-      "title": "Why Rockstar Has Said Nothing About ‘GTA 6 Online’ So Far - Forbes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/paultassi/2026/08/29/why-rockstar-has-said-nothing-about-gta-6-online-so-far/",
-      "summary": "Rockstar has opened the doors to Grand Theft Auto 6 previews but has explicitly avoided discussing the online component or its release date. The company’s silence fuels speculation about the game’s multiplayer launch strategy and its potential impact on the gaming ecosystem.",
-      "whyItMatters": "The lack of clarity on GTA 6 Online signals a shift in how major studios manage multiplayer releases, influencing developers’ expectations for infrastructure, monetization models, and community engagement strategies.",
+      "id": "art-1788225638986-1",
+      "title": "NVIDIA Shuts Down RTX 5000 Power Limit Control OC in Latest Driver Update - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/352157/nvidia-shuts-down-rtx-5000-power-limit-control-oc-in-latest-driver-update",
+      "summary": "NVIDIA has removed the power limit control overclocking feature for its RTX 5000-series GPUs in the latest driver update, effectively disabling tools like mVolt+ that previously allowed models such as the RTX 5090 to draw an extra 125 W of power. This change curtails the ability of users to push these GPUs beyond their factory‑set limits, impacting performance‑critical workloads.",
+      "whyItMatters": "Developers and gamers who rely on overclocking to squeeze extra performance from RTX 5000 GPUs will now face reduced throughput, potentially affecting the efficiency of GPU‑accelerated applications and the competitiveness of NVIDIA’s high‑end cards.",
       "category": "DevOps",
-      "publishedAt": "2026-08-29T14:18:35Z"
+      "publishedAt": "2026-08-30T21:16:02Z"
+    },
+    {
+      "id": "art-1788225639496-2",
+      "title": "Apple iPhone 18 Pro Release Timeline: New Date Enters The Schedule - Forbes",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/08/30/apple-iphone-18-pro-release-timeline-new-date-enters-the-schedule/",
+      "summary": "Apple has revised the release timeline for the iPhone 18 Pro, moving the launch date to a new date. This change shifts the key events in the calendar, affecting developers' release planning and marketing schedules.",
+      "whyItMatters": "Developers must adjust their app release schedules and beta testing timelines to align with the new launch window, impacting app store updates and feature rollouts.",
+      "category": "Mobile",
+      "publishedAt": "2026-08-30T20:01:00Z"
+    },
+    {
+      "id": "art-1788225642052-3",
+      "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+      "summary": "The archive includes basically every title uploaded to Steam between 2003 and 2013.",
+      "whyItMatters": "Direct pipeline title digest fallback applied.",
+      "category": "General Tech",
+      "publishedAt": "2026-08-30T19:14:08Z"
+    },
+    {
+      "id": "art-1788225642634-4",
+      "title": "The Witcher 4 Will Have a Physical Edition, But With No Disc Inside - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/352153/the-witcher-4-will-have-a-physical-edition-but-with-no-disc-inside",
+      "summary": "CD Projekt Red will release The Witcher 4 in a physical box, but the studio has not decided whether the box will contain a PS5 disc. The decision reflects a broader industry trend toward digital distribution while still offering a tangible product for collectors.",
+      "whyItMatters": "It signals to software developers that physical packaging may become optional, prompting a reevaluation of release pipelines, inventory management, and customer experience strategies.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-30T18:54:28Z"
+    },
+    {
+      "id": "art-1788225643216-5",
+      "title": "The Witcher 3 Remastered Accessibility Options Include Health Regen, Auto Loot, Infinite Item Durability - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/08/the-witcher-3-remastered-accessibility-options-include-health-regen-auto-loot-infinite-item-durability",
+      "summary": "The Witcher 3 Remastered now offers new accessibility features such as health regeneration, auto loot, and infinite item durability, aiming to make the game more inclusive for players with disabilities. These additions demonstrate a growing trend in game development to prioritize accessibility options in major releases.",
+      "whyItMatters": "By integrating accessibility features into a high-profile title, developers highlight the importance of inclusive design, encouraging the industry to adopt similar practices and potentially expanding their player base.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-30T18:15:00Z"
+    },
+    {
+      "id": "art-1788225643631-6",
+      "title": "PlayStation May Delay Digital-Only Shift Following Rumors of \"100% Physical Xbox Helix\" - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/352145/playstation-may-delay-digital-only-shift-following-rumors-of-100-physical-xbox-helix",
+      "summary": "PlayStation may postpone its planned shift to a digital-only console lineup after rumors that Xbox’s upcoming Project Helix will remain 100% physical. The decision reflects uncertainty in the industry’s move toward digital distribution and could affect how developers plan platform releases.",
+      "whyItMatters": "Software developers may need to adjust their release strategies to accommodate both physical and digital distribution models, impacting packaging, marketing, and distribution pipelines.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-30T16:28:50Z"
+    },
+    {
+      "id": "art-1788225643994-7",
+      "title": "Fable Gets Forgiving PC Minimum Hardware Requirements and Potential 60 FPS Cap - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/352143/fable-gets-forgiving-pc-minimum-hardware-requirements-and-potential-60-fps-cap",
+      "summary": "Playground Games and Xbox Game Studios have announced that the upcoming Fable reboot will feature generous PC minimum hardware requirements, making it accessible to a wider range of systems. The game may also cap at 60 FPS to maintain performance stability across diverse hardware configurations.",
+      "whyItMatters": "Lowering the entry barrier for PC gamers encourages broader adoption and reduces the need for costly hardware upgrades, impacting how developers target performance and optimization strategies.",
+      "category": "DevOps",
+      "publishedAt": "2026-08-30T16:10:17Z"
+    },
+    {
+      "id": "art-1788225644327-8",
+      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "summary": "Apple unveiled new Mac mini and Mac Studio models in response to a surge of enterprise demand for AI capabilities. The announcement highlights the company's shift toward supporting AI workloads on its desktop lineup.",
+      "whyItMatters": "Developers now have access to more powerful, AI-optimized Apple hardware, enabling faster model training and inference directly on Macs.",
+      "category": "AI",
+      "publishedAt": "2026-08-30T15:52:05Z"
     }
   ]
 }
