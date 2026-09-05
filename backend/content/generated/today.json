@@ -1,105 +1,65 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "articles": [
     {
-      "id": "art-1788481090268-0",
-      "title": "Unreleased Scream Game Surfaces Online Following Steam Leak - ign.com",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/a-playable-build-of-an-unreleased-scream-game-has-surfaced-thanks-to-the-steam-leak",
-      "summary": "An unreleased Scream game has been leaked onto the internet after a recent Steam data breach. The leaked files are now publicly accessible, raising concerns about intellectual property protection and the security of digital distribution platforms.",
-      "whyItMatters": "The incident highlights the vulnerability of game distribution services to data breaches, prompting developers to strengthen security measures and reconsider digital rights management strategies.",
-      "category": "Security",
-      "publishedAt": "2026-09-02T19:53:47Z"
-    },
-    {
-      "id": "art-1788481090907-1",
-      "title": "PSA: Some Versions Of The Same Game Aren't Compatible With Xbox Disc To Digital - Pure Xbox",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/09/psa-some-versions-of-the-same-game-arent-compatible-with-xbox-disc-to-digital",
-      "summary": "Xbox has issued a PSA that certain versions of games are incompatible when switching from disc to digital editions. Battlefield 4 is confirmed to be affected, meaning players may face installation or activation issues.",
-      "whyItMatters": "This highlights the importance of consistent versioning and backward compatibility in game distribution, forcing developers to rigorously test cross-platform releases.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-02T18:27:59Z"
-    },
-    {
-      "id": "art-1788481091405-2",
-      "title": "Acer Shows Off a Transformer-ish Concept for a Windows Gaming Handheld - CNET",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/gaming/acer-shows-off-a-transformer-ish-concept-for-a-windows-gaming-handheld/",
-      "summary": "Acer unveiled a transformer‑style Windows gaming handheld that can fold into a full keyboard, blending portable gaming with laptop‑like productivity. The prototype showcases a versatile form factor aimed at gamers who also need a compact desktop experience.",
-      "whyItMatters": "The device expands the Windows ecosystem into the handheld market, encouraging developers to create cross‑platform games and productivity apps that can seamlessly transition between touch and keyboard input.",
+      "id": "art-1788567251329-0",
+      "title": "How to check if Motion Assist has rolled out to your Android 17 phone - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/09/03/android-motion-assist-rollout/",
+      "summary": "Google is gradually rolling out Motion Assist to devices running Android 17, following its recent announcement. The feature enhances on-device motion detection and gesture recognition for a smoother user experience.",
+      "whyItMatters": "Developers can now leverage Motion Assist APIs to create more responsive and power-efficient apps that rely on motion input, potentially reducing reliance on external sensors.",
       "category": "Mobile",
-      "publishedAt": "2026-09-02T18:22:00Z"
+      "publishedAt": "2026-09-03T21:02:00Z"
     },
     {
-      "id": "art-1788481092043-3",
-      "title": "iPhone 18 Pro will have three upgrades that have been rumored for years - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/02/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
-      "summary": "Apple is set to launch the iPhone 18 Pro next week, bringing three long‑rumored upgrades to the flagship line. The new model is expected to feature a significantly improved camera system, a faster processor, and a refreshed design that could set new standards for mobile hardware.",
-      "whyItMatters": "The enhancements will push app developers to optimize for higher‑resolution imaging, leverage faster CPU/GPU capabilities, and adapt to new form factors, influencing the mobile software ecosystem.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-02T18:21:00Z"
-    },
-    {
-      "id": "art-1788481092636-4",
-      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words - WIRED",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-      "summary": "Russian mathematicians have devised a method that lets AI models communicate with each other without using natural language, leveraging mathematical structures. The startup Mostik is building a platform that uses this technique to enable more efficient, modular AI collaboration across different models.",
-      "whyItMatters": "It allows developers to compose AI services more flexibly, reducing integration overhead and enabling new multi-model workflows.",
+      "id": "art-1788567252041-1",
+      "title": "Tesla Introduces 'Automatic Collision Evasion' for Manual Drives - Not a Tesla App",
+      "source": "Notateslaapp.com",
+      "url": "https://www.notateslaapp.com/news/4646/tesla-adds-fsd-automatic-collision-evasion-for-manual-drives",
+      "summary": "Tesla has quietly added an 'Automatic Collision Evasion' feature that activates its autonomous driving software to prevent crashes even when the driver is in manual mode. This new safety capability turns the car’s existing AI into an emergency crash‑prevention tool without requiring a dedicated app.",
+      "whyItMatters": "It demonstrates how automotive AI can be leveraged for real‑time safety, prompting developers to integrate similar emergency response logic into their own vehicle software stacks.",
       "category": "AI",
-      "publishedAt": "2026-09-02T18:20:00Z"
+      "publishedAt": "2026-09-03T20:36:00Z"
     },
     {
-      "id": "art-1788481093272-5",
-      "title": "'GTA 6' on PS5 vs Xbox: Key differences to consider - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-xbox-series-x-s-playstation-differences",
-      "summary": "The article compares the performance of GTA 6 on PS5 versus Xbox, noting that the PS5 version showcased an extended look on Netflix. It questions whether Xbox can match the PS5's performance and visual fidelity.",
-      "whyItMatters": "Game developers must optimize for divergent console architectures, influencing resource allocation and cross‑platform release strategies.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-02T17:10:17Z"
+      "id": "art-1788567252431-2",
+      "title": "Foldable iPhone Ultra: The Latest Rumors Before Apple's Event - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-latest-rumors/",
+      "summary": "Apple is rumored to unveil its first foldable iPhone at an upcoming event, sparking speculation about new design and hardware capabilities. The announcement could signal a shift toward flexible displays and more versatile device form factors in the smartphone market.",
+      "whyItMatters": "Developers will need to redesign interfaces and optimize performance for a foldable screen, affecting app compatibility and user experience.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-03T20:10:36Z"
     },
     {
-      "id": "art-1788481093808-6",
-      "title": "Ace Combat 8 reveals live service online multiplayer modes that include PvE, PvP, PvPvE battles, and a hangout space - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/ace-combat-8-online-modes-social-space-revealed",
-      "summary": "Bandai Namco has announced that Ace Combat 8 will feature a comprehensive live‑service online experience, offering PvP, PvE, and PvPvE battles alongside a dedicated social hangout area for player avatars. This marks a shift toward persistent, community‑driven gameplay within the franchise.",
-      "whyItMatters": "The introduction of persistent online modes and social spaces demonstrates the growing importance of cloud‑based multiplayer infrastructure, encouraging developers to adopt scalable, real‑time services for future titles.",
+      "id": "art-1788567252817-3",
+      "title": "Metagame Mentor: The Top Standard Decks for September 2026's RCQs - magic.gg",
+      "source": "Magic.gg",
+      "url": "https://www.magic.gg/news/metagame-mentor-the-top-standard-decks-for-september-2026s-rcqs",
+      "summary": "Mono‑Green Landfall dominates the Standard metagame, but new decks are emerging to counter its power. The article outlines the top decks to watch for the September 2026 RCQs, highlighting shifts in strategy and card synergy.",
+      "whyItMatters": "Understanding these evolving deck strategies can guide developers building AI‑powered deck‑building tools and predictive analytics for competitive gaming.",
+      "category": "AI",
+      "publishedAt": "2026-09-03T18:56:15Z"
+    },
+    {
+      "id": "art-1788567253696-4",
+      "title": "UK PS5 and Xbox sales jumped by a third following GTA 6’s Netflix reveal - Video Games Chronicle",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/uk-ps5-and-xbox-sales-tripled-following-gta-6s-netflix-reveal/",
+      "summary": "UK PS5 and Xbox sales surged by about a third during the week of GTA 6’s Netflix reveal, with PS5 sales climbing 33%. The spike underscores the strong influence of high‑profile game announcements on console demand.",
+      "whyItMatters": "The sales jump signals that developers can capitalize on major game releases to drive hardware adoption, encouraging investment in next‑gen titles and platform features.",
       "category": "Cloud",
-      "publishedAt": "2026-09-02T16:28:44Z"
+      "publishedAt": "2026-09-03T18:40:38Z"
     },
     {
-      "id": "art-1788481094269-7",
-      "title": "Dishonored's Co-Creator Explains What So Many Games Are Missing - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/harvey-smith-interview-black-pony-immersive-sim-dishonored-prey-2000730489",
-      "summary": "The co‑creator of Black Pony Immersive, a studio spun out of the Dishonored team, discusses how many games lack depth and innovation in underserved genres. He argues that defying expectations and embracing niche storytelling can revitalize player engagement and industry creativity.",
-      "whyItMatters": "By highlighting gaps in current game design, developers are encouraged to experiment with unique narratives and mechanics, potentially leading to new market opportunities and more diverse software offerings.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-02T16:00:47Z"
-    },
-    {
-      "id": "art-1788481094680-8",
-      "title": "Nvidia's controversial, face-changing, gen-AI DLSS 5 tech releases tomorrow for one game, and seems to tank frame-rates - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/dlss-5-release-date-nvidia-nba-2k7-frame-rate",
-      "summary": "Nvidia is set to release its controversial DLSS 5 technology tomorrow, initially available for a single game and for users with 50‑series GeForce GPUs or GeForce Now. Early reports suggest the new feature may actually reduce frame rates, raising concerns about its performance claims.",
-      "whyItMatters": "Developers must evaluate the trade‑offs between AI‑driven upscaling and real‑time performance, as widespread adoption could shift optimization priorities in game engines.",
-      "category": "AI",
-      "publishedAt": "2026-09-02T15:53:39Z"
-    },
-    {
-      "id": "art-1788481095197-9",
-      "title": "Google is sending MrBeast into the wilderness, armed with AI - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-      "summary": "Google has partnered with YouTuber MrBeast to feature its Gemini AI, Google Health, and Fitbit Air in a series of wilderness adventure videos, marking a multi‑year collaboration that blends cutting‑edge AI with consumer tech in mainstream entertainment.",
-      "whyItMatters": "It shows how AI and health‑tech products can be seamlessly integrated into popular media, encouraging developers to explore AI‑powered features in consumer-facing applications.",
-      "category": "AI",
-      "publishedAt": "2026-09-02T15:47:03Z"
+      "id": "art-1788567254030-6",
+      "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html",
+      "summary": "Microsoft announced that Xbox Game Pass subscribers will face time limits on cloud gaming starting in November as the company seeks to curb rising operational costs. The move signals a shift in how Microsoft monetizes its cloud gaming service and may prompt users to adjust their play habits.",
+      "whyItMatters": "Developers and the broader tech industry must adapt to tighter cloud resource constraints, potentially influencing game design, streaming quality, and revenue models.",
+      "category": "Cloud",
+      "publishedAt": "2026-09-03T17:00:01Z"
     }
   ]
 }
