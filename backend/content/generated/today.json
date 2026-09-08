@@ -1,105 +1,75 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "articles": [
     {
-      "id": "art-1788739704892-0",
-      "title": "iPhone Handoff will seamlessly share one number between two phones - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-      "summary": "Apple's upcoming iOS 27 will introduce Handoff, allowing a single phone number to be shared seamlessly between two iPhones. This feature aims to simplify user experience by enabling dual-device usage without separate numbers.",
-      "whyItMatters": "Developers can design apps that leverage the shared number for unified authentication and contact management across devices.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-05T20:53:58Z"
-    },
-    {
-      "id": "art-1788739705417-1",
-      "title": "No, Sony isn't cutting PlayStation disc production by 90 percent, just 10 - eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/sony-playstation-disc-production-10-percent-decline-not-90",
-      "summary": "Sony clarified that PlayStation disc production will decline by 10 percent in 2028, not to 10 percent as previously reported. The correction follows a misinterpretation of a Sony DADC executive’s comments that had caused confusion among the gaming community.",
-      "whyItMatters": "The modest 10 percent reduction in disc production signals a gradual shift toward digital distribution, affecting developers’ manufacturing budgets and supply chain planning.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-05T15:27:26Z"
-    },
-    {
-      "id": "art-1788739705982-2",
-      "title": "The Blood of Dawnwalker has sold 1 million copies worldwide - RPG Site",
-      "source": "RPG Site",
-      "url": "https://www.rpgsite.net/news/21303-the-blood-of-dawnwalker-sales-numbers-1-million-copies-new",
-      "summary": "The Blood of Dawnwalker, a newly launched RPG, has sold 1 million copies worldwide in its first week. This rapid sales milestone signals strong market demand and positions the title as a major success in the gaming industry.",
-      "whyItMatters": "The game's success demonstrates the effectiveness of cross‑platform distribution and monetization strategies, encouraging developers to invest in high‑quality RPG experiences.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-05T15:04:20Z"
-    },
-    {
-      "id": "art-1788739706657-3",
-      "title": "10 Desk Gadgets Under $100 That Deserve A Spot In Your Home Office - bgr.com",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2249292/desk-gadgets-under-100-dollars-worth-having-home-office/",
-      "summary": "The article highlights ten affordable desk gadgets under $100 that can enhance a home office setup, offering practical upgrades without breaking the bank. It showcases a range of items—from ergonomic accessories to smart organizers—that aim to boost comfort and productivity for remote workers.",
-      "whyItMatters": "By providing cost-effective tools that improve ergonomics and workflow, these gadgets help software developers maintain focus and efficiency while working remotely.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-05T14:02:00Z"
-    },
-    {
-      "id": "art-1788739707355-4",
-      "title": "Microsoft’s latest moves suggest Xbox Cloud Gaming is slipping out of the spotlight — and the strategy shift feels impossible to ignore - Windows Central",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/xbox/microsoft-clearly-doesnt-see-much-of-a-future-for-xbox-cloud-gaming",
-      "summary": "Microsoft's recent announcements indicate a shift away from Xbox Cloud Gaming, with the service facing criticism over hourly usage limits that fans find restrictive. The move underscores a broader strategy pivot that could leave the cloud gaming market open to competitors.",
-      "whyItMatters": "Developers and studios may need to rethink their investment in Xbox's cloud platform, as the reduced focus could limit opportunities for cross-platform game streaming and affect the ecosystem's growth.",
-      "category": "Cloud",
-      "publishedAt": "2026-09-05T13:23:26Z"
-    },
-    {
-      "id": "art-1788739707738-5",
-      "title": "Apple Watch 12 & Ultra 4: Leaks Reveal a Big Hardware Change - Geeky Gadgets",
-      "source": "Geeky Gadgets",
-      "url": "https://www.geeky-gadgets.com/apple-watch-series-12-rumors-8/",
-      "summary": "Apple’s upcoming Watch Series 12 and Ultra 4 are rumored to feature the first major silicon overhaul in years, introducing a new custom processor and an expanded array of sensors. These changes promise improved performance, battery life, and new health-tracking capabilities for the next generation of Apple Watches.",
-      "whyItMatters": "Developers will need to update watchOS SDKs and optimize apps for the new silicon and sensor suite, potentially unlocking richer functionality and better performance for health and fitness applications.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-05T13:04:46Z"
-    },
-    {
-      "id": "art-1788739708468-6",
-      "title": "Gamescom says sorry after backlash over how it handled equipment thefts from indie developers - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/gamescom-apologises-indie-developer-hardware-theft-response",
-      "summary": "Gamescom issued an apology after criticism over its handling of hardware theft incidents that affected indie game developers. The event highlighted shortcomings in the event's support and communication during the crisis.",
-      "whyItMatters": "The incident underscores the vulnerability of indie developers to equipment loss, which can halt development and strain limited resources.",
+      "id": "art-1788827677755-0",
+      "title": "Miami sheriff blasts Dem mayor for planned Grand Theft Auto 6 tie-in that top cops claim glorifies crime - New York Post",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/06/us-news/miami-sheriff-blasts-dem-mayor-for-planned-grand-theft-auto-6-tie-in-that-top-cops-claim-glorifies-crime/",
+      "summary": "Miami sheriff condemned a mayoral proposal to temporarily transform the city into a real‑life version of Grand Theft Auto 6’s Vice City, citing concerns over glorifying crime. The plan, which would have involved citywide marketing and themed events, was met with backlash from law enforcement and the public.",
+      "whyItMatters": "The controversy highlights how public perception of digital entertainment can influence policy decisions that affect software developers, especially those creating location‑based or immersive experiences.",
       "category": "Security",
-      "publishedAt": "2026-09-05T12:44:17Z"
+      "publishedAt": "2026-09-06T22:09:00Z"
     },
     {
-      "id": "art-1788739709344-7",
-      "title": "IFA Berlin 2026 Live: The Biggest Announcements From Samsung, Dyson, LG and More - cnet.com",
-      "source": "CNET",
-      "url": "https://www.cnet.com/news-live/ifa-berlin-2026-live-the-biggest-announcements-from-samsung-lg-and-more/",
-      "summary": "CNET reports live from IFA Berlin 2026, covering Samsung, Dyson, LG and other brands as they unveil new laptops, TVs, smart home devices and quirky gadgets. The event showcases the latest hardware trends and innovations across consumer electronics.",
-      "whyItMatters": "Software developers must adapt to new hardware APIs and SDKs, ensuring compatibility and performance across the latest laptops, TVs, and smart home ecosystems.",
+      "id": "art-1788827678327-1",
+      "title": "Report: New Killzone Project in Very Early Stages of Production - MP1st",
+      "source": "http://mp1st.com/category/news",
+      "url": "https://mp1st.com/news/report-new-killzone-project-in-very-early-stages-of-production",
+      "summary": "Guerrilla Games and an external studio are reportedly beginning a new Killzone project, which could be a remaster or remake of the classic series. The initiative is in its very early production stages, indicating a potential return to the franchise for fans and developers alike.",
+      "whyItMatters": "The project signals a renewed investment in legacy IP, encouraging developers to adopt modern pipelines and tools to revitalize older titles.",
       "category": "DevOps",
-      "publishedAt": "2026-09-05T11:54:01Z"
+      "publishedAt": "2026-09-06T22:08:28Z"
     },
     {
-      "id": "art-1788739709700-8",
-      "title": "The Pixel 11 Pro should be a disappointment, but after 3 weeks with the phone I can't put it down - Android Authority",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-pixel-11-pro-review-3703549/",
-      "summary": "Google’s Pixel 11 Pro and 11 Pro XL are not groundbreaking Android devices, yet they deliver solid performance and a polished user experience. After three weeks of use, reviewers find the phone compelling enough to keep using it despite its lack of revolutionary features.",
-      "whyItMatters": "The Pixel 11 Pro’s strong software integration and timely updates set a benchmark for Android OEMs, encouraging developers to optimize apps for a reliable, high‑quality hardware platform.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-05T10:45:00Z"
+      "id": "art-1788827678836-2",
+      "title": "Former Capcom Employee Says Western Studios Spend Too Much Time On Jira - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/former-capcom-employee-says-western-studios-spend-too-much-time-on-jira-2000731698",
+      "summary": "A former Capcom employee claims that Western studios waste excessive time on Jira, arguing that this focus on micromanagement hampers productivity. The article contrasts Capcom’s streamlined approach during its \"golden age\" with what the ex‑staffer sees as a bureaucratic slowdown in other studios.",
+      "whyItMatters": "It highlights how excessive reliance on project‑tracking tools can stifle developer creativity and efficiency, a concern for teams seeking leaner workflows.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-06T21:08:58Z"
     },
     {
-      "id": "art-1788739710038-9",
-      "title": "There May Not Be an iPhone 18 This Year - WIRED",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/there-may-not-be-an-iphone-18-this-year/",
-      "summary": "Apple is slated to unveil several new products at its September event, including a folding phone, but the iPhone 18 may be omitted—a first for the company. This signals a potential shift in Apple’s product strategy and could alter the competitive landscape for smartphone makers.",
-      "whyItMatters": "Developers may need to adjust their app optimization and feature support plans if the iPhone 18 is delayed or canceled, affecting release timelines and market expectations.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-05T10:30:00Z"
+      "id": "art-1788827679259-3",
+      "title": "AI may soon allow humans to talk with animals — but some say it could violate their right to privacy - New York Post",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/06/tech/ai-may-soon-allow-humans-to-talk-with-animals-but-some-say-it-could-violate-the-animals-right-to-privacy/",
+      "summary": "Researchers are developing AI systems that could translate animal vocalizations into human language, potentially enabling direct communication with pets and wildlife. Critics warn that collecting and analyzing animal data may infringe on animal privacy and raise ethical questions.",
+      "whyItMatters": "Software developers must consider ethical data collection and privacy safeguards when building AI that processes non-human biological signals, as regulatory scrutiny could affect product design and deployment.",
+      "category": "AI",
+      "publishedAt": "2026-09-06T19:47:00Z"
+    },
+    {
+      "id": "art-1788827680437-4",
+      "title": "Sunday Preview – Shake the earth with the Sons of Behemat - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/krnawho8/sunday-preview-shake-the-earth-with-the-sons-of-behemat",
+      "summary": "Warhammer Community releases a Sunday preview titled \"Shake the earth with the Sons of Behemat\", teasing new content available for pre-order next week. The preview showcases upcoming units and features that fans can anticipate.",
+      "whyItMatters": "It underscores the need for reliable digital distribution and community engagement tools, offering developers insights into effective pre-order and release strategies.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-06T16:55:43Z"
+    },
+    {
+      "id": "art-1788827681077-6",
+      "title": "Sony Can't Hide Forever - Polygon.com",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/patch-notes-sony-playstation-state-of-play-no-disc-no-buy/",
+      "summary": "Sony’s PlayStation is facing mounting protests after announcing it will stop producing physical game discs, and the backlash is proving difficult to contain. The company’s attempt to shift entirely to digital distribution is already showing cracks as fans and retailers push back.",
+      "whyItMatters": "Developers who rely on physical retail channels may need to adjust their release strategies, and the industry could accelerate a broader move toward digital-only distribution models.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-06T16:00:14Z"
+    },
+    {
+      "id": "art-1788827681544-7",
+      "title": "Halloween: The Game Devs Seemingly Patch Out Sex Mini-Game In Emergency Pre-Release Fix - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/halloween-the-game-devs-quickly-patch-out-sex-mini-game-that-let-adult-character-sleep-with-underage-teens-2000731655",
+      "summary": "Halloween: The Game’s developers removed a controversial sex minigame within 24 hours after players discovered a character resembling deceased actor Donald Pleasence could engage with 17‑year‑old teens. The swift patch highlights the need for rapid response and content oversight in game development.",
+      "whyItMatters": "It underscores the importance of robust testing and content moderation pipelines to prevent potentially illegal or harmful content from reaching players.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-06T15:35:16Z"
     }
   ]
 }
