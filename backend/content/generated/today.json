@@ -1,105 +1,95 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "articles": [
     {
-      "id": "art-1788999829517-0",
-      "title": "Apple adds 37 hardware identifiers ahead of ‘Surprise and Shine’ event - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/08/apple-adds-37-hardware-identifiers-ahead-of-surprise-and-shine-event/",
-      "summary": "Apple has added 37 new hardware identifiers for iPhones, iPads, Macs, and other devices in preparation for its upcoming ‘Surprise and Shine’ event. These identifiers may be announced as early as tomorrow, expanding the range of device models that developers and software can target.",
-      "whyItMatters": "Software developers must update their device detection and compatibility logic to support the new hardware identifiers, ensuring apps run correctly on the latest Apple devices.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-08T23:27:00Z"
-    },
-    {
-      "id": "art-1788999829801-1",
-      "title": "Apple wanted the iPhone Ultra to cost $1,999, new report says - GSMArena.com news - GSMArena.com",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/apple_wanted_the_iphone_ultra_to_cost_1999_new_report_says-news-74523.php",
-      "summary": "Apple originally aimed to price its upcoming iPhone Ultra at $1,999, but a shortage of high‑capacity RAM forced the company to lower the price. The company is still set to unveil the device at its September 9 launch event.",
-      "whyItMatters": "Developers will need to design apps that run efficiently on devices with potentially reduced RAM, affecting performance and feature sets.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-08T23:02:01Z"
-    },
-    {
-      "id": "art-1788999830312-2",
-      "title": "LG TV shown scanning LAN for third-party phones and other devices - Ars Technica",
+      "id": "art-1789085958034-0",
+      "title": "4 groups caught using the same Chrome and Windows exploit kit - Ars Technica",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
-      "summary": "LG's latest smart TVs have been found to scan local networks for third‑party phones and other devices, potentially exposing user data. The feature, intended for device discovery, raises privacy concerns and could allow malicious actors to identify and target vulnerable devices.",
-      "whyItMatters": "Developers must consider how IoT devices handle network discovery to avoid unintended data leakage and ensure compliance with privacy regulations.",
+      "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+      "summary": "Four distinct threat groups were found exploiting a shared Chrome and Windows exploit kit, highlighting a significant patch gap in major browsers and operating systems. The rapid rise of AI-driven vulnerability discovery is accelerating the exploitation cycle, forcing defenders to respond faster than ever.",
+      "whyItMatters": "Software developers and security teams must prioritize timely patching and adopt AI-aware threat monitoring to protect users from increasingly efficient exploit kits.",
       "category": "Security",
-      "publishedAt": "2026-09-08T21:52:29Z"
+      "publishedAt": "2026-09-09T20:55:02Z"
     },
     {
-      "id": "art-1788999830765-3",
-      "title": "GOG brings back \"big box\" PC games, one printable template at a time - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
-      "summary": "GOG has revived the concept of physical \"big box\" PC game packaging by offering printable templates that let users create their own boxes, while also providing downloadable 3D models for desktop viewing. This move blends nostalgia with digital preservation, giving gamers a tangible way to celebrate classic titles.",
-      "whyItMatters": "It highlights the importance of packaging and archival strategies for software distribution, encouraging developers to consider physical and digital preservation as part of their release pipeline.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-08T21:23:13Z"
-    },
-    {
-      "id": "art-1788999831180-4",
-      "title": "Apple Releases Firmware Update for 140W USB-C Power Adapter - MacRumors",
+      "id": "art-1789085958459-1",
+      "title": "Apple's Fine Print: Daily Usage Limits for Siri AI, 'Expanded Access' Coming for a Fee - MacRumors",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/08/apple-releases-140w-usb-c-charger-firmware-update/",
-      "summary": "Apple has released firmware version 1.4.90 for its 140W USB‑C Power Adapter, though the specific changes remain undisclosed. The update is intended to improve the adapter’s performance or compatibility, but details are still pending.",
-      "whyItMatters": "Software developers and hardware integrators need to be aware of the update to ensure their devices and power management software remain compatible and secure.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-08T20:34:55Z"
-    },
-    {
-      "id": "art-1788999831582-5",
-      "title": "Apple event expected to deliver foldable iPhone and debut of new CEO John Ternus - CBS News",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/apple-event-foldable-iphone-john-ternus/",
-      "summary": "Apple is set to unveil its first foldable iPhone and introduce new CEO John Ternus at the September 9 event. The launch also includes the iPhone 18, signaling a new design direction for the flagship line.",
-      "whyItMatters": "Developers will need to adapt to new foldable form factors, affecting app layout, multitasking, and hardware optimization.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-08T20:25:52Z"
-    },
-    {
-      "id": "art-1788999831878-6",
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "summary": "OpenAI has released ChatGPT Images 2.5, adding a new Sketch feature that turns simple doodles into detailed AI-generated images. The tool lets users create a quick sketch and then use it as part of a prompt to generate refined visuals.",
-      "whyItMatters": "It enables developers to rapidly prototype and generate high‑quality graphics directly within ChatGPT, streamlining design workflows and reducing the need for external illustration tools.",
+      "url": "https://www.macrumors.com/2026/09/09/apple-siri-ai-usage-limits/",
+      "summary": "Apple announced that Siri AI will have a daily usage limit, and that expanded access will be available for a fee in the future.",
+      "whyItMatters": "Developers must design their apps to handle usage limits and may face additional costs for higher usage, impacting user experience and revenue models.",
       "category": "AI",
-      "publishedAt": "2026-09-08T20:16:09Z"
+      "publishedAt": "2026-09-09T19:51:15Z"
     },
     {
-      "id": "art-1788999832688-7",
-      "title": "Exclusive: Two of gaming’s biggest names are making a big investment in gaming’s future - Game File | Stephen Totilo",
-      "source": "Gamefile.news",
-      "url": "https://www.gamefile.news/p/nova-games-foundation-mark-cerny-geoff-keighley",
-      "summary": "Mark Cerny and Geoff Keighley are investing heavily to launch a fellowship program aimed at game design graduates, providing mentorship and resources to help them enter the industry. The initiative seeks to secure long-term industry support and cultivate the next generation of game developers.",
-      "whyItMatters": "By creating a structured pipeline for fresh talent, the program strengthens the software development ecosystem and encourages innovation in game design.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-08T19:12:02Z"
-    },
-    {
-      "id": "art-1788999832989-8",
-      "title": "Sonos just launched ‘Sonos 27’ app update, here’s what’s new - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/08/sonos-just-launched-sonos-27-app-update-heres-whats-new/",
-      "summary": "Sonos has released the ‘Sonos 27’ app update, introducing several new features that were announced last week. The update brings enhancements to the user experience and adds new functionality for controlling Sonos devices.",
-      "whyItMatters": "The update expands the Sonos ecosystem, offering developers new APIs and integration points that can be leveraged to build richer audio and smart‑home applications.",
+      "id": "art-1789085959193-2",
+      "title": "Pixel 11 Pro vs. iPhone 18 Pro: Which to Buy? - Droid Life",
+      "source": "Droid Life",
+      "url": "https://www.droid-life.com/2026/09/09/pixel-11-pro-vs-iphone-18-pro-which-to-buy/",
+      "summary": "Apple unveiled its 2026 hardware lineup, featuring the iPhone 18 Pro, iPhone 18 Pro Max, iPhone Duo, new Apple Watch models, and updated AirPods. The article compares these new iPhones to the Pixel 11 Pro, helping readers decide which flagship to buy.",
+      "whyItMatters": "Developers must adapt to the new iPhone 18 Pro's enhanced hardware and APIs, which can affect app performance, camera functionality, and cross-platform compatibility.",
       "category": "Mobile",
-      "publishedAt": "2026-09-08T18:59:00Z"
+      "publishedAt": "2026-09-09T19:41:47Z"
     },
     {
-      "id": "art-1788999833502-9",
-      "title": "Next Apple TV's Chip Revealed in Latest Leak - MacRumors",
+      "id": "art-1789085959513-4",
+      "title": "Apple Seeds iOS 27 and iPadOS 27 Release Candidates - MacRumors",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/08/next-apple-tv-chip-leak/",
-      "summary": "Apple TV 4K’s next generation is set to feature an A19 or A19 Pro chip, as revealed by code analysis from MacRumors contributor Aaron. The new processor promises higher performance and potentially new capabilities for streaming and media processing.",
-      "whyItMatters": "Developers will need to update their apps and media pipelines to leverage the increased processing power and any new hardware acceleration features, impacting performance and feature sets.",
+      "url": "https://www.macrumors.com/2026/09/09/apple-ios-27-rc/",
+      "summary": "Apple has seeded release candidate versions of iOS 27 and iPadOS 27 for final testing, marking the last step before the official launch. The update arrives a week after the initial announcement, giving developers a chance to validate their apps against the new OS.",
+      "whyItMatters": "It allows mobile developers to identify and fix compatibility issues, ensuring a smoother launch for apps on the next generation of Apple devices.",
       "category": "Mobile",
-      "publishedAt": "2026-09-08T17:19:48Z"
+      "publishedAt": "2026-09-09T19:07:40Z"
+    },
+    {
+      "id": "art-1789085959953-5",
+      "title": "Apple’s iPhone Duo foldable has the same IP68 protection as Pixel Fold – temporary - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/09/09/apple-iphone-duo-foldable-ip68-google-pixel/",
+      "summary": "Apple has unveiled its first foldable iPhone, the iPhone Duo, featuring a dual-screen design and IP68 water and dust resistance comparable to Google’s Pixel Fold. The new device promises a compelling user experience with a larger display and enhanced durability, marking a significant step in the foldable smartphone market.",
+      "whyItMatters": "The introduction of a foldable iPhone expands the mobile hardware ecosystem, compelling developers to adapt UI/UX designs for dual-screen layouts and potentially driving new app features that leverage foldable form factors.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-09T19:05:00Z"
+    },
+    {
+      "id": "art-1789085960245-6",
+      "title": "Apple Discontinues iPhone 17 Pro and iPhone 17 Pro Max - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/09/apple-discontinues-iphone-17-pro-max/",
+      "summary": "Apple has discontinued the iPhone 17 Pro and iPhone 17 Pro Max following the launch of the iPhone 18 Pro models, marking the end of the 17 series. The move reflects Apple's strategy to streamline its product lineup and focus on newer hardware.",
+      "whyItMatters": "Developers must update their app compatibility and testing to prioritize the latest iPhone models, potentially reducing support for older devices.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-09T18:55:20Z"
+    },
+    {
+      "id": "art-1789085960623-7",
+      "title": "Apple is raising iPhone prices by $100 on all of its old models - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase",
+      "summary": "Apple has announced a $100 price hike for all of its older iPhone models, including the iPhone 16, the entire iPhone 17 lineup, and the iPhone Air. This move raises the cost of entry for consumers and could shift the market toward newer devices, potentially affecting sales of legacy hardware.",
+      "whyItMatters": "The higher prices may reduce the user base for older models, impacting developers who rely on a broad range of devices for testing and potentially increasing the cost of maintaining legacy app support.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-09T18:30:24Z"
+    },
+    {
+      "id": "art-1789085961096-8",
+      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+      "summary": "Apple unveiled the Watch Series 12 and Watch Ultra 4, adding AI‑driven \"Audio Intelligence\" that can rewind moments and recall details from daily conversations. These features aim to enhance personal productivity and set a new standard for AI integration in wearables.",
+      "whyItMatters": "Developers will need to build compatible apps and services that leverage Apple’s new AI APIs, opening opportunities for richer context‑aware experiences and potentially shifting the wearable ecosystem toward more conversational interfaces.",
+      "category": "AI",
+      "publishedAt": "2026-09-09T18:08:46Z"
+    },
+    {
+      "id": "art-1789085961440-9",
+      "title": "iPhone 18 Pro can authenticate that your photo wasn’t edited with AI - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/09/iphone-18-pro-can-authenticate-that-your-photo-wasnt-edited-with-ai/",
+      "summary": "Apple’s iPhone 18 Pro introduces a Reference Image feature that digitally authenticates whether a photo has been altered with AI, using a secure, device‑side verification process. The feature promises to help users and platforms detect deep‑fake images and maintain trust in visual content.",
+      "whyItMatters": "Software developers and security teams must integrate and support image authenticity checks, influencing app design, data validation, and user privacy policies.",
+      "category": "Security",
+      "publishedAt": "2026-09-09T17:32:00Z"
     }
   ]
 }
