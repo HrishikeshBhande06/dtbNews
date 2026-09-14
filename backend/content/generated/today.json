@@ -1,95 +1,95 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "articles": [
     {
-      "id": "art-1789257958621-0",
-      "title": "Apple says two iOS 27 features aren’t coming until a ‘future software update’ - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/11/apple-says-two-ios-27-features-arent-coming-until-a-future-software-update/",
-      "summary": "Apple announced that iOS 27 will be released to everyone on Monday, September 14, but two features will not be available until a future software update. This means users and developers will experience a staggered rollout of new capabilities.",
-      "whyItMatters": "Developers must adjust their app release plans and feature support timelines to accommodate the delayed iOS 27 features, potentially impacting user experience and update cycles.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-11T19:46:00Z"
-    },
-    {
-      "id": "art-1789257959139-1",
-      "title": "Google has a new edge in the AI race - Business Insider",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9#article",
-      "summary": "Google has finalized a partnership with startup Mechanize, adding cofounder Tamay Besiroglu and over a dozen employees to its DeepMind AI team. This move expands DeepMind's talent pool and accelerates its AI research and product development.",
-      "whyItMatters": "By bolstering DeepMind with fresh expertise, Google strengthens its competitive edge in AI, potentially accelerating the release of advanced AI tools that developers can integrate into applications.",
-      "category": "AI",
-      "publishedAt": "2026-09-11T18:55:11Z"
-    },
-    {
-      "id": "art-1789257959599-2",
-      "title": "Apple’s iPhone 18 Pro cases are already in stores, and not just for the new models - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/11/apples-iphone-18-pro-cases-are-already-in-stores-and-not-just-for-the-new-models/",
-      "summary": "Apple has begun selling new iPhone 18 Pro cases and related accessories in Apple Stores, making them available for pre‑orders and for older iPhone models as well. The launch signals a continued focus on expanding the ecosystem around its flagship devices.",
-      "whyItMatters": "It underscores Apple’s commitment to hardware‑software integration, encouraging developers to consider accessory compatibility and potential new APIs for enhanced device functionality.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-11T18:54:00Z"
-    },
-    {
-      "id": "art-1789257960033-3",
-      "title": "iPhone 18 Pro vs iPhone 15 Pro: Three-year upgrade - AppleInsider",
-      "source": "AppleInsider",
-      "url": "https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-15-pro-three-year-upgrade",
-      "summary": "Apple has released the iPhone 18 Pro, marking a three‑year upgrade cycle from the iPhone 15 Pro. The new model offers upgraded hardware and features that set a new benchmark for future Pro‑series devices.",
-      "whyItMatters": "Developers must update apps to leverage the iPhone 18 Pro’s enhanced performance, new sensors, and updated SDKs, ensuring compatibility and optimal user experience on the latest hardware.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-11T17:55:00Z"
-    },
-    {
-      "id": "art-1789257960482-5",
-      "title": "Professor Layton Fans Are In Full Panic Mode After Studio Presentation They Worry Is Full Of ‘AI Slop’ - kotaku.com",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/professor-layton-ai-level-5-curious-village-remake-inazuma-eleven-2000733548",
-      "summary": "Professor Layton fans are panicking after a studio presentation that highlighted concerns over AI-generated content, with critics calling it ‘AI slop.’ The controversy follows Level‑5’s CEO’s claim that 80–90% of games are now produced by AI, raising questions about quality and creative control.",
-      "whyItMatters": "It forces software developers to scrutinize AI‑generated assets and establish stricter quality assurance processes to maintain player trust and product integrity.",
-      "category": "AI",
-      "publishedAt": "2026-09-11T17:31:34Z"
-    },
-    {
-      "id": "art-1789257961269-6",
-      "title": "After Years Of Legal Limbo, Brutal Indie Rain World Is Almost Free - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/indie-rain-world-years-legal-adult-swim-akupara-2000732904",
-      "summary": "Rain World, an indie survival game that has been stuck in legal limbo for years, is now nearly free on digital storefronts, offering players a low-cost entry point. The move follows a protracted dispute over licensing that delayed its release, highlighting the challenges indie developers face in securing distribution rights.",
-      "whyItMatters": "This price drop signals that legal and licensing hurdles can be overcome, encouraging indie developers to pursue more flexible distribution models and potentially reducing barriers to market entry.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-11T17:00:26Z"
-    },
-    {
-      "id": "art-1789257961987-7",
-      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure - thehackernews.com",
-      "source": "Internet",
-      "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-      "summary": "GitLab has fixed CVE-2026-85706, a CVSS 10 path‑traversal flaw that allowed unauthenticated file reads. The vulnerability triggered in‑the‑wild probing after its disclosure.",
-      "whyItMatters": "The flaw exposes critical configuration files to attackers, jeopardizing the integrity of CI/CD pipelines and potentially compromising entire codebases.",
-      "category": "Security",
-      "publishedAt": "2026-09-11T16:30:00Z"
-    },
-    {
-      "id": "art-1789257962459-8",
-      "title": "PlayStation’s Future Has Never Looked Bleaker - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/playstations-future-has-never-looked-bleaker",
-      "summary": "PlayStation's future looks bleak as Sony cuts ties with Kojima and faces criticism over poor Wolverine reviews. These setbacks highlight a challenging generation for the platform, threatening its competitive edge.",
-      "whyItMatters": "Developers may face reduced support and fewer high‑profile titles, potentially shrinking the PlayStation ecosystem and affecting third‑party investment.",
+      "id": "art-1789345163106-0",
+      "title": "BlizzCon 2026 Opening Ceremony: Starcraft Returns, Diablo V Announced, Warcraft news and more - XBOX Wire",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/09/12/blizzcon-2026-opening-ceremony/",
+      "summary": "BlizzCon 2026 unveiled the return of StarCraft, the launch of Diablo V, and new Warcraft updates, marking a major lineup for Blizzard’s flagship franchises. The event also highlighted additional announcements across the company’s gaming portfolio.",
+      "whyItMatters": "These releases signal significant investment in game development and live service infrastructure, prompting developers to adopt more robust DevOps practices for large-scale multiplayer titles.",
       "category": "DevOps",
-      "publishedAt": "2026-09-11T16:30:00Z"
+      "publishedAt": "2026-09-12T19:39:14Z"
     },
     {
-      "id": "art-1789257962991-9",
-      "title": "Here’s why I left T-Mobile for an MVNO - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/11/heres-why-i-left-t-mobile-for-an-mvno/",
-      "summary": "The article explains why the author switched from T-Mobile to an MVNO, detailing cost savings and comparing US Mobile, Mint Mobile, and Visible. It offers practical guidance for consumers considering a similar move.",
-      "whyItMatters": "For developers, understanding MVNO pricing models can inform cost-effective mobile infrastructure decisions and influence app deployment strategies.",
+      "id": "art-1789345163782-1",
+      "title": "‘World of Warcraft Forever,’ Expanded Version of 2004 Game, Coming in November - Variety",
+      "source": "Variety",
+      "url": "https://variety.com/2026/gaming/news/world-of-warcraft-forever-release-november-1236859755/",
+      "summary": "Blizzard Entertainment announced the release of 'World of Warcraft Forever,' an expanded version of its 2004 classic that will launch on November 4. The new title will immerse players in the first year of the original game, offering fresh content and updated gameplay mechanics.",
+      "whyItMatters": "The launch underscores the importance of robust release pipelines and continuous integration practices for large-scale game development, highlighting how DevOps can streamline updates and maintain player engagement.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-12T19:04:00Z"
+    },
+    {
+      "id": "art-1789345164366-2",
+      "title": "US: Target lists some of first party games in Customer Appreciation Sale - mynintendonews.com",
+      "source": "My Nintendo News",
+      "url": "https://mynintendonews.com/2026/09/12/us-target-lists-some-of-first-party-games-in-customer-appreciation-sale/",
+      "summary": "Nintendo is preparing a Customer Appreciation Sale in North America, featuring some of its first‑party titles, though the exact lineup remains undisclosed. Fans can anticipate a surge in sales and increased visibility for Nintendo’s flagship games during the upcoming promotion.",
+      "whyItMatters": "The sale’s focus on first‑party games signals a strategic push to boost platform engagement, encouraging developers to align their release schedules and marketing efforts with Nintendo’s promotional windows.",
       "category": "Mobile",
-      "publishedAt": "2026-09-11T15:44:00Z"
+      "publishedAt": "2026-09-12T18:48:35Z"
+    },
+    {
+      "id": "art-1789345164759-3",
+      "title": "12 Fun Mini Gadgets For Your Home Office Desk - SlashGear",
+      "source": "SlashGear",
+      "url": "https://www.slashgear.com/2251789/fun-mini-gadgets-for-home-office-desk/",
+      "summary": "SlashGear highlights twelve compact gadgets designed to enhance the home office experience, offering tools for organization, focus, entertainment, and aesthetic appeal. These items aim to make workdays more engaging and efficient by integrating small, functional accessories into the desk setup.",
+      "whyItMatters": "For software developers, such gadgets can streamline workflow, reduce distractions, and boost overall productivity in remote or hybrid work environments.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-12T18:30:00Z"
+    },
+    {
+      "id": "art-1789345165200-4",
+      "title": "Diablo V is Coming Spring 2029 - Blizzard News",
+      "source": "Blizzard.com",
+      "url": "https://news.blizzard.com/en-us/article/24297203/diablo-v-is-coming-spring-2029",
+      "summary": "Diablo V, the latest installment in Blizzard’s iconic action‑role‑playing series, is slated for release in Spring 2029. The announcement marks the continuation of the franchise’s dark, immersive narrative and promises new gameplay mechanics and expanded online features.",
+      "whyItMatters": "The launch will drive demand for robust DevOps pipelines, automated testing, and scalable cloud infrastructure to support large-scale multiplayer experiences.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-12T18:20:45Z"
+    },
+    {
+      "id": "art-1789345165821-5",
+      "title": "It's Official, Diablo 4: Age Of Hatred Collection Brings Hell To Switch 2 Next Week - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/09/its-official-diablo-4-age-of-hatred-collection-brings-hell-to-switch-2-next-week",
+      "summary": "Diablo 4: Age Of Hatred Collection will launch on the Nintendo Switch 2 next week, bringing the game's latest expansion to the new console. The collection has already been spotted in stores, indicating a quick rollout for fans.",
+      "whyItMatters": "The release demonstrates the importance of efficient cross-platform build pipelines and rapid deployment strategies for developers targeting new console hardware.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-12T18:15:00Z"
+    },
+    {
+      "id": "art-1789345166486-6",
+      "title": "Overwatch Officially Announces Sombra And Roadhog Reworks At BlizzCon 2026 - TheGamer",
+      "source": "TheGamer",
+      "url": "https://www.thegamer.com/overwatch-sombra-roadhog-reworks-blizzcon-2026/",
+      "summary": "Overwatch announced reworks for Sombra and Roadhog at BlizzCon 2026, shifting Sombra to a Support role and giving Roadhog a more team‑focused Tank playstyle in Season 5. These changes aim to refresh gameplay balance and deepen character versatility.",
+      "whyItMatters": "Game developers and release engineers will need to adjust their build pipelines, testing, and live‑ops strategies to accommodate the new hero mechanics and ensure smooth deployment.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-12T18:07:00Z"
+    },
+    {
+      "id": "art-1789345167088-7",
+      "title": "Blizzard revives 'Heroes of the Storm,' starting with new hero Xal'atath - Windows Central",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/blizzard/blizzard-revives-heroes-of-the-storm-starting-with-new-hero-xalatath",
+      "summary": "Blizzard has announced the addition of a new hero, Xal'atath, to its long-dormant MOBA Heroes of the Storm, marking the first new character in years. The move signals a renewed investment in the title and its live‑ops ecosystem, potentially revitalizing its player base.",
+      "whyItMatters": "For software developers, it underscores the importance of robust live‑ops pipelines and continuous integration to support ongoing content updates in large-scale multiplayer games.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-12T17:42:53Z"
+    },
+    {
+      "id": "art-1789345167717-8",
+      "title": "Borderlands 4 Makes Top 10 Steam Sellers as Players Show Up for New DLC Vault Hunter and Free-to-Play Weekend - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/borderlands-4-dlc-character-and-free-to-play-weekend-attract-resurgence-on-steam",
+      "summary": "Borderlands 4 has surged into the top 10 Steam sellers after the release of its new DLC character, Loveless the Hacker. The free‑to‑play weekend and the character's popularity have driven a significant spike in player engagement and sales.",
+      "whyItMatters": "The rapid sales boost demonstrates how timely DLC releases and promotional events can drive revenue, underscoring the importance of agile release pipelines for game developers.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-12T17:42:21Z"
     }
   ]
 }
