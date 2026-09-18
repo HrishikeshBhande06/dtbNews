@@ -1,85 +1,105 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "articles": [
     {
-      "id": "art-1789605879885-1",
-      "title": "'If the Industry Loses Creativity and Innovation, It Will Slowly Die' — Masahiro Sakurai Urges Game Developers to Push Past Limitations as He Closes Curtain on Game Designers Award After 16 Years - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/masahiro-sakurai-forced-to-abandon-game-designers-award-after-16-years-as-he-cant-find-a-successor",
-      "summary": "Masahiro Sakurai announced that the Game Designers Award will not return to the Japan Game Awards after 16 years, citing a lack of a suitable successor. His decision underscores a broader concern that the industry risks stagnation if creativity and innovation are not actively pursued.",
-      "whyItMatters": "The move signals a warning to software developers that without continuous innovation, even established awards and recognitions can fade, potentially dampening motivation and industry momentum.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-15T21:28:25Z"
-    },
-    {
-      "id": "art-1789605880445-2",
-      "title": "Fire Emblem: Fortune’s Weave Almost Had Eight Protagonists - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/fire-emblem-fortunes-weave-nintendo-developer-interview-eight-protagonists-2000734731",
-      "summary": "Kotaku reports that Fire Emblem: Fortune’s Weave originally planned to feature eight protagonists, but the final roster was trimmed. The interview also explains the unique inclusion of the character Nun with a Gun, shedding light on design decisions.",
-      "whyItMatters": "Understanding these design choices helps mobile game developers balance narrative depth with resource constraints, informing future character roster decisions.",
+      "id": "art-1789691662959-0",
+      "title": "I wore Snap’s $2,200 smart glasses - theverge.com",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+      "summary": "Snap released its Specs AR glasses, priced at $2,200, featuring unconventional design and experimental features. The Verge tested them at Snap’s HQ and found the glasses to be quirky with a mix of promising and puzzling concepts.",
+      "whyItMatters": "The glasses push the boundaries of mobile AR, prompting developers to rethink UI/UX and integration of computer vision in consumer devices.",
       "category": "Mobile",
-      "publishedAt": "2026-09-15T21:12:26Z"
+      "publishedAt": "2026-09-16T23:40:00Z"
     },
     {
-      "id": "art-1789605881008-4",
-      "title": "Blizzard Delays Diablo 4′ s Big 30th Anniversary Season 15 Kick-Off After A Flood Of Error Codes - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/blizzard-delays-diablo-4s-big-30th-anniversary-season-15-kick-off-after-a-flood-of-error-codes-2000734752",
-      "summary": "Blizzard postponed the launch of Diablo 4’s Season 15, \"Season of Hell's Legacy,\" after players encountered a flood of error codes during the initial rollout. The delay highlights the challenges of coordinating large-scale game updates and ensuring a smooth player experience.",
-      "whyItMatters": "It underscores the importance of robust release pipelines, automated error monitoring, and rapid incident response for software teams to maintain uptime and user trust.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-15T20:08:55Z"
-    },
-    {
-      "id": "art-1789605881563-5",
-      "title": "RTX 5090 stock dries up as prices soar past $10,000 - TweakTown",
-      "source": "TweakTown",
-      "url": "https://www.tweaktown.com/news/113561/rtx-5090-stock-dries-up-as-prices-soar-past-dollars10000/index.html",
-      "summary": "NVIDIA's RTX 5090 is becoming scarce, with listings now reaching up to five times its $1,999 MSRP. The price surge reflects high demand and limited supply, making the card difficult to acquire.",
-      "whyItMatters": "The scarcity and inflated prices of high-end GPUs hinder developers' ability to train AI models efficiently, potentially slowing innovation.",
-      "category": "AI",
-      "publishedAt": "2026-09-15T20:02:10Z"
-    },
-    {
-      "id": "art-1789605882113-6",
-      "title": "Wardogs CEO: Studio Doesn't Hire People Who Advocate Against Crunch - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/wardogs-boss-says-studio-checks-social-accounts-for-anti-crunch-posts-youre-not-going-to-be-happy-here-so-were-not-going-to-go-with-you-2000734726",
-      "summary": "Wardogs, the studio behind the Steam hit Wardogs, has announced it will not hire individuals who publicly criticize crunch culture. The decision reflects a broader industry debate over work‑life balance and hiring practices.",
-      "whyItMatters": "It signals that studios may penalize advocacy for healthier work practices, potentially discouraging developers from speaking out and affecting talent retention.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-15T19:31:01Z"
-    },
-    {
-      "id": "art-1789605882729-7",
-      "title": "You Can Pull Off One of MTG’s Classic Infinite Combos in Reality Fracture Limited - Draftsim",
-      "source": "Draftsim.com",
-      "url": "https://draftsim.com/mtg-reality-fracture-limited-splinter-twin-combo/",
-      "summary": "The article announces that players can execute a classic infinite combo using Splinter Twin in the Reality Fracture Limited format, a feat previously thought impossible. It highlights how the game's mechanics allow for real-world implementation of complex card interactions.",
-      "whyItMatters": "It demonstrates how intricate game logic can inspire developers to design more efficient algorithms and test cases.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-15T19:09:19Z"
-    },
-    {
-      "id": "art-1789605883157-8",
-      "title": "Samsung Gallery is adding Google Photos backup to replace OneDrive - 9to5Google",
+      "id": "art-1789691663688-1",
+      "title": "Google rolling out Android 17 QPR2 Beta 5 for Pixel - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/09/15/samsung-gallery-google-photos-backup-support/",
-      "summary": "Samsung is replacing its OneDrive integration in the Gallery app with support for Google Photos backup, rolling out updates to Android devices. The change allows users to store photos in Google Photos directly from Samsung Gallery, simplifying backup options.",
-      "whyItMatters": "Developers building photo management or backup features must update their integrations to accommodate the new Google Photos API and adjust for the removal of OneDrive support, affecting app compatibility and user experience.",
+      "url": "http://9to5google.com/2026/09/16/android-17-qpr2-beta-5-pixel/",
+      "summary": "Google has released Android 17 QPR2 Beta 5 for Pixel devices, continuing its two‑week update cadence. The beta includes new features and bug fixes ahead of the final release.",
+      "whyItMatters": "Developers must test apps against the new beta to ensure compatibility and take advantage of upcoming platform improvements.",
       "category": "Mobile",
-      "publishedAt": "2026-09-15T19:05:00Z"
+      "publishedAt": "2026-09-16T20:54:00Z"
     },
     {
-      "id": "art-1789605883959-9",
-      "title": "Xbox Responds To Rumour That Game Pass Could Drop Day One Releases In 2027 - Pure Xbox",
-      "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/09/xbox-responds-to-rumour-that-game-pass-could-drop-day-one-releases-in-2027",
-      "summary": "Xbox has denied rumors that Game Pass will remove day‑one releases in 2027, stating that it continues to test various subscription models. The company emphasized that its current strategy still supports new titles on launch day for subscribers.",
-      "whyItMatters": "This decision affects developers' release strategies and the competitive landscape of subscription-based game distribution.",
-      "category": "Cloud",
-      "publishedAt": "2026-09-15T18:35:00Z"
+      "id": "art-1789691664146-2",
+      "title": "Windows 11 KB5124008 update breaks domain trust for some users - BleepingComputer",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
+      "summary": "Microsoft's Windows 11 KB5124008 security update has caused domain trust relationships to fail on some enterprise systems, preventing users from logging in with valid domain credentials. The issue is currently under investigation by Microsoft.",
+      "whyItMatters": "Developers and IT administrators must monitor update rollouts and plan for potential authentication disruptions, as domain trust failures can halt business operations.",
+      "category": "Security",
+      "publishedAt": "2026-09-16T20:39:29Z"
+    },
+    {
+      "id": "art-1789691664644-3",
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "summary": "Meta faces backlash over its ‘pervert glasses’—camera-equipped eyewear that raised privacy concerns—and is now preparing to launch a camera‑free version to sidestep the controversy. The new product aims to offer AR functionality while addressing user fears of covert surveillance.\n\n",
+      "whyItMatters": "The move highlights the growing tension between immersive tech innovation and privacy safeguards, prompting developers to rethink how camera features are integrated into AR hardware.\n\n",
+      "category": "Security",
+      "publishedAt": "2026-09-16T20:12:00Z"
+    },
+    {
+      "id": "art-1789691665179-4",
+      "title": "'Nearly Everyone' Laid Off As Hyper Light Drifter Studio Risks Closing: 'I'm Not Sure Yet How Or If Heart Machine Survives' - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/nearly-everyone-laid-as-hyper-light-drifter-studio-risks-closure-im-not-sure-yet-how-or-if-heart-machine-survives-2000735172",
+      "summary": "Heart Machine, the studio behind Hyper Light Drifter, has laid off nearly all of its staff and is now facing the possibility of shutting down, with the founder uncertain about the company’s future. The layoffs stem from recent projects failing to meet expectations and the studio’s inability to secure sufficient funding.",
+      "whyItMatters": "The collapse of a high-profile indie studio highlights the financial fragility of game development teams and underscores the need for sustainable funding models and risk mitigation strategies for software developers.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-16T19:36:51Z"
+    },
+    {
+      "id": "art-1789691665742-5",
+      "title": "Super Ugly Mew Cards Are The Chase For Pokémon’s 30th Anniversary, And One’s Already Sold For $20k - kotaku.com",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/pokemon-30th-anniversary-tcg-card-set-mew-pull-rate-2000735148",
+      "summary": "Super Ugly Mew cards, a rare Pokémon collectible, have become a hot chase for the franchise’s 30th anniversary, with one card already fetching $20,000 at auction. The cards were once rumored to be a hoax, but recent sales confirm their authenticity and high value among collectors.",
+      "whyItMatters": "The rise of high-value collectibles highlights the importance of digital provenance and authentication tools for developers building marketplaces and NFT platforms.",
+      "category": "Security",
+      "publishedAt": "2026-09-16T18:45:27Z"
+    },
+    {
+      "id": "art-1789691666088-6",
+      "title": "iOS 27.2 gives Apple TV a new profiles feature on iPhone - 9to5mac.com",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/16/ios-27-2-gives-apple-tv-a-new-profiles-feature-on-iphone/",
+      "summary": "iOS 27.2 beta 1 adds a new profiles feature to the Apple TV app on iPhone, allowing users to create and switch between multiple profiles within the app. This update enhances personalization and multi‑user support for Apple TV content on mobile devices.",
+      "whyItMatters": "Developers can now design Apple TV experiences that support multiple user profiles, enabling personalized content recommendations and potentially new subscription models for mobile users.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-16T18:30:00Z"
+    },
+    {
+      "id": "art-1789691666415-7",
+      "title": "Google Home MCP lets Antigravity, Claude, OpenClaw, & more control your smart home - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/09/16/google-home-mcp/",
+      "summary": "Google has unveiled Home MCP, a Model Context Protocol that lets AI agents such as Antigravity, Claude, and OpenClaw interact directly with smart home devices. This new framework enables developers to embed advanced AI assistants into home automation workflows, expanding the reach of conversational AI beyond chat interfaces.",
+      "whyItMatters": "It gives software developers a standardized way to integrate powerful AI agents with IoT devices, accelerating innovation in smart home ecosystems.",
+      "category": "AI",
+      "publishedAt": "2026-09-16T18:04:00Z"
+    },
+    {
+      "id": "art-1789691666822-8",
+      "title": "iOS 27.2 expands Siri AI to these new languages - 9to5mac.com",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/16/ios-27-2-expands-siri-ai-to-these-new-languages/",
+      "summary": "iOS 27.2 beta 1 has been released for developers, adding Siri AI support for several new languages just days after the public launch. The update expands the range of languages in which Siri can understand and respond, enhancing the platform’s global accessibility.",
+      "whyItMatters": "By enabling Siri in more languages, developers can create more inclusive, localized voice‑enabled apps, reaching a broader user base and improving user engagement across regions.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-16T17:48:00Z"
+    },
+    {
+      "id": "art-1789691667369-9",
+      "title": "iOS 27.2 Beta Previews New Apple Intelligence Health App - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-beta-health-app/",
+      "summary": "Apple’s iOS 27.2 beta introduces a redesigned Health app powered by Apple Intelligence, offering new data visualization and predictive health insights. Developers can now experiment with these features ahead of the official launch later this year.",
+      "whyItMatters": "The new AI-driven health features give developers opportunities to build more personalized health apps, potentially expanding the health tech ecosystem on iOS.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-16T17:32:24Z"
     }
   ]
 }
