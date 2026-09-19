@@ -1,105 +1,105 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "articles": [
     {
-      "id": "art-1789691662959-0",
-      "title": "I wore Snap’s $2,200 smart glasses - theverge.com",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
-      "summary": "Snap released its Specs AR glasses, priced at $2,200, featuring unconventional design and experimental features. The Verge tested them at Snap’s HQ and found the glasses to be quirky with a mix of promising and puzzling concepts.",
-      "whyItMatters": "The glasses push the boundaries of mobile AR, prompting developers to rethink UI/UX and integration of computer vision in consumer devices.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-16T23:40:00Z"
-    },
-    {
-      "id": "art-1789691663688-1",
-      "title": "Google rolling out Android 17 QPR2 Beta 5 for Pixel - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/09/16/android-17-qpr2-beta-5-pixel/",
-      "summary": "Google has released Android 17 QPR2 Beta 5 for Pixel devices, continuing its two‑week update cadence. The beta includes new features and bug fixes ahead of the final release.",
-      "whyItMatters": "Developers must test apps against the new beta to ensure compatibility and take advantage of upcoming platform improvements.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-16T20:54:00Z"
-    },
-    {
-      "id": "art-1789691664146-2",
-      "title": "Windows 11 KB5124008 update breaks domain trust for some users - BleepingComputer",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
-      "summary": "Microsoft's Windows 11 KB5124008 security update has caused domain trust relationships to fail on some enterprise systems, preventing users from logging in with valid domain credentials. The issue is currently under investigation by Microsoft.",
-      "whyItMatters": "Developers and IT administrators must monitor update rollouts and plan for potential authentication disruptions, as domain trust failures can halt business operations.",
-      "category": "Security",
-      "publishedAt": "2026-09-16T20:39:29Z"
-    },
-    {
-      "id": "art-1789691664644-3",
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "summary": "Meta faces backlash over its ‘pervert glasses’—camera-equipped eyewear that raised privacy concerns—and is now preparing to launch a camera‑free version to sidestep the controversy. The new product aims to offer AR functionality while addressing user fears of covert surveillance.\n\n",
-      "whyItMatters": "The move highlights the growing tension between immersive tech innovation and privacy safeguards, prompting developers to rethink how camera features are integrated into AR hardware.\n\n",
-      "category": "Security",
-      "publishedAt": "2026-09-16T20:12:00Z"
-    },
-    {
-      "id": "art-1789691665179-4",
-      "title": "'Nearly Everyone' Laid Off As Hyper Light Drifter Studio Risks Closing: 'I'm Not Sure Yet How Or If Heart Machine Survives' - Kotaku",
+      "id": "art-1789777681758-0",
+      "title": "Wolverine Player Breaks Free Of Its Levels To Explore Its Larger, Unfinished World - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/nearly-everyone-laid-as-hyper-light-drifter-studio-risks-closure-im-not-sure-yet-how-or-if-heart-machine-survives-2000735172",
-      "summary": "Heart Machine, the studio behind Hyper Light Drifter, has laid off nearly all of its staff and is now facing the possibility of shutting down, with the founder uncertain about the company’s future. The layoffs stem from recent projects failing to meet expectations and the studio’s inability to secure sufficient funding.",
-      "whyItMatters": "The collapse of a high-profile indie studio highlights the financial fragility of game development teams and underscores the need for sustainable funding models and risk mitigation strategies for software developers.",
+      "url": "https://kotaku.com/marvels-wolverine-open-world-level-bug-glitch-explore-2000735344",
+      "summary": "Wolverine Player, a game that traditionally confined players to linear levels, has been redesigned to allow free exploration of a larger, unfinished world. This shift offers a more open-ended experience, giving players the chance to discover new areas beyond the original level structure.",
+      "whyItMatters": "The move toward open-world design in indie titles demonstrates how flexible level architecture can reduce development time and increase player engagement, influencing future game development practices.",
       "category": "Mobile",
-      "publishedAt": "2026-09-16T19:36:51Z"
+      "publishedAt": "2026-09-17T19:40:19Z"
     },
     {
-      "id": "art-1789691665742-5",
-      "title": "Super Ugly Mew Cards Are The Chase For Pokémon’s 30th Anniversary, And One’s Already Sold For $20k - kotaku.com",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/pokemon-30th-anniversary-tcg-card-set-mew-pull-rate-2000735148",
-      "summary": "Super Ugly Mew cards, a rare Pokémon collectible, have become a hot chase for the franchise’s 30th anniversary, with one card already fetching $20,000 at auction. The cards were once rumored to be a hoax, but recent sales confirm their authenticity and high value among collectors.",
-      "whyItMatters": "The rise of high-value collectibles highlights the importance of digital provenance and authentication tools for developers building marketplaces and NFT platforms.",
-      "category": "Security",
-      "publishedAt": "2026-09-16T18:45:27Z"
-    },
-    {
-      "id": "art-1789691666088-6",
-      "title": "iOS 27.2 gives Apple TV a new profiles feature on iPhone - 9to5mac.com",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/16/ios-27-2-gives-apple-tv-a-new-profiles-feature-on-iphone/",
-      "summary": "iOS 27.2 beta 1 adds a new profiles feature to the Apple TV app on iPhone, allowing users to create and switch between multiple profiles within the app. This update enhances personalization and multi‑user support for Apple TV content on mobile devices.",
-      "whyItMatters": "Developers can now design Apple TV experiences that support multiple user profiles, enabling personalized content recommendations and potentially new subscription models for mobile users.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-16T18:30:00Z"
-    },
-    {
-      "id": "art-1789691666415-7",
-      "title": "Google Home MCP lets Antigravity, Claude, OpenClaw, & more control your smart home - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/09/16/google-home-mcp/",
-      "summary": "Google has unveiled Home MCP, a Model Context Protocol that lets AI agents such as Antigravity, Claude, and OpenClaw interact directly with smart home devices. This new framework enables developers to embed advanced AI assistants into home automation workflows, expanding the reach of conversational AI beyond chat interfaces.",
-      "whyItMatters": "It gives software developers a standardized way to integrate powerful AI agents with IoT devices, accelerating innovation in smart home ecosystems.",
-      "category": "AI",
-      "publishedAt": "2026-09-16T18:04:00Z"
-    },
-    {
-      "id": "art-1789691666822-8",
-      "title": "iOS 27.2 expands Siri AI to these new languages - 9to5mac.com",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/16/ios-27-2-expands-siri-ai-to-these-new-languages/",
-      "summary": "iOS 27.2 beta 1 has been released for developers, adding Siri AI support for several new languages just days after the public launch. The update expands the range of languages in which Siri can understand and respond, enhancing the platform’s global accessibility.",
-      "whyItMatters": "By enabling Siri in more languages, developers can create more inclusive, localized voice‑enabled apps, reaching a broader user base and improving user engagement across regions.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-16T17:48:00Z"
-    },
-    {
-      "id": "art-1789691667369-9",
-      "title": "iOS 27.2 Beta Previews New Apple Intelligence Health App - MacRumors",
+      "id": "art-1789777682065-1",
+      "title": "iPhone 18 Pro Unboxing: New Colors, Better Photos, and Smaller Dynamic Island - MacRumors",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-beta-health-app/",
-      "summary": "Apple’s iOS 27.2 beta introduces a redesigned Health app powered by Apple Intelligence, offering new data visualization and predictive health insights. Developers can now experiment with these features ahead of the official launch later this year.",
-      "whyItMatters": "The new AI-driven health features give developers opportunities to build more personalized health apps, potentially expanding the health tech ecosystem on iOS.",
+      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-unboxing/",
+      "summary": "The iPhone 18 Pro and Pro Max are set to launch tomorrow, featuring new color options, improved camera performance, and a reduced Dynamic Island. Early unboxing footage reveals a sleeker design and enhanced photography capabilities that hint at a more refined user experience.",
+      "whyItMatters": "The smaller Dynamic Island and camera upgrades will require mobile developers to adjust UI layouts and leverage updated camera APIs to fully exploit the device’s new hardware capabilities.",
       "category": "Mobile",
-      "publishedAt": "2026-09-16T17:32:24Z"
+      "publishedAt": "2026-09-17T18:34:45Z"
+    },
+    {
+      "id": "art-1789777682665-2",
+      "title": "Snap's Specs AR glasses are now on pre-order, Verizon is offering data plans for them - GSMArena.com news - GSMArena.com",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/snaps_specs_ar_glasses_are_now_on_preorder_verizon_is_offering_data_plans_for_them-news-74661.php",
+      "summary": "Snap has launched its Specs AR glasses, a standalone wearable that operates without a phone or computer, and they are now available for pre-order. Verizon is offering dedicated data plans to support the glasses, enabling users to stream AR content directly.",
+      "whyItMatters": "The availability of a standalone AR platform with carrier data support opens new opportunities for developers to create immersive mobile experiences without relying on smartphones.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-17T17:14:02Z"
+    },
+    {
+      "id": "art-1789777683077-3",
+      "title": "50 New macOS Golden Gate Features and Changes Worth Checking Out - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/17/new-features-changes-macos-27/",
+      "summary": "Apple unveiled macOS 27 Golden Gate with 50 new features and changes, including enhanced system performance, updated privacy controls, and expanded developer tools. The release focuses on refining the flagship OS, offering developers new APIs and improved integration across Apple’s ecosystem.",
+      "whyItMatters": "Developers must update their applications to leverage the new APIs and ensure compatibility with the enhanced privacy and performance features, impacting release cycles and testing strategies.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-17T16:18:20Z"
+    },
+    {
+      "id": "art-1789777683638-4",
+      "title": "The Rogue Prince of Persia ‘Anniversary’ update now available - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/09/the-rogue-prince-of-persia-anniversary-update-now-available",
+      "summary": "Ubisoft and Evil Empire have released the ‘Anniversary’ update for The Rogue Prince of Persia, adding new content and improvements to the game. The update is now available to players across supported platforms.",
+      "whyItMatters": "The release demonstrates how continuous delivery pipelines and rapid iteration can keep a game’s lifecycle fresh, offering developers a model for timely content updates.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-17T16:12:41Z"
+    },
+    {
+      "id": "art-1789777683978-5",
+      "title": "iPhone 18 Pro Max Test Shows Much Faster Charging From 0% to 100% - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-max-charging-speed-test/",
+      "summary": "Apple’s new iPhone 18 Pro Max can charge from 0% to 100% significantly faster than the iPhone 17 Pro, thanks to improved USB‑C charging technology. The upgrade demonstrates Apple’s continued focus on battery performance and user convenience.",
+      "whyItMatters": "Faster charging reduces downtime for users, prompting developers to consider battery optimization and potentially adjust app behavior during rapid charge cycles.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-17T16:07:48Z"
+    },
+    {
+      "id": "art-1789777684351-6",
+      "title": "Gears of War: E-Day Has Gone Gold, Pre-Install Begins September 29, Full PC Specifications Revealed - XBOX Wire",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/09/17/gears-of-war-e-day-gone-gold-pre-install-pc-specs/",
+      "summary": "Gears of War’s E-Day has officially gone gold, signaling the final approval of the game’s build. Pre-installation will begin on September 29, and the full PC specifications have been publicly released.",
+      "whyItMatters": "The announcement informs developers and publishers about the release timeline and system requirements, enabling them to optimize build pipelines and ensure compatibility across platforms.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-17T16:03:44Z"
+    },
+    {
+      "id": "art-1789777684814-7",
+      "title": "Android Bench 2.0 focuses on long-horizon tasks, agent evaluations - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/09/17/android-bench-2-0/",
+      "summary": "Google has released Android Bench 2.0, a benchmark suite that evaluates AI agents on long-horizon tasks relevant to Android development. The new version includes agent evaluations that simulate complex, multi-step coding scenarios to better measure AI readiness for real-world app development.",
+      "whyItMatters": "It gives developers a clearer gauge of how AI can automate intricate Android development tasks, potentially accelerating productivity and reducing manual coding effort.",
+      "category": "AI",
+      "publishedAt": "2026-09-17T16:00:00Z"
+    },
+    {
+      "id": "art-1789777685151-8",
+      "title": "Xbox’s clever disc-to-digital feature was 15 years in the making - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad",
+      "summary": "Microsoft’s Xbox One introduced a disc-to-digital feature that took 15 years to develop, allowing users to convert physical game discs into digital copies. The move reflects a long‑term strategy that is finally paying off, reshaping how consumers access and purchase games.",
+      "whyItMatters": "It signals a shift toward digital distribution models, encouraging developers to prioritize cloud‑based delivery and continuous integration pipelines for game updates.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-17T16:00:00Z"
+    },
+    {
+      "id": "art-1789777685792-9",
+      "title": "Psikyo Memories announced for PS5, Switch 2 - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/09/psikyo-memories-announced-for-ps5-switch-2",
+      "summary": "Psikyo Memories, a shoot‑em‑up collection, has been announced for PlayStation 5 and the upcoming Switch 2, with a worldwide launch slated for 2027. The title brings classic arcade titles to next‑gen consoles.",
+      "whyItMatters": "The release demonstrates how legacy game libraries can be revitalized for modern hardware, offering developers a model for porting and monetizing retro content.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-17T15:59:42Z"
     }
   ]
 }
