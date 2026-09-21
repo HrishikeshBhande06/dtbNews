@@ -1,105 +1,105 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "articles": [
     {
-      "id": "art-1789863183239-0",
-      "title": "M5 Ultra and M6 Chip Benchmark Results Reveal Graphics Performance - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/18/m5-ultra-and-m6-chip-gpu-benchmarks/",
-      "summary": "Apple’s new M5 Ultra and M6 chips have delivered impressive GPU benchmark results, showing significant graphics performance gains ahead of the upcoming Mac Studio and Mac mini releases. The benchmarks highlight the chips’ ability to handle demanding creative and computational workloads more efficiently than previous models.",
-      "whyItMatters": "Developers will need to optimize their applications and workflows to leverage the enhanced GPU capabilities, potentially improving performance for graphics-intensive and compute-heavy tasks.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-18T19:55:59Z"
+      "id": "art-1789950155350-0",
+      "title": "Fatal Fury: City of the Wolves datamine potentially leaks future DLC characters - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/fatal-fury-city-of-the-wolves-datamine-potentially-leaks-future-dlc-characters/",
+      "summary": "Fans have discovered that a recent datamine of Fatal Fury: City of the Wolves may reveal characters slated for a future DLC season, potentially giving away plot details before release. The leak could influence fan expectations and the game's marketing strategy as developers prepare for Season 4.",
+      "whyItMatters": "It underscores the need for robust data security practices in game development, as premature leaks can disrupt release plans and erode trust in the brand.",
+      "category": "Security",
+      "publishedAt": "2026-09-19T21:32:33Z"
     },
     {
-      "id": "art-1789863183936-1",
-      "title": "27 years later, EverQuest Legends is just getting started - polygon.com",
+      "id": "art-1789950155822-1",
+      "title": "Nintendo has issued new batch of Switch 1 backwards compatibility fixes for Switch 2 - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/nintendo-has-issued-new-batch-of-switch-1-backwards-compatibility-fixes-for-switch-2/",
+      "summary": "Nintendo has released a new batch of backwards compatibility fixes for Switch 2, enabling it to run games originally designed for Switch 1. The update expands the library of playable titles on the newer console and streamlines the experience for users who own older games.",
+      "whyItMatters": "The fixes reduce the need for developers to rework or port older titles to the new hardware, saving time and resources while preserving a larger game library for consumers.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-19T20:32:33Z"
+    },
+    {
+      "id": "art-1789950156750-2",
+      "title": "Automakers are quietly getting rid of Apple CarPlay and Android Auto to try and take advantage of $625 billion opportunity - supercarblondie.com",
+      "source": "Supercarblondie.com",
+      "url": "https://supercarblondie.com/automakers-getting-rid-of-apple-carplay-android-auto/",
+      "summary": "Automakers are quietly abandoning Apple CarPlay and Android Auto to pursue a $625 billion opportunity in the automotive market. This shift signals a move toward proprietary infotainment systems and away from the dominant mobile connectivity platforms.",
+      "whyItMatters": "Software developers will need to pivot from building for CarPlay/Android Auto to creating or integrating with new, manufacturer‑specific platforms, potentially reducing cross‑platform compatibility and increasing fragmentation.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-19T18:01:00Z"
+    },
+    {
+      "id": "art-1789950157037-3",
+      "title": "M6 Pro Chip Result on Geekbench is Likely Fake - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/19/m6-pro-geekbench-result-likely-fake/",
+      "summary": "A purported Geekbench score for Apple’s unreleased M6 Pro chip has circulated online, but experts say the result is almost certainly fabricated. The claim was debunked by Geekbench creator John Poole, who confirmed the data is not legitimate.",
+      "whyItMatters": "Misinformation about chip performance can mislead developers and investors, causing misguided optimization efforts and market expectations.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-19T17:59:01Z"
+    },
+    {
+      "id": "art-1789950157923-4",
+      "title": "Override Series: Cyberpunk: Edgerunners Cup Zero Build in Europe: Session 1 - Fortnite Tracker",
+      "source": "Fortnite Tracker",
+      "url": "https://fortnitetracker.com/events/epicgames_S42_CyperpranksCup_ZB_EU?window\\\\u003dS42_CyperpranksCup_ZB_EU\\\\u0026page\\\\u003d1",
+      "summary": "Fortnite is hosting the first session of its Override Series: Cyberpunk: Edgerunners Cup Zero Build in Europe, inviting players to team up in trios and compete for a chance to win exclusive Cyberpunk-themed cosmetics. The event showcases the game's ongoing partnership with the popular anime series, offering fans a new competitive experience and unique rewards.",
+      "whyItMatters": "This event demonstrates how game developers can leverage cross-media partnerships and live competitive events to boost player engagement and monetize in-game cosmetics, informing developers about effective community-driven marketing strategies.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-19T17:00:00Z"
+    },
+    {
+      "id": "art-1789950158636-5",
+      "title": "Here's how Apple circumvented the battery shipping restrictions for iPhone 18 Pro Max - GSMArena.com news - GSMArena.com",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/heres_apples_clever_way_of_circumventing_20wh_battery_shipping_restrictions-news-74689.php",
+      "summary": "Apple has employed a software workaround to bypass battery shipping restrictions for the iPhone 18 Pro Max, allowing the device to be shipped with batteries that exceed regulatory limits. The move has drawn criticism from regulators who view the trick as a violation of safety and compliance standards.",
+      "whyItMatters": "It highlights how software can be used to sidestep hardware regulations, raising legal and compliance risks for developers and manufacturers in the mobile industry.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-19T16:09:02Z"
+    },
+    {
+      "id": "art-1789950159379-6",
+      "title": "Nintendo Just Demolished Everyone’s Free Time - Polygon.com",
       "source": "Polygon",
-      "url": "https://www.polygon.com/everquest-legends-fall-preview/",
-      "summary": "EverQuest Legends, a long‑running MMO, is entering a new phase with fresh expansions and content, according to Polygon's interview with its developers. The team plans to revitalize the title with new features and a roadmap that promises continued growth for the franchise.",
-      "whyItMatters": "The announcement highlights the ongoing demand for scalable cloud infrastructure and continuous delivery pipelines in the gaming industry, underscoring the importance of robust cloud services for large‑scale multiplayer experiences.",
-      "category": "Cloud",
-      "publishedAt": "2026-09-18T19:53:10Z"
-    },
-    {
-      "id": "art-1789863184609-2",
-      "title": "Final Fantasy VII Revelation Is Gonna Eat Up 200 Gigabytes Of Storage - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/final-fantasy-vii-revelation-file-size-200-gigs-2000735639",
-      "summary": "Final Fantasy VII: Rebirth will require 200 GB of storage, making it one of the largest games ever released. This massive size highlights the growing storage demands of modern AAA titles and the challenges for distribution platforms.",
-      "whyItMatters": "Developers must optimize build pipelines and distribution strategies to handle such large assets, impacting storage costs and deployment workflows.",
+      "url": "https://www.polygon.com/switchboard-fire-emblem-fortunes-weave-diablo-4/",
+      "summary": "Nintendo's new Switch 2 exclusive, Fire Emblem: Fortune's Weave, promises 100-200 hours of gameplay, sparking debate over ever-growing game lengths. The article questions whether such expansive titles are sustainable for players and developers alike.",
+      "whyItMatters": "Longer games increase development time, testing complexity, and post-launch support, challenging studios to balance depth with maintainability.",
       "category": "DevOps",
-      "publishedAt": "2026-09-18T19:00:40Z"
+      "publishedAt": "2026-09-19T16:01:15Z"
     },
     {
-      "id": "art-1789863184988-3",
-      "title": "Apple Intelligence has 20+ brand new features in iOS 27, here’s the full list - 9to5Mac",
+      "id": "art-1789950160126-7",
+      "title": "Round Up: The Switch 2 Games We Played At TGS From 2026's Shoo-In 'Publisher Of The Year' - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/previews/round-up-the-switch-2-games-we-played-at-tgs-from-2026s-shoo-in-publisher-of-the-year",
+      "summary": "Nintendo Life reports on the Switch 2 titles showcased at the 2026 Tokyo Game Show, highlighting fan favorites like Resident Evil, Mega, Dogma, and Wilds. The roundup underscores Nintendo's continued push to expand its handheld ecosystem with new IPs and enhanced hardware.",
+      "whyItMatters": "The announcement signals a shift in handheld gaming strategy, prompting developers to optimize titles for next‑gen portable hardware and explore new monetization models.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-19T16:00:00Z"
+    },
+    {
+      "id": "art-1789950160673-8",
+      "title": "5 phones to buy instead of the Google Pixel 11 Pro - digitaltrends.com",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/phones/5-phones-to-buy-instead-of-the-google-pixel-11-pro/",
+      "summary": "Digital Trends lists five alternative smartphones that provide better value, higher performance, or distinct form factors compared to the Google Pixel 11 Pro. These options appeal to consumers seeking cost‑effective or feature‑rich alternatives to Google's flagship.",
+      "whyItMatters": "It highlights shifting consumer preferences toward competitive hardware, prompting developers to optimize apps for a broader range of devices and performance tiers.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-19T14:34:50Z"
+    },
+    {
+      "id": "art-1789950161522-9",
+      "title": "Apple Watch Series 12 might finally convince me to switch away from WHOOP - 9to5Mac",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/18/apple-intelligence-has-20-brand-new-features-in-ios-27-heres-the-full-list/",
-      "summary": "Apple has unveiled iOS 27 with over 20 new AI-powered features, including advanced Siri capabilities, contextual app suggestions, and enhanced privacy controls. These additions build on the next-generation Apple Intelligence framework, aiming to make iOS more intuitive and secure for users.",
-      "whyItMatters": "Developers will need to adapt their apps to leverage Apple Intelligence APIs, opening opportunities for richer user experiences and tighter integration with Apple’s AI ecosystem.",
-      "category": "AI",
-      "publishedAt": "2026-09-18T18:56:00Z"
-    },
-    {
-      "id": "art-1789863185565-4",
-      "title": "Apple's iPhone 18 goes on sale as customers line up at stores worldwide - Fox Business",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/technology/apples-iphone-18-goes-sale-customers-line-up-stores-worldwide",
-      "summary": "Apple's iPhone 18 has gone on sale worldwide, drawing large crowds to stores as the company unveiled advanced camera upgrades and AI photo detection. The launch also introduced new flagship devices, signaling a continued push into high-end mobile technology.",
-      "whyItMatters": "Developers will need to adapt to the new AI photo detection APIs and camera capabilities, offering opportunities for app enhancements and new photography features.",
+      "url": "https://9to5mac.com/2026/09/19/heres-why-apple-watch-series-12-may-get-me-to-ditch-whoop/",
+      "summary": "The article recounts the author’s first experience with a WHOOP band and compares it to the new Apple Watch Series 12, noting improvements in health metrics, battery life, and ecosystem integration that could sway users to switch. It highlights how the Apple Watch’s expanded features make it a more compelling option for fitness tracking and health monitoring.\n",
+      "whyItMatters": "The shift toward Apple Watch signals a growing need for developers to build robust health and fitness apps using Apple’s HealthKit and WatchKit APIs, shaping mobile app strategy and ecosystem competition.\n",
       "category": "Mobile",
-      "publishedAt": "2026-09-18T18:50:00Z"
-    },
-    {
-      "id": "art-1789863186347-5",
-      "title": "The Big Autumn Preview – Roleplay in the underhive - Warhammer Community",
-      "source": "Warhammer-community.com",
-      "url": "https://www.warhammer-community.com/articles/rfd3ntt7/the-big-autumn-preview-roleplay-in-the-underhive",
-      "summary": "Warhammer Community announces a new Necromunda game, focusing on roleplay in the underhive. The reveal includes new gameplay mechanics and immersive setting details.",
-      "whyItMatters": "The release signals a shift toward mobile-first gaming experiences, offering developers new opportunities to create rich, narrative-driven games on mobile platforms.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-18T18:38:30Z"
-    },
-    {
-      "id": "art-1789863187041-6",
-      "title": "The Big Autumn Preview – New Tomb Kings march out - Warhammer Community",
-      "source": "Warhammer-community.com",
-      "url": "https://www.warhammer-community.com/articles/6pknf9l6/the-big-autumn-preview-new-tomb-kings-march-out",
-      "summary": "The Big Autumn Preview announces that the new Tomb Kings units are set to march out from Khemri to reclaim the Old World, marking a significant expansion of the Warhammer Community’s latest content release. This update highlights the ongoing development of the game’s lore and gameplay mechanics, offering fresh material for players and modders alike.",
-      "whyItMatters": "It demonstrates how continuous content updates and community engagement can drive sustained user interest, encouraging developers to adopt iterative release strategies and prioritize player feedback in their own projects.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-18T18:32:14Z"
-    },
-    {
-      "id": "art-1789863187495-7",
-      "title": "GTA 6 Boss Seems A Bit Grumpy And Defensive While Answering An Investor's Question About Frequent Delays - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/gta-6-boss-seems-a-bit-grumpy-and-defensive-while-answering-an-investors-question-about-frequent-delays-2000735650",
-      "summary": "Take‑Two Interactive CEO Strauss Zelnick appeared defensive during a recent stockholder meeting when an investor asked about the company’s frequent game release delays, notably for the highly anticipated GTA 6. Zelnick’s quibble highlighted ongoing production challenges and raised questions about the company’s project management and communication with shareholders.",
-      "whyItMatters": "Frequent delays can erode investor confidence, inflate development costs, and disrupt release schedules, forcing software teams to re‑evaluate resource allocation and risk management practices.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-18T18:30:09Z"
-    },
-    {
-      "id": "art-1789863187990-8",
-      "title": "Apple Watch Series 12 vs. Ultra 4 Buyer's Guide - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/guide/apple-watch-series-12-vs-ultra-4/",
-      "summary": "Apple Watch Series 12 and Ultra 4 introduce advanced health sensors, a new chip, and enhanced recovery insights, offering users more precise fitness tracking and health monitoring. The guide compares features, battery life, and price points to help consumers decide which model suits their needs.",
-      "whyItMatters": "The new sensors and chip enable richer health data APIs and more powerful watchOS apps, expanding opportunities for health and fitness app development.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-18T18:03:07Z"
-    },
-    {
-      "id": "art-1789863188315-9",
-      "title": "Apple VP of hardware talks iPhone Duo durability, crease, hinge, and more - 9to5mac.com",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/18/apple-vp-of-hardware-talks-iphone-duo-durability-crease-hinge-and-more/",
-      "summary": "Apple’s VP of Hardware Engineering discussed the iPhone Duo’s durability, hinge design, and display crease in a recent interview, highlighting how the new dual‑screen form factor will handle everyday wear and tear. He also explained the engineering choices that enable a seamless hinge mechanism and reduced crease visibility, aiming to improve user experience and device longevity.",
-      "whyItMatters": "The hinge and durability insights inform developers about potential software optimizations for dual‑screen interactions and guide hardware‑software integration strategies for future mobile devices.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-18T17:52:00Z"
+      "publishedAt": "2026-09-19T14:09:00Z"
     }
   ]
 }
