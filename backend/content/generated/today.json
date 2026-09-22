@@ -1,105 +1,105 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "articles": [
     {
-      "id": "art-1789950155350-0",
-      "title": "Fatal Fury: City of the Wolves datamine potentially leaks future DLC characters - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/fatal-fury-city-of-the-wolves-datamine-potentially-leaks-future-dlc-characters/",
-      "summary": "Fans have discovered that a recent datamine of Fatal Fury: City of the Wolves may reveal characters slated for a future DLC season, potentially giving away plot details before release. The leak could influence fan expectations and the game's marketing strategy as developers prepare for Season 4.",
-      "whyItMatters": "It underscores the need for robust data security practices in game development, as premature leaks can disrupt release plans and erode trust in the brand.",
+      "id": "art-1790038727727-0",
+      "title": "14 Quirky Mini Gadgets That Make Great Gifts - SlashGear",
+      "source": "SlashGear",
+      "url": "https://www.slashgear.com/2257852/quirky-mini-gadgets-tech-gift-guide/",
+      "summary": "SlashGear highlights 14 quirky miniature gadgets that make ideal gifts for tech enthusiasts, showcasing a range of playful and functional devices. The article offers a curated list of compact tech items that appeal to those who appreciate clever, portable tech solutions.",
+      "whyItMatters": "These mini gadgets inspire developers to think creatively about portable solutions and can serve as handy tools or inspiration for mobile app development and on-the-go debugging.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-20T20:30:00Z"
+    },
+    {
+      "id": "art-1790038728460-1",
+      "title": "Rare, Beloved Super Nintendo JRPGs Receive First Re-Released - kotaku.com",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/beloved-super-nintendo-jrpg-receives-its-first-re-release-but-its-the-sequel-you-gotta-get-excited-for-2000735963",
+      "summary": "The first two Lufia games, originally released on the Super Nintendo, are being ported to modern devices after 30 years. While the initial port may feel basic, fans anticipate the series' later titles will showcase its full potential.",
+      "whyItMatters": "This demonstrates the viability of legacy game ports for expanding modern app libraries, encouraging developers to invest in retro game preservation and cross‑platform compatibility.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-20T19:34:44Z"
+    },
+    {
+      "id": "art-1790038729036-2",
+      "title": "My 13-year-old refused to share his location with me. I was annoyed — until I realized he had a point. - Business Insider",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/teen-refused-location-tracking-gps-parenting-independence-2026-9#article",
+      "summary": "A parent recounts how his 13‑year‑old son resisted GPS tracking, prompting a reflection on the shift in modern parenting. The story highlights the growing tension between parental oversight and teens’ desire for privacy.",
+      "whyItMatters": "Developers must balance user privacy with parental controls, influencing how location‑based services are designed and regulated.",
       "category": "Security",
-      "publishedAt": "2026-09-19T21:32:33Z"
+      "publishedAt": "2026-09-20T18:55:00Z"
     },
     {
-      "id": "art-1789950155822-1",
-      "title": "Nintendo has issued new batch of Switch 1 backwards compatibility fixes for Switch 2 - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/nintendo-has-issued-new-batch-of-switch-1-backwards-compatibility-fixes-for-switch-2/",
-      "summary": "Nintendo has released a new batch of backwards compatibility fixes for Switch 2, enabling it to run games originally designed for Switch 1. The update expands the library of playable titles on the newer console and streamlines the experience for users who own older games.",
-      "whyItMatters": "The fixes reduce the need for developers to rework or port older titles to the new hardware, saving time and resources while preserving a larger game library for consumers.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-19T20:32:33Z"
-    },
-    {
-      "id": "art-1789950156750-2",
-      "title": "Automakers are quietly getting rid of Apple CarPlay and Android Auto to try and take advantage of $625 billion opportunity - supercarblondie.com",
-      "source": "Supercarblondie.com",
-      "url": "https://supercarblondie.com/automakers-getting-rid-of-apple-carplay-android-auto/",
-      "summary": "Automakers are quietly abandoning Apple CarPlay and Android Auto to pursue a $625 billion opportunity in the automotive market. This shift signals a move toward proprietary infotainment systems and away from the dominant mobile connectivity platforms.",
-      "whyItMatters": "Software developers will need to pivot from building for CarPlay/Android Auto to creating or integrating with new, manufacturer‑specific platforms, potentially reducing cross‑platform compatibility and increasing fragmentation.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-19T18:01:00Z"
-    },
-    {
-      "id": "art-1789950157037-3",
-      "title": "M6 Pro Chip Result on Geekbench is Likely Fake - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/19/m6-pro-geekbench-result-likely-fake/",
-      "summary": "A purported Geekbench score for Apple’s unreleased M6 Pro chip has circulated online, but experts say the result is almost certainly fabricated. The claim was debunked by Geekbench creator John Poole, who confirmed the data is not legitimate.",
-      "whyItMatters": "Misinformation about chip performance can mislead developers and investors, causing misguided optimization efforts and market expectations.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-19T17:59:01Z"
-    },
-    {
-      "id": "art-1789950157923-4",
-      "title": "Override Series: Cyberpunk: Edgerunners Cup Zero Build in Europe: Session 1 - Fortnite Tracker",
-      "source": "Fortnite Tracker",
-      "url": "https://fortnitetracker.com/events/epicgames_S42_CyperpranksCup_ZB_EU?window\\\\u003dS42_CyperpranksCup_ZB_EU\\\\u0026page\\\\u003d1",
-      "summary": "Fortnite is hosting the first session of its Override Series: Cyberpunk: Edgerunners Cup Zero Build in Europe, inviting players to team up in trios and compete for a chance to win exclusive Cyberpunk-themed cosmetics. The event showcases the game's ongoing partnership with the popular anime series, offering fans a new competitive experience and unique rewards.",
-      "whyItMatters": "This event demonstrates how game developers can leverage cross-media partnerships and live competitive events to boost player engagement and monetize in-game cosmetics, informing developers about effective community-driven marketing strategies.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-19T17:00:00Z"
-    },
-    {
-      "id": "art-1789950158636-5",
-      "title": "Here's how Apple circumvented the battery shipping restrictions for iPhone 18 Pro Max - GSMArena.com news - GSMArena.com",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/heres_apples_clever_way_of_circumventing_20wh_battery_shipping_restrictions-news-74689.php",
-      "summary": "Apple has employed a software workaround to bypass battery shipping restrictions for the iPhone 18 Pro Max, allowing the device to be shipped with batteries that exceed regulatory limits. The move has drawn criticism from regulators who view the trick as a violation of safety and compliance standards.",
-      "whyItMatters": "It highlights how software can be used to sidestep hardware regulations, raising legal and compliance risks for developers and manufacturers in the mobile industry.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-19T16:09:02Z"
-    },
-    {
-      "id": "art-1789950159379-6",
-      "title": "Nintendo Just Demolished Everyone’s Free Time - Polygon.com",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/switchboard-fire-emblem-fortunes-weave-diablo-4/",
-      "summary": "Nintendo's new Switch 2 exclusive, Fire Emblem: Fortune's Weave, promises 100-200 hours of gameplay, sparking debate over ever-growing game lengths. The article questions whether such expansive titles are sustainable for players and developers alike.",
-      "whyItMatters": "Longer games increase development time, testing complexity, and post-launch support, challenging studios to balance depth with maintainability.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-19T16:01:15Z"
-    },
-    {
-      "id": "art-1789950160126-7",
-      "title": "Round Up: The Switch 2 Games We Played At TGS From 2026's Shoo-In 'Publisher Of The Year' - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/previews/round-up-the-switch-2-games-we-played-at-tgs-from-2026s-shoo-in-publisher-of-the-year",
-      "summary": "Nintendo Life reports on the Switch 2 titles showcased at the 2026 Tokyo Game Show, highlighting fan favorites like Resident Evil, Mega, Dogma, and Wilds. The roundup underscores Nintendo's continued push to expand its handheld ecosystem with new IPs and enhanced hardware.",
-      "whyItMatters": "The announcement signals a shift in handheld gaming strategy, prompting developers to optimize titles for next‑gen portable hardware and explore new monetization models.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-19T16:00:00Z"
-    },
-    {
-      "id": "art-1789950160673-8",
-      "title": "5 phones to buy instead of the Google Pixel 11 Pro - digitaltrends.com",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/phones/5-phones-to-buy-instead-of-the-google-pixel-11-pro/",
-      "summary": "Digital Trends lists five alternative smartphones that provide better value, higher performance, or distinct form factors compared to the Google Pixel 11 Pro. These options appeal to consumers seeking cost‑effective or feature‑rich alternatives to Google's flagship.",
-      "whyItMatters": "It highlights shifting consumer preferences toward competitive hardware, prompting developers to optimize apps for a broader range of devices and performance tiers.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-19T14:34:50Z"
-    },
-    {
-      "id": "art-1789950161522-9",
-      "title": "Apple Watch Series 12 might finally convince me to switch away from WHOOP - 9to5Mac",
+      "id": "art-1790038730346-3",
+      "title": "Five ways that the new Siri AI is frustrating iPhone and Apple Watch users - 9to5Mac",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/19/heres-why-apple-watch-series-12-may-get-me-to-ditch-whoop/",
-      "summary": "The article recounts the author’s first experience with a WHOOP band and compares it to the new Apple Watch Series 12, noting improvements in health metrics, battery life, and ecosystem integration that could sway users to switch. It highlights how the Apple Watch’s expanded features make it a more compelling option for fitness tracking and health monitoring.\n",
-      "whyItMatters": "The shift toward Apple Watch signals a growing need for developers to build robust health and fitness apps using Apple’s HealthKit and WatchKit APIs, shaping mobile app strategy and ecosystem competition.\n",
+      "url": "https://9to5mac.com/2026/09/20/five-ways-that-the-new-siri-ai-is-frustrating-iphone-and-apple-watch-users/",
+      "summary": "Apple's new Siri AI, released with iOS 27, has been met with frustration from iPhone and Apple Watch users due to a range of issues. Users report problems such as inaccurate responses, lag, and limited functionality, prompting concerns about the AI's readiness for mainstream adoption.",
+      "whyItMatters": "Developers must adapt to the new Siri AI's limitations, ensuring their apps provide reliable voice interactions and fallback mechanisms to maintain user trust.",
+      "category": "AI",
+      "publishedAt": "2026-09-20T18:35:00Z"
+    },
+    {
+      "id": "art-1790038731033-4",
+      "title": "What is the AI singularity? Some experts say it’s closer than ever - The Hill",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/6100478-ai-singularity-predictions/",
+      "summary": "Experts argue that the AI singularity—when artificial intelligence surpasses human intelligence—could arrive sooner than previously thought. This event would trigger unprecedented technological changes across all sectors.",
+      "whyItMatters": "Software developers must prepare for rapid shifts in AI capabilities that could redefine productivity tools, automation, and the skill sets required for future projects.",
+      "category": "AI",
+      "publishedAt": "2026-09-20T18:19:00Z"
+    },
+    {
+      "id": "art-1790038731637-5",
+      "title": "How To Get The Highest-Quality Audio Out Of Apple CarPlay - SlashGear",
+      "source": "SlashGear",
+      "url": "https://www.slashgear.com/2257994/how-to-get-better-apple-carplay-audio-quality/",
+      "summary": "Apple CarPlay users can achieve higher audio fidelity by connecting their devices with a cable instead of using wireless connections. This method enables lossless audio playback, improving the in-car listening experience.",
+      "whyItMatters": "Developers building CarPlay-compatible apps should consider wired audio support to offer users superior sound quality, potentially differentiating their apps in a competitive market.",
       "category": "Mobile",
-      "publishedAt": "2026-09-19T14:09:00Z"
+      "publishedAt": "2026-09-20T18:15:00Z"
+    },
+    {
+      "id": "art-1790038732511-6",
+      "title": "4 People Arrested After Newlywed Bride Is Engulfed in Flames During Barbecue on Her Honeymoon - Yahoo",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/entertainment/videos/4-people-arrested-newlywed-bride-171401181.html",
+      "summary": "A newlywed bride was caught in a fire during a honeymoon barbecue, leading to her being engulfed in flames. Four individuals were arrested in connection with the incident.",
+      "whyItMatters": "The incident highlights the importance of incorporating safety monitoring and emergency response features into event‑planning and hospitality software, prompting developers to prioritize real‑time hazard detection.",
+      "category": "Security",
+      "publishedAt": "2026-09-20T17:14:01Z"
+    },
+    {
+      "id": "art-1790038733082-7",
+      "title": "Why Apple Is Betting on Foldable iPhones - The Information",
+      "source": "The Information",
+      "url": "https://www.theinformation.com/articles/apple-betting-foldable-iphones",
+      "summary": "Apple unveiled a foldable iPhone prototype, signaling a shift toward flexible form factors in its flagship line. The move could redefine user experience and push the industry toward new design and manufacturing standards.",
+      "whyItMatters": "Developers will need to adapt apps for variable screen sizes and new input methods, potentially increasing complexity but also opening opportunities for innovative UI designs.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-20T15:01:00Z"
+    },
+    {
+      "id": "art-1790038733940-8",
+      "title": "Apple’s ‘Personal Hub’ AI Strategy Hints at Upcoming Home Device - Bloomberg.com",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0",
+      "summary": "Apple is developing a 'Personal Hub' AI system that will serve as a central controller for home devices, hinting at a new smart home product. The article also notes the cancellation of the iPhone Duo Pencil and recent layoffs at Fitness+, reflecting broader shifts in Apple’s hardware and services strategy.",
+      "whyItMatters": "Developers should prepare for new AI-driven APIs and home automation frameworks that Apple may expose, impacting mobile and IoT app ecosystems.",
+      "category": "AI",
+      "publishedAt": "2026-09-20T14:00:01Z"
+    },
+    {
+      "id": "art-1790038734608-9",
+      "title": "Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem - CNET",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/services-and-software/rathat-malware-attacks-android-phones/",
+      "summary": "RatHat is a new AI-powered malware that infiltrates the Android ecosystem by masquerading as legitimate app downloads such as Google Chrome. The malicious code exploits AI to adapt its behavior, making detection and removal more difficult for users and security tools.",
+      "whyItMatters": "The malware threatens Android developers by increasing the risk of compromised app stores and undermining user trust, forcing developers to invest more in security testing and monitoring.",
+      "category": "Security",
+      "publishedAt": "2026-09-20T13:20:01Z"
     }
   ]
 }
