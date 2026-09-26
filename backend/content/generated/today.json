@@ -1,105 +1,95 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "articles": [
     {
-      "id": "art-1790296764616-0",
-      "title": "Meta’s next VR device isn’t a headset — it’s glasses - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
-      "summary": "Meta has unveiled a new VR device that takes the form of glasses rather than a traditional headset, featuring immersive displays for movies, games, and work. The glasses sit on the ears and aim to provide a more comfortable, everyday-friendly VR experience.",
-      "whyItMatters": "Developers will need to create new content and interfaces optimized for a lightweight, glasses-based VR platform, potentially reshaping how immersive apps are designed and distributed.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-23T23:42:10Z"
-    },
-    {
-      "id": "art-1790296765192-1",
-      "title": "Apple’s ChatGPT tools ‘dramatically underperformed’, OpenAI claims - Financial Times",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/256c4b36-a6c8-49ee-aa15-81cb089b2ced?syn-25a6b1a6\\\\u003d1",
-      "summary": "Apple’s attempt to integrate ChatGPT into its ecosystem has been described by OpenAI as a dramatic underperformance, according to court documents. The filings also reveal that Apple has since pivoted to a Google‑powered Siri AI, highlighting a shift in its AI strategy.",
-      "whyItMatters": "The outcome underscores the volatility of third‑party AI partnerships and signals developers to diversify AI integrations rather than rely on a single vendor.",
-      "category": "AI",
-      "publishedAt": "2026-09-23T21:32:53Z"
-    },
-    {
-      "id": "art-1790296765796-2",
-      "title": "NVIDIA Unleashes The Next Chapter of Neural Rendering & Path Tracing With RTX Kit SDK While RTX Mega Geometry 2.0 SDK Gives Devs the Ability To Stream Insane Levels of Detail - Wccftech",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/nvidia-rtx-kit-rtx-mega-geometry-2-0-sdk-unleash-next-chapter-of-neural-rendering-path-tracing/",
-      "summary": "NVIDIA has released the RTX Kit SDK and RTX Mega Geometry 2.0 SDK, enabling developers to incorporate next-generation neural rendering and path tracing into their projects. These tools also allow streaming of extremely detailed geometry, pushing the limits of real-time graphics.",
-      "whyItMatters": "It empowers game and graphics developers to deliver richer, more realistic visuals with lower performance overhead, accelerating the adoption of AI-driven rendering techniques.",
-      "category": "AI",
-      "publishedAt": "2026-09-23T21:05:17Z"
-    },
-    {
-      "id": "art-1790296766190-3",
-      "title": "Microsoft’s new 2026 Surface Pro 12-inch and Laptop 13-inch bring Snapdragon X2 Plus power and 5G connectivity - Windows Central",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/hardware/surface/microsoft-unveils-new-surface-pro-12-inch-and-surface-laptop-13-inch-with-snapdragon-x2-plus-brighter-screens-and-5g-options-heres-a-first-look",
-      "summary": "Microsoft has unveiled its new entry‑premium Surface Pro 12‑inch and Surface Laptop 13‑inch, both powered by the Snapdragon X2 Plus and featuring 5G connectivity, with prices starting just over $1,000. The devices combine tablet‑style versatility with laptop‑class performance in a single, high‑end package.",
-      "whyItMatters": "Developers will need to optimize or port their Windows applications for the ARM‑based Snapdragon X2 Plus architecture and leverage the built‑in 5G for mobile connectivity, impacting performance, battery life, and cross‑platform compatibility.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-23T20:30:00Z"
-    },
-    {
-      "id": "art-1790296766624-4",
-      "title": "Discord age verification rolls out today with changes spurred by user backlash - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/",
-      "summary": "Discord has launched an automated age estimation system that will prompt users for verification when it cannot reliably determine their age. The rollout follows significant user backlash over previous age‑verification methods and aims to improve compliance with online safety regulations.",
-      "whyItMatters": "Developers must adapt their authentication flows and data handling to meet Discord’s new age‑verification requirements, impacting user onboarding and compliance strategies.",
-      "category": "Security",
-      "publishedAt": "2026-09-23T20:05:13Z"
-    },
-    {
-      "id": "art-1790296767673-5",
-      "title": "Can Everybody In Fire Emblem: Fortune’s Weave Please Shut The Hell Up A Little Bit? - Kotaku",
+      "id": "art-1790383489817-0",
+      "title": "Nvidia CEO Doesn't Care That Kids Are Forgetting Basic Math Because Of AI: 'I Actually Don't Know My Address' - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/fire-emblem-fortunes-weave-too-much-dialogue-tutorials-2000736807",
-      "summary": "The Kotaku article criticizes Fire Emblem: Fortune’s Weave for its excessive in‑game chatter that disrupts gameplay and immersion. It notes that this noise problem also plagues the game’s own interface, making the experience frustrating for players.",
-      "whyItMatters": "For developers, it underscores the need to manage in‑game communication and UI noise to keep players engaged and prevent cognitive overload.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-23T19:30:14Z"
-    },
-    {
-      "id": "art-1790296768279-6",
-      "title": "‘I just assume someone is being greedy’: Double Fine’s Tim Schafer says he doesn’t know why the industry isn’t recovering - Video Games Chronicle",
-      "source": "Video Games Chronicle",
-      "url": "https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/",
-      "summary": "Tim Schafer of Double Fine lamented that the video game industry is not recovering, attributing the stagnation to a lack of innovation and market confidence. He emphasized that Double Fine’s continued survival after its split from Xbox is \"worth fighting for,\" underscoring the studio’s resilience amid industry uncertainty.",
-      "whyItMatters": "The comments highlight the challenges small to mid-sized game studios face in a market dominated by large publishers, stressing the need for sustainable business models and creative autonomy for developers.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-23T18:44:10Z"
-    },
-    {
-      "id": "art-1790296768623-7",
-      "title": "Siri AI Coming to HomePod - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/23/siri-ai-coming-to-homepod/",
-      "summary": "Apple is extending its advanced Siri AI to the HomePod, enabling the smart speaker to offer more intelligent voice interactions and richer functionality. The update promises deeper integration with Apple’s ecosystem and new opportunities for developers to build on the HomePod’s capabilities.",
-      "whyItMatters": "For software developers, the expansion means new APIs and tools to create more sophisticated voice‑controlled experiences on Apple’s home hardware, potentially driving innovation in smart home and IoT applications.",
+      "url": "https://kotaku.com/nvidia-ceo-doesnt-care-that-kids-are-forgetting-basic-math-because-of-ai-i-actually-dont-know-my-address-2000737092",
+      "summary": "Nvidia CEO expressed indifference toward children losing basic math skills due to AI, remarking he himself doesn't know his address. The comment sparked debate about the role of AI in education and the importance of foundational knowledge.",
+      "whyItMatters": "Software developers must consider how AI tools may reduce the need for manual calculations, potentially shifting focus toward higher‑level problem solving and prompting a reevaluation of curriculum integration.",
       "category": "AI",
-      "publishedAt": "2026-09-23T17:04:37Z"
+      "publishedAt": "2026-09-24T21:49:35Z"
     },
     {
-      "id": "art-1790296768949-8",
-      "title": "ChatGPT mobile app gets voice-based agentic features - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "summary": "ChatGPT’s mobile app now supports voice-based agentic features, letting Pro and Plus users access the Work tab on their phones to perform agentic tasks. This update brings advanced AI-driven task automation directly to mobile devices.",
-      "whyItMatters": "It enhances mobile productivity and opens new opportunities for developers to integrate voice‑driven AI workflows into their apps.",
+      "id": "art-1790383490742-1",
+      "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
+      "summary": "Meta has launched the Muse Charm, a consumer AI device aimed at putting the company ahead of OpenAI and Google in the AI agent space. The move signals Meta's push into hardware to complement its software AI offerings, though the strategy's effectiveness remains uncertain.",
+      "whyItMatters": "Software developers will need to adapt to new AI hardware ecosystems, potentially reshaping how AI services are integrated into consumer products.",
       "category": "AI",
-      "publishedAt": "2026-09-23T17:00:00Z"
+      "publishedAt": "2026-09-24T21:17:08Z"
     },
     {
-      "id": "art-1790296769469-9",
-      "title": "Some Fans Seem to Think The Witcher 3 Remastered Looks Worse Than the Original in Official Comparison Clip - IGN",
+      "id": "art-1790383491314-2",
+      "title": "Xbox Says Its Share of GTA 6 Preorders Matches Its Share of the Console Market, Following PS5 Dominance Claim - IGN",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/fans-seem-to-think-the-witcher-3-remastered-looks-worse-than-the-original",
-      "summary": "Witcher 3 fans reacted negatively to an official comparison clip that shows the remastered version looking worse than the original. The clip sparked debate over visual fidelity and expectations for upcoming remasters.",
-      "whyItMatters": "It highlights the importance of rigorous visual quality assurance and user expectation management in game remaster releases.",
+      "url": "https://www.ign.com/articles/xbox-says-its-share-of-gta-6-preorders-matches-its-share-of-the-console-market-following-ps5-dominance-claim",
+      "summary": "Microsoft responded to a report that GTA 6 preorders were heavily skewed toward PlayStation 5, stating that its share of preorders matches its share of the console market. The company emphasized that the data reflects a balanced demand across Xbox Series X and S, countering claims of a PS5 dominance.",
+      "whyItMatters": "The clarification affects developers by highlighting the importance of accurate market data for platform strategy and resource allocation.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-24T21:05:07Z"
+    },
+    {
+      "id": "art-1790383491988-3",
+      "title": "Google rolling out Android 17 QPR2 Beta 6 for Pixel - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/09/24/google-rolling-out-android-17-qpr2-beta-6-for-pixel/",
+      "summary": "Google has released Android 17 QPR2 Beta 6 for Pixel devices, arriving just a week after the previous Beta 5. The update includes new features and bug fixes that prepare the OS for its upcoming stable release.",
+      "whyItMatters": "Developers must test their apps against the latest beta to ensure compatibility and take advantage of new APIs before the final Android 17 launch.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-24T20:45:00Z"
+    },
+    {
+      "id": "art-1790383492744-4",
+      "title": "Entire Prince of Persia: The Lost Crown Game Available to Play for Free in Nintendo Switch Demo, But There’s a Catch - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/entire-prince-of-persia-the-lost-crown-game-available-to-play-for-free-in-nintendo-switch-demo-but-theres-a-catch",
+      "summary": "Nintendo Switch and Switch 2 users can now play the entire Prince of Persia: The Lost Crown game for free until September 30, thanks to a new demo release. The offer is limited to the demo version, so players must purchase the full game to access all features after the free period.",
+      "whyItMatters": "The free demo strategy demonstrates how console publishers can boost engagement and drive post-demo sales, influencing how developers plan marketing and monetization for future releases.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-24T20:17:56Z"
+    },
+    {
+      "id": "art-1790383493079-5",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "summary": "Google has launched Gemini 3.8 Live with a Live Avatar that animates an AI persona, lip‑syncing and displaying facial expressions in real time. The update adds a more human‑like visual presence to the model’s responses.",
+      "whyItMatters": "It enables developers to embed more engaging, lifelike AI interactions into applications, potentially boosting user retention and opening new creative use cases.",
+      "category": "AI",
+      "publishedAt": "2026-09-24T19:59:26Z"
+    },
+    {
+      "id": "art-1790383493472-6",
+      "title": "EXCLUSIVE: How Ubisoft and Nintendo’s Partnership Ended With a Canceled Zelda Title - Insider Gaming",
+      "source": "Insider-gaming.com",
+      "url": "https://insider-gaming.com/ubisoft-nintendo-canceled-zelda-title/",
+      "summary": "Ubisoft and Nintendo had planned a joint Zelda title, but the project was scrapped after a prototype was revealed in late 2023. The cancellation highlights the challenges of cross-company collaborations in the gaming industry.",
+      "whyItMatters": "The shutdown underscores the importance of clear project governance and risk management for software developers working on high-profile, multi-stakeholder projects.",
       "category": "DevOps",
-      "publishedAt": "2026-09-23T16:10:42Z"
+      "publishedAt": "2026-09-24T19:06:08Z"
+    },
+    {
+      "id": "art-1790383494246-7",
+      "title": "This ‘World of Warcraft: Forever’ Mod Blocks All Interactions With Asmongold Fans - 404 Media",
+      "source": "404media.co",
+      "url": "https://www.404media.co/this-world-of-warcraft-forever-mod-blocks-all-interactions-with-asmongold-fans/",
+      "summary": "A former fan created a mod for World of Warcraft: Forever that blocks all interactions with Asmongold’s followers, who were spamming public spaces with slurs and hate. The mod effectively silences the streamer’s fanbase, preventing further harassment within the game’s community.",
+      "whyItMatters": "This demonstrates how community-driven mods can be leveraged to enforce moderation, highlighting the need for developers to consider built-in tools for user-generated content filtering.",
+      "category": "Security",
+      "publishedAt": "2026-09-24T18:21:57Z"
+    },
+    {
+      "id": "art-1790383494642-8",
+      "title": "Apple has three products launching soon that we’ve waited a long time for - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/24/apple-has-three-products-launching-soon-that-weve-waited-a-long-time-for/",
+      "summary": "Apple is set to unveil three highly anticipated products in October, including the next-generation iPhone, a new Apple Watch, and an updated MacBook Pro. These releases mark a significant boost to the company's product lineup after a quiet period.",
+      "whyItMatters": "Developers will need to adapt to new hardware features and APIs, offering opportunities to optimize performance and unlock fresh user experiences across iOS and macOS.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-24T18:09:00Z"
     }
   ]
 }
