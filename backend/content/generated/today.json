@@ -1,95 +1,85 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "articles": [
     {
-      "id": "art-1790383489817-0",
-      "title": "Nvidia CEO Doesn't Care That Kids Are Forgetting Basic Math Because Of AI: 'I Actually Don't Know My Address' - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/nvidia-ceo-doesnt-care-that-kids-are-forgetting-basic-math-because-of-ai-i-actually-dont-know-my-address-2000737092",
-      "summary": "Nvidia CEO expressed indifference toward children losing basic math skills due to AI, remarking he himself doesn't know his address. The comment sparked debate about the role of AI in education and the importance of foundational knowledge.",
-      "whyItMatters": "Software developers must consider how AI tools may reduce the need for manual calculations, potentially shifting focus toward higher‑level problem solving and prompting a reevaluation of curriculum integration.",
-      "category": "AI",
-      "publishedAt": "2026-09-24T21:49:35Z"
-    },
-    {
-      "id": "art-1790383490742-1",
-      "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
-      "summary": "Meta has launched the Muse Charm, a consumer AI device aimed at putting the company ahead of OpenAI and Google in the AI agent space. The move signals Meta's push into hardware to complement its software AI offerings, though the strategy's effectiveness remains uncertain.",
-      "whyItMatters": "Software developers will need to adapt to new AI hardware ecosystems, potentially reshaping how AI services are integrated into consumer products.",
-      "category": "AI",
-      "publishedAt": "2026-09-24T21:17:08Z"
-    },
-    {
-      "id": "art-1790383491314-2",
-      "title": "Xbox Says Its Share of GTA 6 Preorders Matches Its Share of the Console Market, Following PS5 Dominance Claim - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/xbox-says-its-share-of-gta-6-preorders-matches-its-share-of-the-console-market-following-ps5-dominance-claim",
-      "summary": "Microsoft responded to a report that GTA 6 preorders were heavily skewed toward PlayStation 5, stating that its share of preorders matches its share of the console market. The company emphasized that the data reflects a balanced demand across Xbox Series X and S, countering claims of a PS5 dominance.",
-      "whyItMatters": "The clarification affects developers by highlighting the importance of accurate market data for platform strategy and resource allocation.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-24T21:05:07Z"
-    },
-    {
-      "id": "art-1790383491988-3",
-      "title": "Google rolling out Android 17 QPR2 Beta 6 for Pixel - 9to5Google",
+      "id": "art-1790469899333-0",
+      "title": "Google Health 5.09 rolling out: Cardio Load from third-party workouts, more - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/09/24/google-rolling-out-android-17-qpr2-beta-6-for-pixel/",
-      "summary": "Google has released Android 17 QPR2 Beta 6 for Pixel devices, arriving just a week after the previous Beta 5. The update includes new features and bug fixes that prepare the OS for its upcoming stable release.",
-      "whyItMatters": "Developers must test their apps against the latest beta to ensure compatibility and take advantage of new APIs before the final Android 17 launch.",
+      "url": "http://9to5google.com/2026/09/25/google-health-5-09-release-notes/",
+      "summary": "Google Health version 5.09 is now rolling out, adding support for the new Health Guardian features on the Pixel Watch and enabling Cardio Load tracking from third‑party workouts. The update expands the health data ecosystem on Android devices.",
+      "whyItMatters": "Developers can now access richer health metrics and integrate Guardian alerts into their apps, opening new opportunities for fitness and wellness services on Android.",
       "category": "Mobile",
-      "publishedAt": "2026-09-24T20:45:00Z"
+      "publishedAt": "2026-09-25T20:09:00Z"
     },
     {
-      "id": "art-1790383492744-4",
-      "title": "Entire Prince of Persia: The Lost Crown Game Available to Play for Free in Nintendo Switch Demo, But There’s a Catch - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/entire-prince-of-persia-the-lost-crown-game-available-to-play-for-free-in-nintendo-switch-demo-but-theres-a-catch",
-      "summary": "Nintendo Switch and Switch 2 users can now play the entire Prince of Persia: The Lost Crown game for free until September 30, thanks to a new demo release. The offer is limited to the demo version, so players must purchase the full game to access all features after the free period.",
-      "whyItMatters": "The free demo strategy demonstrates how console publishers can boost engagement and drive post-demo sales, influencing how developers plan marketing and monetization for future releases.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-24T20:17:56Z"
-    },
-    {
-      "id": "art-1790383493079-5",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "summary": "Google has launched Gemini 3.8 Live with a Live Avatar that animates an AI persona, lip‑syncing and displaying facial expressions in real time. The update adds a more human‑like visual presence to the model’s responses.",
-      "whyItMatters": "It enables developers to embed more engaging, lifelike AI interactions into applications, potentially boosting user retention and opening new creative use cases.",
-      "category": "AI",
-      "publishedAt": "2026-09-24T19:59:26Z"
-    },
-    {
-      "id": "art-1790383493472-6",
-      "title": "EXCLUSIVE: How Ubisoft and Nintendo’s Partnership Ended With a Canceled Zelda Title - Insider Gaming",
-      "source": "Insider-gaming.com",
-      "url": "https://insider-gaming.com/ubisoft-nintendo-canceled-zelda-title/",
-      "summary": "Ubisoft and Nintendo had planned a joint Zelda title, but the project was scrapped after a prototype was revealed in late 2023. The cancellation highlights the challenges of cross-company collaborations in the gaming industry.",
-      "whyItMatters": "The shutdown underscores the importance of clear project governance and risk management for software developers working on high-profile, multi-stakeholder projects.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-24T19:06:08Z"
-    },
-    {
-      "id": "art-1790383494246-7",
-      "title": "This ‘World of Warcraft: Forever’ Mod Blocks All Interactions With Asmongold Fans - 404 Media",
-      "source": "404media.co",
-      "url": "https://www.404media.co/this-world-of-warcraft-forever-mod-blocks-all-interactions-with-asmongold-fans/",
-      "summary": "A former fan created a mod for World of Warcraft: Forever that blocks all interactions with Asmongold’s followers, who were spamming public spaces with slurs and hate. The mod effectively silences the streamer’s fanbase, preventing further harassment within the game’s community.",
-      "whyItMatters": "This demonstrates how community-driven mods can be leveraged to enforce moderation, highlighting the need for developers to consider built-in tools for user-generated content filtering.",
+      "id": "art-1790469899635-1",
+      "title": "Google ads caught delivering convincing scareware ads to unsuspecting users - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+      "summary": "Google ads have been found distributing convincing scareware ads that trick users into downloading malicious software. The ads, appearing across the web, exploit Google's advertising platform to reach a wide audience with deceptive scare tactics.",
+      "whyItMatters": "This exposes a vulnerability in major ad networks, highlighting the need for stricter ad vetting and security monitoring to protect users and maintain trust in online advertising ecosystems.",
       "category": "Security",
-      "publishedAt": "2026-09-24T18:21:57Z"
+      "publishedAt": "2026-09-25T19:38:59Z"
     },
     {
-      "id": "art-1790383494642-8",
-      "title": "Apple has three products launching soon that we’ve waited a long time for - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/24/apple-has-three-products-launching-soon-that-weve-waited-a-long-time-for/",
-      "summary": "Apple is set to unveil three highly anticipated products in October, including the next-generation iPhone, a new Apple Watch, and an updated MacBook Pro. These releases mark a significant boost to the company's product lineup after a quiet period.",
-      "whyItMatters": "Developers will need to adapt to new hardware features and APIs, offering opportunities to optimize performance and unlock fresh user experiences across iOS and macOS.",
+      "id": "art-1790469900257-2",
+      "title": "Apple Finally Shares tvOS 27 Release Notes With List of New Features - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/25/tvos-27-release-notes/",
+      "summary": "Apple released tvOS 27 release notes, detailing new features such as enhanced Siri integration, improved Apple TV+ streaming, and updated developer tools. The notes also cover performance boosts, bug fixes, and UI refinements that refine the overall Apple TV experience.",
+      "whyItMatters": "The updates give developers new capabilities and smoother tools to build richer, more responsive Apple TV apps, accelerating innovation on the platform.",
       "category": "Mobile",
-      "publishedAt": "2026-09-24T18:09:00Z"
+      "publishedAt": "2026-09-25T18:58:04Z"
+    },
+    {
+      "id": "art-1790469900804-3",
+      "title": "Google's $5 AI plan is now even more tempting - Android Authority",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-ai-plans-premium-colab-benefits-3715703/",
+      "summary": "Google has upgraded its $5 AI plan to include premium Colab benefits such as faster computing, GPU access, and additional features for subscribers, making the offer even more attractive.",
+      "whyItMatters": "By lowering the cost of high-performance GPU resources, the plan enables developers to experiment with and deploy AI models more quickly and affordably, accelerating innovation in the industry.",
+      "category": "Cloud",
+      "publishedAt": "2026-09-25T18:39:00Z"
+    },
+    {
+      "id": "art-1790469901332-4",
+      "title": "NISA CEO Says He's Having 'Discussions' With Sony About Discs - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/disgaea-dev-ceo-discussions-sony-physical-discs-2000737194",
+      "summary": "NISA's CEO has announced that the company is in talks with Sony regarding the use of discs for distribution, indicating a potential shift in how games or software might be delivered. The discussions are still tentative, with the CEO noting that the outcome could change in the future.",
+      "whyItMatters": "It could alter the distribution pipeline for developers, affecting how they package and deliver software to consumers.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-25T18:11:16Z"
+    },
+    {
+      "id": "art-1790469901916-5",
+      "title": "Cover Reveal – Grand Theft Auto VI - Game Informer",
+      "source": "Gameinformer.com",
+      "url": "https://gameinformer.com/cover-reveal/2026/09/25/cover-reveal-grand-theft-auto-vi",
+      "summary": "Rockstar Games has unveiled the cover art for Grand Theft Auto VI, signaling the upcoming release of its next crime epic. The reveal, featured in Game Informer, builds anticipation among fans and industry observers.",
+      "whyItMatters": "The announcement underscores the continued dominance of large-scale AAA titles, influencing resource allocation and marketing strategies for software developers.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-25T18:00:00Z"
+    },
+    {
+      "id": "art-1790469902305-6",
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\" - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "summary": "Microsoft has removed the Copilot+ PC branding from its new Surface laptops, signaling a shift in how it markets its AI integration. The company now promotes Copilot features as available on standard devices rather than a specialized PC line.",
+      "whyItMatters": "By decoupling Copilot from a specific hardware requirement, Microsoft makes AI tools more accessible to developers and users, potentially accelerating adoption and reducing barriers to entry.",
+      "category": "AI",
+      "publishedAt": "2026-09-25T17:57:37Z"
+    },
+    {
+      "id": "art-1790469902934-8",
+      "title": "Several Final Fantasy XIV Modding Communities Have Banned Popular NSFW Modder - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/final-fantasy-14-nsfw-modder-noffletoff-alleged-csam-discussion-ring-2000737071",
+      "summary": "Final Fantasy XIV modding communities have banned a popular NSFW modder after credible accusations of engaging in graphic discussions of illegal content. The move underscores the growing scrutiny of user-generated content and the need for stricter moderation policies.",
+      "whyItMatters": "It highlights how developers and platform operators must enforce content policies to protect users and maintain community trust.",
+      "category": "Security",
+      "publishedAt": "2026-09-25T17:00:02Z"
     }
   ]
 }
