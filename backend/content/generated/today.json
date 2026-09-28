@@ -1,85 +1,95 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "articles": [
     {
-      "id": "art-1790469899333-0",
-      "title": "Google Health 5.09 rolling out: Cardio Load from third-party workouts, more - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/09/25/google-health-5-09-release-notes/",
-      "summary": "Google Health version 5.09 is now rolling out, adding support for the new Health Guardian features on the Pixel Watch and enabling Cardio Load tracking from third‑party workouts. The update expands the health data ecosystem on Android devices.",
-      "whyItMatters": "Developers can now access richer health metrics and integrate Guardian alerts into their apps, opening new opportunities for fitness and wellness services on Android.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-25T20:09:00Z"
-    },
-    {
-      "id": "art-1790469899635-1",
-      "title": "Google ads caught delivering convincing scareware ads to unsuspecting users - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-      "summary": "Google ads have been found distributing convincing scareware ads that trick users into downloading malicious software. The ads, appearing across the web, exploit Google's advertising platform to reach a wide audience with deceptive scare tactics.",
-      "whyItMatters": "This exposes a vulnerability in major ad networks, highlighting the need for stricter ad vetting and security monitoring to protect users and maintain trust in online advertising ecosystems.",
-      "category": "Security",
-      "publishedAt": "2026-09-25T19:38:59Z"
-    },
-    {
-      "id": "art-1790469900257-2",
-      "title": "Apple Finally Shares tvOS 27 Release Notes With List of New Features - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/25/tvos-27-release-notes/",
-      "summary": "Apple released tvOS 27 release notes, detailing new features such as enhanced Siri integration, improved Apple TV+ streaming, and updated developer tools. The notes also cover performance boosts, bug fixes, and UI refinements that refine the overall Apple TV experience.",
-      "whyItMatters": "The updates give developers new capabilities and smoother tools to build richer, more responsive Apple TV apps, accelerating innovation on the platform.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-25T18:58:04Z"
-    },
-    {
-      "id": "art-1790469900804-3",
-      "title": "Google's $5 AI plan is now even more tempting - Android Authority",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-ai-plans-premium-colab-benefits-3715703/",
-      "summary": "Google has upgraded its $5 AI plan to include premium Colab benefits such as faster computing, GPU access, and additional features for subscribers, making the offer even more attractive.",
-      "whyItMatters": "By lowering the cost of high-performance GPU resources, the plan enables developers to experiment with and deploy AI models more quickly and affordably, accelerating innovation in the industry.",
-      "category": "Cloud",
-      "publishedAt": "2026-09-25T18:39:00Z"
-    },
-    {
-      "id": "art-1790469901332-4",
-      "title": "NISA CEO Says He's Having 'Discussions' With Sony About Discs - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/disgaea-dev-ceo-discussions-sony-physical-discs-2000737194",
-      "summary": "NISA's CEO has announced that the company is in talks with Sony regarding the use of discs for distribution, indicating a potential shift in how games or software might be delivered. The discussions are still tentative, with the CEO noting that the outcome could change in the future.",
-      "whyItMatters": "It could alter the distribution pipeline for developers, affecting how they package and deliver software to consumers.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-25T18:11:16Z"
-    },
-    {
-      "id": "art-1790469901916-5",
-      "title": "Cover Reveal – Grand Theft Auto VI - Game Informer",
-      "source": "Gameinformer.com",
-      "url": "https://gameinformer.com/cover-reveal/2026/09/25/cover-reveal-grand-theft-auto-vi",
-      "summary": "Rockstar Games has unveiled the cover art for Grand Theft Auto VI, signaling the upcoming release of its next crime epic. The reveal, featured in Game Informer, builds anticipation among fans and industry observers.",
-      "whyItMatters": "The announcement underscores the continued dominance of large-scale AAA titles, influencing resource allocation and marketing strategies for software developers.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-25T18:00:00Z"
-    },
-    {
-      "id": "art-1790469902305-6",
-      "title": "Microsoft stops insisting you need a \"Copilot+ PC\" - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-      "summary": "Microsoft has removed the Copilot+ PC branding from its new Surface laptops, signaling a shift in how it markets its AI integration. The company now promotes Copilot features as available on standard devices rather than a specialized PC line.",
-      "whyItMatters": "By decoupling Copilot from a specific hardware requirement, Microsoft makes AI tools more accessible to developers and users, potentially accelerating adoption and reducing barriers to entry.",
+      "id": "art-1790557193551-0",
+      "title": "What does Meta’s Muse do that Spotify’s AI can’t? - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/spotify-meta-muse-ai-integration",
+      "summary": "Meta’s Muse AI can generate playlists and link music listening to users’ schedules and other plans, offering a more integrated experience than Spotify’s AI. It expands the role of AI from simple recommendation to orchestrating a user’s entire day around music.",
+      "whyItMatters": "It demonstrates how AI can be embedded into productivity workflows, prompting developers to design cross‑service integrations that go beyond traditional recommendation engines.",
       "category": "AI",
-      "publishedAt": "2026-09-25T17:57:37Z"
+      "publishedAt": "2026-09-26T21:55:56Z"
     },
     {
-      "id": "art-1790469902934-8",
-      "title": "Several Final Fantasy XIV Modding Communities Have Banned Popular NSFW Modder - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/final-fantasy-14-nsfw-modder-noffletoff-alleged-csam-discussion-ring-2000737071",
-      "summary": "Final Fantasy XIV modding communities have banned a popular NSFW modder after credible accusations of engaging in graphic discussions of illegal content. The move underscores the growing scrutiny of user-generated content and the need for stricter moderation policies.",
-      "whyItMatters": "It highlights how developers and platform operators must enforce content policies to protect users and maintain community trust.",
-      "category": "Security",
-      "publishedAt": "2026-09-25T17:00:02Z"
+      "id": "art-1790557193985-1",
+      "title": "Despite widespread rumors, Xbox insiders say the PHYSINT deal cost “significantly less” than $400 million - windowscentral.com",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/xbox/no-xbox-didnt-pay-usd400-million-for-hideo-kojimas-physint",
+      "summary": "Xbox insiders confirm that the PHYSINT deal with Kojima Productions cost significantly less than the rumored $400 million, though the final project expenses remain uncertain. The revelation dampens speculation about the scale of the investment and suggests the partnership may be more modest than initially thought.",
+      "whyItMatters": "Knowing the true cost of high‑profile game development deals helps developers gauge realistic budgets and investment expectations for large‑scale projects.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-26T19:11:48Z"
+    },
+    {
+      "id": "art-1790557194688-2",
+      "title": "Apple Watch Series 12 one week later: There’s so much more than meets the eye - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/26/apple-watch-series-12-one-week-later/",
+      "summary": "Apple’s latest Apple Watch Series 12 introduces the Siri Recap feature, which compiles daily activity and health data into a concise voice summary, and adds new health sensors for more accurate monitoring. The update also brings a refreshed design and improved battery life, positioning the watch as a more comprehensive personal health companion.",
+      "whyItMatters": "Developers can leverage the expanded health data APIs and Siri Recap integration to build richer fitness and wellness apps that deliver personalized insights directly to users.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-26T16:59:00Z"
+    },
+    {
+      "id": "art-1790557195285-3",
+      "title": "The Witcher 3 Remastered Download Size, Global Release Times and Review Embargo Lift Dates Revealed - MP1st",
+      "source": "http://mp1st.com/category/news",
+      "url": "https://mp1st.com/news/the-witcher-3-remastered-download-size-global-release-times-review-embargo-lift-dates",
+      "summary": "The Witcher 3 remastered update has been announced with its download size, global release schedule, and review embargo lift dates. Fans can now plan their downloads and anticipate when reviews will be available.",
+      "whyItMatters": "It highlights the importance of efficient release pipelines and asset optimization for game developers, ensuring smoother distribution and timely content delivery.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-26T16:28:56Z"
+    },
+    {
+      "id": "art-1790557196020-4",
+      "title": "How Long Does The New Siri AI Take To Activate On iOS 27? - bgr.com",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2269478/how-long-does-it-take-to-activate-siri-ai-on-ios-27/",
+      "summary": "Apple's new Siri AI rollout on iOS 27 has been delayed, with users reporting wait times ranging from a few hours to almost a week before the feature became available. The staggered activation highlights challenges in deploying large-scale AI updates across millions of devices.",
+      "whyItMatters": "Developers must account for delayed AI feature rollouts when planning app integrations and user experience updates, as inconsistent availability can affect app performance and user expectations.",
+      "category": "AI",
+      "publishedAt": "2026-09-26T15:32:00Z"
+    },
+    {
+      "id": "art-1790557196526-5",
+      "title": "Castlevania's original 1986 game is free right now to mark the series' 40th birthday - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/castlevania-40th-anniversary-free-original-game-belmonts-curse",
+      "summary": "Konami is offering the original 1986 Castlevania game for free to celebrate the series' 40th anniversary, while also promoting deep discounts on the franchise and announcing a new title, Belmont's Curse. The free release coincides with a broader marketing push that includes sales on older titles and a fresh entry to keep the franchise relevant.",
+      "whyItMatters": "Releasing classic titles for free can boost brand loyalty, drive traffic to newer releases, and provide a low-cost distribution model that developers can emulate for legacy content.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-26T15:28:01Z"
+    },
+    {
+      "id": "art-1790557196869-6",
+      "title": "Which Galaxy phones are getting One UI 9 and when? - Android Police",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/which-galaxy-phones-are-getting-one-ui-9-and-when/",
+      "summary": "Samsung’s One UI 9 is rolling out gradually, with flagship Galaxy S24 and Galaxy Z Fold 5 receiving the update first, while older models like the Galaxy S22 and certain mid‑range devices will wait for later releases. The update introduces a refreshed UI, new privacy controls, and performance tweaks that aim to enhance user experience across the ecosystem.",
+      "whyItMatters": "Developers need to account for the new UI changes and privacy features when building or updating apps to ensure compatibility and optimal performance on the latest Samsung devices.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-26T15:15:10Z"
+    },
+    {
+      "id": "art-1790557197641-7",
+      "title": "Control Resonant becomes Remedy's top Steam launch, and even pirates are telling people to buy it - TweakTown",
+      "source": "TweakTown",
+      "url": "https://www.tweaktown.com/news/113772/control-resonant-becomes-remedys-top-steam-launch-and-even-pirates-are-telling-people-to-buy-it/index.html",
+      "summary": "Control Resonant, a new title from Remedy, topped Steam's bestseller chart immediately upon release, securing an 88% positive review score. The game's rapid success has even prompted piracy communities to recommend legitimate purchases, highlighting its strong market impact.",
+      "whyItMatters": "The launch demonstrates how a well-executed release strategy can drive immediate sales and positive community engagement, offering a case study for developers on maximizing launch momentum.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-26T14:30:09Z"
+    },
+    {
+      "id": "art-1790557198119-8",
+      "title": "Intel Panther Lake Teardown - SemiAnalysis",
+      "source": "Semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/intel-panther-lake-teardown",
+      "summary": "Intel’s latest Panther Lake processor has been dissected in a free SemiAnalysis STEEL teardown, revealing the inner workings of the 18A architecture and its new design choices. The report provides detailed schematics, component placement, and performance insights for engineers and enthusiasts.",
+      "whyItMatters": "Understanding the hardware layout helps developers optimize low‑level code and informs future CPU design trends, impacting performance tuning and system architecture decisions.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-26T13:36:32Z"
     }
   ]
 }
