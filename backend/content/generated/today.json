@@ -1,95 +1,75 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "articles": [
     {
-      "id": "art-1790557193551-0",
-      "title": "What does Meta’s Muse do that Spotify’s AI can’t? - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/spotify-meta-muse-ai-integration",
-      "summary": "Meta’s Muse AI can generate playlists and link music listening to users’ schedules and other plans, offering a more integrated experience than Spotify’s AI. It expands the role of AI from simple recommendation to orchestrating a user’s entire day around music.",
-      "whyItMatters": "It demonstrates how AI can be embedded into productivity workflows, prompting developers to design cross‑service integrations that go beyond traditional recommendation engines.",
-      "category": "AI",
-      "publishedAt": "2026-09-26T21:55:56Z"
+      "id": "art-1790647703846-0",
+      "title": "23 Awful, Selfish, Entitled People Who Felt The World Owed Them Everything - buzzfeed.com",
+      "source": "Buzzfeed",
+      "url": "https://www.buzzfeed.com/ajanibazile/extremely-entitled-people",
+      "summary": "BuzzFeed publishes a list of 23 individuals described as awful, selfish, and entitled, claiming they believe the world owes them everything. The piece serves as a reality check, critiquing entitlement culture and encouraging readers to reflect on their own attitudes.",
+      "whyItMatters": "It underscores the importance of responsible content creation and moderation for developers building platforms that host user-generated content.",
+      "category": "Web Dev",
+      "publishedAt": "2026-09-27T23:31:02Z"
     },
     {
-      "id": "art-1790557193985-1",
-      "title": "Despite widespread rumors, Xbox insiders say the PHYSINT deal cost “significantly less” than $400 million - windowscentral.com",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/gaming/xbox/no-xbox-didnt-pay-usd400-million-for-hideo-kojimas-physint",
-      "summary": "Xbox insiders confirm that the PHYSINT deal with Kojima Productions cost significantly less than the rumored $400 million, though the final project expenses remain uncertain. The revelation dampens speculation about the scale of the investment and suggests the partnership may be more modest than initially thought.",
-      "whyItMatters": "Knowing the true cost of high‑profile game development deals helps developers gauge realistic budgets and investment expectations for large‑scale projects.",
+      "id": "art-1790647704578-1",
+      "title": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
+      "summary": "Sony is listening to customer feedback regarding the PS5 disc debate, with NIS America’s boss weighing in on the issue. The company remains uncertain about the future direction, hinting that decisions will be made based on market response.",
+      "whyItMatters": "The outcome will influence how developers release and distribute games, potentially affecting storage, DRM, and distribution strategies.",
+      "category": "Cloud",
+      "publishedAt": "2026-09-27T22:00:00Z"
+    },
+    {
+      "id": "art-1790647705595-2",
+      "title": "12 Quick EVs That Can Hit 60 MPH In 3.5 Seconds Or Less - Jalopnik",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/2269661/quick-evs-60-mph-3-5-seconds-or-less/",
+      "summary": "The article lists twelve electric vehicles capable of accelerating from 0 to 60 mph in 3.5 seconds or less, highlighting models such as the Hyundai Ioniq 5 N, Tesla Model 3 Performance, and Porsche Macan Turbo Electric. It showcases the rapid advancements in EV powertrain technology and the growing competition among manufacturers to deliver high-performance electric cars.",
+      "whyItMatters": "For software developers, the push for faster acceleration in EVs drives demand for more efficient power management algorithms and real-time control systems, influencing the development of automotive software stacks.",
       "category": "DevOps",
-      "publishedAt": "2026-09-26T19:11:48Z"
+      "publishedAt": "2026-09-27T20:45:00Z"
     },
     {
-      "id": "art-1790557194688-2",
-      "title": "Apple Watch Series 12 one week later: There’s so much more than meets the eye - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/26/apple-watch-series-12-one-week-later/",
-      "summary": "Apple’s latest Apple Watch Series 12 introduces the Siri Recap feature, which compiles daily activity and health data into a concise voice summary, and adds new health sensors for more accurate monitoring. The update also brings a refreshed design and improved battery life, positioning the watch as a more comprehensive personal health companion.",
-      "whyItMatters": "Developers can leverage the expanded health data APIs and Siri Recap integration to build richer fitness and wellness apps that deliver personalized insights directly to users.",
+      "id": "art-1790647706052-4",
+      "title": "Experimental Emulator Brings Nintendo Switch Games to Jailbroken PS5 Consoles - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/353135/experimental-emulator-brings-nintendo-switch-games-to-jailbroken-ps5-consoles",
+      "summary": "An unofficial port of the Eden Nintendo Switch emulator, ProsperoEden, now runs natively on jailbroken PlayStation 5 consoles, allowing Switch games to be played on Sony hardware. The project adapts Eden, a fork of the defunct Yuzu emulator, to work directly on the PS5’s operating system.",
+      "whyItMatters": "It demonstrates how emulation can cross console boundaries, raising both opportunities for developers to test cross-platform compatibility and security concerns around jailbroken devices.",
+      "category": "Security",
+      "publishedAt": "2026-09-27T19:06:59Z"
+    },
+    {
+      "id": "art-1790647706842-5",
+      "title": "Melissa Joan Hart sparks reaction while showing off weight loss transformation in new gym video - Yahoo",
+      "source": "HELLO!",
+      "url": "https://www.hellomagazine.com/us/925656/melissa-joan-hart-sparks-reaction-showcasing-weight-loss-workout-video/",
+      "summary": "Melissa Joan Hart posted a new gym workout video on Instagram, showcasing her weight loss transformation. The video has sparked reactions from fans and followers.",
+      "whyItMatters": "The popularity of influencer fitness content on Instagram highlights the importance of mobile app engagement and content monetization strategies for developers building social media platforms.",
       "category": "Mobile",
-      "publishedAt": "2026-09-26T16:59:00Z"
+      "publishedAt": "2026-09-27T18:14:34Z"
     },
     {
-      "id": "art-1790557195285-3",
-      "title": "The Witcher 3 Remastered Download Size, Global Release Times and Review Embargo Lift Dates Revealed - MP1st",
-      "source": "http://mp1st.com/category/news",
-      "url": "https://mp1st.com/news/the-witcher-3-remastered-download-size-global-release-times-review-embargo-lift-dates",
-      "summary": "The Witcher 3 remastered update has been announced with its download size, global release schedule, and review embargo lift dates. Fans can now plan their downloads and anticipate when reviews will be available.",
-      "whyItMatters": "It highlights the importance of efficient release pipelines and asset optimization for game developers, ensuring smoother distribution and timely content delivery.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-26T16:28:56Z"
-    },
-    {
-      "id": "art-1790557196020-4",
-      "title": "How Long Does The New Siri AI Take To Activate On iOS 27? - bgr.com",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2269478/how-long-does-it-take-to-activate-siri-ai-on-ios-27/",
-      "summary": "Apple's new Siri AI rollout on iOS 27 has been delayed, with users reporting wait times ranging from a few hours to almost a week before the feature became available. The staggered activation highlights challenges in deploying large-scale AI updates across millions of devices.",
-      "whyItMatters": "Developers must account for delayed AI feature rollouts when planning app integrations and user experience updates, as inconsistent availability can affect app performance and user expectations.",
+      "id": "art-1790647707383-6",
+      "title": "Gemini app replacing Gems with skills in November - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/09/27/gemini-gems-skills/",
+      "summary": "Google introduced Gems as custom versions of its Gemini AI in 2024, allowing tailored experiences. The upcoming Gemini app will replace Gems with a new 'skills' system, streamlining how users extend the AI's capabilities.",
+      "whyItMatters": "This shift simplifies integration for developers, enabling them to add specialized AI functions without managing separate Gem instances.",
       "category": "AI",
-      "publishedAt": "2026-09-26T15:32:00Z"
+      "publishedAt": "2026-09-27T17:26:00Z"
     },
     {
-      "id": "art-1790557196526-5",
-      "title": "Castlevania's original 1986 game is free right now to mark the series' 40th birthday - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/castlevania-40th-anniversary-free-original-game-belmonts-curse",
-      "summary": "Konami is offering the original 1986 Castlevania game for free to celebrate the series' 40th anniversary, while also promoting deep discounts on the franchise and announcing a new title, Belmont's Curse. The free release coincides with a broader marketing push that includes sales on older titles and a fresh entry to keep the franchise relevant.",
-      "whyItMatters": "Releasing classic titles for free can boost brand loyalty, drive traffic to newer releases, and provide a low-cost distribution model that developers can emulate for legacy content.",
+      "id": "art-1790647708056-7",
+      "title": "The Witcher dev reveals why CD Projekt Red doesn't like doing crossovers in its own games - Polygon.com",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/the-witcher-cyberpunk-no-crossover-content/",
+      "summary": "CD Projekt Red's developer explained that the studio avoids crossovers in its own titles to maintain narrative integrity, even though a Geralt-inspired skin will appear in Diablo 4. The decision underscores a broader industry trend of balancing fan service with brand consistency.",
+      "whyItMatters": "It highlights how development teams prioritize brand identity over cross-promotional opportunities, influencing future game design and marketing strategies.",
       "category": "DevOps",
-      "publishedAt": "2026-09-26T15:28:01Z"
-    },
-    {
-      "id": "art-1790557196869-6",
-      "title": "Which Galaxy phones are getting One UI 9 and when? - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/which-galaxy-phones-are-getting-one-ui-9-and-when/",
-      "summary": "Samsung’s One UI 9 is rolling out gradually, with flagship Galaxy S24 and Galaxy Z Fold 5 receiving the update first, while older models like the Galaxy S22 and certain mid‑range devices will wait for later releases. The update introduces a refreshed UI, new privacy controls, and performance tweaks that aim to enhance user experience across the ecosystem.",
-      "whyItMatters": "Developers need to account for the new UI changes and privacy features when building or updating apps to ensure compatibility and optimal performance on the latest Samsung devices.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-26T15:15:10Z"
-    },
-    {
-      "id": "art-1790557197641-7",
-      "title": "Control Resonant becomes Remedy's top Steam launch, and even pirates are telling people to buy it - TweakTown",
-      "source": "TweakTown",
-      "url": "https://www.tweaktown.com/news/113772/control-resonant-becomes-remedys-top-steam-launch-and-even-pirates-are-telling-people-to-buy-it/index.html",
-      "summary": "Control Resonant, a new title from Remedy, topped Steam's bestseller chart immediately upon release, securing an 88% positive review score. The game's rapid success has even prompted piracy communities to recommend legitimate purchases, highlighting its strong market impact.",
-      "whyItMatters": "The launch demonstrates how a well-executed release strategy can drive immediate sales and positive community engagement, offering a case study for developers on maximizing launch momentum.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-26T14:30:09Z"
-    },
-    {
-      "id": "art-1790557198119-8",
-      "title": "Intel Panther Lake Teardown - SemiAnalysis",
-      "source": "Semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/intel-panther-lake-teardown",
-      "summary": "Intel’s latest Panther Lake processor has been dissected in a free SemiAnalysis STEEL teardown, revealing the inner workings of the 18A architecture and its new design choices. The report provides detailed schematics, component placement, and performance insights for engineers and enthusiasts.",
-      "whyItMatters": "Understanding the hardware layout helps developers optimize low‑level code and informs future CPU design trends, impacting performance tuning and system architecture decisions.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-26T13:36:32Z"
+      "publishedAt": "2026-09-27T16:31:42Z"
     }
   ]
 }
