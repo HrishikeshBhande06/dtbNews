@@ -1,75 +1,105 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "articles": [
     {
-      "id": "art-1790647703846-0",
-      "title": "23 Awful, Selfish, Entitled People Who Felt The World Owed Them Everything - buzzfeed.com",
-      "source": "Buzzfeed",
-      "url": "https://www.buzzfeed.com/ajanibazile/extremely-entitled-people",
-      "summary": "BuzzFeed publishes a list of 23 individuals described as awful, selfish, and entitled, claiming they believe the world owes them everything. The piece serves as a reality check, critiquing entitlement culture and encouraging readers to reflect on their own attitudes.",
-      "whyItMatters": "It underscores the importance of responsible content creation and moderation for developers building platforms that host user-generated content.",
-      "category": "Web Dev",
-      "publishedAt": "2026-09-27T23:31:02Z"
-    },
-    {
-      "id": "art-1790647704578-1",
-      "title": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
-      "summary": "Sony is listening to customer feedback regarding the PS5 disc debate, with NIS America’s boss weighing in on the issue. The company remains uncertain about the future direction, hinting that decisions will be made based on market response.",
-      "whyItMatters": "The outcome will influence how developers release and distribute games, potentially affecting storage, DRM, and distribution strategies.",
-      "category": "Cloud",
-      "publishedAt": "2026-09-27T22:00:00Z"
-    },
-    {
-      "id": "art-1790647705595-2",
-      "title": "12 Quick EVs That Can Hit 60 MPH In 3.5 Seconds Or Less - Jalopnik",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2269661/quick-evs-60-mph-3-5-seconds-or-less/",
-      "summary": "The article lists twelve electric vehicles capable of accelerating from 0 to 60 mph in 3.5 seconds or less, highlighting models such as the Hyundai Ioniq 5 N, Tesla Model 3 Performance, and Porsche Macan Turbo Electric. It showcases the rapid advancements in EV powertrain technology and the growing competition among manufacturers to deliver high-performance electric cars.",
-      "whyItMatters": "For software developers, the push for faster acceleration in EVs drives demand for more efficient power management algorithms and real-time control systems, influencing the development of automotive software stacks.",
+      "id": "art-1790731407365-0",
+      "title": "Naughty Dog Boss Teases 2 New The Last of Us Projects That 'Will Expand the canon...Beyond Part I and Part II' - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/naughty-dog-will-fully-reveal-intergalactic-in-2027-but-no-release-window-yet",
+      "summary": "Naughty Dog’s head Neil Druckmann announced two new The Last of Us projects that will extend the series beyond its first two games. The updates were revealed during the studio’s annual \"The Last of Us Day\" event, hinting at fresh content that could reshape the franchise’s narrative.",
+      "whyItMatters": "These announcements signal continued investment in large-scale, narrative-driven game development, encouraging developers to adopt more robust pipelines and collaborative tools to manage complex, long-term projects.",
       "category": "DevOps",
-      "publishedAt": "2026-09-27T20:45:00Z"
+      "publishedAt": "2026-09-29T00:38:00Z"
     },
     {
-      "id": "art-1790647706052-4",
-      "title": "Experimental Emulator Brings Nintendo Switch Games to Jailbroken PS5 Consoles - TechPowerUp",
-      "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/353135/experimental-emulator-brings-nintendo-switch-games-to-jailbroken-ps5-consoles",
-      "summary": "An unofficial port of the Eden Nintendo Switch emulator, ProsperoEden, now runs natively on jailbroken PlayStation 5 consoles, allowing Switch games to be played on Sony hardware. The project adapts Eden, a fork of the defunct Yuzu emulator, to work directly on the PS5’s operating system.",
-      "whyItMatters": "It demonstrates how emulation can cross console boundaries, raising both opportunities for developers to test cross-platform compatibility and security concerns around jailbroken devices.",
-      "category": "Security",
-      "publishedAt": "2026-09-27T19:06:59Z"
-    },
-    {
-      "id": "art-1790647706842-5",
-      "title": "Melissa Joan Hart sparks reaction while showing off weight loss transformation in new gym video - Yahoo",
-      "source": "HELLO!",
-      "url": "https://www.hellomagazine.com/us/925656/melissa-joan-hart-sparks-reaction-showcasing-weight-loss-workout-video/",
-      "summary": "Melissa Joan Hart posted a new gym workout video on Instagram, showcasing her weight loss transformation. The video has sparked reactions from fans and followers.",
-      "whyItMatters": "The popularity of influencer fitness content on Instagram highlights the importance of mobile app engagement and content monetization strategies for developers building social media platforms.",
+      "id": "art-1790731407710-1",
+      "title": "Motorola's wide foldable now has a name and its specs are out - GSMArena.com news - GSMArena.com",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/motorolas_wide_foldable_now_has_a_name_and_its_specs_are_out-news-74808.php",
+      "summary": "Motorola has officially named its new wide foldable phone and released its specifications, revealing a 7.6-inch foldable display, 120Hz refresh rate, and a Snapdragon 8+ Gen 1 chipset. The announcement comes with concept shots of two color variants and confirms the device’s place in the competitive foldable market.",
+      "whyItMatters": "The new foldable’s high-performance specs and design choices will influence app developers to optimize for larger, flexible screens and could shift market dynamics in the mobile hardware sector.",
       "category": "Mobile",
-      "publishedAt": "2026-09-27T18:14:34Z"
+      "publishedAt": "2026-09-29T00:02:02Z"
     },
     {
-      "id": "art-1790647707383-6",
-      "title": "Gemini app replacing Gems with skills in November - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/09/27/gemini-gems-skills/",
-      "summary": "Google introduced Gems as custom versions of its Gemini AI in 2024, allowing tailored experiences. The upcoming Gemini app will replace Gems with a new 'skills' system, streamlining how users extend the AI's capabilities.",
-      "whyItMatters": "This shift simplifies integration for developers, enabling them to add specialized AI functions without managing separate Gem instances.",
-      "category": "AI",
-      "publishedAt": "2026-09-27T17:26:00Z"
+      "id": "art-1790731408028-2",
+      "title": "New iPad mini to come with A20 Pro chip and landscape camera, report says - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/ipad-mini-8-leak",
+      "summary": "Apple is set to launch a new iPad mini featuring the A20 Pro chip and a landscape camera, alongside releases of a HomePod mini and Apple TV 4K. The updates promise higher performance, improved photography, and expanded ecosystem integration for users and developers alike.",
+      "whyItMatters": "The A20 Pro’s advanced CPU/GPU and camera capabilities will enable developers to create more demanding mobile apps and media experiences, while the new HomePod mini and Apple TV 4K expand the Apple ecosystem, driving demand for cross-device software.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-28T21:51:54Z"
     },
     {
-      "id": "art-1790647708056-7",
-      "title": "The Witcher dev reveals why CD Projekt Red doesn't like doing crossovers in its own games - Polygon.com",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/the-witcher-cyberpunk-no-crossover-content/",
-      "summary": "CD Projekt Red's developer explained that the studio avoids crossovers in its own titles to maintain narrative integrity, even though a Geralt-inspired skin will appear in Diablo 4. The decision underscores a broader industry trend of balancing fan service with brand consistency.",
-      "whyItMatters": "It highlights how development teams prioritize brand identity over cross-promotional opportunities, influencing future game design and marketing strategies.",
+      "id": "art-1790731408563-3",
+      "title": "Here's How Much The Xbox Cost In 2001 Vs. 2026 - bgr.com",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2267016/how-much-xbox-cost-2001-vs-2026/",
+      "summary": "Microsoft's original Xbox launched in 2001 at $299, while the current Xbox Series X is priced up to $899 and the Series S at $499. This price shift reflects the evolving hardware capabilities and market positioning over 25 years.",
+      "whyItMatters": "The price increase signals higher development costs and potential revenue expectations for game developers targeting next‑gen consoles.",
       "category": "DevOps",
-      "publishedAt": "2026-09-27T16:31:42Z"
+      "publishedAt": "2026-09-28T21:47:00Z"
+    },
+    {
+      "id": "art-1790731409047-4",
+      "title": "Kindle rumors: A new basic Kindle might be coming, according to leaked pictures - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/new-kindle-photos-leaked",
+      "summary": "Amazon has reportedly shifted the power button on its Kindle e‑reader, a change revealed in leaked images that suggest a new, more basic Kindle model is in development. The redesign hints at a streamlined, potentially lower‑cost device aimed at expanding the Kindle’s market reach.",
+      "whyItMatters": "Software developers targeting e‑reader platforms may need to adapt their apps for a simpler hardware interface, affecting UI design and power‑management strategies.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-28T21:37:57Z"
+    },
+    {
+      "id": "art-1790731409427-5",
+      "title": "watchOS 27.0.1 is now available for all compatible Apple Watch models - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/28/watchos-27-0-1-is-now-available-for-all-compatible-apple-watch-models/",
+      "summary": "Apple has rolled out watchOS 27.0.1 to all compatible Apple Watch models, expanding on last week’s initial release for the Series 12 and Ultra 4. The update brings bug fixes and performance improvements to the operating system across the entire lineup.",
+      "whyItMatters": "Developers must update and test their watchOS apps against the new version to ensure compatibility and take advantage of any new APIs or performance gains.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-28T21:10:00Z"
+    },
+    {
+      "id": "art-1790731409929-6",
+      "title": "Siri AI is available on newer Apple devices only, here’s the full list - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/28/siri-ai-is-available-on-newer-apple-devices-only-heres-the-full-list/",
+      "summary": "Apple has announced that Siri AI is now available only on newer hardware across its ecosystem, including the latest iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro models. The company released a comprehensive list detailing which devices support the enhanced AI capabilities.",
+      "whyItMatters": "Developers must target newer hardware to leverage Siri AI features, influencing app compatibility, feature planning, and potentially increasing the cost of supporting legacy devices.",
+      "category": "AI",
+      "publishedAt": "2026-09-28T19:43:00Z"
+    },
+    {
+      "id": "art-1790731410537-7",
+      "title": "iPhone 18 Pro First Impressions: What Do You Think So Far? - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/28/iphone-18-pro-first-impressions/",
+      "summary": "The iPhone 18 Pro has just launched, and MacRumors is gathering early user impressions to gauge reception. Early reviews highlight its upgraded camera, faster processor, and new design tweaks that could influence future app development.",
+      "whyItMatters": "Developers will need to optimize apps for the iPhone 18 Pro's new hardware capabilities, potentially driving demand for updated SDKs and performance enhancements.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-28T19:26:48Z"
+    },
+    {
+      "id": "art-1790731411116-8",
+      "title": "The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
+      "summary": "The Last of Us Day celebrated with new PS5 avatars, the Ghost of Yotei DLC, and collectible figures, offering fans fresh content and merchandise. The event highlights ongoing support and monetization strategies for the franchise.",
+      "whyItMatters": "It underscores the importance of robust build and deployment pipelines for timely DLC releases, prompting developers to refine their DevOps workflows.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-28T18:21:05Z"
+    },
+    {
+      "id": "art-1790731411659-9",
+      "title": "Meta’s Smart Glasses PR Cleanup Campaign Is in Full Swing - Gizmodo",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/meta-smart-glasses-public-perception-2000818140",
+      "summary": "Meta is launching a PR cleanup campaign for its smart glasses following criticism at Meta Connect. The company is emphasizing user privacy and safety to regain trust.",
+      "whyItMatters": "The move signals that developers building AR/VR applications must prioritize privacy and transparency to avoid backlash.",
+      "category": "Mobile",
+      "publishedAt": "2026-09-28T18:20:41Z"
     }
   ]
 }
