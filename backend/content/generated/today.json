@@ -1,95 +1,105 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "articles": [
     {
-      "id": "art-1790817819441-0",
-      "title": "I Drove The Mustang Dark Horse SC. It's The Everyday GTD: Driven - Motor1.com",
-      "source": "Motor1 ",
-      "url": "https://www.motor1.com/reviews/809912/ford-mustang-dark-horse-sc-review/",
-      "summary": "The Mustang Dark Horse SC boasts 795 horsepower, track-ready hardware, and a six-figure price tag, delivering GTD-level thrills while remaining practical for everyday use. It showcases how automotive engineering can push performance boundaries without sacrificing daily drivability.",
-      "whyItMatters": "High-performance automotive tech can inspire software developers to optimize performance and reliability in their own systems, demonstrating the importance of balancing cutting-edge features with everyday usability.",
-      "category": "DevOps",
-      "publishedAt": "2026-09-29T21:00:59Z"
-    },
-    {
-      "id": "art-1790817820031-1",
-      "title": "iPhone 18 Pro Owners Complain of Speaker Crackling or Popping - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/29/iphone-18-pro-speaker-crackling/",
-      "summary": "iPhone 18 Pro users report crackling or popping sounds from the device's speaker, prompting complaints on MacRumors. The issue appears to affect a subset of devices, though Apple has not yet issued a fix or statement.",
-      "whyItMatters": "Developers may need to account for audio hardware inconsistencies when building apps that rely on precise sound output, and the issue could influence future hardware quality assurance practices.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-29T20:44:12Z"
-    },
-    {
-      "id": "art-1790817820804-2",
-      "title": "Android 17 QPR2 Beta 6.1 rolling out, including for Pixel 11 - 9to5Google",
+      "id": "art-1790905486895-0",
+      "title": "Google Home update rolling out with better 'Find My Phone' voice commands, smart home improvements - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/09/29/android-17-qpr2-beta-6-1/",
-      "summary": "Google has released Android 17 QPR2 Beta 6.1, now available for the Pixel 11 series. The update brings the latest platform features and bug fixes to the flagship device line.",
-      "whyItMatters": "Developers must update their apps to ensure compatibility with the new beta, as it introduces changes that could affect app performance and user experience on Pixel 11 devices.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-29T20:39:00Z"
-    },
-    {
-      "id": "art-1790817821351-3",
-      "title": "OpenAI’s latest features take direct aim at the app store model - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "summary": "OpenAI is expanding ChatGPT into a marketplace where users and AI agents can discover and run software, bypassing traditional app store constraints. This move positions ChatGPT as a new distribution platform that could reshape how developers release and monetize their tools.",
-      "whyItMatters": "It gives developers a direct channel to reach users without app store fees, potentially lowering barriers to entry and accelerating innovation.",
+      "url": "http://9to5google.com/2026/09/30/google-home-update-find-my-phone-improvements/",
+      "summary": "Google has released a new Home update that enhances the \"Find My Phone\" voice command and adds several smart‑home improvements, such as better device discovery and more responsive voice interactions. The update also brings new features for controlling lights, thermostats, and other connected devices through the Google Home app and voice assistant.",
+      "whyItMatters": "The improved voice command and device integration give developers richer APIs for building more intuitive smart‑home experiences, potentially increasing user engagement and adoption of Google’s ecosystem.",
       "category": "AI",
-      "publishedAt": "2026-09-29T20:15:47Z"
+      "publishedAt": "2026-09-30T21:30:00Z"
     },
     {
-      "id": "art-1790817822081-4",
-      "title": "Gen-Z doesn’t carry wallets — so I asked our editors what they’re carrying instead - NBC News",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/select/shopping/best-wallet-alternatives-rcna600249",
-      "summary": "Gen‑Z users are ditching traditional wallets in favor of compact accessories like wristlets and Magsafe cardholders, a trend highlighted by NBC News editors. The shift reflects a broader move toward minimalism and integrated mobile payment solutions.",
-      "whyItMatters": "Software developers must adapt mobile apps to support contactless payments and NFC integration with these new wallet alternatives, influencing UI/UX and security protocols.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-29T20:10:39Z"
+      "id": "art-1790905487825-1",
+      "title": "The Disney protests were a wake-up call about the risks of streaming mergers - arstechnica.com",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
+      "summary": "Disney's recent streaming mergers have sparked protests, highlighting the challenges of consolidating content platforms and the difficulty of boycotting a giant media conglomerate. The article argues that these protests serve as a wake‑up call to the industry about the risks of unchecked streaming consolidation.",
+      "whyItMatters": "For software developers, the consolidation of streaming services can limit API access, increase vendor lock‑in, and complicate integration with cloud‑based media delivery pipelines.",
+      "category": "Cloud",
+      "publishedAt": "2026-09-30T19:22:19Z"
     },
     {
-      "id": "art-1790817822608-5",
-      "title": "You Can 'Get Ready' for iPhone Duo Pre-Orders on October 12 - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/29/iphone-duo-get-ready-oct-12/",
-      "summary": "Apple has announced that users can begin the \"Get Ready\" process for the upcoming iPhone Duo on October 12, allowing them to prepare for pre-orders. The new detail confirms the company’s push toward a dual‑screen smartphone, adding a new step for interested buyers.",
-      "whyItMatters": "Mobile developers will need to adapt their apps to support dual‑screen functionality, potentially requiring new UI paradigms and testing strategies.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-29T20:10:19Z"
-    },
-    {
-      "id": "art-1790817823134-6",
-      "title": "GTA 6 Won’t Spoof Disney World, And That’s Too Bad - GameSpot",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/gta-6-wont-spoof-disney-world-and-thats-too-bad/",
-      "summary": "Rockstar Games has decided not to include a spoofed Disney World location in GTA 6, opting instead for a different approach to in-game environments. This move highlights the company's focus on originality and legal considerations over fan service.",
-      "whyItMatters": "The decision underscores the importance of respecting intellectual property and avoiding location spoofing, which can expose developers to legal risks and security scrutiny.",
-      "category": "Security",
-      "publishedAt": "2026-09-29T19:25:43Z"
-    },
-    {
-      "id": "art-1790817823639-7",
-      "title": "Forgotten PvPvE Mecha Game Ending Service After Just Two Years, But An Offline Mode Could Save It - Kotaku",
+      "id": "art-1790905488592-2",
+      "title": "Vincent D'Onofrio Shuts Down God Of War Laufey Gooner Complaints: 'Buddy Got Bodied By Kingpin' - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/forgotten-pvpve-mecha-game-ending-service-after-just-two-years-but-an-offline-mode-could-save-it-2000738089",
-      "summary": "Synduality: Echo of Ada has shut down its PvPvE online service after two years, replacing it with an offline PvE mode that some players hope will address long‑standing issues. The move signals a shift in how the game’s developers are managing server costs and player experience.\n",
-      "whyItMatters": "It highlights the challenges of sustaining online services for niche games and the importance of flexible architecture that can pivot to offline modes to preserve player bases and reduce operational costs.\n",
-      "category": "DevOps",
-      "publishedAt": "2026-09-29T19:00:14Z"
+      "url": "https://kotaku.com/vincent-donofrio-shuts-down-god-of-war-laufey-gooner-complaints-buddy-got-bodied-by-kingpin-2000738728",
+      "summary": "Vincent D'Onofrio, known for his role in Daredevil, has publicly dismissed a fan's complaints about the God of War character Laufey, calling the allegations unfounded. The actor emphasized that he has no time for unhinged gamer conspiracies, effectively shutting down the controversy.",
+      "whyItMatters": "This incident highlights the importance of managing online reputation and moderating fan interactions for public figures, which can inform software developers on handling community engagement and content moderation.",
+      "category": "Security",
+      "publishedAt": "2026-09-30T19:15:34Z"
     },
     {
-      "id": "art-1790817823989-8",
-      "title": "iOS 27.2: Three new features coming soon to your iPhone - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/29/ios-27-2-three-new-features-coming-soon-to-your-iphone/",
-      "summary": "Apple is preparing to release iOS 27.2, the next iPhone update, which will introduce three new features that build on the upcoming 27.1 Duo-only release. The update is expected to bring enhancements that could affect app functionality and user experience on iPhones.",
-      "whyItMatters": "Developers will need to review and potentially update their apps to support the new features and ensure compatibility with the latest iOS version.",
+      "id": "art-1790905488915-3",
+      "title": "The AI Tamagotchis are coming - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "summary": "Personal AI hardware has largely failed, but OpenAI and Meta are pushing forward with new AI Tamagotchis that emphasize both utility and cuteness. The companies hope these devices will revive consumer interest in AI gadgets despite past setbacks.",
+      "whyItMatters": "It signals a shift toward more user-friendly, integrated AI tools, encouraging developers to design software that balances functionality with engaging, approachable interfaces.",
+      "category": "AI",
+      "publishedAt": "2026-09-30T18:07:38Z"
+    },
+    {
+      "id": "art-1790905489613-4",
+      "title": "Blizzard Survey Suggests New Classes Coming To WoW: Forever - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/blizzard-survey-players-demon-hunter-wow-forever-2000738699",
+      "summary": "Blizzard’s recent survey indicates that World of Warcraft: Forever will introduce new classes, including a Warden, a Necromancer, and a vampire-like character. These additions suggest a shift toward more diverse gameplay mechanics and expanded lore for the upcoming expansion.",
+      "whyItMatters": "Game developers will need to design new class systems, balance mechanics, and update backend services, influencing development pipelines and resource allocation.",
       "category": "Mobile",
-      "publishedAt": "2026-09-29T18:53:00Z"
+      "publishedAt": "2026-09-30T18:02:47Z"
+    },
+    {
+      "id": "art-1790905490265-5",
+      "title": "ICYMI: Ocarina of Time remake website has tons of footage showing areas, dungeons, items, and more - Nintendo Wire",
+      "source": "Nintendo Wire",
+      "url": "https://nintendowire.com/news/2026/09/30/icymi-ocarina-of-time-remake-website-has-tons-of-footage-showing-areas-dungeons-items-and-more/",
+      "summary": "Nintendo's official Japanese website for the upcoming Ocarina of Time remake has released extensive gameplay footage, showcasing new areas, dungeons, and items. The footage gives fans and developers a detailed look at the game's updated graphics and mechanics.",
+      "whyItMatters": "The release demonstrates how high-fidelity game assets can be streamed and displayed on modern web platforms, informing developers about performance optimization and content delivery strategies.",
+      "category": "Web Dev",
+      "publishedAt": "2026-09-30T17:53:43Z"
+    },
+    {
+      "id": "art-1790905491005-6",
+      "title": "'We Have Been Gradually Preparing': Capcom Already Has a Plan for When Its Resident Evil Remakes Catch Up With Newer Games - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/we-have-been-gradually-preparing-capcom-already-has-a-plan-for-when-its-resident-evil-remakes-catch-up-with-newer-games",
+      "summary": "Capcom has outlined a strategy to manage the release of its Resident Evil remakes as they eventually catch up with newer titles in the series, treating Resident Evil 7 as a pivotal point. The plan involves coordinating development timelines and marketing to ensure a smooth transition between legacy and modern games.",
+      "whyItMatters": "It demonstrates how large studios can use phased release strategies and legacy management to balance innovation with existing IP, informing developers on handling long‑term product roadmaps.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-30T17:10:48Z"
+    },
+    {
+      "id": "art-1790905491879-7",
+      "title": "Analyst Argues Gears of War: E-Day Shouldn't Have Been Cancelled on PS5 After 'Soft' Steam Pre-Orders - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders",
+      "summary": "An analyst argues that Gears of War: E-Day should not have been cancelled on PS5 after Steam pre‑orders were deemed too low. The decision reflects a shift in how the franchise is marketed, with PC sales now rivaling console sales.",
+      "whyItMatters": "It signals that developers and publishers must reconsider platform prioritization and release timing based on cross‑platform demand, affecting future launch strategies.",
+      "category": "DevOps",
+      "publishedAt": "2026-09-30T16:45:00Z"
+    },
+    {
+      "id": "art-1790905492246-8",
+      "title": "Borderless Gaming’s DLSS 5 Implementation Runs Without Touching NVIDIA’s Software, Quantized to Work Well Even on Unsupported GPUs - Wccftech",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/borderless-gaming-nvidia-dlss-5-quantized-unsupported-gpus/",
+      "summary": "Borderless Gaming has added a custom implementation of NVIDIA DLSS 5 Neural Rendering that runs without relying on NVIDIA’s own software, enabling the feature on a much broader range of GPUs. The new version is quantized to maintain good performance even on GPUs that traditionally do not support DLSS.",
+      "whyItMatters": "By decoupling DLSS functionality from NVIDIA’s proprietary stack, developers can offer advanced upscaling and AI-driven rendering to users with a wider array of hardware, reducing vendor lock‑in and expanding performance gains across the market.",
+      "category": "AI",
+      "publishedAt": "2026-09-30T16:45:00Z"
+    },
+    {
+      "id": "art-1790905492609-9",
+      "title": "You can now play the original Halo in your browser, 128-player multiplayer included - techspot.com",
+      "source": "TechSpot",
+      "url": "https://www.techspot.com/news/114042-you-can-now-play-original-halo-browser-128.html",
+      "summary": "A browser-based version of the original Halo has been released, featuring full 128-player multiplayer. The project demonstrates how quickly recovered console game code can be transformed into a functional web application.",
+      "whyItMatters": "It shows that legacy console titles can be rapidly ported to the web, opening new avenues for game preservation, cloud gaming, and rapid prototyping for developers.",
+      "category": "Web Dev",
+      "publishedAt": "2026-09-30T16:44:40Z"
     }
   ]
 }
