@@ -1,105 +1,105 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "articles": [
     {
-      "id": "art-1790905486895-0",
-      "title": "Google Home update rolling out with better 'Find My Phone' voice commands, smart home improvements - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/09/30/google-home-update-find-my-phone-improvements/",
-      "summary": "Google has released a new Home update that enhances the \"Find My Phone\" voice command and adds several smart‑home improvements, such as better device discovery and more responsive voice interactions. The update also brings new features for controlling lights, thermostats, and other connected devices through the Google Home app and voice assistant.",
-      "whyItMatters": "The improved voice command and device integration give developers richer APIs for building more intuitive smart‑home experiences, potentially increasing user engagement and adoption of Google’s ecosystem.",
-      "category": "AI",
-      "publishedAt": "2026-09-30T21:30:00Z"
-    },
-    {
-      "id": "art-1790905487825-1",
-      "title": "The Disney protests were a wake-up call about the risks of streaming mergers - arstechnica.com",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
-      "summary": "Disney's recent streaming mergers have sparked protests, highlighting the challenges of consolidating content platforms and the difficulty of boycotting a giant media conglomerate. The article argues that these protests serve as a wake‑up call to the industry about the risks of unchecked streaming consolidation.",
-      "whyItMatters": "For software developers, the consolidation of streaming services can limit API access, increase vendor lock‑in, and complicate integration with cloud‑based media delivery pipelines.",
-      "category": "Cloud",
-      "publishedAt": "2026-09-30T19:22:19Z"
-    },
-    {
-      "id": "art-1790905488592-2",
-      "title": "Vincent D'Onofrio Shuts Down God Of War Laufey Gooner Complaints: 'Buddy Got Bodied By Kingpin' - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/vincent-donofrio-shuts-down-god-of-war-laufey-gooner-complaints-buddy-got-bodied-by-kingpin-2000738728",
-      "summary": "Vincent D'Onofrio, known for his role in Daredevil, has publicly dismissed a fan's complaints about the God of War character Laufey, calling the allegations unfounded. The actor emphasized that he has no time for unhinged gamer conspiracies, effectively shutting down the controversy.",
-      "whyItMatters": "This incident highlights the importance of managing online reputation and moderating fan interactions for public figures, which can inform software developers on handling community engagement and content moderation.",
-      "category": "Security",
-      "publishedAt": "2026-09-30T19:15:34Z"
-    },
-    {
-      "id": "art-1790905488915-3",
-      "title": "The AI Tamagotchis are coming - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-      "summary": "Personal AI hardware has largely failed, but OpenAI and Meta are pushing forward with new AI Tamagotchis that emphasize both utility and cuteness. The companies hope these devices will revive consumer interest in AI gadgets despite past setbacks.",
-      "whyItMatters": "It signals a shift toward more user-friendly, integrated AI tools, encouraging developers to design software that balances functionality with engaging, approachable interfaces.",
-      "category": "AI",
-      "publishedAt": "2026-09-30T18:07:38Z"
-    },
-    {
-      "id": "art-1790905489613-4",
-      "title": "Blizzard Survey Suggests New Classes Coming To WoW: Forever - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/blizzard-survey-players-demon-hunter-wow-forever-2000738699",
-      "summary": "Blizzard’s recent survey indicates that World of Warcraft: Forever will introduce new classes, including a Warden, a Necromancer, and a vampire-like character. These additions suggest a shift toward more diverse gameplay mechanics and expanded lore for the upcoming expansion.",
-      "whyItMatters": "Game developers will need to design new class systems, balance mechanics, and update backend services, influencing development pipelines and resource allocation.",
-      "category": "Mobile",
-      "publishedAt": "2026-09-30T18:02:47Z"
-    },
-    {
-      "id": "art-1790905490265-5",
-      "title": "ICYMI: Ocarina of Time remake website has tons of footage showing areas, dungeons, items, and more - Nintendo Wire",
-      "source": "Nintendo Wire",
-      "url": "https://nintendowire.com/news/2026/09/30/icymi-ocarina-of-time-remake-website-has-tons-of-footage-showing-areas-dungeons-items-and-more/",
-      "summary": "Nintendo's official Japanese website for the upcoming Ocarina of Time remake has released extensive gameplay footage, showcasing new areas, dungeons, and items. The footage gives fans and developers a detailed look at the game's updated graphics and mechanics.",
-      "whyItMatters": "The release demonstrates how high-fidelity game assets can be streamed and displayed on modern web platforms, informing developers about performance optimization and content delivery strategies.",
-      "category": "Web Dev",
-      "publishedAt": "2026-09-30T17:53:43Z"
-    },
-    {
-      "id": "art-1790905491005-6",
-      "title": "'We Have Been Gradually Preparing': Capcom Already Has a Plan for When Its Resident Evil Remakes Catch Up With Newer Games - IGN",
+      "id": "art-1790990204552-0",
+      "title": "Blizzard Cracks Down on Gold Selling in World of Warcraft Forever — and Streamers Are in the Firing Line - IGN",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/we-have-been-gradually-preparing-capcom-already-has-a-plan-for-when-its-resident-evil-remakes-catch-up-with-newer-games",
-      "summary": "Capcom has outlined a strategy to manage the release of its Resident Evil remakes as they eventually catch up with newer titles in the series, treating Resident Evil 7 as a pivotal point. The plan involves coordinating development timelines and marketing to ensure a smooth transition between legacy and modern games.",
-      "whyItMatters": "It demonstrates how large studios can use phased release strategies and legacy management to balance innovation with existing IP, informing developers on handling long‑term product roadmaps.",
+      "url": "https://www.ign.com/articles/blizzard-cracks-down-on-gold-selling-in-world-of-warcraft-forever-and-streamers-are-in-the-firing-line",
+      "summary": "Blizzard has intensified its crackdown on gold selling in World of Warcraft: Forever, targeting streamers who facilitate the trade. The move signals a stricter enforcement of in‑game economy rules and a push to curb real‑money transactions that undermine the game’s integrity.",
+      "whyItMatters": "For software developers, it underscores the importance of robust anti‑cheat and policy enforcement mechanisms to protect virtual economies and maintain player trust.",
+      "category": "Security",
+      "publishedAt": "2026-10-01T21:22:45Z"
+    },
+    {
+      "id": "art-1790990205161-1",
+      "title": "No, No, No—Don’t Peel the Nano-Texture Layer off the iPhone Duo’s Inner Screen - Gizmodo",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/iphone-duo-inner-display-damage-2000820502",
+      "summary": "Gizmodo warns users not to peel the nano‑texture layer off the inner screen of the new foldable iPhone Duo, as doing so can permanently damage the device. The article advises against following social media 'experts' who suggest removing the layer, which could ruin a $2,000 phone.",
+      "whyItMatters": "It underscores the importance of hardware reliability for app performance and user retention on high‑end foldable devices.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-01T20:40:34Z"
+    },
+    {
+      "id": "art-1790990205660-2",
+      "title": "Apple Shares Photos Shot on iPhone Duo - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/01/apple-shares-photos-shot-on-iphone-duo/",
+      "summary": "Apple posted a curated gallery of six photos taken with the iPhone Duo on Instagram, highlighting the device’s dual‑camera capabilities. The images, captured by photographer Jake Michaels, showcase the phone’s improved low‑light performance and color accuracy.",
+      "whyItMatters": "By publicly demonstrating the iPhone Duo’s advanced imaging, Apple signals a push toward higher‑quality mobile photography, prompting developers to explore new camera APIs and photo‑editing features.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-01T20:37:20Z"
+    },
+    {
+      "id": "art-1790990206097-3",
+      "title": "List of Xbox games not awarding a Mythic Achievement - TrueAchievements",
+      "source": "TrueAchievements",
+      "url": "https://www.trueachievements.com/news/xbox-games-without-mythic-achievement",
+      "summary": "TrueAchievements has released a list of Xbox games that have not awarded any Mythic Achievements to players. The data highlights gaps in game reward systems and provides insight into player engagement metrics.",
+      "whyItMatters": "Understanding which games lack Mythic Achievements helps developers refine reward structures and improve player retention, directly impacting game design and monetization strategies.",
       "category": "DevOps",
-      "publishedAt": "2026-09-30T17:10:48Z"
+      "publishedAt": "2026-10-01T19:54:05Z"
     },
     {
-      "id": "art-1790905491879-7",
-      "title": "Analyst Argues Gears of War: E-Day Shouldn't Have Been Cancelled on PS5 After 'Soft' Steam Pre-Orders - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders",
-      "summary": "An analyst argues that Gears of War: E-Day should not have been cancelled on PS5 after Steam pre‑orders were deemed too low. The decision reflects a shift in how the franchise is marketed, with PC sales now rivaling console sales.",
-      "whyItMatters": "It signals that developers and publishers must reconsider platform prioritization and release timing based on cross‑platform demand, affecting future launch strategies.",
+      "id": "art-1790990206577-4",
+      "title": "Android Central ‘will continue’ despite laying off its staff - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1003735/android-central-layoffs",
+      "summary": "Android Central, a popular Android-focused blog, announced it will keep publishing even after laying off its staff. The site owner, Future, confirmed the continuation to The Verge.",
+      "whyItMatters": "Developers rely on Android Central for news and insights, so its continued operation ensures ongoing access to industry updates.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-01T19:20:29Z"
+    },
+    {
+      "id": "art-1790990207051-5",
+      "title": "Make unknown callers explain why they're calling - Fox News",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/tech/make-unknown-callers-explain-why-theyre-calling",
+      "summary": "Apple, Google, and Samsung have introduced call screening that prompts unknown callers to identify themselves before the phone rings. This feature aims to reduce spam and improve user privacy across major smartphone platforms.",
+      "whyItMatters": "Developers must adapt their apps to integrate or respect the new call screening APIs, affecting how call-related features are implemented.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-01T18:30:09Z"
+    },
+    {
+      "id": "art-1790990207699-6",
+      "title": "Apple's Smart Home Camera Will Apparently Have 'No Video Recording' - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/01/apple-smart-home-camera-no-video-recording/",
+      "summary": "Apple is reportedly launching a smart home camera that will not record video, according to Bloomberg’s Mark Gurman. The device will rely on other sensors and cloud processing to provide security features without capturing footage.",
+      "whyItMatters": "Developers will need to design apps that respect the camera’s no-recording policy, potentially shifting focus to edge processing and privacy‑first features.",
+      "category": "Security",
+      "publishedAt": "2026-10-01T17:44:13Z"
+    },
+    {
+      "id": "art-1790990208303-7",
+      "title": "You can now buy more than 44,000 games for $5 or less on Steam - PC Gamer",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
+      "summary": "Steam's 2026 Autumn Sale lets users purchase over 44,000 games for $5 or less, offering unprecedented value. The sale demonstrates the platform's continued dominance in digital game distribution.",
+      "whyItMatters": "The massive discount encourages developers to push more titles onto Steam, potentially increasing revenue streams and competition among indie studios.",
       "category": "DevOps",
-      "publishedAt": "2026-09-30T16:45:00Z"
+      "publishedAt": "2026-10-01T17:21:15Z"
     },
     {
-      "id": "art-1790905492246-8",
-      "title": "Borderless Gaming’s DLSS 5 Implementation Runs Without Touching NVIDIA’s Software, Quantized to Work Well Even on Unsupported GPUs - Wccftech",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/borderless-gaming-nvidia-dlss-5-quantized-unsupported-gpus/",
-      "summary": "Borderless Gaming has added a custom implementation of NVIDIA DLSS 5 Neural Rendering that runs without relying on NVIDIA’s own software, enabling the feature on a much broader range of GPUs. The new version is quantized to maintain good performance even on GPUs that traditionally do not support DLSS.",
-      "whyItMatters": "By decoupling DLSS functionality from NVIDIA’s proprietary stack, developers can offer advanced upscaling and AI-driven rendering to users with a wider array of hardware, reducing vendor lock‑in and expanding performance gains across the market.",
-      "category": "AI",
-      "publishedAt": "2026-09-30T16:45:00Z"
+      "id": "art-1790990209151-8",
+      "title": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/01/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
+      "summary": "Twelve South has unveiled the Airfly Drive, a compact wireless CarPlay adapter that eliminates the need for a wired connection to Apple devices in vehicles. The device promises a seamless, plug‑and‑play experience for drivers who want to use CarPlay without a physical cable.",
+      "whyItMatters": "By simplifying CarPlay connectivity, the Airfly Drive could encourage broader adoption of in‑car Apple ecosystems and push automakers to support wireless integration, impacting mobile app developers targeting automotive interfaces.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-01T17:20:00Z"
     },
     {
-      "id": "art-1790905492609-9",
-      "title": "You can now play the original Halo in your browser, 128-player multiplayer included - techspot.com",
-      "source": "TechSpot",
-      "url": "https://www.techspot.com/news/114042-you-can-now-play-original-halo-browser-128.html",
-      "summary": "A browser-based version of the original Halo has been released, featuring full 128-player multiplayer. The project demonstrates how quickly recovered console game code can be transformed into a functional web application.",
-      "whyItMatters": "It shows that legacy console titles can be rapidly ported to the web, opening new avenues for game preservation, cloud gaming, and rapid prototyping for developers.",
-      "category": "Web Dev",
-      "publishedAt": "2026-09-30T16:44:40Z"
+      "id": "art-1790990209698-9",
+      "title": "Minior Showers in Pokémon GO: Dates, Cores & Bonuses - Pokémon GO Hub",
+      "source": "Pokemon GO Hub",
+      "url": "https://pokemongohub.net/post/guide/minior-showers/",
+      "summary": "Pokémon GO introduces the Minior Showers event on October 19, featuring the new Minior Pokémon with multiple core colors, hemisphere exclusives, and a form‑changing mechanic. Players can collect bonuses and experience new gameplay dynamics during the event.",
+      "whyItMatters": "The event showcases how mobile games leverage dynamic content updates and region‑specific features to drive player engagement and revenue, informing developers on effective live‑ops strategies.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-01T17:13:16Z"
     }
   ]
 }
