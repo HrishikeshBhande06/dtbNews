@@ -1,105 +1,95 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "articles": [
     {
-      "id": "art-1791597034317-0",
-      "title": "I Played 6 Hours of Phantom Blade Zero and Can’t Stop Thinking About It | IGN Preview - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/phantom-blade-zero-might-be-this-years-most-stylish-action-game-ign-preview",
-      "summary": "The IGN preview reveals that after six hours of play, Phantom Blade Zero has become a top wishlist item for the reviewer, indicating strong early interest. The article highlights the game's potential to deliver beyond initial impressions as the developer continues to refine it.",
-      "whyItMatters": "Positive early reception can drive developers to prioritize engaging gameplay loops and player retention strategies, influencing design decisions across the industry.",
+      "id": "art-1791680775428-0",
+      "title": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/",
+      "summary": "Apple will give iPhone Duo buyers who purchase at a U.S. Apple Store a special surprise when they first turn on the device. The surprise is a small, pre-installed feature or content that enhances the initial user experience.",
+      "whyItMatters": "Developers should anticipate potential new APIs or services tied to the surprise, as it may influence app launch strategies and user onboarding flows.",
       "category": "Mobile",
-      "publishedAt": "2026-10-09T00:00:00Z"
+      "publishedAt": "2026-10-09T22:29:00Z"
     },
     {
-      "id": "art-1791597034825-1",
-      "title": "Apple Music Is About To Sound Very Different On Your Apple TV - BGR",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2268421/apple-tv-adding-lossless-audio-for-apple-music/",
-      "summary": "Apple Music will deliver high‑resolution lossless audio on Apple TV, offering richer sound for compatible TVs and speakers. This change means the Apple TV app will need to handle larger audio streams and new codec support.",
-      "whyItMatters": "Developers must update their media pipelines and caching strategies to accommodate higher bitrate audio, impacting bandwidth usage and storage considerations.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-08T22:17:00Z"
+      "id": "art-1791680775961-1",
+      "title": "Decade-old RAM is making a comeback - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "summary": "DDR5 price hikes have prompted chipmakers to release new CPUs for older DDR4 platforms, reviving decade-old RAM. This shift allows consumers to avoid high memory costs while still getting newer processors.",
+      "whyItMatters": "Software developers and IT teams can now deploy newer CPUs on cheaper DDR4 systems, reducing infrastructure costs and extending the life of existing hardware.",
+      "category": "DevOps",
+      "publishedAt": "2026-10-09T21:50:00Z"
     },
     {
-      "id": "art-1791597035488-2",
-      "title": "Damn, This GTA 6 Screenshot Looks So Good People Don’t Believe It’s Real - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/damn-this-gta-6-screenshot-looks-so-good-people-dont-believe-its-real-2000742750",
-      "summary": "A highly realistic screenshot purportedly from GTA 6 has circulated online, leading many to believe it was an official release. However, closer inspection reveals that the image was fabricated, highlighting the growing challenge of distinguishing authentic media from AI-generated content.",
-      "whyItMatters": "Software developers must be vigilant against AI-generated media that can mislead users and erode trust in digital content, prompting the need for better verification tools.",
+      "id": "art-1791680776526-2",
+      "title": "Child Psychiatrist: Screen Time Isn't Main Threat to Kids - Newser",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/397863/child-psychiatrist-screen-time-isnt-main-threat-to-kids.html",
+      "summary": "Child psychiatrist Jonathan Slater argues that screen time is not the primary threat to children's well-being, emphasizing that mental health care investment is more critical. He calls for resources to be directed toward professional support rather than imposing strict screen limits.",
+      "whyItMatters": "Software developers should consider how app design and user engagement strategies can support mental health rather than merely restricting usage.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-09T21:40:00Z"
+    },
+    {
+      "id": "art-1791680777226-3",
+      "title": "Everything We Expect From Apple’s Surprise Smart Home Event Next Week - CNET",
+      "source": "CNET",
+      "url": "https://www.cnet.com/home/smart-home/everything-we-expect-apple-smart-home-event/",
+      "summary": "Apple is set to unveil new smart‑home hardware and software at its upcoming Welcome Home event, including a HomePod mini, HomeKit updates, and a new Home app. The company will also announce a new subscription service for HomeKit accessories and a developer program to simplify integration.",
+      "whyItMatters": "The event will shape how developers build and secure HomeKit‑compatible devices, influencing the broader mobile ecosystem and IoT market.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-09T21:31:00Z"
+    },
+    {
+      "id": "art-1791680777659-4",
+      "title": "Sonic Racing: CrossWorlds Year Two DLC includes Hello Kitty, Persona, Final Fantasy VII, and more - My Nintendo News",
+      "source": "My Nintendo News",
+      "url": "https://mynintendonews.com/2026/10/09/sonic-racing-crossworlds-year-two-dlc-includes-hello-kitty-persona-3-and-more/",
+      "summary": "SEGA unveiled four new DLC packs for Sonic Racing: CrossWorlds Year Two, featuring popular IPs such as Hello Kitty, Persona, and Final Fantasy VII. The announcement followed earlier releases of Godzilla and Evangelion-themed content, expanding the game’s cross‑world narrative and fan appeal.",
+      "whyItMatters": "The inclusion of high‑profile licensed characters demonstrates how mobile game developers can leverage cross‑industry partnerships to boost engagement and monetization, setting a trend for future content strategy.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-09T20:48:49Z"
+    },
+    {
+      "id": "art-1791680778361-5",
+      "title": "Google officially teases Fitbit Edge tracker, confirms October 12 launch - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/10/09/google-officially-teases-fitbit-edge-tracker-confirms-october-12-launch/",
+      "summary": "Google has released an official teaser for its new Fitbit Edge tracker, revealing its sleek design and key features. The device is set to launch on October 12, marking Google's continued push into the wearable market.",
+      "whyItMatters": "The launch expands the ecosystem for health and fitness apps, offering developers new APIs and data streams to integrate into mobile experiences.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-09T19:45:00Z"
+    },
+    {
+      "id": "art-1791680778960-6",
+      "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023 - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+      "summary": "PC shipments fell 20.1 percent year‑over‑year, marking the sharpest decline since Q1 2023 and suggesting the start of a new downward cycle in the PC market.",
+      "whyItMatters": "The slump signals reduced demand for traditional desktop software, pushing developers to prioritize cloud‑based and mobile solutions to capture users on alternative platforms.",
+      "category": "Cloud",
+      "publishedAt": "2026-10-09T18:54:52Z"
+    },
+    {
+      "id": "art-1791680779583-7",
+      "title": "Winning Nikon Small World in Motion video disqualified for AI use - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "summary": "The Nikon Small World in Motion competition disqualified a winning entry for using AI, citing violations of the contest rules. A new winner, Nguyen Nam Nhat from Vietnam, was announced for a video featuring a roundworm and single‑celled Dileptus.",
+      "whyItMatters": "It underscores the importance of AI detection and ethical guidelines for developers creating or using AI tools in creative and competitive contexts.",
       "category": "AI",
-      "publishedAt": "2026-10-08T21:44:08Z"
+      "publishedAt": "2026-10-09T18:44:06Z"
     },
     {
-      "id": "art-1791597036269-3",
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "summary": "TechCrunch reports that Extend engineer Bo Lau built a website that recreates Elizabeth Holmes’ desk, using over a thousand documents from the United States v. Elizabeth Holmes trial. The interactive site lets users sift through emails, slides, texts, and other files as if they were rummaging through the founder’s personal workspace.",
-      "whyItMatters": "It demonstrates how web developers can leverage large document collections to create immersive, data‑driven storytelling experiences, highlighting the growing importance of UI/UX and content curation in web applications.",
-      "category": "Web Dev",
-      "publishedAt": "2026-10-08T21:00:00Z"
-    },
-    {
-      "id": "art-1791597036799-4",
-      "title": "Apple Set to Debut Touch-Screen MacBook and New iPad Mini in Late October - Bloomberg.com",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october",
-      "summary": "Apple is set to launch its first touch-screen MacBook and a new iPad mini in late October, marking a significant shift in its hardware lineup. The company also plans to unveil a revamped smart home strategy next week, further expanding its ecosystem.",
-      "whyItMatters": "Developers will need to adapt to touch-enabled macOS and iPadOS interfaces, opening new opportunities for cross-platform app design and potentially increasing demand for hybrid UI frameworks.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-08T20:00:08Z"
-    },
-    {
-      "id": "art-1791597037419-5",
-      "title": "Microsoft’s new Windows Search is exactly what Windows 11 needs - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11",
-      "summary": "Microsoft’s latest Windows Search overhaul promises faster, more capable search across the OS, with a redesigned UI and improved indexing speed. The update aims to make file, app, and web content retrieval more efficient for everyday users.",
-      "whyItMatters": "By streamlining search, developers can build applications that integrate more seamlessly with Windows, reducing latency and improving user experience across the ecosystem.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-08T19:30:21Z"
-    },
-    {
-      "id": "art-1791597039676-6",
-      "title": "Another Critical Role Actor Joins The Final Fantasy VII Revelation Cast As Shiva (But Not The Shiva You Think) - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/another-critical-role-actor-joins-the-final-fantasy-vii-revelation-cast-as-shiva-but-not-the-shiva-you-think-2000742683",
-      "summary": "Hmm, wonder where all this chemistry with Vincent is coming from?",
-      "whyItMatters": "Direct pipeline title digest fallback applied.",
-      "category": "General Tech",
-      "publishedAt": "2026-10-08T19:21:13Z"
-    },
-    {
-      "id": "art-1791597040294-7",
-      "title": "No More Missed Zygarde Cells! 5 Big Quality of Life Changes Are Coming to Pokémon GO - Pokémon GO Hub",
-      "source": "Pokemon GO Hub",
-      "url": "https://pokemongohub.net/post/news/no-more-missed-zygarde-cells-5-big-quality-of-life-changes-are-coming-to-pokemon-go/",
-      "summary": "Scopely announced five major quality‑of‑life updates for Pokémon GO, including improved Zygarde cell tracking and other gameplay enhancements. These changes aim to make the game more intuitive, accessible, and engaging for players worldwide.",
-      "whyItMatters": "For mobile developers, the updates highlight the importance of continuous user experience improvements and real‑time data handling in large‑scale live services.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-08T18:58:38Z"
-    },
-    {
-      "id": "art-1791597040798-8",
-      "title": "Arc Raiders’ Big Update Has It Surging To Numbers It Hasn’t Seen In Months - GameSpot",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/arc-raiders-big-update-has-it-surging-to-numbers-it-hasnt-seen-in-months/",
-      "summary": "Embark's extraction shooter Arc Raiders received a major Frozen Trail update, boosting player engagement and revenue. The patch introduced new content and performance improvements, driving the game to record numbers after months of stagnation.",
-      "whyItMatters": "The update demonstrates how timely content releases and performance optimizations can rapidly revive player retention, offering developers a case study in effective post-launch support.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-08T16:47:34Z"
-    },
-    {
-      "id": "art-1791597041189-9",
-      "title": "Amazon is phasing out Fire Tablets because they weren’t ‘giving customers what they were asking for’ - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay",
-      "summary": "Amazon is discontinuing its Fire Tablet line after determining the devices failed to meet customer expectations. Panos Panay announced that while more hardware will be introduced, an Amazon laptop is not in the plans.",
-      "whyItMatters": "The move signals a narrowing of Amazon’s mobile hardware portfolio, prompting developers to shift focus away from the Fire ecosystem toward other Amazon platforms such as Alexa and Kindle.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-08T16:34:57Z"
+      "id": "art-1791680780191-8",
+      "title": "'GTA 6' Fandom Is Officially Shook After The Nude Jason Leak - Polygon.com",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/gta-6-cyberleek-nude-jason-duvall-internet-archive-video-tank-cheat/",
+      "summary": "A massive leak of GTA 6 content featuring nudity has surfaced, prompting speculation about hidden gameplay features such as first-person mode and cheats. The leak has sparked widespread conspiracy theories among fans and raised concerns about the game's security and content moderation.",
+      "whyItMatters": "The incident highlights the vulnerability of large-scale game releases to data breaches, underscoring the need for stronger security measures in the gaming industry.",
+      "category": "Security",
+      "publishedAt": "2026-10-09T17:58:34Z"
     }
   ]
 }
