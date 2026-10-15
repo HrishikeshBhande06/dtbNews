@@ -1,95 +1,95 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "articles": [
     {
-      "id": "art-1791940707888-1",
-      "title": "After a 10-year redemption arc, No Man’s Sky is coming to the iPhone and iPad - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
-      "summary": "No Man’s Sky, the expansive space exploration game that has undergone a decade-long redemption, is now launching on iPhone and iPad for devices from iPhone 11 onward. The release brings the full, procedurally generated universe into a pocket‑sized format, marking a significant milestone for mobile gaming.",
-      "whyItMatters": "It demonstrates that large, graphically intensive titles can be successfully ported to iOS, encouraging developers to pursue ambitious mobile projects and expanding the market for high‑end mobile gaming.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-12T20:26:14Z"
-    },
-    {
-      "id": "art-1791940708472-2",
-      "title": "Fans Accuse Sonic Racing: CrossWorlds Of Breaking Deluxe Edition Promise After Revealing FF7 DLC: 'Paid $100 For This Sh*t, Guess I Learned My Lesson' - Kotaku",
+      "id": "art-1792024869491-0",
+      "title": "Some Sony First-Party Games Have Been Delisted From the PlayStation Store - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/fans-accuse-sonic-racing-crossworlds-of-breaking-deluxe-edition-promise-after-revealing-ff7-dlc-paid-100-for-this-sht-guess-i-learned-my-lesson-2000744567",
-      "summary": "Fans of Sonic Racing: CrossWorlds are outraged after the developers revealed a new Final Fantasy VII DLC, claiming the game’s Deluxe Edition promised all year‑two racers but the new content was not included. The backlash highlights a breach of consumer trust and a costly misstep in the game’s release strategy.",
-      "whyItMatters": "The incident underscores the importance of clear communication and reliable feature promises in software releases, affecting developer reputation and future sales.",
+      "url": "https://kotaku.com/playstation-store-uncharted-god-of-war-knack-delisted-2000745375",
+      "summary": "Sony has removed several first‑party titles, including Knack, Nathan Drake, and Kratos games, from the PlayStation Store after a pricing error was discovered. The removal was a corrective measure to prevent customers from purchasing games at incorrect prices.",
+      "whyItMatters": "The incident highlights the importance of rigorous release and pricing validation processes for developers and platform operators, as errors can lead to revenue loss and customer trust erosion.",
       "category": "DevOps",
-      "publishedAt": "2026-10-12T20:01:53Z"
+      "publishedAt": "2026-10-13T21:15:35Z"
     },
     {
-      "id": "art-1791940708919-3",
-      "title": "Epic Games delays Disney game and tells developers to go \"AI first\" - GamesIndustry.biz",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
-      "summary": "Epic Games has postponed its upcoming Disney collaboration shooter featuring Marvel and Star Wars characters, while simultaneously urging developers to adopt an \"AI first\" strategy. The move signals a shift in the studio’s priorities and a push for broader AI integration across its development pipeline.",
-      "whyItMatters": "It highlights a growing industry trend toward AI-driven workflows, compelling software developers to incorporate AI tools to stay competitive and meet evolving production demands.",
-      "category": "AI",
-      "publishedAt": "2026-10-12T19:54:58Z"
-    },
-    {
-      "id": "art-1791940709345-4",
-      "title": "Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/adobe-creative-suite-clone-app-maker-takes-on-microsoft-office",
-      "summary": "Adobe's new AI-powered app suite offers free alternatives to Microsoft Office's Word, PowerPoint, and Excel, positioning itself as a cost‑effective competitor. The move signals a shift toward AI‑driven productivity tools that can disrupt established legacy software ecosystems.",
-      "whyItMatters": "It forces developers to innovate faster and consider AI integration to stay competitive in the productivity software market.",
-      "category": "AI",
-      "publishedAt": "2026-10-12T19:12:08Z"
-    },
-    {
-      "id": "art-1791940709878-5",
-      "title": "GTA 6 Leak Reveals Collector’s Map Reportedly Coming With Every Physical Copy - ComicBook.com",
-      "source": "ComicBook.com",
-      "url": "http://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-collectors-map/",
-      "summary": "A leak has surfaced indicating Rockstar Games will include a collector's map with every physical copy of GTA 6. The map is intended to enhance the physical ownership experience for fans.",
-      "whyItMatters": "The inclusion of physical collectibles can influence distribution strategies and inventory management for game publishers, affecting how they plan release logistics.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-12T19:03:19Z"
-    },
-    {
-      "id": "art-1791940710323-6",
-      "title": "iCloud+ keeps getting better, here’s what’s new for subscribers - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/12/icloud-keeps-getting-better-heres-whats-new-for-subscribers/",
-      "summary": "Apple has expanded iCloud+ with new privacy and productivity features, including a private relay for email and web browsing, a new photo filter that removes background noise, and enhanced storage management tools. These updates aim to give subscribers more control over their data and improve the overall cloud experience.",
-      "whyItMatters": "Developers must adapt their apps to leverage iCloud+’s enhanced privacy APIs and storage optimizations, ensuring smoother integration and better user trust.",
-      "category": "Cloud",
-      "publishedAt": "2026-10-12T18:56:00Z"
-    },
-    {
-      "id": "art-1791940710730-7",
-      "title": "Award-winning microscopy image disqualified over AI use - Nature",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/d41586-026-03240-7",
-      "summary": "An award-winning microscopy image was disqualified after it was discovered that AI had been used to enhance or alter the image. The incident has sparked debate over the ethical use of AI in scientific publishing.",
-      "whyItMatters": "Software developers must be aware of AI-generated content detection and ensure transparency in image manipulation to maintain scientific integrity.",
-      "category": "AI",
-      "publishedAt": "2026-10-12T18:33:45Z"
-    },
-    {
-      "id": "art-1791940711266-8",
-      "title": "Here's How Much A PlayStation Cost In 1996 Vs. 2026 - BGR",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2280551/how-much-playstation-cost-1996-vs-2026/",
-      "summary": "The PlayStation 1 launched in 1995 for $300, dropped to $200 in 1996, and the PlayStation 5 now retails at $900. This illustrates a significant price increase over three decades for a flagship gaming console.",
-      "whyItMatters": "Higher console prices can shift game development budgets and pricing strategies, influencing how developers allocate resources and target audiences.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-12T18:17:00Z"
-    },
-    {
-      "id": "art-1791940711862-9",
-      "title": "The Physical Revolution on Jailbroken PS5s Now Has People Emulating PS3 Discs - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/the-physical-revolution-on-jailbroken-ps5s-now-has-people-emulating-ps3-discs-2000744606",
-      "summary": "A jailbreak tool called PS5SX2 has enabled users to run PS3 discs on a PS5, and a video demonstrates a physical Gran Turismo 5 disc booting on the console. This marks a significant step in console emulation, showing that hardware‑level exploits can bypass Sony’s DRM.",
-      "whyItMatters": "It exposes vulnerabilities in Sony’s console architecture, prompting developers to rethink security models for future firmware updates.",
+      "id": "art-1792024870064-1",
+      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days - BleepingComputer",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+      "summary": "Microsoft released its October 2026 Patch Tuesday, addressing a record 1,411 vulnerabilities, including one actively exploited flaw and two publicly disclosed zero-days. The update underscores the growing complexity of software security and the need for continuous patch management.",
+      "whyItMatters": "Developers must prioritize timely patching to protect applications from widespread exploitation and maintain compliance with security best practices.",
       "category": "Security",
-      "publishedAt": "2026-10-12T18:00:29Z"
+      "publishedAt": "2026-10-13T19:56:09Z"
+    },
+    {
+      "id": "art-1792024870416-2",
+      "title": "iOS 27.2 adds new app icon for Apple Music, more design updates - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/13/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/",
+      "summary": "iOS 27.2 beta 4 introduces a new Apple Music app icon and several design updates across the system. The update is part of Apple's ongoing refinement of the user interface and visual consistency for iOS devices.",
+      "whyItMatters": "Developers need to update their app icons and design guidelines to match the new Apple Music icon, ensuring visual consistency and compliance with Apple's latest UI standards.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-13T19:06:00Z"
+    },
+    {
+      "id": "art-1792024870928-3",
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "summary": "Microsoft has launched an Xbox Labs team focused on decompiling and remixing games, signaling a shift toward AI-powered game ports. This move reflects a growing trend of using AI to reimagine existing titles across platforms.",
+      "whyItMatters": "It opens new avenues for developers to repurpose legacy games, potentially reducing development time and costs while expanding cross-platform availability.",
+      "category": "AI",
+      "publishedAt": "2026-10-13T19:00:48Z"
+    },
+    {
+      "id": "art-1792024871786-4",
+      "title": "'GTA 6' Cyberleek release update: New leaks, development build, and roadmap of what might be next - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-update-roadmap",
+      "summary": "Cyberleek's latest GTA 6 update shares new leaks, a development build, and a roadmap outlining future features and release dates. The accompanying videos contain potentially sensitive content, so viewers are advised to avoid watching them on work devices.",
+      "whyItMatters": "The leak of a development build underscores the need for secure build pipelines and vigilant DevOps practices to protect unfinished code from exposure.",
+      "category": "DevOps",
+      "publishedAt": "2026-10-13T19:00:41Z"
+    },
+    {
+      "id": "art-1792024872085-5",
+      "title": "iOS 27.2 beta 4 no longer includes Apple’s overhauled Health app - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/13/ios-27-2-beta-4-no-longer-includes-apples-overhauled-health-app/",
+      "summary": "Apple announced an overhauled Health app, but the latest iOS 27.2 beta 4 release no longer includes it. The omission suggests the new Health app will be delayed until a future iOS update.",
+      "whyItMatters": "Developers building health and fitness apps must wait for the new OS to access updated APIs, potentially delaying feature rollouts and testing cycles.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-13T18:57:00Z"
+    },
+    {
+      "id": "art-1792024872513-6",
+      "title": "EA Sports' College Football Franchise Reportedly in Jeopardy Amidst Rising Costs and Declining Sales - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/ea-sports-college-football-devs-reportedly-fear-the-franchise-could-disappear-by-2030",
+      "summary": "EA Sports’ College Football franchise is reportedly in jeopardy as rising development costs and declining sales threaten its future. Developers fear the series may not survive the decade, potentially leading to layoffs and project cancellations.",
+      "whyItMatters": "The uncertainty forces software developers to reallocate resources, rethink project viability, and adapt their development pipelines, impacting the broader game‑development ecosystem.",
+      "category": "DevOps",
+      "publishedAt": "2026-10-13T18:34:41Z"
+    },
+    {
+      "id": "art-1792024872993-7",
+      "title": "Apple's HomePod mini 2 is here with Siri AI, new colors and improved sound - GSMArena.com news - GSMArena.com",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/apples_homepod_mini_2_is_here_with_siri_ai_new_colors_and_improved_sound-news-75028.php",
+      "summary": "Apple has launched the HomePod mini 2, priced at $149, featuring enhanced sound quality, new color options, and an integrated Siri AI. The release accompanies updates to Apple HomeView, Apple TV 4K, and the broader Apple Home Collection, expanding the ecosystem of smart home devices.",
+      "whyItMatters": "The improved AI capabilities and tighter integration with Apple’s smart home ecosystem give developers new opportunities to build voice‑activated services and enhance user experiences across devices.",
+      "category": "AI",
+      "publishedAt": "2026-10-13T18:31:02Z"
+    },
+    {
+      "id": "art-1792024873506-8",
+      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "summary": "The Ray‑Ban Meta Audio glasses, priced at $349, function as open‑ear headphones but lack video recording capabilities. Despite their sleek design, they fail to address key privacy concerns associated with wearable audio devices.",
+      "whyItMatters": "Developers must account for privacy and data‑handling challenges in wearable tech, ensuring compliance with user expectations and regulations.",
+      "category": "Security",
+      "publishedAt": "2026-10-13T18:00:00Z"
     }
   ]
 }
