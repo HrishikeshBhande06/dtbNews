@@ -1,65 +1,95 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "articles": [
     {
-      "id": "art-1792197595616-1",
-      "title": "'It's Clear That We Missed the Mark' — Jagex Cancels RuneScape Reignited Less Than Two Weeks After Announcing It - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/runescape-reignited-cancelled-less-than-two-weeks-after-being-announced",
-      "summary": "Jagex has cancelled the RuneScape Reignited game mode less than two weeks after its announcement, disappointing both new and veteran players. The decision highlights the challenges of rapid development cycles and the risks of launching untested features.",
-      "whyItMatters": "The abrupt cancellation underscores the importance of robust release management and stakeholder communication for software developers, as premature launches can erode trust and waste resources.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-15T20:53:56Z"
-    },
-    {
-      "id": "art-1792197596190-2",
-      "title": "Report: Cancelled “Assassin’s Creed Destiny” Unveiled in First Screenshots & Gameplay Footage - MP1st",
-      "source": "http://mp1st.com/category/news",
-      "url": "https://mp1st.com/news/report-cancelled-assassins-creed-destiny-unveiled-in-first-screenshots-gameplay-footage",
-      "summary": "Assassin's Creed Destiny, a cancelled Ubisoft title set in 206 BCE China, has been revealed through new screenshots and gameplay footage. The game was developed by TiMi Studio Group, showcasing a blend of historical setting and modern gaming technology.",
-      "whyItMatters": "The release of these assets highlights the challenges of cross‑platform development and the importance of early content sharing for community engagement.",
+      "id": "art-1792282073448-0",
+      "title": "Android 17 QPR2 Beta 7.1 rolling out for Pixel - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/10/16/android-17-qpr2-beta-7-1-pixel/",
+      "summary": "Google has released Android 17 QPR2 Beta 7.1 for Pixel devices, following the previous preview. The update includes minor improvements and bug fixes.",
+      "whyItMatters": "It gives developers early access to the latest Android features, enabling them to test and optimize apps ahead of the final release.",
       "category": "Mobile",
-      "publishedAt": "2026-10-15T20:41:28Z"
+      "publishedAt": "2026-10-16T20:25:00Z"
     },
     {
-      "id": "art-1792197596517-3",
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "summary": "Amazon devices chief Panos Panay announced at TechCrunch Disrupt that future ambient AI devices will operate in the background, anticipating users’ needs and eliminating the need for traditional app interactions. He envisions a shift toward AI-driven experiences that seamlessly integrate into everyday life, reducing the reliance on discrete applications.",
-      "whyItMatters": "This signals a move for developers toward building AI services and integrations rather than standalone apps, reshaping the software development landscape and user experience design.",
-      "category": "AI",
-      "publishedAt": "2026-10-15T19:55:25Z"
+      "id": "art-1792282073773-1",
+      "title": "Why Apple is finally making its own smart home devices - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "summary": "Apple is launching its own smart home devices to simplify setup, deepen ecosystem integration, and emphasize data privacy, but faces stiff competition and higher price points. The move signals a push toward tighter hardware-software control and a new battleground for consumer adoption in the smart home market.",
+      "whyItMatters": "Developers will need to adapt to Apple’s proprietary APIs and stricter privacy controls, reshaping how third‑party smart home solutions are built and integrated.",
+      "category": "Security",
+      "publishedAt": "2026-10-16T18:30:27Z"
     },
     {
-      "id": "art-1792197597103-4",
-      "title": "Touchscreen MacBook Pro Could Launch on November 6 - MacRumors",
+      "id": "art-1792282074578-2",
+      "title": "iOS 27.2 has three new changes just added this week - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/16/ios-27-2-has-three-new-changes-just-added-this-week/",
+      "summary": "Apple's upcoming iOS 27.2 includes three new changes introduced this week, adding new features and improvements. These updates are part of Apple's iterative beta process, ensuring the OS remains current and secure.",
+      "whyItMatters": "The changes affect mobile app developers by requiring them to test compatibility with the new OS features, potentially impacting app performance and user experience.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-16T17:45:00Z"
+    },
+    {
+      "id": "art-1792282075349-3",
+      "title": "Apple TV 4K and HomePod Mini Price Increases 'Much More Striking' Than New Features - MacRumors",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/15/touchscreen-macbook-pro-november-6/",
-      "summary": "Apple is set to unveil OLED touchscreen MacBook Pro models, with production slated for late October and a potential launch on November 6. The new laptops will feature high-resolution displays and touch capabilities, marking a significant shift in Apple's laptop lineup.",
-      "whyItMatters": "Developers will need to adapt their macOS applications to support touch input and higher resolution displays, potentially opening new UI paradigms for Mac software.",
+      "url": "https://www.macrumors.com/2026/10/16/apple-tv-4k-homepod-mini-price-increases/",
+      "summary": "Apple’s latest Apple TV 4K and HomePod mini 2 models have seen price increases that critics say dwarf the modest new features, according to Daring Fireball’s John Gruber. Gruber notes that the price hikes are the most striking aspect of the update, with the hardware upgrades offering only incremental improvements.",
+      "whyItMatters": "Higher prices could curb consumer adoption of Apple TV and HomePod, potentially shrinking the user base for developers building apps and services for these platforms.",
       "category": "Mobile",
-      "publishedAt": "2026-10-15T19:09:34Z"
+      "publishedAt": "2026-10-16T17:30:14Z"
     },
     {
-      "id": "art-1792197597490-6",
-      "title": "'The Current Experience Is Not Where It Needs to Be' - SEGA Is Pulling Total War: Shogun 2 Complete Edition from Stores - Time Extension",
-      "source": "Timeextension.com",
-      "url": "https://www.timeextension.com/news/2026/10/the-current-experience-is-not-where-it-needs-to-be-sega-is-pulling-total-war-shogun-2-complete-edition-from-stores",
-      "summary": "SEGA has pulled the 2023 Complete Edition of Total War: Shogun 2 from digital storefronts, reverting to the original 2011 release for the time being. The move signals a rollback in post‑release support and distribution for the title.",
-      "whyItMatters": "It underscores the difficulties developers face in maintaining and updating legacy games on modern platforms, impacting long‑term support strategies.",
+      "id": "art-1792282076170-4",
+      "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
+      "summary": "Analogue has released upgraded versions of its Mega SG and Super Nt consoles, which will support all original Sega and Nintendo cartridges with added modern features. Pre‑orders will open soon, offering retro gamers a high‑fidelity, contemporary experience.",
+      "whyItMatters": "The enhanced compatibility and modern connectivity of these consoles could influence how developers approach legacy game preservation and hardware emulation, potentially driving new tools and services in the retro gaming ecosystem.",
       "category": "DevOps",
-      "publishedAt": "2026-10-15T17:08:47Z"
+      "publishedAt": "2026-10-16T17:11:28Z"
     },
     {
-      "id": "art-1792197598069-8",
-      "title": "PEAK coming to PS5, Xbox Series, and Switch 2 on October 22 - Gematsu",
+      "id": "art-1792282076763-5",
+      "title": "Call of Duty: Modern Warfare 4 on Nintendo Switch 2 Is Not The Disaster You’d Imagine - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/modern-warfare-4-switch-2-gameplay",
+      "summary": "Call of Duty: Modern Warfare 4 marks the first Call of Duty title since 2013 to launch on a Nintendo console, debuting on the Switch 2. Reviewers found the campaign’s performance surprisingly smooth, dispelling fears of a poor port.",
+      "whyItMatters": "It demonstrates that high‑end AAA games can run efficiently on next‑gen handheld hardware, encouraging developers to target similar platforms and optimize for lower‑power devices.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-16T17:00:00Z"
+    },
+    {
+      "id": "art-1792282077230-6",
+      "title": "Galaxy S27 reportedly skips Snapdragon 8 Elite Extreme Gen 6 due to overheating - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/10/16/samsung-galaxy-s27-snapdragon-overheating-report/",
+      "summary": "Samsung’s upcoming Galaxy S27 series is reportedly avoiding the latest Snapdragon 8 Elite Extreme Gen 6 chipset because of overheating concerns, opting instead for a less powerful processor. This decision could affect the device’s performance, battery life, and the overall user experience compared to competitors using the newer chip.",
+      "whyItMatters": "Developers may need to optimize apps for a lower‑end CPU, potentially limiting performance‑intensive features and affecting the competitive positioning of the device in the market.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-16T16:50:00Z"
+    },
+    {
+      "id": "art-1792282077825-7",
+      "title": "Shrek 2 Remastered Microsoft Store page appears - Gematsu",
       "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/10/peak-coming-to-ps5-xbox-series-and-switch-2-on-october-22",
-      "summary": "Aggro Crab and Landfall are launching the cooperative climbing game PEAK on PlayStation 5, Xbox Series, and Switch 2 on October 22. The title will feature cross-play across all platforms, enabling players to compete together regardless of console.",
-      "whyItMatters": "The cross-platform support demonstrates a growing industry trend toward unified player bases, encouraging developers to adopt shared codebases and unified testing pipelines.",
+      "url": "https://www.gematsu.com/2026/10/shrek-2-remastered-microsoft-store-page-appears",
+      "summary": "A Microsoft Store page for the unannounced Shrek 2 Remastered, developed by Aspyr, has gone live, marking the first public glimpse of the upcoming title. The page showcases the game’s new graphics, features, and release details, signaling its availability on Windows platforms.",
+      "whyItMatters": "It demonstrates how game studios leverage Microsoft Store’s web‑based storefront to reach a broad audience, influencing distribution strategies for future remasters and digital releases.",
+      "category": "Web Dev",
+      "publishedAt": "2026-10-16T16:32:05Z"
+    },
+    {
+      "id": "art-1792282078593-8",
+      "title": "GTA 6 Launch Trailer Analysis: Has a Long-Standing Tech Issue Been Fixed? - Digital Foundry",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/features/gta-6-launch-trailer-analysis-has-a-long-standing-tech-issue-been-fixed",
+      "summary": "Digital Foundry's analysis of the GTA 6 launch trailer suggests that a long‑standing rendering issue may have been resolved, while also noting potential signs of Sony’s new QSSR upscaler. The review highlights how these changes could affect visual fidelity and performance on next‑gen consoles.",
+      "whyItMatters": "Fixing the rendering bug and adopting advanced upscaling can streamline development pipelines and improve cross‑platform performance for game studios.",
       "category": "DevOps",
-      "publishedAt": "2026-10-15T17:02:43Z"
+      "publishedAt": "2026-10-16T16:04:00Z"
     }
   ]
 }
