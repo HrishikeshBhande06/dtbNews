@@ -1,95 +1,85 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "articles": [
     {
-      "id": "art-1792282073448-0",
-      "title": "Android 17 QPR2 Beta 7.1 rolling out for Pixel - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/10/16/android-17-qpr2-beta-7-1-pixel/",
-      "summary": "Google has released Android 17 QPR2 Beta 7.1 for Pixel devices, following the previous preview. The update includes minor improvements and bug fixes.",
-      "whyItMatters": "It gives developers early access to the latest Android features, enabling them to test and optimize apps ahead of the final release.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-16T20:25:00Z"
-    },
-    {
-      "id": "art-1792282073773-1",
-      "title": "Why Apple is finally making its own smart home devices - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-      "summary": "Apple is launching its own smart home devices to simplify setup, deepen ecosystem integration, and emphasize data privacy, but faces stiff competition and higher price points. The move signals a push toward tighter hardware-software control and a new battleground for consumer adoption in the smart home market.",
-      "whyItMatters": "Developers will need to adapt to Apple’s proprietary APIs and stricter privacy controls, reshaping how third‑party smart home solutions are built and integrated.",
-      "category": "Security",
-      "publishedAt": "2026-10-16T18:30:27Z"
-    },
-    {
-      "id": "art-1792282074578-2",
-      "title": "iOS 27.2 has three new changes just added this week - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/16/ios-27-2-has-three-new-changes-just-added-this-week/",
-      "summary": "Apple's upcoming iOS 27.2 includes three new changes introduced this week, adding new features and improvements. These updates are part of Apple's iterative beta process, ensuring the OS remains current and secure.",
-      "whyItMatters": "The changes affect mobile app developers by requiring them to test compatibility with the new OS features, potentially impacting app performance and user experience.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-16T17:45:00Z"
-    },
-    {
-      "id": "art-1792282075349-3",
-      "title": "Apple TV 4K and HomePod Mini Price Increases 'Much More Striking' Than New Features - MacRumors",
+      "id": "art-1792369177426-0",
+      "title": "Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases - MacRumors",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/16/apple-tv-4k-homepod-mini-price-increases/",
-      "summary": "Apple’s latest Apple TV 4K and HomePod mini 2 models have seen price increases that critics say dwarf the modest new features, according to Daring Fireball’s John Gruber. Gruber notes that the price hikes are the most striking aspect of the update, with the hardware upgrades offering only incremental improvements.",
-      "whyItMatters": "Higher prices could curb consumer adoption of Apple TV and HomePod, potentially shrinking the user base for developers building apps and services for these platforms.",
+      "url": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/",
+      "summary": "Apple retail employees have been instructed to warn customers against walking into stores to purchase the iPhone Duo without a pre‑order. The move reflects Apple’s strict inventory and pre‑order policy, ensuring that only pre‑ordered units are sold at retail locations.",
+      "whyItMatters": "The policy underscores Apple’s control over product availability, impacting consumer purchasing patterns and the timing of third‑party accessory releases for developers.",
       "category": "Mobile",
-      "publishedAt": "2026-10-16T17:30:14Z"
+      "publishedAt": "2026-10-17T21:30:45Z"
     },
     {
-      "id": "art-1792282076170-4",
-      "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
-      "summary": "Analogue has released upgraded versions of its Mega SG and Super Nt consoles, which will support all original Sega and Nintendo cartridges with added modern features. Pre‑orders will open soon, offering retro gamers a high‑fidelity, contemporary experience.",
-      "whyItMatters": "The enhanced compatibility and modern connectivity of these consoles could influence how developers approach legacy game preservation and hardware emulation, potentially driving new tools and services in the retro gaming ecosystem.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-16T17:11:28Z"
+      "id": "art-1792369177857-1",
+      "title": "Intel \"Razor Lake-AX\" to Pack 700 TOPS of AI Compute - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/353825/intel-razor-lake-ax-to-pack-700-tops-of-ai-compute",
+      "summary": "Intel announced its next‑generation Razor Lake‑AX platform will deliver 700 TOPS of AI compute on a single die, positioning it as a powerful edge AI processor. The announcement was made at the Semiconductors Powering Humanoids summit in South Korea by Intel’s senior VP Cho Min‑sung.",
+      "whyItMatters": "With 700 TOPS, developers can run more complex AI models directly on devices, reducing latency and dependence on cloud services.",
+      "category": "AI",
+      "publishedAt": "2026-10-17T16:53:17Z"
     },
     {
-      "id": "art-1792282076763-5",
-      "title": "Call of Duty: Modern Warfare 4 on Nintendo Switch 2 Is Not The Disaster You’d Imagine - IGN",
+      "id": "art-1792369178609-2",
+      "title": "[UPDATE] Super Smash Bros. Player Mew2King Responds After Tournament Bans Him Over Bug Bite Concerns - IGN",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/modern-warfare-4-switch-2-gameplay",
-      "summary": "Call of Duty: Modern Warfare 4 marks the first Call of Duty title since 2013 to launch on a Nintendo console, debuting on the Switch 2. Reviewers found the campaign’s performance surprisingly smooth, dispelling fears of a poor port.",
-      "whyItMatters": "It demonstrates that high‑end AAA games can run efficiently on next‑gen handheld hardware, encouraging developers to target similar platforms and optimize for lower‑power devices.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-16T17:00:00Z"
+      "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
+      "summary": "Professional Super Smash Bros. player Jason \"Mew2King\" Zimmerman was banned from a competitive tournament after posting about a bug infestation in his home. He has responded to the ban, addressing concerns about the bug bite situation.",
+      "whyItMatters": "It highlights how off-field health and safety issues can impact competitive gaming and the importance of clear communication and policy enforcement in esports.",
+      "category": "Security",
+      "publishedAt": "2026-10-17T16:29:54Z"
     },
     {
-      "id": "art-1792282077230-6",
-      "title": "Galaxy S27 reportedly skips Snapdragon 8 Elite Extreme Gen 6 due to overheating - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/10/16/samsung-galaxy-s27-snapdragon-overheating-report/",
-      "summary": "Samsung’s upcoming Galaxy S27 series is reportedly avoiding the latest Snapdragon 8 Elite Extreme Gen 6 chipset because of overheating concerns, opting instead for a less powerful processor. This decision could affect the device’s performance, battery life, and the overall user experience compared to competitors using the newer chip.",
-      "whyItMatters": "Developers may need to optimize apps for a lower‑end CPU, potentially limiting performance‑intensive features and affecting the competitive positioning of the device in the market.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-16T16:50:00Z"
-    },
-    {
-      "id": "art-1792282077825-7",
-      "title": "Shrek 2 Remastered Microsoft Store page appears - Gematsu",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/10/shrek-2-remastered-microsoft-store-page-appears",
-      "summary": "A Microsoft Store page for the unannounced Shrek 2 Remastered, developed by Aspyr, has gone live, marking the first public glimpse of the upcoming title. The page showcases the game’s new graphics, features, and release details, signaling its availability on Windows platforms.",
-      "whyItMatters": "It demonstrates how game studios leverage Microsoft Store’s web‑based storefront to reach a broad audience, influencing distribution strategies for future remasters and digital releases.",
+      "id": "art-1792369179575-3",
+      "title": "Call of Duty: Modern Warfare 4 Captain Price Actor Sends Message to Fans - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
+      "summary": "Barry Sloane, the actor who portrays Captain Price in Call of Duty: Modern Warfare 4, posted a message thanking fans as the game's campaign launches. His public engagement highlights the importance of community interaction in modern game releases.",
+      "whyItMatters": "Such fan engagement can influence player retention and marketing strategies, guiding developers to prioritize community outreach in future releases.",
       "category": "Web Dev",
-      "publishedAt": "2026-10-16T16:32:05Z"
+      "publishedAt": "2026-10-17T15:52:41Z"
     },
     {
-      "id": "art-1792282078593-8",
-      "title": "GTA 6 Launch Trailer Analysis: Has a Long-Standing Tech Issue Been Fixed? - Digital Foundry",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/features/gta-6-launch-trailer-analysis-has-a-long-standing-tech-issue-been-fixed",
-      "summary": "Digital Foundry's analysis of the GTA 6 launch trailer suggests that a long‑standing rendering issue may have been resolved, while also noting potential signs of Sony’s new QSSR upscaler. The review highlights how these changes could affect visual fidelity and performance on next‑gen consoles.",
-      "whyItMatters": "Fixing the rendering bug and adopting advanced upscaling can streamline development pipelines and improve cross‑platform performance for game studios.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-16T16:04:00Z"
+      "id": "art-1792369179890-4",
+      "title": "Man Shows Up to AI Job Interview With His Own Helicopter AI to Interview for Him - Futurism",
+      "source": "Futurism",
+      "url": "https://futurism.com/artificial-intelligence/man-shows-up-ai-job-interview-own-ai",
+      "summary": "An influencer brought his AI assistant, Victor, to a job interview, using a helicopter to conduct the interview on his behalf. The chaotic scene highlighted the growing role of AI in automating and augmenting human interactions, even in hiring processes.",
+      "whyItMatters": "It demonstrates how AI can replace or assist humans in high-profile, public-facing roles, prompting developers to rethink AI integration and ethical guidelines in recruitment tools.",
+      "category": "AI",
+      "publishedAt": "2026-10-17T13:47:00Z"
+    },
+    {
+      "id": "art-1792369180394-5",
+      "title": "PSA: Apple’s official silicone iPhone Duo case will require adhesive to stick - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/17/iphone-duo-silicone-case-adhesive-psa/",
+      "summary": "Apple’s official silicone case for the upcoming iPhone Duo will need adhesive to stay on the device, a detail revealed after preorders opened. The case’s design choice highlights Apple’s focus on premium materials and may affect how users interact with the new dual‑screen phone.",
+      "whyItMatters": "Developers must account for the adhesive case’s potential impact on screen accessibility and app layout, ensuring UI elements remain usable when the case is attached.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-17T13:45:00Z"
+    },
+    {
+      "id": "art-1792369180923-6",
+      "title": "Apple's New Home Collection Gives Investors Another Reason to Remain Bullish - Yahoo Finance",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/10/17/apple-new-home-collection-investors-reason-bull/",
+      "summary": "Apple has launched a new Home Collection of smart home devices, expanding its ecosystem beyond iPhones and Macs. The move strengthens customer loyalty and opens new revenue streams, boosting investor confidence.",
+      "whyItMatters": "For software developers, the Home Collection signals increased demand for secure, interoperable app integrations within Apple's ecosystem, encouraging investment in mobile and IoT development.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-17T13:35:00Z"
+    },
+    {
+      "id": "art-1792369181480-7",
+      "title": "NVIDIA Denies RTX 5090 Discontinuation Reports; Jeff Fisher Confirms Flagship GPU Will Continue Shipping - Wccftech",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-denies-rtx-5090-discontinuation-reports/",
+      "summary": "NVIDIA has denied reports that it will discontinue the RTX 5090, stating the flagship GPU will continue shipping despite supply constraints. The company emphasizes the card's importance as prices have surged above $5000 amid a severe shortage.",
+      "whyItMatters": "The continued availability of the RTX 5090 ensures that AI developers and high‑performance computing teams can maintain GPU capacity for training and inference workloads, preventing bottlenecks in the industry.",
+      "category": "AI",
+      "publishedAt": "2026-10-17T13:28:00Z"
     }
   ]
 }
