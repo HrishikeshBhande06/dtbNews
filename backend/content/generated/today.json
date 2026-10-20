@@ -1,85 +1,85 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "articles": [
     {
-      "id": "art-1792369177426-0",
-      "title": "Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases - MacRumors",
+      "id": "art-1792458484634-0",
+      "title": "MrBeast Joins Shark Tank, Invests Quarter Million In AI-Powered ‘Ball 2’ - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/mrbeast-joins-shark-tank-invests-quarter-million-in-ai-powered-ball-2-2000747308",
+      "summary": "MrBeast, the popular YouTuber, joined Shark Tank and invested $250,000 in an AI-powered foam ball called \"Ball 2\". Despite the investment, Shark Tank investor Kevin Harrington expressed skepticism, questioning the product's differentiation from other novelty balls.",
+      "whyItMatters": "The investment highlights the growing interest in AI-driven consumer gadgets, encouraging developers to explore AI integration in everyday products.",
+      "category": "AI",
+      "publishedAt": "2026-10-18T22:24:42Z"
+    },
+    {
+      "id": "art-1792458485570-1",
+      "title": "The Year’s Most Compelling Horror Game Is About Cute Penguins - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/the-most-compelling-lovecraft-video-game-is-about-hundreds-of-adorable-penguins-2000747293",
+      "summary": "Penguin Colony, a horror game featuring adorable penguins, subverts Lovecraftian tropes by stripping away colonial themes and anthropological framing. The game redefines the genre, offering a fresh, unsettling experience that challenges players' expectations.",
+      "whyItMatters": "The game's innovative narrative approach demonstrates how indie developers can disrupt genre conventions, encouraging fresh storytelling techniques in game development.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-18T19:49:55Z"
+    },
+    {
+      "id": "art-1792458487184-2",
+      "title": "Apple Expected to Release New Products on Next Four Fridays - MacRumors",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/",
-      "summary": "Apple retail employees have been instructed to warn customers against walking into stores to purchase the iPhone Duo without a pre‑order. The move reflects Apple’s strict inventory and pre‑order policy, ensuring that only pre‑ordered units are sold at retail locations.",
-      "whyItMatters": "The policy underscores Apple’s control over product availability, impacting consumer purchasing patterns and the timing of third‑party accessory releases for developers.",
+      "url": "https://www.macrumors.com/2026/10/18/apple-product-releases-next-four-fridays/",
+      "summary": "Apple is expected to unveil new MacBook Pro, iMac, and iPad mini models over the next four Fridays, featuring OLED displays and the upcoming M6 chips. The releases aim to enhance performance and visual fidelity across its laptop, desktop, and tablet lines.",
+      "whyItMatters": "Developers will need to update their apps and drivers to leverage the new M6 architecture and OLED capabilities, impacting performance optimization and UI rendering.",
       "category": "Mobile",
-      "publishedAt": "2026-10-17T21:30:45Z"
+      "publishedAt": "2026-10-18T18:01:43Z"
     },
     {
-      "id": "art-1792369177857-1",
-      "title": "Intel \"Razor Lake-AX\" to Pack 700 TOPS of AI Compute - TechPowerUp",
-      "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/353825/intel-razor-lake-ax-to-pack-700-tops-of-ai-compute",
-      "summary": "Intel announced its next‑generation Razor Lake‑AX platform will deliver 700 TOPS of AI compute on a single die, positioning it as a powerful edge AI processor. The announcement was made at the Semiconductors Powering Humanoids summit in South Korea by Intel’s senior VP Cho Min‑sung.",
-      "whyItMatters": "With 700 TOPS, developers can run more complex AI models directly on devices, reducing latency and dependence on cloud services.",
+      "id": "art-1792458487890-3",
+      "title": "Apple’s HomeViews Reportedly Collected Dust in Warehouses ‘For the Better Part of a Year’ - Gizmodo",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/apples-homeviews-reportedly-collected-dust-in-warehouses-for-the-better-part-of-a-year-2000827427",
+      "summary": "Apple’s HomeViews, a new smart home device, reportedly accumulated dust in warehouses for most of a year, raising concerns about production quality. The delay in Siri’s integration has stalled the product pipeline, threatening Apple’s launch timeline.",
+      "whyItMatters": "Software developers relying on Siri’s APIs face postponed release windows, potentially delaying feature rollouts and impacting the broader AI ecosystem.",
       "category": "AI",
-      "publishedAt": "2026-10-17T16:53:17Z"
+      "publishedAt": "2026-10-18T17:47:12Z"
     },
     {
-      "id": "art-1792369178609-2",
-      "title": "[UPDATE] Super Smash Bros. Player Mew2King Responds After Tournament Bans Him Over Bug Bite Concerns - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
-      "summary": "Professional Super Smash Bros. player Jason \"Mew2King\" Zimmerman was banned from a competitive tournament after posting about a bug infestation in his home. He has responded to the ban, addressing concerns about the bug bite situation.",
-      "whyItMatters": "It highlights how off-field health and safety issues can impact competitive gaming and the importance of clear communication and policy enforcement in esports.",
+      "id": "art-1792458488457-4",
+      "title": "Battlefield 6 devs to fix \"Secuty\" skin typo, but five-pistol outfit was intentional - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
+      "summary": "Battlefield 6 developers announced they will correct a typo on a Season 5 skin, while confirming that the outfit featuring five pistols was a deliberate design choice. The fix will address the error, but the five‑pistol look remains intentional.",
+      "whyItMatters": "It highlights the need for rigorous quality assurance and clear communication in game development, reminding developers that even minor typos can affect user perception and that intentional design quirks must be documented to avoid confusion.",
+      "category": "DevOps",
+      "publishedAt": "2026-10-18T17:37:38Z"
+    },
+    {
+      "id": "art-1792458489568-5",
+      "title": "Castlevania Belmont's Curse: Catacombs of Paris walkthrough (Part 3) - Rock Paper Shotgun",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-walkthrough-part-3",
+      "summary": "Rose continues her descent into the Catacombs of Paris, confronting Death in the third part of the Castlevania: Belmont's Curse walkthrough. The segment showcases intense combat and narrative twists that keep players engaged.",
+      "whyItMatters": "It highlights the importance of narrative-driven design in game development, encouraging developers to craft immersive storylines that keep players engaged.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-18T17:33:49Z"
+    },
+    {
+      "id": "art-1792458490167-6",
+      "title": "Latest On AEW Status of Keith Lee - 411MANIA",
+      "source": "411mania.com",
+      "url": "https://411mania.com/wrestling/latest-aew-status-keith-lee/",
+      "summary": "Keith Lee, a former AEW wrestler, has not appeared in the promotion for nearly three years, yet reports indicate he remains under contract. The lack of recent appearances has left fans and the wrestling community uncertain about his future role.",
+      "whyItMatters": "This has no direct impact on software developers or the tech industry.",
+      "category": "DevOps",
+      "publishedAt": "2026-10-18T17:08:43Z"
+    },
+    {
+      "id": "art-1792458490925-7",
+      "title": "Video game ownership bill introduced in Congress - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+      "summary": "The Power To The Players Act was introduced in Congress to ensure that when consumers purchase a video game, they actually own it rather than merely licensing it. The bill would shift the legal framework for digital game distribution, potentially affecting how publishers structure their contracts and DRM.",
+      "whyItMatters": "It forces developers and publishers to rethink licensing models, potentially reducing reliance on DRM and altering revenue streams.",
       "category": "Security",
-      "publishedAt": "2026-10-17T16:29:54Z"
-    },
-    {
-      "id": "art-1792369179575-3",
-      "title": "Call of Duty: Modern Warfare 4 Captain Price Actor Sends Message to Fans - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
-      "summary": "Barry Sloane, the actor who portrays Captain Price in Call of Duty: Modern Warfare 4, posted a message thanking fans as the game's campaign launches. His public engagement highlights the importance of community interaction in modern game releases.",
-      "whyItMatters": "Such fan engagement can influence player retention and marketing strategies, guiding developers to prioritize community outreach in future releases.",
-      "category": "Web Dev",
-      "publishedAt": "2026-10-17T15:52:41Z"
-    },
-    {
-      "id": "art-1792369179890-4",
-      "title": "Man Shows Up to AI Job Interview With His Own Helicopter AI to Interview for Him - Futurism",
-      "source": "Futurism",
-      "url": "https://futurism.com/artificial-intelligence/man-shows-up-ai-job-interview-own-ai",
-      "summary": "An influencer brought his AI assistant, Victor, to a job interview, using a helicopter to conduct the interview on his behalf. The chaotic scene highlighted the growing role of AI in automating and augmenting human interactions, even in hiring processes.",
-      "whyItMatters": "It demonstrates how AI can replace or assist humans in high-profile, public-facing roles, prompting developers to rethink AI integration and ethical guidelines in recruitment tools.",
-      "category": "AI",
-      "publishedAt": "2026-10-17T13:47:00Z"
-    },
-    {
-      "id": "art-1792369180394-5",
-      "title": "PSA: Apple’s official silicone iPhone Duo case will require adhesive to stick - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/17/iphone-duo-silicone-case-adhesive-psa/",
-      "summary": "Apple’s official silicone case for the upcoming iPhone Duo will need adhesive to stay on the device, a detail revealed after preorders opened. The case’s design choice highlights Apple’s focus on premium materials and may affect how users interact with the new dual‑screen phone.",
-      "whyItMatters": "Developers must account for the adhesive case’s potential impact on screen accessibility and app layout, ensuring UI elements remain usable when the case is attached.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-17T13:45:00Z"
-    },
-    {
-      "id": "art-1792369180923-6",
-      "title": "Apple's New Home Collection Gives Investors Another Reason to Remain Bullish - Yahoo Finance",
-      "source": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/10/17/apple-new-home-collection-investors-reason-bull/",
-      "summary": "Apple has launched a new Home Collection of smart home devices, expanding its ecosystem beyond iPhones and Macs. The move strengthens customer loyalty and opens new revenue streams, boosting investor confidence.",
-      "whyItMatters": "For software developers, the Home Collection signals increased demand for secure, interoperable app integrations within Apple's ecosystem, encouraging investment in mobile and IoT development.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-17T13:35:00Z"
-    },
-    {
-      "id": "art-1792369181480-7",
-      "title": "NVIDIA Denies RTX 5090 Discontinuation Reports; Jeff Fisher Confirms Flagship GPU Will Continue Shipping - Wccftech",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/nvidia-denies-rtx-5090-discontinuation-reports/",
-      "summary": "NVIDIA has denied reports that it will discontinue the RTX 5090, stating the flagship GPU will continue shipping despite supply constraints. The company emphasizes the card's importance as prices have surged above $5000 amid a severe shortage.",
-      "whyItMatters": "The continued availability of the RTX 5090 ensures that AI developers and high‑performance computing teams can maintain GPU capacity for training and inference workloads, preventing bottlenecks in the industry.",
-      "category": "AI",
-      "publishedAt": "2026-10-17T13:28:00Z"
+      "publishedAt": "2026-10-18T16:27:51Z"
     }
   ]
 }
