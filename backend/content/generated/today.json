@@ -1,95 +1,105 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "articles": [
     {
-      "id": "art-1792716426394-0",
-      "title": "What 32,000 Folds Did to the iPhone Duo's Hinge - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-fold-test-hinge/",
-      "summary": "Apple's iPhone Duo hinge was tested to 32,000 folds using a custom device, revealing its durability and potential longevity. The tests, conducted by Joanna Stern, show that the hinge can withstand repeated folding, but Apple has not disclosed a lifetime fold number.",
-      "whyItMatters": "For developers, understanding hinge durability informs app design for foldable devices and guides hardware‑software integration strategies.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-21T20:05:18Z"
-    },
-    {
-      "id": "art-1792716427171-1",
-      "title": "'Fallout 4' Is Officially Making A Comeback A Decade After Release - Polygon.com",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/fallout-4-dlc-expansion-fever-dreams-fathomless-command-overdrive-what-are/",
-      "summary": "Bethesda is reviving Fallout 4 with a series of new post‑apocalyptic RPG experiences, marking a decade‑long return to the franchise. The announcement comes as fans await the next Elder Scrolls title, signaling a renewed focus on legacy IPs in the gaming industry.",
-      "whyItMatters": "The revival demonstrates how established game engines can be leveraged for extended lifecycle support, encouraging developers to invest in modular, reusable codebases for long‑term content delivery.",
+      "id": "art-1792803227103-0",
+      "title": "All My Hobbies Are Getting Slopped Up, And It’s Exhausting - Aftermath",
+      "source": "Aftermath.site",
+      "url": "https://aftermath.site/ai-slop-hobbies-in-software-emulation/",
+      "summary": "The surge of 'vibe coding' has flooded the ecosystem with fleeting, unmaintained projects, eroding the stability of established communities. This trend threatens long-term collaboration and code quality across the industry.",
+      "whyItMatters": "Developers face increased technical debt and reduced reliability, making it harder to sustain and evolve software projects.",
       "category": "DevOps",
-      "publishedAt": "2026-10-21T19:23:32Z"
+      "publishedAt": "2026-10-22T20:44:30Z"
     },
     {
-      "id": "art-1792716428019-2",
-      "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
-      "summary": "Electronic Arts has shut down BioWare, the studio behind the Mass Effect series, after more than 30 years of game development. The decision follows the cancellation of a new Mass Effect title and the layoff of 400 employees.",
-      "whyItMatters": "The closure signals a shift in how large publishers manage IPs and talent, forcing developers to adapt to more volatile studio environments and reconsider long-term project commitments.",
+      "id": "art-1792803227515-1",
+      "title": "Valve Employee Accidentally Mentions Half-Life 3 Codename For The First Time Ever - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/valve-employee-seemingly-slips-up-and-says-rumored-half-life-3-codename-on-stage-2000748885",
+      "summary": "A Valve employee inadvertently revealed the codename for Half‑Life 3 during a public interview, sparking speculation among fans and industry observers. The comment marked the first official mention of the long‑awaited sequel, reigniting discussions about Valve’s future projects.",
+      "whyItMatters": "The disclosure can influence developer expectations, affect project timelines, and impact the broader gaming ecosystem’s perception of Valve’s roadmap.",
       "category": "DevOps",
-      "publishedAt": "2026-10-21T19:12:16Z"
+      "publishedAt": "2026-10-22T19:04:14Z"
     },
     {
-      "id": "art-1792716428720-3",
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases - The Hacker News",
-      "source": "Internet",
-      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "summary": "GitLab has patched CVE-2026-110264, a critical vulnerability that could enable unauthenticated remote code execution on self‑managed installations as far back as version 7.0. The flaw spans 12 years of releases, affecting millions of deployments worldwide.",
-      "whyItMatters": "The vulnerability exposes organizations to arbitrary code execution, jeopardizing the integrity and confidentiality of their code repositories and CI/CD pipelines.",
-      "category": "Security",
-      "publishedAt": "2026-10-21T18:57:00Z"
-    },
-    {
-      "id": "art-1792716429553-4",
-      "title": "Xbox mandates a four-day return to office - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/report/1015733/xbox-return-to-office-policy-four-days",
-      "summary": "Xbox employees near Microsoft’s Redmond headquarters will be required to return to the office for four days a week starting in February. The company’s new policy marks a shift toward a more structured hybrid work model for its workforce.",
-      "whyItMatters": "The mandate reflects a broader industry trend toward hybrid work, influencing how software developers balance remote and in‑office collaboration and impacting office space utilization.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-21T18:31:15Z"
-    },
-    {
-      "id": "art-1792716430629-5",
-      "title": "EA Sports Is Working on a Brand New Open-World Football Game - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/ea-sports-confirms-its-developing-an-open-world-football-game",
-      "summary": "EA Sports is developing a brand-new open‑world football game that appears to be separate from its existing Madden and College Football titles. The project signals a shift toward more immersive, dynamic sports experiences on next‑generation platforms.",
-      "whyItMatters": "The move will push game engines and AI research forward, offering developers new tools and techniques for creating realistic, large‑scale virtual worlds.",
+      "id": "art-1792803227927-2",
+      "title": "Canva releases its first image generation model - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva has launched its first image generation model, now available to all users. The new model promises improved customization and lower costs for image creation.",
+      "whyItMatters": "This democratizes AI-powered design tools, enabling developers to integrate advanced image generation into applications without high infrastructure costs.",
       "category": "AI",
-      "publishedAt": "2026-10-21T18:12:59Z"
+      "publishedAt": "2026-10-22T19:00:00Z"
     },
     {
-      "id": "art-1792716431066-6",
-      "title": "Cloud Playtime Now Available to Test with XBOX Insiders - XBOX Wire",
-      "source": "Xbox.com",
-      "url": "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/",
-      "summary": "Xbox Insiders can now test new Achievement features that include a visual refresh, the ability to hide games, and highlighting fully completed games. These updates give players more control and personalization over their profiles, with broader availability planned for the future.",
-      "whyItMatters": "By enhancing profile customization and engagement, these features can drive user retention and provide developers with richer data on player behavior, informing future game design and marketing strategies.",
-      "category": "Cloud",
-      "publishedAt": "2026-10-21T18:01:43Z"
+      "id": "art-1792803228399-3",
+      "title": "Delta can turn the iPhone Duo into your favorite folding handheld - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update",
+      "summary": "Delta, a popular gaming emulator, has received a major update that adds numerous new features and optimizations, including full support for Apple’s iPhone Duo. The upgrade enhances performance and expands the device compatibility of the emulator, making it easier for users to play classic games on the new dual‑screen phone.",
+      "whyItMatters": "By extending emulator support to the iPhone Duo, Delta opens up a new market for mobile gaming enthusiasts and gives developers a broader platform to test and showcase their games, potentially driving innovation in mobile game design.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-22T18:30:00Z"
     },
     {
-      "id": "art-1792716431466-7",
-      "title": "You Have a Couple More Days to Play WoW Forever as Blizzard Extends Beta to October 23 - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/wow-forever-beta-extended-to-friday-name-reservations-go-live-tuesday",
-      "summary": "Blizzard has extended the World of Warcraft Forever beta until October 23, giving players a few more days to test the upcoming full release. The announcement highlights the company’s ongoing efforts to refine the game based on community feedback before the official launch.",
-      "whyItMatters": "Extended beta periods allow developers to gather additional user data, identify bugs, and optimize performance, which can improve release quality and reduce post-launch support costs.",
+      "id": "art-1792803228856-4",
+      "title": "Mass Effect 5 trailer leaks following BioWare shutdown - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea",
+      "summary": "EA has shut down BioWare and canceled its upcoming Mass Effect game, yet a trailer seemingly from the cancelled title surfaced on Reddit, ending with the subtitle “Mass Effect: Universe.” The leak fuels speculation about the game's fate and the studio’s future projects.",
+      "whyItMatters": "The incident highlights the risks of intellectual property leaks and the impact of studio closures on the gaming industry’s development pipeline.",
+      "category": "Security",
+      "publishedAt": "2026-10-22T18:14:24Z"
+    },
+    {
+      "id": "art-1792803229557-5",
+      "title": "Survive the Pitch: Five Nights at Freddy's Haunts Rocket League - Rocket League ®",
+      "source": "Rocketleague.com",
+      "url": "https://www.rocketleague.com/news/survive-the-pitch-five-nights-at-freddys-haunts-rocket-league",
+      "summary": "Rocket League is hosting a Halloween event called Haunted Hallows, featuring animatronic characters from Five Nights at Freddy's on the pitch. The event runs from October 22 to November 2, 9 AM PT each day.",
+      "whyItMatters": "It demonstrates how game developers can leverage popular IPs to boost player engagement and revenue during seasonal events.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-22T18:12:46Z"
+    },
+    {
+      "id": "art-1792803229831-6",
+      "title": "Apple Pulls Keynote, Pages and Numbers From App Store - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/22/apple-removes-iwork-apps-app-store/",
+      "summary": "Apple has temporarily removed its productivity apps Keynote, Pages, and Numbers from the App Store following the release of an update that added iPhone Duo support and new features. The removal is likely a precautionary measure to address potential compatibility or policy issues before the apps become available again.",
+      "whyItMatters": "Developers and users relying on these apps for cross-device productivity may face disruptions, prompting a reassessment of distribution strategies and highlighting Apple's tightening control over App Store content.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-22T18:01:29Z"
+    },
+    {
+      "id": "art-1792803230251-7",
+      "title": "Steam Pricing Analyst Found Hollow Knight: Silksong's $20 Price Annoying: 'I Was A Bit Like, Oh God, Please Price It Higher' - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/steam-pricing-analyst-found-hollow-knight-silksongs-20-price-annoying-i-was-a-bit-like-oh-god-please-price-it-higher-2000748802",
+      "summary": "A Steam pricing analyst expressed frustration over the $20 price tag for Hollow Knight: Silksong, suggesting that indie developers might need to price their games higher to stay competitive. The article highlights how indie developers are facing tighter pricing pressures than ever, prompting discussions about sustainable revenue models in the gaming industry.",
+      "whyItMatters": "Higher price points can impact indie developers' profitability and influence how they allocate resources for future projects, affecting the broader software development ecosystem.",
       "category": "DevOps",
-      "publishedAt": "2026-10-21T17:52:26Z"
+      "publishedAt": "2026-10-22T18:00:53Z"
     },
     {
-      "id": "art-1792716432198-8",
-      "title": "The Sims Project Rene IS PAUSED – The Sims Project Evergreen / Project X IS NEXT! - Sims Community",
-      "source": "Simscommunity.info",
-      "url": "https://simscommunity.info/2026/10/21/the-sims-project-evergreen-x-rene/",
-      "summary": "Electronic Arts has paused the Sims Project Rene and shifted its full attention to the new Sims Project Evergreen. The announcement signals a strategic shift in the studio’s development roadmap, with Project X slated to follow.",
-      "whyItMatters": "This realignment may influence how developers allocate resources and prioritize feature pipelines in large-scale game projects.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-21T17:31:09Z"
+      "id": "art-1792803230952-8",
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "summary": "Microsoft's new AI diagnostic tool outperformed human physicians, achieving up to four times higher accuracy in medical case diagnosis. The study suggests AI could play a pivotal role in clinical decision support and patient care.",
+      "whyItMatters": "For software developers, this demonstrates the growing reliability of AI models in high-stakes domains, encouraging integration of advanced diagnostic algorithms into healthcare platforms.",
+      "category": "AI",
+      "publishedAt": "2026-10-22T18:00:00Z"
+    },
+    {
+      "id": "art-1792803231284-9",
+      "title": "Nintendo Switch 2 Gets Its First Software-Only Jailbreak, With Help From OpenAI Codex - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/354036/nintendo-switch-2-gets-its-first-software-only-jailbreak-with-help-from-openai-codex",
+      "summary": "Nintendo Switch 2’s latest firmware (23.0.1) has been cracked with a software-only jailbreak called ns2jb, created by security researcher pepsipu using OpenAI Codex. The jailbreak was demonstrated by modding the Switch 2 exclusive Mario Kart World, showcasing the ease of bypassing the console’s security.\n",
+      "whyItMatters": "The release exposes critical vulnerabilities in the Switch 2’s firmware, forcing developers and manufacturers to prioritize patching and secure coding practices to protect user data and intellectual property.\n",
+      "category": "Security",
+      "publishedAt": "2026-10-22T17:53:42Z"
     }
   ]
 }
