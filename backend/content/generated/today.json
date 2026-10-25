@@ -1,105 +1,95 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "articles": [
     {
-      "id": "art-1792803227103-0",
-      "title": "All My Hobbies Are Getting Slopped Up, And It’s Exhausting - Aftermath",
-      "source": "Aftermath.site",
-      "url": "https://aftermath.site/ai-slop-hobbies-in-software-emulation/",
-      "summary": "The surge of 'vibe coding' has flooded the ecosystem with fleeting, unmaintained projects, eroding the stability of established communities. This trend threatens long-term collaboration and code quality across the industry.",
-      "whyItMatters": "Developers face increased technical debt and reduced reliability, making it harder to sustain and evolve software projects.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-22T20:44:30Z"
-    },
-    {
-      "id": "art-1792803227515-1",
-      "title": "Valve Employee Accidentally Mentions Half-Life 3 Codename For The First Time Ever - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/valve-employee-seemingly-slips-up-and-says-rumored-half-life-3-codename-on-stage-2000748885",
-      "summary": "A Valve employee inadvertently revealed the codename for Half‑Life 3 during a public interview, sparking speculation among fans and industry observers. The comment marked the first official mention of the long‑awaited sequel, reigniting discussions about Valve’s future projects.",
-      "whyItMatters": "The disclosure can influence developer expectations, affect project timelines, and impact the broader gaming ecosystem’s perception of Valve’s roadmap.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-22T19:04:14Z"
-    },
-    {
-      "id": "art-1792803227927-2",
-      "title": "Canva releases its first image generation model - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "summary": "Canva has launched its first image generation model, now available to all users. The new model promises improved customization and lower costs for image creation.",
-      "whyItMatters": "This democratizes AI-powered design tools, enabling developers to integrate advanced image generation into applications without high infrastructure costs.",
-      "category": "AI",
-      "publishedAt": "2026-10-22T19:00:00Z"
-    },
-    {
-      "id": "art-1792803228399-3",
-      "title": "Delta can turn the iPhone Duo into your favorite folding handheld - The Verge",
+      "id": "art-1792887964599-0",
+      "title": "Xbox’s first chief operating officer is out after just a few months - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update",
-      "summary": "Delta, a popular gaming emulator, has received a major update that adds numerous new features and optimizations, including full support for Apple’s iPhone Duo. The upgrade enhances performance and expands the device compatibility of the emulator, making it easier for users to play classic games on the new dual‑screen phone.",
-      "whyItMatters": "By extending emulator support to the iPhone Duo, Delta opens up a new market for mobile gaming enthusiasts and gives developers a broader platform to test and showcase their games, potentially driving innovation in mobile game design.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-22T18:30:00Z"
+      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+      "summary": "Microsoft’s Xbox division has seen its first chief operating officer, Helen Chiang, depart after a brief tenure of a few months. The move follows her 21-year career at the company and signals a shift in the leadership structure of the gaming division.",
+      "whyItMatters": "The departure of a high-level executive can affect the stability and strategic direction of Xbox’s development pipeline, potentially influencing the release schedules and support for upcoming games.",
+      "category": "DevOps",
+      "publishedAt": "2026-10-23T21:39:26Z"
     },
     {
-      "id": "art-1792803228856-4",
-      "title": "Mass Effect 5 trailer leaks following BioWare shutdown - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea",
-      "summary": "EA has shut down BioWare and canceled its upcoming Mass Effect game, yet a trailer seemingly from the cancelled title surfaced on Reddit, ending with the subtitle “Mass Effect: Universe.” The leak fuels speculation about the game's fate and the studio’s future projects.",
-      "whyItMatters": "The incident highlights the risks of intellectual property leaks and the impact of studio closures on the gaming industry’s development pipeline.",
+      "id": "art-1792887965191-1",
+      "title": "The best place to save your credit cards - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2026/10/23/best-place-save-your-credit-cards/",
+      "summary": "The Washington Post highlights the ongoing issue of credit‑card fraud and data breaches, noting that many websites and merchants still mishandle card data. It calls for better practices and secure storage solutions to protect consumers.",
+      "whyItMatters": "Developers must implement secure card storage and compliance measures to prevent breaches and protect user data.",
       "category": "Security",
-      "publishedAt": "2026-10-22T18:14:24Z"
+      "publishedAt": "2026-10-23T20:32:30Z"
     },
     {
-      "id": "art-1792803229557-5",
-      "title": "Survive the Pitch: Five Nights at Freddy's Haunts Rocket League - Rocket League ®",
-      "source": "Rocketleague.com",
-      "url": "https://www.rocketleague.com/news/survive-the-pitch-five-nights-at-freddys-haunts-rocket-league",
-      "summary": "Rocket League is hosting a Halloween event called Haunted Hallows, featuring animatronic characters from Five Nights at Freddy's on the pitch. The event runs from October 22 to November 2, 9 AM PT each day.",
-      "whyItMatters": "It demonstrates how game developers can leverage popular IPs to boost player engagement and revenue during seasonal events.",
+      "id": "art-1792887965719-2",
+      "title": "Updated Google privacy policy says your Gmail might be used for advertising - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+      "summary": "Google's updated privacy policy now allows Gmail data to be used for advertising when users enable Personal Intelligence. This change expands the company's data pool for ad targeting, raising concerns about user privacy.",
+      "whyItMatters": "Developers must account for stricter data handling and potential compliance requirements when integrating Google services.",
+      "category": "Security",
+      "publishedAt": "2026-10-23T20:19:55Z"
+    },
+    {
+      "id": "art-1792887966261-4",
+      "title": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/23/apple-iphone-duo-china-launch.html",
+      "summary": "Scalpers are offering Apple iPhone Duo buyers hundreds of extra yuan outside the Beijing launch, targeting the already pricey foldable device. The Beijing flagship store has seen a surge of high‑paying customers eager to secure the new iPhone Duo amid limited supply.",
+      "whyItMatters": "The inflated resale demand highlights challenges for developers and the tech industry in managing supply chain constraints and pricing strategies for high‑end mobile hardware.",
       "category": "Mobile",
-      "publishedAt": "2026-10-22T18:12:46Z"
+      "publishedAt": "2026-10-23T20:04:37Z"
     },
     {
-      "id": "art-1792803229831-6",
-      "title": "Apple Pulls Keynote, Pages and Numbers From App Store - MacRumors",
+      "id": "art-1792887966682-5",
+      "title": "Google Health 5.11 rolling out expanded 100+ activity detection to Fitbit Air, Pixel Watch - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/10/23/google-health-expanded-activity-detection/",
+      "summary": "Google Health’s 5.11 update expands automatic activity detection to over 100 types and is now rolling out to Fitbit Air and Pixel Watch devices.",
+      "whyItMatters": "Developers can now access richer, more granular activity data for fitness and health apps, enabling more accurate tracking and personalized insights.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-23T18:36:00Z"
+    },
+    {
+      "id": "art-1792887967056-6",
+      "title": "Crackgate? iPhone Duo Owners Report Screens Breaking Along the Hinge - MacRumors",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/22/apple-removes-iwork-apps-app-store/",
-      "summary": "Apple has temporarily removed its productivity apps Keynote, Pages, and Numbers from the App Store following the release of an update that added iPhone Duo support and new features. The removal is likely a precautionary measure to address potential compatibility or policy issues before the apps become available again.",
-      "whyItMatters": "Developers and users relying on these apps for cross-device productivity may face disruptions, prompting a reassessment of distribution strategies and highlighting Apple's tightening control over App Store content.",
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-screen-cracks/",
+      "summary": "Some iPhone Duo models are experiencing hinge-related display cracks, as reported by users on Reddit and MacRumors forums. Early photos show cracks forming along the hinge area, raising concerns about the durability of the new dual-screen design.",
+      "whyItMatters": "Hardware failures like hinge cracks can force developers to redesign UI layouts for resilience, increase warranty costs, and erode consumer trust in new device form factors.",
       "category": "Mobile",
-      "publishedAt": "2026-10-22T18:01:29Z"
+      "publishedAt": "2026-10-23T18:05:35Z"
     },
     {
-      "id": "art-1792803230251-7",
-      "title": "Steam Pricing Analyst Found Hollow Knight: Silksong's $20 Price Annoying: 'I Was A Bit Like, Oh God, Please Price It Higher' - Kotaku",
+      "id": "art-1792887967543-7",
+      "title": "Arkane Devs Say Blade Is Nearly Finished But If It Can't Find A Buyer Soon, The Studio Will Close - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/steam-pricing-analyst-found-hollow-knight-silksongs-20-price-annoying-i-was-a-bit-like-oh-god-please-price-it-higher-2000748802",
-      "summary": "A Steam pricing analyst expressed frustration over the $20 price tag for Hollow Knight: Silksong, suggesting that indie developers might need to price their games higher to stay competitive. The article highlights how indie developers are facing tighter pricing pressures than ever, prompting discussions about sustainable revenue models in the gaming industry.",
-      "whyItMatters": "Higher price points can impact indie developers' profitability and influence how they allocate resources for future projects, affecting the broader software development ecosystem.",
+      "url": "https://kotaku.com/arkane-devs-say-blade-is-nearly-finished-but-if-it-cant-find-a-buyer-soon-the-studio-will-close-2000749096",
+      "summary": "Arkane Studios’ upcoming game Blade is almost finished, but the studio warns it could shut down if it can’t secure a buyer soon, prompting union reps to call leaving the title unfinished a monumental waste.",
+      "whyItMatters": "The situation underscores the precarious financial realities for game developers, where unfinished IPs can jeopardize jobs and industry investment.",
       "category": "DevOps",
-      "publishedAt": "2026-10-22T18:00:53Z"
+      "publishedAt": "2026-10-23T17:15:30Z"
     },
     {
-      "id": "art-1792803230952-8",
-      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-      "summary": "Microsoft's new AI diagnostic tool outperformed human physicians, achieving up to four times higher accuracy in medical case diagnosis. The study suggests AI could play a pivotal role in clinical decision support and patient care.",
-      "whyItMatters": "For software developers, this demonstrates the growing reliability of AI models in high-stakes domains, encouraging integration of advanced diagnostic algorithms into healthcare platforms.",
+      "id": "art-1792887968222-8",
+      "title": "Why ‘Final Fantasy’ Returned To 2D - Bloomberg.com",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-23/why-final-fantasy-returned-to-2d",
+      "summary": "Final Fantasy Resonance marks a deliberate shift back to 2D graphics, echoing the franchise’s classic roots. The move highlights a nostalgic trend in game design, appealing to long‑time fans and new players alike.",
+      "whyItMatters": "It signals to software developers that retro aesthetics can drive engagement, encouraging teams to revisit legacy engines and design pipelines.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-23T17:00:01Z"
+    },
+    {
+      "id": "art-1792887968804-9",
+      "title": "'There Will Always Be a Role Left for Us to Play' - In an AI-Filled World, Miyamoto Thinks the Human Touch Will Always Be Vital - Time Extension",
+      "source": "Timeextension.com",
+      "url": "https://www.timeextension.com/news/2026/10/there-will-always-be-a-role-left-for-us-to-play-in-an-ai-filled-world-miyamoto-thinks-the-human-touch-will-always-be-vital",
+      "summary": "Shigeru Miyamoto argues that even as AI becomes pervasive, the unique human touch in design and storytelling will always be essential. The article highlights how creators must balance automation with personal creativity to keep games engaging.",
+      "whyItMatters": "For software developers, it underscores the need to focus on human-centered design and creative problem solving, rather than relying solely on AI automation.",
       "category": "AI",
-      "publishedAt": "2026-10-22T18:00:00Z"
-    },
-    {
-      "id": "art-1792803231284-9",
-      "title": "Nintendo Switch 2 Gets Its First Software-Only Jailbreak, With Help From OpenAI Codex - TechPowerUp",
-      "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/354036/nintendo-switch-2-gets-its-first-software-only-jailbreak-with-help-from-openai-codex",
-      "summary": "Nintendo Switch 2’s latest firmware (23.0.1) has been cracked with a software-only jailbreak called ns2jb, created by security researcher pepsipu using OpenAI Codex. The jailbreak was demonstrated by modding the Switch 2 exclusive Mario Kart World, showcasing the ease of bypassing the console’s security.\n",
-      "whyItMatters": "The release exposes critical vulnerabilities in the Switch 2’s firmware, forcing developers and manufacturers to prioritize patching and secure coding practices to protect user data and intellectual property.\n",
-      "category": "Security",
-      "publishedAt": "2026-10-22T17:53:42Z"
+      "publishedAt": "2026-10-23T17:00:00Z"
     }
   ]
 }
