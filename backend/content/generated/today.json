@@ -1,95 +1,75 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "articles": [
     {
-      "id": "art-1792887964599-0",
-      "title": "Xbox’s first chief operating officer is out after just a few months - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-      "summary": "Microsoft’s Xbox division has seen its first chief operating officer, Helen Chiang, depart after a brief tenure of a few months. The move follows her 21-year career at the company and signals a shift in the leadership structure of the gaming division.",
-      "whyItMatters": "The departure of a high-level executive can affect the stability and strategic direction of Xbox’s development pipeline, potentially influencing the release schedules and support for upcoming games.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-23T21:39:26Z"
-    },
-    {
-      "id": "art-1792887965191-1",
-      "title": "The best place to save your credit cards - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/technology/2026/10/23/best-place-save-your-credit-cards/",
-      "summary": "The Washington Post highlights the ongoing issue of credit‑card fraud and data breaches, noting that many websites and merchants still mishandle card data. It calls for better practices and secure storage solutions to protect consumers.",
-      "whyItMatters": "Developers must implement secure card storage and compliance measures to prevent breaches and protect user data.",
-      "category": "Security",
-      "publishedAt": "2026-10-23T20:32:30Z"
-    },
-    {
-      "id": "art-1792887965719-2",
-      "title": "Updated Google privacy policy says your Gmail might be used for advertising - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-      "summary": "Google's updated privacy policy now allows Gmail data to be used for advertising when users enable Personal Intelligence. This change expands the company's data pool for ad targeting, raising concerns about user privacy.",
-      "whyItMatters": "Developers must account for stricter data handling and potential compliance requirements when integrating Google services.",
-      "category": "Security",
-      "publishedAt": "2026-10-23T20:19:55Z"
-    },
-    {
-      "id": "art-1792887966261-4",
-      "title": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/23/apple-iphone-duo-china-launch.html",
-      "summary": "Scalpers are offering Apple iPhone Duo buyers hundreds of extra yuan outside the Beijing launch, targeting the already pricey foldable device. The Beijing flagship store has seen a surge of high‑paying customers eager to secure the new iPhone Duo amid limited supply.",
-      "whyItMatters": "The inflated resale demand highlights challenges for developers and the tech industry in managing supply chain constraints and pricing strategies for high‑end mobile hardware.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-23T20:04:37Z"
-    },
-    {
-      "id": "art-1792887966682-5",
-      "title": "Google Health 5.11 rolling out expanded 100+ activity detection to Fitbit Air, Pixel Watch - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/10/23/google-health-expanded-activity-detection/",
-      "summary": "Google Health’s 5.11 update expands automatic activity detection to over 100 types and is now rolling out to Fitbit Air and Pixel Watch devices.",
-      "whyItMatters": "Developers can now access richer, more granular activity data for fitness and health apps, enabling more accurate tracking and personalized insights.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-23T18:36:00Z"
-    },
-    {
-      "id": "art-1792887967056-6",
-      "title": "Crackgate? iPhone Duo Owners Report Screens Breaking Along the Hinge - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-screen-cracks/",
-      "summary": "Some iPhone Duo models are experiencing hinge-related display cracks, as reported by users on Reddit and MacRumors forums. Early photos show cracks forming along the hinge area, raising concerns about the durability of the new dual-screen design.",
-      "whyItMatters": "Hardware failures like hinge cracks can force developers to redesign UI layouts for resilience, increase warranty costs, and erode consumer trust in new device form factors.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-23T18:05:35Z"
-    },
-    {
-      "id": "art-1792887967543-7",
-      "title": "Arkane Devs Say Blade Is Nearly Finished But If It Can't Find A Buyer Soon, The Studio Will Close - Kotaku",
+      "id": "art-1792974669003-0",
+      "title": "Xbox Reportedly Bungled $500 Million Netflix Exclusivity Deal To Develop Movies, Shows Based On Games - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/arkane-devs-say-blade-is-nearly-finished-but-if-it-cant-find-a-buyer-soon-the-studio-will-close-2000749096",
-      "summary": "Arkane Studios’ upcoming game Blade is almost finished, but the studio warns it could shut down if it can’t secure a buyer soon, prompting union reps to call leaving the title unfinished a monumental waste.",
-      "whyItMatters": "The situation underscores the precarious financial realities for game developers, where unfinished IPs can jeopardize jobs and industry investment.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-23T17:15:30Z"
+      "url": "https://kotaku.com/xbox-reportedly-bungled-500-million-netflix-exclusivity-deal-to-develop-movies-shows-based-on-games-2000749336",
+      "summary": "Xbox CEO Asha Sharma allegedly secured a $500 million Netflix exclusivity deal to produce game-based movies and shows, but the deal reportedly fell through. The collapse highlights the challenges of cross-media ventures and the high stakes of large-scale content partnerships.",
+      "whyItMatters": "The failure underscores the volatility of large media deals, warning software developers that cross-industry collaborations can carry significant financial risk.",
+      "category": "Cloud",
+      "publishedAt": "2026-10-24T22:07:07Z"
     },
     {
-      "id": "art-1792887968222-8",
-      "title": "Why ‘Final Fantasy’ Returned To 2D - Bloomberg.com",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-23/why-final-fantasy-returned-to-2d",
-      "summary": "Final Fantasy Resonance marks a deliberate shift back to 2D graphics, echoing the franchise’s classic roots. The move highlights a nostalgic trend in game design, appealing to long‑time fans and new players alike.",
-      "whyItMatters": "It signals to software developers that retro aesthetics can drive engagement, encouraging teams to revisit legacy engines and design pipelines.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-23T17:00:01Z"
-    },
-    {
-      "id": "art-1792887968804-9",
-      "title": "'There Will Always Be a Role Left for Us to Play' - In an AI-Filled World, Miyamoto Thinks the Human Touch Will Always Be Vital - Time Extension",
-      "source": "Timeextension.com",
-      "url": "https://www.timeextension.com/news/2026/10/there-will-always-be-a-role-left-for-us-to-play-in-an-ai-filled-world-miyamoto-thinks-the-human-touch-will-always-be-vital",
-      "summary": "Shigeru Miyamoto argues that even as AI becomes pervasive, the unique human touch in design and storytelling will always be essential. The article highlights how creators must balance automation with personal creativity to keep games engaging.",
-      "whyItMatters": "For software developers, it underscores the need to focus on human-centered design and creative problem solving, rather than relying solely on AI automation.",
+      "id": "art-1792974669694-1",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "TechCrunch’s new AI graveyard chronicles the high‑profile projects that failed to launch or were shut down, from Apple’s delayed Siri AI to OpenAI’s chaotic super‑app rollout. The list highlights how even major players can misjudge market readiness and technical feasibility, underscoring the volatility of AI innovation.",
+      "whyItMatters": "It reminds developers that AI initiatives require rigorous validation and realistic timelines, or they risk wasted resources and reputational damage.",
       "category": "AI",
-      "publishedAt": "2026-10-23T17:00:00Z"
+      "publishedAt": "2026-10-24T19:00:00Z"
+    },
+    {
+      "id": "art-1792974670202-2",
+      "title": "Verizon Apologizes for iPhone Duo Pre-Order Delays, Giving Customers $100 Gift Card - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays/",
+      "summary": "Verizon apologized to customers who pre-ordered the iPhone Duo, citing delivery delays and offering a $100 gift card as compensation. The carrier’s announcement highlights the impact of carrier logistics on device availability.",
+      "whyItMatters": "Device launch delays can disrupt developers’ testing schedules and app release plans, potentially affecting revenue and user experience.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-24T18:29:16Z"
+    },
+    {
+      "id": "art-1792974670705-3",
+      "title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
+      "summary": "Apple’s iPhone Duo failed JerryRigEverything’s dust durability test, with dust penetrating the hinge despite an IP68 rating. The test highlights potential design flaws in the device’s dust sealing, raising concerns about its long-term reliability.",
+      "whyItMatters": "Developers and manufacturers must reconsider hardware design and testing standards to ensure durability claims match real-world conditions, impacting consumer trust and product support costs.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-24T18:27:42Z"
+    },
+    {
+      "id": "art-1792974671353-4",
+      "title": "Not Pyrex, Not CorningWare: The 250-Year-Old Dishware Brand To Look For At Thrift Stores - Daily Meal",
+      "source": "The Daily Meal",
+      "url": "https://www.thedailymeal.com/2290049/vintage-dishware-thifting-spode/",
+      "summary": "Spode, a 250-year-old dishware brand, offers vintage plates that can be found at thrift stores. The article highlights the brand's enduring appeal and the opportunity for collectors to discover unique pieces.",
+      "whyItMatters": "While not directly related to software, the resurgence of vintage brands can inspire developers to consider legacy systems and the importance of preserving historical data in modern applications.",
+      "category": "Web Dev",
+      "publishedAt": "2026-10-24T15:39:00Z"
+    },
+    {
+      "id": "art-1792974671906-7",
+      "title": "These clever apps show off the iPhone Duo’s potential - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+      "summary": "Apple's first foldable iPhone, the iPhone Duo, is inspiring developers to create a wide range of creative apps—from retro cassette players to digital toasters—demonstrating the device's versatility. These experiments showcase how foldable screens can be leveraged for novel user experiences across many app categories.",
+      "whyItMatters": "It signals a new wave of mobile development opportunities, encouraging developers to rethink UI/UX design for foldable devices and potentially expanding the app ecosystem.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-24T15:00:00Z"
+    },
+    {
+      "id": "art-1792974672309-8",
+      "title": "Gamers are now playing Steam games directly on PlayStation 5, no streaming required - VideoCardz.com",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/gamers-are-now-playing-steam-games-directly-on-playstation-5-no-streaming-required",
+      "summary": "Steam games can now run directly on PlayStation 5 using Wine-based compatibility tools, eliminating the need for streaming. Titles such as Cyberpunk 2077, Cuphead, and Hollow Knight have been successfully tested on the console.",
+      "whyItMatters": "This enables developers to reach PlayStation users without native ports, streamlining cross-platform deployment and reducing development overhead.",
+      "category": "DevOps",
+      "publishedAt": "2026-10-24T14:41:43Z"
     }
   ]
 }
