@@ -1,75 +1,105 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "articles": [
     {
-      "id": "art-1792974669003-0",
-      "title": "Xbox Reportedly Bungled $500 Million Netflix Exclusivity Deal To Develop Movies, Shows Based On Games - Kotaku",
+      "id": "art-1793064814884-0",
+      "title": "Hinge damage suspected to be behind iPhone Duo screen cracks - AppleInsider",
+      "source": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/10/25/hinge-damage-suspected-to-be-behind-iphone-duo-screen-cracks",
+      "summary": "AppleInsider reports that a failing hinge component may be causing the recurring pattern of small screen cracks on the iPhone Duo. The investigation suggests that the hinge’s mechanical stress is the primary culprit behind the damage.",
+      "whyItMatters": "Mobile developers need to account for hardware reliability in UI testing and design, as hinge-related failures can affect user experience and warranty claims.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-25T21:28:00Z"
+    },
+    {
+      "id": "art-1793064815631-1",
+      "title": "13 Short And Sweet Scary Games To Treat Yourself To Before Halloween - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/xbox-reportedly-bungled-500-million-netflix-exclusivity-deal-to-develop-movies-shows-based-on-games-2000749336",
-      "summary": "Xbox CEO Asha Sharma allegedly secured a $500 million Netflix exclusivity deal to produce game-based movies and shows, but the deal reportedly fell through. The collapse highlights the challenges of cross-media ventures and the high stakes of large-scale content partnerships.",
-      "whyItMatters": "The failure underscores the volatility of large media deals, warning software developers that cross-industry collaborations can carry significant financial risk.",
-      "category": "Cloud",
-      "publishedAt": "2026-10-24T22:07:07Z"
-    },
-    {
-      "id": "art-1792974669694-1",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "TechCrunch’s new AI graveyard chronicles the high‑profile projects that failed to launch or were shut down, from Apple’s delayed Siri AI to OpenAI’s chaotic super‑app rollout. The list highlights how even major players can misjudge market readiness and technical feasibility, underscoring the volatility of AI innovation.",
-      "whyItMatters": "It reminds developers that AI initiatives require rigorous validation and realistic timelines, or they risk wasted resources and reputational damage.",
-      "category": "AI",
-      "publishedAt": "2026-10-24T19:00:00Z"
-    },
-    {
-      "id": "art-1792974670202-2",
-      "title": "Verizon Apologizes for iPhone Duo Pre-Order Delays, Giving Customers $100 Gift Card - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays/",
-      "summary": "Verizon apologized to customers who pre-ordered the iPhone Duo, citing delivery delays and offering a $100 gift card as compensation. The carrier’s announcement highlights the impact of carrier logistics on device availability.",
-      "whyItMatters": "Device launch delays can disrupt developers’ testing schedules and app release plans, potentially affecting revenue and user experience.",
+      "url": "https://kotaku.com/13-short-and-sweet-scary-games-to-treat-yourself-to-before-halloween-2000749391",
+      "summary": "Kotaku curates a list of 13 short horror games to play before Halloween, spanning retro classics and indie titles. The selection offers developers insight into engaging, bite‑size game design that keeps players hooked during seasonal events.",
+      "whyItMatters": "Short, seasonal game releases can boost user engagement and revenue for mobile developers, highlighting the importance of timely, lightweight content.",
       "category": "Mobile",
-      "publishedAt": "2026-10-24T18:29:16Z"
+      "publishedAt": "2026-10-25T20:09:55Z"
     },
     {
-      "id": "art-1792974670705-3",
-      "title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
-      "summary": "Apple’s iPhone Duo failed JerryRigEverything’s dust durability test, with dust penetrating the hinge despite an IP68 rating. The test highlights potential design flaws in the device’s dust sealing, raising concerns about its long-term reliability.",
-      "whyItMatters": "Developers and manufacturers must reconsider hardware design and testing standards to ensure durability claims match real-world conditions, impacting consumer trust and product support costs.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-24T18:27:42Z"
-    },
-    {
-      "id": "art-1792974671353-4",
-      "title": "Not Pyrex, Not CorningWare: The 250-Year-Old Dishware Brand To Look For At Thrift Stores - Daily Meal",
-      "source": "The Daily Meal",
-      "url": "https://www.thedailymeal.com/2290049/vintage-dishware-thifting-spode/",
-      "summary": "Spode, a 250-year-old dishware brand, offers vintage plates that can be found at thrift stores. The article highlights the brand's enduring appeal and the opportunity for collectors to discover unique pieces.",
-      "whyItMatters": "While not directly related to software, the resurgence of vintage brands can inspire developers to consider legacy systems and the importance of preserving historical data in modern applications.",
+      "id": "art-1793064816177-2",
+      "title": "Zen Browser is the Arc replacement I was looking for - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "summary": "Zen Browser presents itself as a streamlined alternative to Arc, adopting Arc’s best design and feature set while stripping away AI and feature bloat. It positions itself as a lightweight, efficient browser for users who want Arc’s look and feel without the extra complexity.",
+      "whyItMatters": "For developers, Zen Browser offers a simpler, more focused browsing environment that can reduce distractions and improve workflow when testing or debugging web applications.",
       "category": "Web Dev",
-      "publishedAt": "2026-10-24T15:39:00Z"
+      "publishedAt": "2026-10-25T19:24:50Z"
     },
     {
-      "id": "art-1792974671906-7",
-      "title": "These clever apps show off the iPhone Duo’s potential - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-      "summary": "Apple's first foldable iPhone, the iPhone Duo, is inspiring developers to create a wide range of creative apps—from retro cassette players to digital toasters—demonstrating the device's versatility. These experiments showcase how foldable screens can be leveraged for novel user experiences across many app categories.",
-      "whyItMatters": "It signals a new wave of mobile development opportunities, encouraging developers to rethink UI/UX design for foldable devices and potentially expanding the app ecosystem.",
+      "id": "art-1793064816970-3",
+      "title": "Netflix Reportedly Walked Away After Xbox Asked $800 Million for Its Game IP - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/354119/netflix-reportedly-walked-away-after-xbox-asked-usd-800-million-for-its-game-ip",
+      "summary": "Netflix offered Microsoft $500 million for seven years of exclusive film and TV adaptation rights to Xbox games, but the deal collapsed after Xbox demanded $800 million for its game IP. As a result, Netflix walked away from the negotiation, leaving the high-value game-to-media licensing market unchanged.",
+      "whyItMatters": "The failed deal underscores the escalating value of game IP for media production, signaling that developers and studios must navigate complex licensing negotiations that can significantly influence future revenue streams.",
+      "category": "Cloud",
+      "publishedAt": "2026-10-25T19:18:54Z"
+    },
+    {
+      "id": "art-1793064817628-4",
+      "title": "Retire Your Old Fountain: The Alternative From Home Depot Perfect For Your Small Patio - House Digest",
+      "source": "Housedigest.com",
+      "url": "https://www.housedigest.com/2294062/retire-your-old-fountain-alternative-from-home-depot-small-patio/",
+      "summary": "The Teamson Solar Gray Stone Wall Fountain from Home Depot offers a compact, solar-powered solution ideal for small patios. Its design emphasizes energy efficiency and low maintenance, making it a convenient choice for homeowners seeking a stylish outdoor feature.",
+      "whyItMatters": "For developers building smart‑home or IoT mobile apps, this product exemplifies the growing demand for energy‑efficient, plug‑and‑play outdoor devices that can be integrated into home automation ecosystems.",
       "category": "Mobile",
-      "publishedAt": "2026-10-24T15:00:00Z"
+      "publishedAt": "2026-10-25T19:00:00Z"
     },
     {
-      "id": "art-1792974672309-8",
-      "title": "Gamers are now playing Steam games directly on PlayStation 5, no streaming required - VideoCardz.com",
-      "source": "Videocardz.com",
-      "url": "https://videocardz.com/newz/gamers-are-now-playing-steam-games-directly-on-playstation-5-no-streaming-required",
-      "summary": "Steam games can now run directly on PlayStation 5 using Wine-based compatibility tools, eliminating the need for streaming. Titles such as Cyberpunk 2077, Cuphead, and Hollow Knight have been successfully tested on the console.",
-      "whyItMatters": "This enables developers to reach PlayStation users without native ports, streamlining cross-platform deployment and reducing development overhead.",
+      "id": "art-1793064818447-5",
+      "title": "Nintendo reveals why you don’t actually fight Bowser in Super Mario Bros. 1 - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/nintendo-reveals-why-you-dont-actually-fight-bowser-in-super-mario-bros-1/",
+      "summary": "Nintendo’s Shigeru Miyamoto explained that in the original Super Mario Bros. players never actually fight Bowser because the game was designed to keep the focus on Mario’s journey and to avoid a complex boss battle that could disrupt the pacing. The reveal offers insight into early game design priorities and how narrative choices shape player experience.",
+      "whyItMatters": "Understanding such design decisions helps developers balance storytelling and gameplay mechanics, informing modern game development and user engagement strategies.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-25T18:20:46Z"
+    },
+    {
+      "id": "art-1793064819163-6",
+      "title": "Sunday Preview – Orlocks rule the roads of Necromunda - Warhammer Community",
+      "source": "Warhammer-community.com",
+      "url": "https://www.warhammer-community.com/articles/1bpkd6my/sunday-preview-orlocks-rule-the-roads-of-necromunda",
+      "summary": "The Warhammer Community Sunday Preview announces new content for Necromunda and Warhammer 40,000, highlighting upcoming features and updates for the next week. Fans can expect fresh missions, character options, and community events that will keep the game’s universe evolving.",
+      "whyItMatters": "Game developers can learn from the preview’s emphasis on iterative content releases and community engagement, informing best practices for continuous delivery and player retention strategies.",
       "category": "DevOps",
-      "publishedAt": "2026-10-24T14:41:43Z"
+      "publishedAt": "2026-10-25T17:57:35Z"
+    },
+    {
+      "id": "art-1793064819663-7",
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers - The Hacker News",
+      "source": "Internet",
+      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "summary": "Tailscale’s SSH feature contains unpatched flaws that allow a compromised device to gain root access on other servers when port forwarding is enabled. Attackers can exploit these weaknesses to elevate privileges across the network.",
+      "whyItMatters": "Developers must patch Tailscale promptly and review port‑forwarding configurations to prevent privilege escalation and protect critical infrastructure.",
+      "category": "Security",
+      "publishedAt": "2026-10-25T17:44:00Z"
+    },
+    {
+      "id": "art-1793064820402-8",
+      "title": "The Making Of: Addams Family Values, Ocean Software's Attempt to Mix Hollywood & the Legend of Zelda - Time Extension",
+      "source": "Timeextension.com",
+      "url": "https://www.timeextension.com/features/the-making-of-addams-family-values-ocean-softwares-attempt-to-mix-hollywood-and-the-legend-of-zelda",
+      "summary": "Ocean Software's ill-fated attempt to blend Hollywood storytelling with the Legend of Zelda franchise resulted in a poorly received game, largely due to management's lack of understanding of the development and creative process. The article highlights how misaligned leadership can derail ambitious cross-industry projects.",
+      "whyItMatters": "It underscores the importance of aligning management with technical teams to ensure successful collaboration in complex software projects.",
+      "category": "DevOps",
+      "publishedAt": "2026-10-25T17:30:28Z"
+    },
+    {
+      "id": "art-1793064821071-9",
+      "title": "How To Build A Cheap Home Server To Save Money On Subscriptions - BGR",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2292030/how-to-build-home-server-save-money/",
+      "summary": "The article explains how to repurpose an old laptop, computer, or Raspberry Pi into a low-cost media server by installing a Linux distribution for optimal compatibility. It offers step-by-step guidance on setting up the server to reduce reliance on paid streaming subscriptions.",
+      "whyItMatters": "By enabling developers to host media and services locally, it cuts subscription costs and gives them greater control over their infrastructure, fostering a more self-sufficient dev ecosystem.",
+      "category": "DevOps",
+      "publishedAt": "2026-10-25T17:17:00Z"
     }
   ]
 }
