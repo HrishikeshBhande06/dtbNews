@@ -1,105 +1,105 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "articles": [
     {
-      "id": "art-1793325853399-0",
-      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme - TechCrunch",
+      "id": "art-1793410966853-0",
+      "title": "Resonance of Fate 4K/HD Edition to receive an 'Enhanced Remaster' DLC, adding HDR, 120FPS, 2x speed mode, & more (Update) - RPG Site",
+      "source": "RPG Site",
+      "url": "https://www.rpgsite.net/news/21645-resonance-fate-4khd-edition-to-receive-an-enhanced-remaster-dlc-adding-hdr-120fps-2x-speed-mode-more-update",
+      "summary": "Resonance of Fate 4K/HD Edition will receive an 'Enhanced Remaster' DLC that adds HDR, 120FPS, a 2x speed mode, and other improvements. The DLC is a surprise addition to the 2018 remaster, expanding its visual fidelity and performance options.",
+      "whyItMatters": "The update demonstrates how game developers can extend the lifecycle of existing titles through targeted performance enhancements, informing best practices for incremental releases and player retention.",
+      "category": "DevOps",
+      "publishedAt": "2026-10-30T01:03:42Z"
+    },
+    {
+      "id": "art-1793410967288-1",
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’ - TechCrunch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-      "summary": "Apple has unveiled a new touchscreen MacBook Pro that can cost up to $14,549 when fully upgraded, making it the most expensive laptop on the market. The device combines a high‑resolution display with powerful internals, but its steep price tag signals a shift toward premium, feature‑rich hardware for professional users.",
-      "whyItMatters": "The extreme cost forces software developers and creative professionals to weigh the benefits of cutting‑edge performance against budget constraints, potentially limiting access to advanced tools and workflows.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-28T22:47:50Z"
+      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "summary": "Amazon CEO Andy Jassy announced that Prime Video is on track to generate tens of billions of dollars in revenue, buoyed by blockbuster hits such as Project Hail Mary and Verity. The announcement underscores the growing profitability of Amazon’s streaming arm and its continued investment in high‑profile original content.",
+      "whyItMatters": "The projected revenue surge signals a shift in the media landscape, encouraging developers to build more sophisticated streaming, recommendation, and content‑delivery solutions on cloud platforms.",
+      "category": "Cloud",
+      "publishedAt": "2026-10-29T23:44:56Z"
     },
     {
-      "id": "art-1793325854069-1",
-      "title": "All 16 D&D World of Warcraft Species Revealed - Dungeons & Dragons Fanatics",
-      "source": "Dungeonsanddragonsfan.com",
-      "url": "https://dungeonsanddragonsfan.com/dnd-world-of-warcraft-species/",
-      "summary": "The new D&D World of Warcraft supplement unveils 16 key species, detailing their lore and mechanics for players and Dungeon Masters. This release expands the game’s narrative depth and provides fresh content for fan communities and content creators.",
-      "whyItMatters": "The detailed species data enables developers to build richer fan sites, wikis, and companion apps, boosting engagement and content creation around the franchise.",
-      "category": "Web Dev",
-      "publishedAt": "2026-10-28T21:42:11Z"
-    },
-    {
-      "id": "art-1793325855148-2",
-      "title": "'Appreciate the Fans' — GTA 5 Cast Tell Jason and Lucia’s Actors the Most Important Things They Should Know Before GTA 6 Launches Them to Fame - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/appreciate-the-fans-gta-5-cast-tell-jason-and-lucias-actors-the-most-important-things-they-should-know-before-gta-6-launches-them-to-fame",
-      "summary": "The cast of GTA 5, including the voices of Franklin, Michael, Trevor and CJ, shared advice with the actors slated to portray Jason and Lucia in GTA 6, emphasizing authenticity and fan engagement before the new game’s release.",
-      "whyItMatters": "Their insights highlight the growing need for developers to integrate robust audio pipelines and actor collaboration tools, ensuring high‑quality voice performance and smoother production workflows.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-28T21:16:51Z"
-    },
-    {
-      "id": "art-1793325855950-3",
-      "title": "Hands-on with the new OLED iPad Mini - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
-      "summary": "Apple has released its 8th‑generation iPad Mini featuring an OLED display, offering brighter colors and deeper blacks compared to the previous LCD model. The new device also includes a larger 8.3‑inch screen and updated internals, positioning it as a premium compact tablet.",
-      "whyItMatters": "The OLED iPad Mini gives developers a new high‑contrast canvas for mobile apps, enabling richer UI designs and potentially better battery efficiency for iOS developers.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-28T19:18:58Z"
-    },
-    {
-      "id": "art-1793325856627-4",
-      "title": "Alien: Isolation 2's Xenomorph Will Be Able to Hear You Through Your Microphone - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/alien-isolation-2-team-confirms-physical-edition-photo-mode-and-new-gameplay-details",
-      "summary": "Alien: Isolation 2 will let the Xenomorph detect players through their microphone, adding a new layer of immersion. The update also introduces a physical edition, photo mode, and other gameplay tweaks.",
-      "whyItMatters": "This feature forces developers to consider microphone permissions and privacy implications when designing interactive experiences.",
-      "category": "Security",
-      "publishedAt": "2026-10-28T18:47:11Z"
-    },
-    {
-      "id": "art-1793325857432-5",
-      "title": "Apple reveals pricing for Mac Studio with 512GB of RAM - 9to5Mac",
+      "id": "art-1793410967763-2",
+      "title": "Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more - 9to5Mac",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/28/apple-reveals-pricing-for-mac-studio-with-512gb-of-ram/",
-      "summary": "Apple has released pricing details for its new Mac Studio models featuring the M5 Max and M5 Ultra chips, including a 512GB RAM configuration. The announcement follows the August reveal of the chips and positions the Mac Studio as a powerful workstation for demanding workloads.",
-      "whyItMatters": "The high‑memory Mac Studio enables developers to run large‑scale AI models, data science pipelines, and virtualized environments directly on macOS, potentially reducing reliance on external cloud resources.",
-      "category": "AI",
-      "publishedAt": "2026-10-28T18:40:00Z"
-    },
-    {
-      "id": "art-1793325858136-6",
-      "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099 - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
-      "summary": "Google has launched its Xreal AR glasses at a price of $1,099, undercutting Meta's offering. By the end of the year, the glasses will be available for $180 less than the original price announced by Xreal.",
-      "whyItMatters": "The lower price point could accelerate AR adoption among developers, encouraging new app ecosystems for wearable devices.",
+      "url": "https://9to5mac.com/2026/10/29/apple-vp-talks-new-ipad-mini-oled-without-promotion-acoustic-display-more/",
+      "summary": "Apple announced its most significant iPad mini update yet, featuring a slimmer, lighter design and a new OLED display that omits ProMotion technology. The release also introduces an Acoustic Display for audio output and other enhancements that refresh the device’s overall experience.",
+      "whyItMatters": "Developers will need to optimize apps for the new OLED panel’s color profile and leverage the Acoustic Display for richer audio interactions, influencing UI/UX design and media handling on iPadOS.",
       "category": "Mobile",
-      "publishedAt": "2026-10-28T18:14:11Z"
+      "publishedAt": "2026-10-29T20:49:00Z"
     },
     {
-      "id": "art-1793325859437-7",
-      "title": "Google adding more Connected Apps to Gemini & Search with new dev platform - 9to5Google",
+      "id": "art-1793410968319-3",
+      "title": "Android 17 QPR3 Beta 3 rolling out with 26 Pixel fixes - 9to5Google",
       "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/10/28/gemini-google-connected-apps-platform/",
-      "summary": "Google announced the Connected Apps Platform, a unified way for developers to embed their applications directly into Gemini and Search. The new platform expands integration options, allowing more app capabilities to be accessed within Google’s AI and search services.",
-      "whyItMatters": "It gives developers a direct channel to integrate their tools into Google’s AI and search ecosystem, potentially boosting adoption and revenue streams.",
-      "category": "AI",
-      "publishedAt": "2026-10-28T17:56:20Z"
-    },
-    {
-      "id": "art-1793325860231-8",
-      "title": "Akai SampleKey: the keyboard sampler sibling of the MPC Sample with open firmware - synth anatomy",
-      "source": "Synthanatomy.com",
-      "url": "https://synthanatomy.com/2026/10/akai-samplekey-the-keyboard-sampler-sibling-of-the-mpc-sample-with-open-firmware.html",
-      "summary": "Akai has announced the SampleKey, a keyboard sampler that serves as the sibling to the MPC Sample, featuring open firmware that invites experimentation. The move signals a shift toward more developer-friendly hardware, allowing users to modify and extend the device’s capabilities.",
-      "whyItMatters": "Open firmware on the SampleKey empowers developers to customize hardware behavior, accelerating innovation and reducing reliance on proprietary solutions.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-28T16:34:01Z"
-    },
-    {
-      "id": "art-1793325860865-9",
-      "title": "Dynamax Trails: Eternatus Returns - Pokémon GO Hub",
-      "source": "Pokemon GO Hub",
-      "url": "https://pokemongohub.net/post/event/dynamax-trails-eternatus-returns/",
-      "summary": "Pokémon GO is launching its Dynamax Trails event from Nov 16 to Nov 23, featuring weekly Max Battles and the return of the legendary Pokémon Eternatus. Players can expect increased Power Spots, GO Pass options, and themed wild encounters throughout the week.",
-      "whyItMatters": "The event demonstrates how mobile game developers can drive engagement through time-limited content, informing developers about event-driven monetization and player retention strategies.",
+      "url": "http://9to5google.com/2026/10/29/android-17-qpr3-beta-3-pixel/",
+      "summary": "Google has released Android 17 QPR3 Beta 3 to Pixel devices, fixing 26 issues identified in the previous beta. This update brings the OS closer to a stable release and provides developers with a more reliable platform for testing.",
+      "whyItMatters": "The update gives developers a more stable beta environment, reducing bugs in app testing and speeding up the path to production releases.",
       "category": "Mobile",
-      "publishedAt": "2026-10-28T16:19:59Z"
+      "publishedAt": "2026-10-29T20:41:55Z"
+    },
+    {
+      "id": "art-1793410968984-4",
+      "title": "Windows 11 gets right-click menu improvements as PC revenue slides - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "summary": "Microsoft's latest Windows 11 update adds a more intuitive right‑click menu and introduces a cloud‑based recovery option for PCs that fail to boot. While the UI tweaks are minor, the new recovery feature could reduce downtime for users and simplify support for IT teams.",
+      "whyItMatters": "The cloud recovery option enables developers and IT professionals to restore systems more quickly, reducing maintenance overhead and improving reliability across enterprise deployments.",
+      "category": "Cloud",
+      "publishedAt": "2026-10-29T20:18:49Z"
+    },
+    {
+      "id": "art-1793410969482-5",
+      "title": "iOS 27.2 adds new video feature that’s perfect for iPhone Duo - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/29/ios-27-2-adds-new-video-feature-thats-perfect-for-iphone-duo/",
+      "summary": "Apple released iOS 27.2, introducing a new Multiview video feature that lets users watch multiple streams simultaneously on the iPhone Duo. The update also includes an upgraded Apple TV app, enhancing the device’s media experience.",
+      "whyItMatters": "The Multiview capability opens opportunities for developers to create multi-stream apps and could drive higher engagement on iPhone Duo, influencing mobile app design trends.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-29T19:00:00Z"
+    },
+    {
+      "id": "art-1793410970014-6",
+      "title": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
+      "summary": "The cancellation of Gears of War on PS5 has not increased Xbox sales, according to Push Square. Analysts say the move has actually worsened the situation for the console market.",
+      "whyItMatters": "Game developers must recognize that platform exclusivity decisions can backfire, affecting both consumer perception and revenue streams.",
+      "category": "DevOps",
+      "publishedAt": "2026-10-29T19:00:00Z"
+    },
+    {
+      "id": "art-1793410970763-7",
+      "title": "Google Home and Nest speakers getting seven updates, including for Bluetooth & audio quality - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/10/29/google-home-nest-speaker-updates/",
+      "summary": "Google announced seven firmware updates for its Home and Nest speakers, improving Bluetooth connectivity, audio quality, and adding new features. The updates also extend support for Chromecast with Google TV and Nest Wifi Pro, enhancing the overall ecosystem.",
+      "whyItMatters": "These updates demonstrate the importance of continuous firmware maintenance for IoT devices, encouraging developers to adopt robust OTA update pipelines.",
+      "category": "DevOps",
+      "publishedAt": "2026-10-29T18:53:56Z"
+    },
+    {
+      "id": "art-1793410971227-8",
+      "title": "Apple Avoids Showing Pinched Fingers on iPad Mini Page in South Korea - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/29/apple-avoids-pinched-finges-for-ipad-mini-korea/",
+      "summary": "Apple’s website displays the new iPad mini held by pinched fingers in the U.S. and most countries, but the South Korean version omits this visual. The change reflects a regional content adjustment that could affect how the product is marketed locally.",
+      "whyItMatters": "Developers and marketers must be aware that Apple’s regional site variations can influence user perception and compliance with local cultural or regulatory standards.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-29T18:52:30Z"
+    },
+    {
+      "id": "art-1793410971667-9",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "summary": "Google Gemini now lets users preview and edit PDFs, documents, spreadsheets, and slideshows directly within the chat interface on the web. This integration streamlines workflow by eliminating the need to switch between the chat and separate office applications.",
+      "whyItMatters": "For developers, this tight integration reduces context switching and can inspire new AI‑powered productivity tools that embed document editing into conversational interfaces.",
+      "category": "AI",
+      "publishedAt": "2026-10-29T18:45:31Z"
     }
   ]
 }
