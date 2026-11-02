@@ -1,105 +1,105 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "articles": [
     {
-      "id": "art-1793495987421-0",
-      "title": "Apple Alerts Stores to iPhone Duo's Display Cracking Issue - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/",
-      "summary": "Apple has warned its retail and authorized service partners that the iPhone Duo model is prone to display cracking, especially when the phone is dropped or exposed to high temperatures. The memo instructs technicians to inspect for cracks and replace screens proactively to avoid customer complaints and warranty claims.",
-      "whyItMatters": "The issue highlights the importance of robust hardware testing and could affect developers who rely on consistent device performance for app testing and user experience.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-30T22:20:02Z"
-    },
-    {
-      "id": "art-1793495987897-1",
-      "title": "Anthropic orders AI tool Claude to stop remaking video games - Game Developer",
-      "source": "Gamedeveloper.com",
-      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-      "summary": "Anthropic has updated its AI model Claude to prohibit the creation of remade video games, following user reports of the tool's new restrictions. The change reflects a broader effort to curb potential copyright infringements in AI-generated content.",
-      "whyItMatters": "The restriction limits developers' ability to use AI for game remakes, potentially reducing the speed and cost of game development while addressing intellectual property concerns.",
-      "category": "AI",
-      "publishedAt": "2026-10-30T22:18:45Z"
-    },
-    {
-      "id": "art-1793495988811-2",
-      "title": "Oh No, Who Turned Out The Lights In Anor Londo?! - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/oh-no-who-turned-out-the-lights-in-anor-londo-2000751662",
-      "summary": "A developer confesses to accidentally turning off the lights in Anor Londo, a location in Dark Souls, and apologizes. The post humorously acknowledges the mistake and expresses remorse.",
-      "whyItMatters": "It reminds developers that even seemingly trivial actions can disrupt shared environments, emphasizing the need for proper monitoring and incident response.",
-      "category": "Security",
-      "publishedAt": "2026-10-30T22:00:31Z"
-    },
-    {
-      "id": "art-1793495989308-3",
-      "title": "The Galaxy S27 Ultra chipset saga continues, here's the latest twist - GSMArena.com news - GSMArena.com",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/the_galaxy_s27_ultra_chipset_saga_continues_heres_the_latest_twist-news-75292.php",
-      "summary": "The Galaxy S27 Ultra’s chipset selection has been a prolonged debate, with recent developments suggesting a potential European solution. The latest update indicates a shift that could influence the phone’s performance and market positioning.",
-      "whyItMatters": "Choosing a chipset affects driver support, performance optimization, and supply chain stability for developers building apps and OEMs.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-30T21:31:02Z"
-    },
-    {
-      "id": "art-1793495989902-4",
-      "title": "iOS 27.2 adds two FaceTime features, including a personal favorite - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/30/ios-27-2-adds-two-facetime-features-including-a-personal-favorite/",
-      "summary": "Apple's iOS 27.2 update introduces two new FaceTime features, including a personal favorite that enhances user experience. These additions bring subtle but useful improvements to the popular video calling app.",
-      "whyItMatters": "Developers can leverage the new FaceTime APIs to create richer communication experiences, potentially driving adoption of Apple’s ecosystem.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-30T19:31:36Z"
-    },
-    {
-      "id": "art-1793495990285-5",
-      "title": "Apple Music 7.0 for Android rolls out with Liquid Glass redesign - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/10/30/apple-music-7-0-redesign/",
-      "summary": "Apple Music 7.0 has been released for Android, featuring a new Liquid Glass redesign and a refreshed app icon. The update brings a more modern, glass‑morphism aesthetic to the streaming service’s interface.",
-      "whyItMatters": "Mobile developers must adapt their apps to accommodate the updated UI guidelines and ensure compatibility with the latest Apple Music API changes, impacting user experience and integration strategies.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-30T18:26:00Z"
-    },
-    {
-      "id": "art-1793495990895-6",
-      "title": "Gears of War: E-Day Reportedly Cost $500 Million to Make, Amid Claims It Has Sold Just 400,000 Copies - IGN",
+      "id": "art-1793583619386-0",
+      "title": "Persona Fans Share Their Excitement After Alleged Persona 1 Remake Gameplay Leaks Online - IGN",
       "source": "IGN",
-      "url": "https://www.ign.com/articles/gears-of-war-e-day-reportedly-cost-500-million-to-make-amid-claims-it-has-sold-just-400000-copies",
-      "summary": "The Gears of War: E-Day title reportedly cost $500 million to develop, yet it has sold just over 400,000 copies. This stark contrast highlights the risks of high-budget game development and the potential for significant financial loss.",
-      "whyItMatters": "It underscores the importance for software developers to carefully manage budgets and assess market demand before committing to large-scale projects.",
-      "category": "DevOps",
-      "publishedAt": "2026-10-30T18:24:00Z"
+      "url": "https://www.ign.com/articles/persona-1-remake-footage-seemingly-leaks-online",
+      "summary": "Fans of the Persona series have shared excitement after a video that appears to show gameplay from an unannounced Persona 1 remake surfaced online. The footage, which has not been officially confirmed, has sparked speculation about a potential reboot of the franchise.",
+      "whyItMatters": "Leaked game footage can undermine a developer’s marketing strategy and expose intellectual property vulnerabilities, prompting tighter security measures in the industry.",
+      "category": "Security",
+      "publishedAt": "2026-10-31T20:21:11Z"
     },
     {
-      "id": "art-1793495991237-7",
-      "title": "Samsung Mocks iPhone Duo Display Cracks in New Ad Campaign - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/30/samsung-iphone-duo-display-campaign/",
-      "summary": "Samsung launched an ad campaign mocking the display cracks reported on the iPhone Duo, highlighting perceived durability issues. The campaign uses Instagram to showcase the flaws, positioning Samsung’s own displays as superior.",
-      "whyItMatters": "It underscores the importance of robust hardware design for app stability and user experience, prompting developers to consider device-specific display reliability in their UI testing.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-30T17:20:17Z"
-    },
-    {
-      "id": "art-1793495992204-8",
-      "title": "Zelda: Ocarina of Time Nintendo Switch 2 remake “What’s New” trailer - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/zelda-ocarina-of-time-nintendo-switch-2-remake-whats-new-trailer/",
-      "summary": "Nintendo released a new trailer for the Zelda: Ocarina of Time remake on Switch 2, highlighting updated graphics, gameplay mechanics, and new features. The launch is scheduled for November 5, 2026, promising a fresh experience for longtime fans and newcomers alike.",
-      "whyItMatters": "The remake showcases advanced rendering and performance techniques that can inform developers on optimizing games for next‑gen handheld hardware, influencing future console development pipelines.",
-      "category": "Mobile",
-      "publishedAt": "2026-10-30T17:14:52Z"
-    },
-    {
-      "id": "art-1793495992810-9",
-      "title": "Google’s first data center satellite is online and writing poetry - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "summary": "Google has launched its first data‑center satellite, deploying a TPU in orbit that runs a DeepMind Gemma 4 model and is currently generating cheesy poetry. This marks the first time an AI model is operating in space, demonstrating the feasibility of satellite‑based AI workloads.",
-      "whyItMatters": "It opens new possibilities for low‑latency, globally distributed AI services and shows that developers can leverage space‑based compute for real‑time applications.",
+      "id": "art-1793583620049-1",
+      "title": "Claude Code Game Restrictions Target Clones, But Developers Say Legitimate Projects Are Being Blocked - Wccftech",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/claude-code-game-restrictions-target-clones-but-developers-say-legitimate-projects-are-being-blocked/",
+      "summary": "Anthropic’s Claude Code has added game‑copying restrictions that aim to stop developers from recreating existing titles, but many creators report that legitimate projects and mods are also being blocked. The move has sparked debate over how AI‑driven tools should balance intellectual‑property protection with innovation.",
+      "whyItMatters": "The restrictions could stifle indie developers’ use of AI for original game design and modding, limiting creative experimentation in the gaming industry.",
       "category": "AI",
-      "publishedAt": "2026-10-30T17:00:00Z"
+      "publishedAt": "2026-10-31T20:08:37Z"
+    },
+    {
+      "id": "art-1793583620538-2",
+      "title": "Keyboards of The Verge - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+      "summary": "The Verge reviews a range of keyboards, from utilitarian to ergonomic to obsessive designs, highlighting how everyday typing tools vary in form and function. It showcases the latest models that cater to different user preferences and work styles.",
+      "whyItMatters": "For software developers, choosing an ergonomic keyboard can reduce strain and improve typing efficiency, directly impacting productivity and code quality.",
+      "category": "DevOps",
+      "publishedAt": "2026-10-31T19:30:00Z"
+    },
+    {
+      "id": "art-1793583621066-3",
+      "title": "I tested all of Amazon's e-readers, and this is the best Kindle to buy - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/roundup/best-kindles-hands-on-tested-2026",
+      "summary": "The article reviews Amazon's latest e‑readers, comparing the Paperwhite, Colorsoft, and Scribe, and concludes that the Scribe offers the best balance of features for readers. It highlights differences in display quality, battery life, and usability across the models.",
+      "whyItMatters": "Developers can gauge user expectations for e‑reader interfaces, influencing app design for reading platforms.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-31T17:27:30Z"
+    },
+    {
+      "id": "art-1793583621856-4",
+      "title": "Column | Asking Eric: Family friend demands hugs, despite parents’ objections - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/advice/2026/10/31/asking-eric-family-friend-demands-hugs-despite-parents-objections/",
+      "summary": "The Washington Post column discusses a family conflict where a grandmother insists her granddaughter hug a family friend, but the teen refuses, leading to tension. The writer reflects on the emotional dynamics and the grandmother's frustration over the daughter's reluctance.",
+      "whyItMatters": "It reminds developers that user consent and comfort are critical when designing social features that involve personal interactions.",
+      "category": "Web Dev",
+      "publishedAt": "2026-10-31T16:39:13Z"
+    },
+    {
+      "id": "art-1793583622684-5",
+      "title": "Crimson Desert goes free-to-play to celebrate DLC launch - GAMINGbible",
+      "source": "Gamingbible.com",
+      "url": "https://www.gamingbible.com/news/crimson-desert-free-to-play-celebrate-dlc-launch-133980-20261030",
+      "summary": "Crimson Desert has transitioned to a free‑to‑play model on PlayStation and Xbox to coincide with the launch of its new DLC. The move aims to broaden the player base and boost revenue through micro‑transactions.",
+      "whyItMatters": "This shift underscores the growing trend of free‑to‑play monetization on console platforms, prompting developers to rethink pricing strategies and post‑launch content delivery.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-31T16:00:00Z"
+    },
+    {
+      "id": "art-1793583623214-6",
+      "title": "Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948",
+      "summary": "Nintendo announced Pikmin Day on November 1st during a surprise Direct, but did not reveal any new titles. The presentation instead offered updates on Pikmin 4, the mobile title Pikmin Bloom, and a quirky crocheted hat collection.",
+      "whyItMatters": "These updates signal continued investment in Pikmin’s mobile and cross‑platform presence, encouraging developers to focus on long‑term franchise support and community engagement.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-31T15:21:38Z"
+    },
+    {
+      "id": "art-1793583623936-7",
+      "title": "Final Fantasy 14's next job is a crossbow-wielding ranged DPS with a bird sidekick - Eurogamer.net",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date",
+      "summary": "Final Fantasy 14 will add a new job called Zephyr, a crossbow-wielding ranged DPS accompanied by a bird sidekick, in the upcoming Evercold expansion. The expansion is scheduled to launch on February 23, 2027.",
+      "whyItMatters": "The addition of a new job and expansion demonstrates the ongoing investment in live-service game development, highlighting the need for robust DevOps pipelines to support frequent content releases.",
+      "category": "DevOps",
+      "publishedAt": "2026-10-31T14:39:25Z"
+    },
+    {
+      "id": "art-1793583624392-8",
+      "title": "Apple Reveals New iPad Mini's Battery Capacity - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh/",
+      "summary": "Apple released an EU energy label for the iPad mini 8, showing its battery capacity is 4,900 mAh, a slight drop from earlier models. The label confirms the device’s power consumption and efficiency metrics for consumers.",
+      "whyItMatters": "Developers must account for the reduced battery life when optimizing apps for the iPad mini 8, potentially adjusting background tasks and resource usage to maintain user experience.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-31T14:24:08Z"
+    },
+    {
+      "id": "art-1793583624959-9",
+      "title": "I took two iPhones on vacation. The Duo won me over. - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "summary": "The author tested the new iPhone Duo and found it engaging enough to keep them from returning to the Pro Max, despite some frustrations. The review highlights the Duo's unique features and usability that appeal to users seeking a more interactive experience.",
+      "whyItMatters": "Developers should consider the Duo's dual-screen capabilities when designing mobile apps, as it opens new interaction paradigms.",
+      "category": "Mobile",
+      "publishedAt": "2026-10-31T14:00:00Z"
     }
   ]
 }
