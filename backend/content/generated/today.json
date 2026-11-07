@@ -1,105 +1,95 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "articles": [
     {
-      "id": "art-1793932813758-0",
-      "title": "The tech memory shortage comes for Nintendo's cartridge supply chain - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
-      "summary": "Nintendo's Switch cartridge supply chain is hit by a tech memory shortage, forcing higher production costs for physical game discs. This could push retail prices up and limit the availability of new titles on the platform.",
-      "whyItMatters": "Software developers may face higher distribution costs and reduced margins, potentially impacting the viability of physical releases.",
+      "id": "art-1794017266811-0",
+      "title": "Nintendo Switch 2 Zelda 40th Anniversary Edition restock live — Target confirms online drop this week - Tom's Guide",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/news/live/zelda-edition-switch-2-console-restock-live-updates",
+      "summary": "Nintendo’s upcoming Switch 2 Zelda 40th Anniversary Edition is set to restock online this week, with Target confirming a live drop. The launch of the Ocarina of Time edition is expected to drive demand and potentially trigger a restock of the console itself.",
+      "whyItMatters": "The restock signals strong consumer demand, prompting developers to prioritize timely releases and optimize supply chain logistics for high‑profile titles.",
       "category": "Mobile",
-      "publishedAt": "2026-11-04T22:47:51Z"
+      "publishedAt": "2026-11-05T20:14:49Z"
     },
     {
-      "id": "art-1793932814314-1",
-      "title": "Mass Effect Fans Get Enough Signatures To Plead To The Canadian Government For BioWare’s Life - Kotaku",
+      "id": "art-1794017267634-1",
+      "title": "The Best Thing I’ve Seen In The Ocarina Of Time Remake Is This New Guy In Castle Town - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/mass-effect-petitions-bioware-canadian-government-house-of-commons-2000753458",
-      "summary": "Mass Effect fans have gathered enough signatures to petition the Canadian House of Commons, urging the government to intervene and keep BioWare operational. The #SaveMassEffect movement highlights the passionate community’s willingness to use political channels to protect a beloved game studio.",
-      "whyItMatters": "It underscores how community engagement can influence corporate sustainability decisions, reminding software developers that fan support can become a critical factor in a studio’s survival.",
+      "url": "https://kotaku.com/legend-zelda-ocarina-of-time-remake-switch-castle-town-new-npcs-bearded-guy-2000754229",
+      "summary": "The Kotaku article highlights a new character introduced in the Ocarina of Time remake, who has become a fan favorite in Castle Town. It shows how fresh content can rejuvenate interest in a classic title and keep the community engaged.",
+      "whyItMatters": "For software developers, it underscores the importance of iterative content updates to sustain player engagement and extend a game's lifecycle.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-05T20:00:02Z"
+    },
+    {
+      "id": "art-1794017268160-2",
+      "title": "Nier: Automata’s latest update increases game size from 50GB to 366GB - Video Games Chronicle",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/nier-automatas-latest-update-increases-game-size-from-50gb-to-366gb/",
+      "summary": "Nier: Automata's latest patch has ballooned the game's size from 50 GB to 366 GB, a nearly eight‑fold increase. The update warns players that downloading the game now may be impractical due to the massive data requirement.",
+      "whyItMatters": "Such exponential increases in game size challenge distribution pipelines and storage strategies, forcing developers to rethink compression, delta updates, and cloud delivery.",
       "category": "DevOps",
-      "publishedAt": "2026-11-04T22:40:33Z"
+      "publishedAt": "2026-11-05T19:54:02Z"
     },
     {
-      "id": "art-1793932814816-2",
-      "title": "Next year’s iPhone Pro redesign gets new update from leaker - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/04/next-years-iphone-pro-redesign-gets-new-update-from-leaker/",
-      "summary": "Apple is rumored to redesign next year's iPhone Pro models, with a new Dynamic Island cutout. The leak suggests a more integrated front camera and sensor housing, potentially altering the device's form factor.",
-      "whyItMatters": "Developers will need to adapt app interfaces to the new Dynamic Island layout and anticipate changes in screen real estate.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-04T19:52:00Z"
-    },
-    {
-      "id": "art-1793932815452-3",
-      "title": "PlayStation’s Massive Black Friday 2026 Sale Is Live Now And Filled With Big Deals On PS5 Games - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/playstations-massive-black-friday-2026-sale-is-live-now-and-filled-with-big-deals-on-ps5-games-2000753373",
-      "summary": "PlayStation’s Black Friday 2026 sale is now live, offering steep discounts on a wide range of PS5 titles including Silent Hill 2, God of War Ragnarok, Astro Bot, Disco Elysium, and Well Dweller. The promotion highlights a surge in consumer demand for next‑gen games during the holiday shopping season.",
-      "whyItMatters": "The sale pressures developers to optimize release timing and marketing strategies to capitalize on peak purchasing periods, influencing revenue projections and resource allocation.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-04T19:30:06Z"
-    },
-    {
-      "id": "art-1793932816595-4",
-      "title": "Xbox previews two new ways to control cloud games - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
-      "summary": "Xbox Cloud Gaming is expanding its control options by introducing a phone controller and enabling direct Wi‑Fi connectivity for the Xbox Nano. These updates aim to simplify setup, reduce latency, and broaden the range of devices that can play cloud games.",
-      "whyItMatters": "By allowing mobile devices to serve as controllers and providing direct Wi‑Fi access, Xbox lowers barriers for developers to create seamless, low‑latency cloud gaming experiences across a wider array of hardware.",
-      "category": "Cloud",
-      "publishedAt": "2026-11-04T19:00:00Z"
-    },
-    {
-      "id": "art-1793932816953-5",
-      "title": "Google’s Pixel 11 phones are up to 27 percent off - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
-      "summary": "Google’s Pixel 11 phones are now available at discounts of up to 27 percent, making them the cheapest ever for the model line. The devices still boast exclusive features such as Camera Looks and Magic Capture, which enhance photography capabilities.",
-      "whyItMatters": "Lower prices on flagship hardware can boost app adoption and encourage developers to optimize their mobile apps for a broader user base, potentially increasing revenue streams.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-04T19:00:00Z"
-    },
-    {
-      "id": "art-1793932817392-6",
-      "title": "People say they want small smartphones—the Enough Phone will put that to the test - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
-      "summary": "The Enough Phone is a tiny smartphone that prioritizes a compact form factor over high-end specs, aiming to prove that a device can comfortably fit in a hand. While it may not compete with flagship phones in performance, its design challenges conventional expectations of smartphone size and usability.",
-      "whyItMatters": "Developers will need to adapt UI layouts and performance optimizations for extremely small screens, prompting new design patterns and potentially influencing future mobile hardware trends.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-04T18:00:40Z"
-    },
-    {
-      "id": "art-1793932818377-7",
-      "title": "ChatGPT will now make you animated GIFs - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "summary": "OpenAI has added a new feature to ChatGPT that lets users create and edit animated GIFs directly within the chat interface. The update expands the model’s creative capabilities, enabling quick visual content generation without external tools.",
-      "whyItMatters": "For software developers, this streamlines the workflow for adding dynamic media to applications, reducing reliance on separate graphic libraries and speeding up prototyping.",
+      "id": "art-1794017268950-3",
+      "title": "Meta says US users can now video chat with their Muse AI avatar - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "summary": "Meta has enabled US users to video chat with their Muse AI avatar, allowing the AI agent to take calls as a customizable animated avatar. This comes ahead of the launch of a Tamagotchi‑like wearable that will bring Muse to life.",
+      "whyItMatters": "It expands the use of AI avatars in real‑time communication, opening new opportunities for developers to build interactive, personalized virtual assistants.",
       "category": "AI",
-      "publishedAt": "2026-11-04T18:00:00Z"
+      "publishedAt": "2026-11-05T19:48:28Z"
     },
     {
-      "id": "art-1793932819089-8",
-      "title": "Square Enix Plans More New Games Over Remakes, Kitase Says - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/square-enix-new-games-remakes-kitase-interview",
-      "summary": "Square Enix’s producer Yoshinori Kitase announced that the company will focus on creating new games rather than remaking existing titles, signaling a shift in development priorities. He also hinted at future film adaptations and expressed a desire to work on fresh, original projects.",
-      "whyItMatters": "The move signals a strategic realignment that could influence how software development teams allocate resources, prioritize IP creation, and manage production pipelines in the gaming industry.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-04T18:00:00Z"
+      "id": "art-1794017269496-4",
+      "title": "EA is bringing 25 classic PC games to Steam - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
+      "summary": "Electronic Arts is adding 25 classic PC titles to Steam, including anniversary editions of Road Rash and six Wing Commander games. This move expands the platform's library and offers developers a new avenue for monetizing legacy IP.",
+      "whyItMatters": "It demonstrates how digital storefronts can revive and monetize older IP, encouraging developers to consider long‑tail revenue streams.",
+      "category": "Web Dev",
+      "publishedAt": "2026-11-05T18:30:00Z"
     },
     {
-      "id": "art-1793932819685-9",
-      "title": "macOS 27.3 Brings Live Activities to Macs Without Dynamic Island - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/04/macos-27-3-live-activities-in-menu-bar/",
-      "summary": "Apple’s macOS 27.3 update introduces Live Activities to Macs, allowing real‑time notifications and updates directly on the desktop. The update also adds Dynamic Island to new MacBook Pro models with touch‑enabled OLED displays, replacing the traditional notch.",
-      "whyItMatters": "Developers can now create richer, real‑time experiences on macOS, expanding the reach of Live Activities beyond iOS and enhancing cross‑platform app consistency.",
+      "id": "art-1794017270156-5",
+      "title": "Gamers go to ridiculous lengths to “improve” GTA VI with Nvidia’s DLSS 5 - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
+      "summary": "Gamers are using capture cards and open‑source software to feed PS5 gameplay into a PC GPU, allowing them to apply Nvidia’s DLSS 5 upscaling to GTA VI. This hack lets console players enjoy higher‑resolution visuals by leveraging PC‑grade AI rendering techniques.",
+      "whyItMatters": "It shows how developers and hardware vendors can bridge console and PC ecosystems, encouraging GPU makers to support cross‑platform video streams and prompting game studios to consider AI upscaling in future releases.",
+      "category": "AI",
+      "publishedAt": "2026-11-05T17:40:27Z"
+    },
+    {
+      "id": "art-1794017271145-6",
+      "title": "We Have So Many Questions About This Stellar Blade Launch Trailer - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/11/we-have-so-many-questions-about-this-stellar-blade-launch-trailer",
+      "summary": "Nintendo Life has released a new launch trailer for the upcoming game Stellar Blade, sparking curiosity among fans. The trailer showcases the game's futuristic setting and hints at its gameplay mechanics, raising questions about its development and release timeline.",
+      "whyItMatters": "The trailer's reveal of advanced graphics and gameplay mechanics could influence mobile game developers to adopt similar high-fidelity engines and design strategies.",
       "category": "Mobile",
-      "publishedAt": "2026-11-04T17:40:27Z"
+      "publishedAt": "2026-11-05T17:30:00Z"
+    },
+    {
+      "id": "art-1794017271691-8",
+      "title": "Xbox overhauls its PC, web, and cloud apps with a faster design - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
+      "summary": "Microsoft is revamping the Xbox PC, web, and cloud gaming apps with a new, faster user interface that is currently being rolled out to testers. The update aims to improve performance and streamline the user experience across all platforms.",
+      "whyItMatters": "The redesign signals a continued push toward a unified, high-performance cloud gaming ecosystem, encouraging developers to optimize for faster load times and smoother cross-platform integration.",
+      "category": "Cloud",
+      "publishedAt": "2026-11-05T17:00:31Z"
+    },
+    {
+      "id": "art-1794017272069-9",
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "summary": "OpenAI has unveiled GPT-6 Cyber, a new cybersecurity model that claims to locate software vulnerabilities more effectively while staying within legal boundaries. The model is positioned as a safer alternative to traditional penetration testing tools that sometimes cross into hacking territory.",
+      "whyItMatters": "Developers can now leverage GPT-6 Cyber to identify security flaws in their codebases without risking legal or ethical violations, streamlining the vulnerability assessment process.",
+      "category": "Security",
+      "publishedAt": "2026-11-05T17:00:00Z"
     }
   ]
 }
