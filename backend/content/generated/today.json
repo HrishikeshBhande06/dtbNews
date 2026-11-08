@@ -1,95 +1,95 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "articles": [
     {
-      "id": "art-1794017266811-0",
-      "title": "Nintendo Switch 2 Zelda 40th Anniversary Edition restock live — Target confirms online drop this week - Tom's Guide",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/news/live/zelda-edition-switch-2-console-restock-live-updates",
-      "summary": "Nintendo’s upcoming Switch 2 Zelda 40th Anniversary Edition is set to restock online this week, with Target confirming a live drop. The launch of the Ocarina of Time edition is expected to drive demand and potentially trigger a restock of the console itself.",
-      "whyItMatters": "The restock signals strong consumer demand, prompting developers to prioritize timely releases and optimize supply chain logistics for high‑profile titles.",
+      "id": "art-1794102009763-0",
+      "title": "watchOS 27.3 adds new Apple Watch feature that I absolutely love - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/06/watchos-27-3-adds-new-apple-watch-feature-that-i-absolutely-love/",
+      "summary": "watchOS 27.3 beta introduces Siri Recap, a new feature that compiles daily highlights and notifications into a concise summary for Apple Watch users. The update enhances the watch’s productivity capabilities and offers developers new opportunities to integrate richer contextual data into their apps.",
+      "whyItMatters": "The addition of Siri Recap expands the Apple Watch’s role as a personal assistant, encouraging developers to create apps that leverage contextual summaries and improve user engagement.",
       "category": "Mobile",
-      "publishedAt": "2026-11-05T20:14:49Z"
+      "publishedAt": "2026-11-06T21:05:00Z"
     },
     {
-      "id": "art-1794017267634-1",
-      "title": "The Best Thing I’ve Seen In The Ocarina Of Time Remake Is This New Guy In Castle Town - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/legend-zelda-ocarina-of-time-remake-switch-castle-town-new-npcs-bearded-guy-2000754229",
-      "summary": "The Kotaku article highlights a new character introduced in the Ocarina of Time remake, who has become a fan favorite in Castle Town. It shows how fresh content can rejuvenate interest in a classic title and keep the community engaged.",
-      "whyItMatters": "For software developers, it underscores the importance of iterative content updates to sustain player engagement and extend a game's lifecycle.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-05T20:00:02Z"
-    },
-    {
-      "id": "art-1794017268160-2",
-      "title": "Nier: Automata’s latest update increases game size from 50GB to 366GB - Video Games Chronicle",
-      "source": "Video Games Chronicle",
-      "url": "https://www.videogameschronicle.com/news/nier-automatas-latest-update-increases-game-size-from-50gb-to-366gb/",
-      "summary": "Nier: Automata's latest patch has ballooned the game's size from 50 GB to 366 GB, a nearly eight‑fold increase. The update warns players that downloading the game now may be impractical due to the massive data requirement.",
-      "whyItMatters": "Such exponential increases in game size challenge distribution pipelines and storage strategies, forcing developers to rethink compression, delta updates, and cloud delivery.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-05T19:54:02Z"
-    },
-    {
-      "id": "art-1794017268950-3",
-      "title": "Meta says US users can now video chat with their Muse AI avatar - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "summary": "Meta has enabled US users to video chat with their Muse AI avatar, allowing the AI agent to take calls as a customizable animated avatar. This comes ahead of the launch of a Tamagotchi‑like wearable that will bring Muse to life.",
-      "whyItMatters": "It expands the use of AI avatars in real‑time communication, opening new opportunities for developers to build interactive, personalized virtual assistants.",
-      "category": "AI",
-      "publishedAt": "2026-11-05T19:48:28Z"
-    },
-    {
-      "id": "art-1794017269496-4",
-      "title": "EA is bringing 25 classic PC games to Steam - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
-      "summary": "Electronic Arts is adding 25 classic PC titles to Steam, including anniversary editions of Road Rash and six Wing Commander games. This move expands the platform's library and offers developers a new avenue for monetizing legacy IP.",
-      "whyItMatters": "It demonstrates how digital storefronts can revive and monetize older IP, encouraging developers to consider long‑tail revenue streams.",
-      "category": "Web Dev",
-      "publishedAt": "2026-11-05T18:30:00Z"
-    },
-    {
-      "id": "art-1794017270156-5",
-      "title": "Gamers go to ridiculous lengths to “improve” GTA VI with Nvidia’s DLSS 5 - Ars Technica",
+      "id": "art-1794102010285-1",
+      "title": "Artist pulls popular screensaver from Roku OS because of Fox acquisition - Ars Technica",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
-      "summary": "Gamers are using capture cards and open‑source software to feed PS5 gameplay into a PC GPU, allowing them to apply Nvidia’s DLSS 5 upscaling to GTA VI. This hack lets console players enjoy higher‑resolution visuals by leveraging PC‑grade AI rendering techniques.",
-      "whyItMatters": "It shows how developers and hardware vendors can bridge console and PC ecosystems, encouraging GPU makers to support cross‑platform video streams and prompting game studios to consider AI upscaling in future releases.",
+      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+      "summary": "An artist removed a popular screensaver from Roku’s operating system after the platform’s parent company was acquired by Fox, citing a desire not to be associated with the new ownership. The removal highlights how corporate acquisitions can influence the availability of third‑party content on streaming device ecosystems.",
+      "whyItMatters": "Developers must consider how corporate ownership changes can affect platform policies and the distribution of their applications, potentially limiting reach or requiring re‑evaluation of partnerships.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-06T19:50:18Z"
+    },
+    {
+      "id": "art-1794102011156-2",
+      "title": "The 'Grand Theft Auto VI' Custom In-Game Cars Have Come to Life - Hypebeast",
+      "source": "HYPEBEAST",
+      "url": "https://hypebeast.com/2026/11/grand-theft-auto-vi-gta6-real-in-game-cars#article",
+      "summary": "West Coast Customs has recreated the iconic cars from Grand Theft Auto VI, bringing them to life in real-world detail. The effort showcases the blend of automotive design and gaming culture, highlighting the potential for cross-industry collaboration.",
+      "whyItMatters": "It demonstrates how detailed asset recreation can inspire developers to push realism in game design, encouraging the use of advanced modeling techniques.",
       "category": "AI",
-      "publishedAt": "2026-11-05T17:40:27Z"
+      "publishedAt": "2026-11-06T19:00:33Z"
     },
     {
-      "id": "art-1794017271145-6",
-      "title": "We Have So Many Questions About This Stellar Blade Launch Trailer - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/11/we-have-so-many-questions-about-this-stellar-blade-launch-trailer",
-      "summary": "Nintendo Life has released a new launch trailer for the upcoming game Stellar Blade, sparking curiosity among fans. The trailer showcases the game's futuristic setting and hints at its gameplay mechanics, raising questions about its development and release timeline.",
-      "whyItMatters": "The trailer's reveal of advanced graphics and gameplay mechanics could influence mobile game developers to adopt similar high-fidelity engines and design strategies.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-05T17:30:00Z"
+      "id": "art-1794102011957-3",
+      "title": "The Legend of Zelda: Ocarina of Time Remake Now Runs at 60 FPS on PC Emulators Lichii and Eglantine, a Day After Booting at 20-30 FPS - Wccftech",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/zelda-ocarina-of-time-remake-60-fps-pc-emulators/",
+      "summary": "PC emulators Lichii and Eglantine have been updated to run the Legend of Zelda: Ocarina of Time remake at a stable 60 FPS, a significant jump from the 20-30 FPS seen on the first boot. This demonstrates the rapid optimization capabilities of emulator developers and the growing demand for high‑fidelity gaming experiences on non‑native platforms.",
+      "whyItMatters": "The achievement highlights how performance tuning and efficient resource management can bring console‑quality gameplay to PCs, encouraging developers to invest in emulator optimization and cross‑platform compatibility.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-06T19:00:00Z"
     },
     {
-      "id": "art-1794017271691-8",
-      "title": "Xbox overhauls its PC, web, and cloud apps with a faster design - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
-      "summary": "Microsoft is revamping the Xbox PC, web, and cloud gaming apps with a new, faster user interface that is currently being rolled out to testers. The update aims to improve performance and streamline the user experience across all platforms.",
-      "whyItMatters": "The redesign signals a continued push toward a unified, high-performance cloud gaming ecosystem, encouraging developers to optimize for faster load times and smoother cross-platform integration.",
-      "category": "Cloud",
-      "publishedAt": "2026-11-05T17:00:31Z"
+      "id": "art-1794102012650-4",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "summary": "Meta has launched Spaces, a new collaboration tool that lets users interact with Muse AI agents in a shared environment. The feature expands Muse’s capabilities by adding real‑time, multi‑user interaction and integration with existing Meta products.",
+      "whyItMatters": "It enables developers to build richer, AI‑powered collaboration experiences, potentially accelerating productivity tools and redefining how teams use conversational AI.",
+      "category": "AI",
+      "publishedAt": "2026-11-06T18:44:20Z"
     },
     {
-      "id": "art-1794017272069-9",
-      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "summary": "OpenAI has unveiled GPT-6 Cyber, a new cybersecurity model that claims to locate software vulnerabilities more effectively while staying within legal boundaries. The model is positioned as a safer alternative to traditional penetration testing tools that sometimes cross into hacking territory.",
-      "whyItMatters": "Developers can now leverage GPT-6 Cyber to identify security flaws in their codebases without risking legal or ethical violations, streamlining the vulnerability assessment process.",
+      "id": "art-1794102013454-5",
+      "title": "A Truck Demanding EA ‘Save Mass Effect’ Is Currently Driving Around The Company’s Headquarters - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/save-mass-effect-ea-bioware-redwood-truck-billboard-2000754705",
+      "summary": "A truck bearing a 'Save Mass Effect' sign has been seen driving around BioWare's headquarters, sparking a wave of in-person protests from fans. The stunt highlights the growing trend of fan activism spilling into real-world spaces, putting pressure on the studio to address community concerns.",
+      "whyItMatters": "It underscores how fan-driven campaigns can influence corporate decision-making and force developers to consider community sentiment in their product roadmap.",
       "category": "Security",
-      "publishedAt": "2026-11-05T17:00:00Z"
+      "publishedAt": "2026-11-06T18:15:39Z"
+    },
+    {
+      "id": "art-1794102013857-6",
+      "title": "Discord is about to get way, way faster on your Android phone - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/11/06/discord-is-about-to-get-way-way-faster-on-your-android-phone/",
+      "summary": "Discord has released a new Android update built on Rust that cuts RAM usage and speeds up loading times. The change demonstrates how Rust can improve mobile app performance and resource efficiency.",
+      "whyItMatters": "It highlights Rust’s ability to deliver faster, leaner mobile applications, encouraging developers to adopt Rust for performance-critical mobile projects.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-06T18:13:00Z"
+    },
+    {
+      "id": "art-1794102014297-8",
+      "title": "PlayStation Is Already Killing Off Ratchet & Clank Mobile Game Just 12 Months After It Was Revealed - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/playstation-mobile-game-shuts-down-just-12-months-after-it-was-revealed-2000754657",
+      "summary": "PlayStation has decided to discontinue the Ratchet & Clank: Ranger Rumble mobile title after just a year of development, and the game never saw a global launch. The move highlights the volatility of mobile game projects even when backed by major publishers.",
+      "whyItMatters": "Developers risk significant sunk costs and must reassess platform strategies when large publishers cancel projects mid‑cycle, affecting investment decisions across the mobile gaming sector.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-06T17:00:11Z"
+    },
+    {
+      "id": "art-1794102014893-9",
+      "title": "Why Blizzard Made a New ‘World of Warcraft’ - Bloomberg.com",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-06/why-blizzard-made-world-of-warcraft-forever",
+      "summary": "Blizzard has announced a new title, World of Warcraft: Forever, that transports players into an alternate reality version of its iconic MMORPG. The game promises fresh gameplay mechanics and a reimagined world while leveraging Blizzard’s existing online infrastructure.",
+      "whyItMatters": "The launch underscores the growing demand for scalable cloud-based game services, prompting developers to adopt more robust, distributed architectures for real-time multiplayer experiences.",
+      "category": "Cloud",
+      "publishedAt": "2026-11-06T17:00:01Z"
     }
   ]
 }
