@@ -1,95 +1,105 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "articles": [
     {
-      "id": "art-1794188927681-0",
-      "title": "Ocarina of Time review: Does Nintendo's Zelda remake match its original? - BBC",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm8xznl0n1q4o",
-      "summary": "Nintendo's Ocarina of Time remake is reviewed by BBC's Tom Gerken, who compares the new version to the original classic. The review highlights both the nostalgic appeal and the technical updates that bring the game into modern form.",
-      "whyItMatters": "The analysis underscores how legacy game remakes must balance preserving original code with modern performance optimizations, guiding developers on efficient build pipelines and continuous integration practices.",
+      "id": "art-1794284026260-0",
+      "title": "Improve Your Mac Mini's Performance With These Simple Changes - BGR",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2306843/improve-mac-mini-performance-simple-changes/",
+      "summary": "The article offers simple steps to boost a Mac Mini's performance, such as freeing up startup disk space by moving data to an external HDD and closing unused applications. These tweaks can help users achieve smoother operation without hardware upgrades.",
+      "whyItMatters": "Software developers benefit from a faster, more responsive Mac Mini, enabling quicker build times and a more efficient development workflow.",
       "category": "DevOps",
-      "publishedAt": "2026-11-08T00:37:45Z"
+      "publishedAt": "2026-11-09T00:47:00Z"
     },
     {
-      "id": "art-1794188928219-1",
-      "title": "CPU-Z Data Shows 16 GB RAM Gaining Ground While 32 GB and 64 GB RAM Shares Shrink - TechPowerUp",
+      "id": "art-1794284026923-1",
+      "title": "Zelda: Ocarina of Time Remake Gets a Native PC Port Through Static Recompilation - TechPowerUp",
       "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/354574/cpu-z-data-shows-16-gb-ram-gaining-ground-while-32-gb-and-64-gb-ram-shares-shrink",
-      "summary": "CPU‑Z Validator data shows 16 GB RAM configurations are gaining popularity while 32 GB and 64 GB setups are shrinking, marking the first year‑over‑year decline in high‑capacity RAM usage. The trend indicates a shift toward more modest memory requirements in consumer PCs.",
-      "whyItMatters": "Software developers and system architects may need to optimize applications for lower memory footprints, as fewer users will have large RAM capacities available.",
+      "url": "https://www.techpowerup.com/354592/zelda-ocarina-of-time-remake-gets-a-native-pc-port-through-static-recompilation",
+      "summary": "A GitHub developer, tangerineturtle1, has released NX2navi, a native Windows port of the Zelda: Ocarina of Time remake that uses static recompilation to convert the Switch 2 code into x86-64. This approach bypasses the need for emulation, allowing the game to run directly on PCs with improved performance and lower resource usage.",
+      "whyItMatters": "It demonstrates how static recompilation can enable high-performance native ports of console games, potentially reducing reliance on emulators and opening new avenues for cross-platform development.",
       "category": "DevOps",
-      "publishedAt": "2026-11-08T00:06:09Z"
+      "publishedAt": "2026-11-09T00:06:10Z"
     },
     {
-      "id": "art-1794188928946-3",
-      "title": "1970 Chevy Chevelle Malibu For Sale With 8,000 Miles Shown Pairs 555 Big-Block V8 And 6-Speed Stick - Jalopnik",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2309860/1970-chevrolet-chevelle-malibu-for-sale-8000-miles-shown-555-v8-6-speed-manual/",
-      "summary": "A 1970 Chevy Chevelle Malibu with an 8,000-mile, 555 Big-Block V8 and a 6-speed stick is up for sale, boasting impressive power and a mint exterior. The listing showcases the enduring appeal of classic muscle cars and their mechanical prowess.",
-      "whyItMatters": "The article underscores the importance of legacy system maintenance and the need for robust tooling in DevOps pipelines, as maintaining older technology requires specialized skills and processes.",
+      "id": "art-1794284027423-2",
+      "title": "NASA is looking for astronauts to live and work on the Moon - NPR",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
+      "summary": "NASA is recruiting new astronauts to return to the Moon after a 50‑year hiatus, aiming to establish a sustainable lunar presence. The agency plans to build a lunar base that will support scientific research and future deep‑space missions.",
+      "whyItMatters": "Software developers will need to create and maintain mission‑critical, real‑time systems for remote operations, data analysis, and autonomous vehicle control, driving demand for robust DevOps practices.",
       "category": "DevOps",
-      "publishedAt": "2026-11-07T23:15:00Z"
+      "publishedAt": "2026-11-08T23:36:47Z"
     },
     {
-      "id": "art-1794188929765-4",
-      "title": "7 4-Cylinder Cars With More Horsepower Than A Ford Mustang EcoBoost - SlashGear",
-      "source": "SlashGear",
-      "url": "https://www.slashgear.com/2305101/four-cylinder-cars-with-more-horsepower-than-ford-mustang-ecoboost/",
-      "summary": "The article lists seven four‑cylinder cars that outperform the Ford Mustang EcoBoost in horsepower, highlighting the increasing power of smaller engines. It showcases how modern engineering and turbocharging have allowed compact engines to rival larger, more powerful models.",
-      "whyItMatters": "For software developers, the trend toward high‑performance, small‑footprint engines underscores the importance of efficient resource management and optimization in embedded automotive software.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-07T23:15:00Z"
-    },
-    {
-      "id": "art-1794188930115-5",
-      "title": "Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/11/07/google-messages-pinned-chats-redesign/",
-      "summary": "Google Messages for Android is testing a major homepage redesign that introduces pinned chat avatars, a bottom search bar, and a corner Gemini AI widget. The new layout also features a refreshed app icon and a more streamlined interface for easier navigation and AI integration.",
-      "whyItMatters": "The redesign signals Google’s push to embed AI features directly into messaging apps, prompting developers to adapt UI patterns and explore new API hooks for Gemini integration.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-07T23:08:00Z"
-    },
-    {
-      "id": "art-1794188930531-6",
-      "title": "This Year’s N7 Day Spent Fighting For Mass Effect's Future - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/this-years-n7-day-spent-fighting-for-mass-effects-future-2000754828",
-      "summary": "Mass Effect fans organized a massive N7 Day protest in November, demanding updates and a future for the beloved BioWare franchise. The backlash forced EA to reconsider its strategy and address community concerns about the game's development roadmap.",
-      "whyItMatters": "It highlights how active community engagement can pressure large studios to alter release plans, underscoring the need for robust feedback loops in software development.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-07T22:12:46Z"
-    },
-    {
-      "id": "art-1794188931173-7",
-      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles - TechCrunch",
+      "id": "art-1794284027956-3",
+      "title": "Apps to distract you from the endless cycle of doomscrolling - TechCrunch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-      "summary": "Amazon’s new basic Kindle is priced higher than its predecessor but offers a lighter build and a sharper display, positioning it as a compelling alternative to the company’s pricier e‑readers. The redesign focuses on improved ergonomics and visual quality while keeping the device affordable for casual readers.",
-      "whyItMatters": "The shift toward a more premium yet streamlined hardware design signals a broader industry trend of balancing cost with user experience, prompting developers to consider how device capabilities influence content delivery and app optimization.",
+      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "summary": "TechCrunch highlights a growing trend of apps designed to help users break the cycle of doomscrolling by offering engaging, productive content. These tools aim to replace endless scrolling with purposeful consumption, potentially reshaping how users interact with mobile media.",
+      "whyItMatters": "For developers, the demand for such productivity-focused apps signals a shift toward user well‑being features, encouraging the integration of mindful design and content curation in mobile development.",
       "category": "Mobile",
-      "publishedAt": "2026-11-07T17:18:00Z"
+      "publishedAt": "2026-11-08T22:00:00Z"
     },
     {
-      "id": "art-1794188931773-8",
-      "title": "Mass Effect 3’s Co-op Multiplayer Is Revived with Legendary Edition Multiplayer Mod on N7 Day, Even as BioWare’s Closure Hangs Over the Celebration - Wccftech",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/mass-effect-legendary-edition-multiplayer-n7-day-bioware-closure/",
-      "summary": "Mass Effect 3’s co‑op multiplayer is back thanks to the Legendary Edition Multiplayer Mod released by ME3Tweaks Group, giving fans a fresh way to play on N7 Day. The revival comes amid BioWare’s announced closure, offering a bittersweet celebration for the community.",
-      "whyItMatters": "It demonstrates how community-driven modding can extend the lifecycle of legacy software, highlighting the importance of open ecosystems for sustaining user engagement and developer support.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-07T17:00:00Z"
+      "id": "art-1794284028400-4",
+      "title": "If Snap's Specs are still ridiculously expensive, they're also a lot more comfortable than they used to be - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+      "summary": "Snap’s long‑developed AR glasses, dubbed Snap’s Specs, will hit the market this fall and, while still pricey, are noticeably more comfortable than earlier prototypes. The launch marks a significant step toward mainstream AR adoption.",
+      "whyItMatters": "Developers will need to create new immersive experiences and adapt existing apps for the glasses, expanding the mobile AR ecosystem.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-08T21:00:00Z"
     },
     {
-      "id": "art-1794188932477-9",
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake - The Verge",
+      "id": "art-1794284029109-5",
+      "title": "Epic Games Launcher is coming to SteamOS - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "summary": "NYT Cooking’s new AI assistant was put to the test on a weeknight chicken, a halibut dish, and a Bundt cake, showing strong performance on ingredient substitutions, scaling, and equipment swaps for the savory meals but nearly ruining the cake. The review highlights the assistant’s potential for culinary guidance while underscoring the need for careful recipe adaptation in AI‑driven cooking tools.",
-      "whyItMatters": "It demonstrates how AI can streamline recipe planning for developers building food‑tech apps, but also reveals the limits of current models in handling complex baking tasks, prompting further research into domain‑specific reasoning.",
-      "category": "AI",
-      "publishedAt": "2026-11-07T15:50:00Z"
+      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+      "summary": "Epic Games has announced that its Linux launcher will officially support SteamOS and Steam Decks, expanding its reach to Valve's popular gaming platform. This move allows Epic's games to be installed and played on a broader range of Linux-based devices, including the handheld Steam Deck.",
+      "whyItMatters": "By enabling its launcher on SteamOS, Epic removes a major barrier for developers targeting Linux, potentially increasing the diversity of games available on the platform and encouraging cross-platform development.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-08T20:52:05Z"
+    },
+    {
+      "id": "art-1794284029613-6",
+      "title": "Akai MPC is moving toward an open platform, and the first step is here - synth anatomy",
+      "source": "Synthanatomy.com",
+      "url": "https://synthanatomy.com/2026/11/akai-mpc-is-now-open-source-standalone-and-mpc-sample.html",
+      "summary": "Akai has opened the source code for key components of its MPC framework, including the MPC Standalone (G1 & G2), Force, and MPC Sample. This marks the first step toward a fully open platform for music production hardware and software.",
+      "whyItMatters": "By making these components open-source, developers can now customize, extend, and integrate Akai’s hardware into new workflows, accelerating innovation in music technology.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-08T19:51:39Z"
+    },
+    {
+      "id": "art-1794284030282-7",
+      "title": "For Just $249, Micro Center Bundles Ryzen 5 5600X3D, 16 GB DDR4 RAM, And B550 Motherboard For A Limited Time - Wccftech",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/ryzen-5600x3d-motherboard-and-16-gb-ddr4-bundle-micro-center-dropped-it-to-just-249/",
+      "summary": "Micro Center is offering a limited-time bundle that includes a Ryzen 5 5600X3D processor, a B550 motherboard, and 16 GB DDR4 RAM for just $249, saving customers $194 compared to buying components separately. This deal provides a cost-effective, high-performance PC build for gamers and developers alike.",
+      "whyItMatters": "The bundle lowers entry barriers for developers needing powerful, affordable workstations, enabling faster software testing and deployment.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-08T18:19:17Z"
+    },
+    {
+      "id": "art-1794284031020-8",
+      "title": "This Week’s Japanese Game Releases: Prinny Party: Going Overboard!, Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy, more - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/11/this-weeks-japanese-game-releases-prinny-party-going-overboard-pikmin-4-nintendo-switch-2-edition-dandori-academy-more",
+      "summary": "This week saw the release of Prinny Party: Going Overboard! across multiple platforms including PS5, Switch 2, Switch, and PC, while Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy debuted on Switch 2. These releases highlight Nintendo’s continued expansion into new hardware and the growing popularity of indie titles on major consoles.",
+      "whyItMatters": "For software developers, the simultaneous multi‑platform launch underscores the importance of cross‑platform optimization and efficient release pipelines, influencing how teams manage builds and distribution.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-08T17:48:55Z"
+    },
+    {
+      "id": "art-1794284031663-9",
+      "title": "3 Affordable Retro Consoles You Can Buy From GameStop - BGR",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2306012/affordable-retro-consoles-buy-from-gamestop/",
+      "summary": "The article highlights three budget-friendly retro gaming consoles available at GameStop, offering gamers a nostalgic experience without the high cost of modern systems. It showcases deals on classic hardware, appealing to both casual players and collectors looking for affordable gaming options.",
+      "whyItMatters": "Retro console availability encourages developers to maintain and improve emulation software, ensuring legacy games remain playable and preserving gaming history for future generations.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-08T17:47:00Z"
     }
   ]
 }
