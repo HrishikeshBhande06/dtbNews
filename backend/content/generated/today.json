@@ -1,95 +1,105 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "articles": [
     {
-      "id": "art-1794362560748-0",
-      "title": "Nintendo Switch 2 and Switch update 23.5.0 out now, patch notes - new gifting feature and more - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/nintendo-switch-2-and-switch-update-23-5-0-out-now-patch-notes-new-gifting-feature-and-more/",
-      "summary": "Nintendo released the 23.5.0 update for both the Switch and Switch 2, adding a new gifting feature among other improvements. The patch notes detail additional gameplay tweaks and bug fixes that enhance the overall user experience.",
-      "whyItMatters": "The update demonstrates how continuous delivery and rapid patching can keep a console ecosystem fresh, encouraging developers to adopt agile release practices for gaming platforms.",
+      "id": "art-1794453120441-0",
+      "title": "Aviva Helfand, 74, OBM - COLlive",
+      "source": "COLlive - Chabad News",
+      "url": "https://collive.com/aviva-helfand-74-obm/",
+      "summary": "Aviva Helfand, a cherished member of the Long Beach Jewish community, passed away on Erev Shabbos, Parshas Vayera, 19 Cheshvan 5787. She was remembered for her memorable meals and warm hospitality that brought people together.",
+      "whyItMatters": "Her passing reminds software developers that building strong, supportive communities is as vital as writing code, fostering collaboration and well‑being in the tech world.",
       "category": "DevOps",
-      "publishedAt": "2026-11-10T01:13:58Z"
+      "publishedAt": "2026-11-11T01:28:45Z"
     },
     {
-      "id": "art-1794362561446-1",
-      "title": "Skydance Games Hit By Layoffs - Deadline",
-      "source": "Deadline",
-      "url": "http://deadline.com/2026/11/skydance-games-layoffs-1237217870/",
-      "summary": "Skydance Games announced a round of layoffs after its merger with Warner Bros. Discovery, affecting several staff members across the studio. The move reflects broader industry consolidation and cost‑cutting measures following the acquisition.",
-      "whyItMatters": "The layoffs signal a shift in resource allocation that could affect the pace of game development and the employment landscape for software developers in the entertainment sector.",
+      "id": "art-1794453120987-1",
+      "title": "Fortis Games closes down, affecting 440 jobs | exclusive - GamesBeat",
+      "source": "Gamesbeat.com",
+      "url": "https://gamesbeat.com/fortis-games-closes-down-affecting-440-jobs/",
+      "summary": "Fortis Games, a game publisher backed by significant financial support, has announced its closure, resulting in the loss of 440 jobs. The shutdown marks a significant setback for the gaming industry and its workforce.",
+      "whyItMatters": "The job cuts highlight the volatility of the gaming sector and underscore the need for resilient business models for software developers.",
       "category": "DevOps",
-      "publishedAt": "2026-11-10T00:40:00Z"
+      "publishedAt": "2026-11-10T23:40:32Z"
     },
     {
-      "id": "art-1794362562321-2",
-      "title": "Side-By-Side Comparisons Show Breath Of The Wild's Fingerprints All Over The Ocarina Of Time Remake In The Best Way - Kotaku",
+      "id": "art-1794453121664-2",
+      "title": "Killing Floor Studio Cofounder Blames Spiraling Layoffs On ‘Woke Leftists’ - Kotaku",
       "source": "Kotaku",
-      "url": "https://kotaku.com/side-by-side-comparisons-show-breath-of-the-wilds-fingerprints-all-over-the-ocarina-of-time-remake-in-the-best-way-2000755169",
-      "summary": "Nintendo's Ocarina of Time remake heavily borrows design elements from Breath of the Wild, as highlighted by side‑by‑side comparisons. The article points out that the remake’s visual and gameplay cues echo the newer title, raising questions about creative reuse and asset optimization.",
-      "whyItMatters": "It shows how large studios can streamline development by reusing proven assets, impacting how developers plan and budget future projects.",
+      "url": "https://kotaku.com/killing-floor-studio-cofounder-blames-spiraling-layoffs-on-woke-leftists-2000755642",
+      "summary": "John Gibson, cofounder of Killing Floor Studio, blamed the company’s escalating layoffs on ‘woke leftists’ and subsequently stepped down from Tripwire Interactive after his support for an abortion ban was spotlighted. The incident underscores how political polarization can spill into corporate leadership decisions and affect the stability of development teams in the gaming industry.",
+      "whyItMatters": "When political stances influence leadership changes, software developers may face uncertainty, disrupted project timelines, and morale issues, ultimately impacting productivity and product quality.",
       "category": "DevOps",
-      "publishedAt": "2026-11-09T23:00:49Z"
+      "publishedAt": "2026-11-10T23:32:41Z"
     },
     {
-      "id": "art-1794362562823-3",
-      "title": "As investors ask about GTA 6 and AI, Take-Two CEO once again puts faith in dev creativity, states creating hit games \"remains the purview of human beings\" - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/gta-6-ai-strauss-zelnick-earnings-call-purview",
-      "summary": "Take‑Two CEO Strauss Zelnick reiterated that making blockbuster games is still a human endeavor, even as investors probe the role of AI in development. He acknowledged that creating hits has always been difficult and will remain so, emphasizing the importance of creative talent over automation.",
-      "whyItMatters": "It signals that even as AI tools proliferate, game studios may still rely on human creativity, affecting how developers prioritize skill development and tool integration.",
-      "category": "AI",
-      "publishedAt": "2026-11-09T22:47:40Z"
-    },
-    {
-      "id": "art-1794362563421-5",
-      "title": "‘GTA 6’ Presales ‘Far in Excess’ of Expectations Ahead of Next Week’s Launch, Take-Two CEO Says - Variety",
-      "source": "Variety",
-      "url": "https://variety.com/2026/digital/news/gta-6-preorders-expectations-launch-1236943278/",
-      "summary": "Take‑Two Interactive CEO Strauss Zelnick announced that Grand Theft Auto VI presales are far exceeding expectations ahead of its launch next week. The strong demand signals a highly successful launch and sets a new benchmark for the gaming industry.",
-      "whyItMatters": "High presales demonstrate the importance of robust release pipelines and marketing strategies for software developers, highlighting the need to optimize launch readiness.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-09T21:15:00Z"
-    },
-    {
-      "id": "art-1794362563959-6",
-      "title": "Physicists Gave Up on This Fusion Technique in the 1980s. Now It’s Working - Gizmodo",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/physicists-gave-up-on-this-fusion-technique-in-the-1980s-now-its-working-2000836004",
-      "summary": "Physicists abandoned a fusion technique in the 1980s after repeated failures, but recent breakthroughs have finally made it viable, promising continuous operation of fusion reactors. The new method could dramatically reduce the cost and increase the reliability of fusion power, potentially transforming the energy landscape.",
-      "whyItMatters": "For software developers, more reliable and cheaper fusion energy could lower data center power costs and enable greener, more sustainable cloud infrastructure.",
-      "category": "Cloud",
-      "publishedAt": "2026-11-09T21:10:04Z"
-    },
-    {
-      "id": "art-1794362564573-7",
-      "title": "I Spent My First 25 Hours In World Of Warcraft: Forever Happily Wasting Time - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/first-25-hours-wow-forever-wasting-time-2000755140",
-      "summary": "A Kotaku writer recounts spending 25 hours in World of Warcraft, humorously lamenting the new dungeons while reflecting on the addictive nature of the game. The piece highlights how even a single player’s experience can illustrate the broader appeal and longevity of MMORPGs.",
-      "whyItMatters": "Game design and player engagement insights can inform software developers about retention strategies and the importance of continuous content updates in long‑term product success.",
+      "id": "art-1794453122173-3",
+      "title": "Samsung Galaxy S27 and S27 Ultra camera specs reportedly leaked - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/samsung-galaxy-s27-camera-specs-leak",
+      "summary": "Leaked reports reveal that the upcoming Samsung Galaxy S27 and S27 Ultra will feature upgraded camera modules, including a larger sensor and improved low‑light performance, but many of the core specifications remain unchanged from previous models. Samsung's decision to keep most camera features consistent may disappoint enthusiasts seeking significant upgrades.",
+      "whyItMatters": "Developers building camera‑focused apps may need to adjust expectations for new hardware capabilities, as the limited changes could affect performance benchmarks and feature support.",
       "category": "Mobile",
-      "publishedAt": "2026-11-09T21:00:22Z"
+      "publishedAt": "2026-11-10T23:31:46Z"
     },
     {
-      "id": "art-1794362564947-8",
-      "title": "iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more/",
-      "summary": "Apple released iOS 27.2.1 for iPhone, addressing security vulnerabilities in Messages, AirPlay, and other components. The update includes patches that fix potential exploits and improve overall system stability.",
-      "whyItMatters": "Developers must update their apps to remain compatible with the new OS version and ensure users are protected from the patched security flaws.",
-      "category": "Security",
-      "publishedAt": "2026-11-09T20:20:00Z"
-    },
-    {
-      "id": "art-1794362565643-9",
-      "title": "\"Something's really possible\" - Mass Effect cast rally around efforts to save the franchise on the first N7 Day after BioWare's closure - Eurogamer.net",
-      "source": "Eurogamer.net",
-      "url": "https://www.eurogamer.net/mass-effect-cast-save-bioware-n7-day",
-      "summary": "Mass Effect fans and cast unite to support SaveMassEffect after BioWare's closure, lending their voices on the first N7 Day. The movement highlights community-driven preservation efforts for beloved game franchises.",
-      "whyItMatters": "It shows developers can rely on community support to sustain legacy titles, encouraging long-term maintenance and preservation strategies.",
+      "id": "art-1794453122599-4",
+      "title": "Seagate’s new hybrid drive raises some old questions - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "summary": "Seagate’s FireCuda Forge hybrid drive blends SSD and HDD technology to offer high capacity with faster access speeds, revisiting a concept that has been explored before. The new drive raises questions about performance trade‑offs, durability, and cost-effectiveness compared to pure SSD or HDD solutions.",
+      "whyItMatters": "For software developers and IT teams, the FireCuda Forge’s hybrid architecture could influence storage strategy decisions, impacting deployment performance, data tiering, and infrastructure cost models.",
       "category": "DevOps",
-      "publishedAt": "2026-11-09T20:09:50Z"
+      "publishedAt": "2026-11-10T23:30:56Z"
+    },
+    {
+      "id": "art-1794453123269-5",
+      "title": "Student Game Development Competition Shut Down Because Kids Kept Submitting AI Slop - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/student-game-development-competition-shut-down-because-kids-kept-submitting-ai-slop-games-2000755605",
+      "summary": "A student game development competition was halted after participants repeatedly submitted AI-generated content that failed to meet quality standards. The organizers cited the influx of low-quality, AI-generated submissions as the reason for shutting down the event.",
+      "whyItMatters": "It highlights the growing challenge developers face in moderating AI-generated code and content, underscoring the need for better tools and guidelines to maintain quality in collaborative projects.",
+      "category": "AI",
+      "publishedAt": "2026-11-10T23:00:35Z"
+    },
+    {
+      "id": "art-1794453123874-6",
+      "title": "PlayStation Cancels Online Shooting Title ‘Fairgames’ - Bloomberg.com",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/playstation-cancels-online-shooting-title-fairgames",
+      "summary": "Sony has cancelled the development of its online shooting game ‘Fairgames’ and confirmed that no employees will be laid off as a result. The decision marks a shift in PlayStation’s game portfolio and development focus.",
+      "whyItMatters": "The cancellation signals a strategic realignment that could influence how software developers prioritize projects and allocate resources within the gaming industry.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-10T21:16:48Z"
+    },
+    {
+      "id": "art-1794453124313-7",
+      "title": "November Pixel Drop brings big changes and finally makes HiLight more useful - Android Police",
+      "source": "Android Police",
+      "url": "https://www.androidpolice.com/november-pixel-drop-2026-brings-big-changes/",
+      "summary": "Google's November Pixel Drop update introduces significant changes, including enhanced HiLight functionality, and is now available for compatible Pixel devices. The update brings new features and improvements that aim to improve user experience and developer tools.",
+      "whyItMatters": "The update provides developers with better tools for highlighting UI elements, potentially simplifying debugging and UI testing on Pixel devices.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-10T21:13:51Z"
+    },
+    {
+      "id": "art-1794453124832-8",
+      "title": "Google warns users to protect their inbox as new hacking tool threatens to expose your private information - New York Post",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/10/tech/google-warns-users-to-protect-their-inbox-from-remus-stealer-malware/",
+      "summary": "Google warns that a new hacking tool can expose private information through Gmail inboxes, and simply changing passwords is no longer sufficient to protect users. The company urges additional safeguards to prevent data leaks.",
+      "whyItMatters": "Developers must prioritize robust authentication and email security to defend against evolving cyber threats.",
+      "category": "Security",
+      "publishedAt": "2026-11-10T20:32:00Z"
+    },
+    {
+      "id": "art-1794453125521-9",
+      "title": "10 Free iPhone Duo Apps Worth Downloading - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/10/free-iphone-duo-apps/",
+      "summary": "The article lists ten free iPhone Duo apps that users can download, covering various categories such as gaming, productivity, and entertainment. It provides a curated overview of the best Duo apps available at no cost.",
+      "whyItMatters": "It highlights free resources that can boost app engagement and cross-device functionality, encouraging developers to explore multi-device integration.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-10T20:27:02Z"
     }
   ]
 }
