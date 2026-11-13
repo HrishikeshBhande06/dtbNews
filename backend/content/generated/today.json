@@ -1,105 +1,105 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "articles": [
     {
-      "id": "art-1794453120441-0",
-      "title": "Aviva Helfand, 74, OBM - COLlive",
-      "source": "COLlive - Chabad News",
-      "url": "https://collive.com/aviva-helfand-74-obm/",
-      "summary": "Aviva Helfand, a cherished member of the Long Beach Jewish community, passed away on Erev Shabbos, Parshas Vayera, 19 Cheshvan 5787. She was remembered for her memorable meals and warm hospitality that brought people together.",
-      "whyItMatters": "Her passing reminds software developers that building strong, supportive communities is as vital as writing code, fostering collaboration and well‑being in the tech world.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-11T01:28:45Z"
-    },
-    {
-      "id": "art-1794453120987-1",
-      "title": "Fortis Games closes down, affecting 440 jobs | exclusive - GamesBeat",
-      "source": "Gamesbeat.com",
-      "url": "https://gamesbeat.com/fortis-games-closes-down-affecting-440-jobs/",
-      "summary": "Fortis Games, a game publisher backed by significant financial support, has announced its closure, resulting in the loss of 440 jobs. The shutdown marks a significant setback for the gaming industry and its workforce.",
-      "whyItMatters": "The job cuts highlight the volatility of the gaming sector and underscore the need for resilient business models for software developers.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-10T23:40:32Z"
-    },
-    {
-      "id": "art-1794453121664-2",
-      "title": "Killing Floor Studio Cofounder Blames Spiraling Layoffs On ‘Woke Leftists’ - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/killing-floor-studio-cofounder-blames-spiraling-layoffs-on-woke-leftists-2000755642",
-      "summary": "John Gibson, cofounder of Killing Floor Studio, blamed the company’s escalating layoffs on ‘woke leftists’ and subsequently stepped down from Tripwire Interactive after his support for an abortion ban was spotlighted. The incident underscores how political polarization can spill into corporate leadership decisions and affect the stability of development teams in the gaming industry.",
-      "whyItMatters": "When political stances influence leadership changes, software developers may face uncertainty, disrupted project timelines, and morale issues, ultimately impacting productivity and product quality.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-10T23:32:41Z"
-    },
-    {
-      "id": "art-1794453122173-3",
-      "title": "Samsung Galaxy S27 and S27 Ultra camera specs reportedly leaked - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/samsung-galaxy-s27-camera-specs-leak",
-      "summary": "Leaked reports reveal that the upcoming Samsung Galaxy S27 and S27 Ultra will feature upgraded camera modules, including a larger sensor and improved low‑light performance, but many of the core specifications remain unchanged from previous models. Samsung's decision to keep most camera features consistent may disappoint enthusiasts seeking significant upgrades.",
-      "whyItMatters": "Developers building camera‑focused apps may need to adjust expectations for new hardware capabilities, as the limited changes could affect performance benchmarks and feature support.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-10T23:31:46Z"
-    },
-    {
-      "id": "art-1794453122599-4",
-      "title": "Seagate’s new hybrid drive raises some old questions - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "summary": "Seagate’s FireCuda Forge hybrid drive blends SSD and HDD technology to offer high capacity with faster access speeds, revisiting a concept that has been explored before. The new drive raises questions about performance trade‑offs, durability, and cost-effectiveness compared to pure SSD or HDD solutions.",
-      "whyItMatters": "For software developers and IT teams, the FireCuda Forge’s hybrid architecture could influence storage strategy decisions, impacting deployment performance, data tiering, and infrastructure cost models.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-10T23:30:56Z"
-    },
-    {
-      "id": "art-1794453123269-5",
-      "title": "Student Game Development Competition Shut Down Because Kids Kept Submitting AI Slop - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/student-game-development-competition-shut-down-because-kids-kept-submitting-ai-slop-games-2000755605",
-      "summary": "A student game development competition was halted after participants repeatedly submitted AI-generated content that failed to meet quality standards. The organizers cited the influx of low-quality, AI-generated submissions as the reason for shutting down the event.",
-      "whyItMatters": "It highlights the growing challenge developers face in moderating AI-generated code and content, underscoring the need for better tools and guidelines to maintain quality in collaborative projects.",
-      "category": "AI",
-      "publishedAt": "2026-11-10T23:00:35Z"
-    },
-    {
-      "id": "art-1794453123874-6",
-      "title": "PlayStation Cancels Online Shooting Title ‘Fairgames’ - Bloomberg.com",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/playstation-cancels-online-shooting-title-fairgames",
-      "summary": "Sony has cancelled the development of its online shooting game ‘Fairgames’ and confirmed that no employees will be laid off as a result. The decision marks a shift in PlayStation’s game portfolio and development focus.",
-      "whyItMatters": "The cancellation signals a strategic realignment that could influence how software developers prioritize projects and allocate resources within the gaming industry.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-10T21:16:48Z"
-    },
-    {
-      "id": "art-1794453124313-7",
-      "title": "November Pixel Drop brings big changes and finally makes HiLight more useful - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/november-pixel-drop-2026-brings-big-changes/",
-      "summary": "Google's November Pixel Drop update introduces significant changes, including enhanced HiLight functionality, and is now available for compatible Pixel devices. The update brings new features and improvements that aim to improve user experience and developer tools.",
-      "whyItMatters": "The update provides developers with better tools for highlighting UI elements, potentially simplifying debugging and UI testing on Pixel devices.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-10T21:13:51Z"
-    },
-    {
-      "id": "art-1794453124832-8",
-      "title": "Google warns users to protect their inbox as new hacking tool threatens to expose your private information - New York Post",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/10/tech/google-warns-users-to-protect-their-inbox-from-remus-stealer-malware/",
-      "summary": "Google warns that a new hacking tool can expose private information through Gmail inboxes, and simply changing passwords is no longer sufficient to protect users. The company urges additional safeguards to prevent data leaks.",
-      "whyItMatters": "Developers must prioritize robust authentication and email security to defend against evolving cyber threats.",
+      "id": "art-1794537874559-0",
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations - BleepingComputer",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "summary": "ConnectWise is investigating a malware campaign that exploits compromised ScreenConnect environments to install rogue remote‑access clients on customer devices. The attack has breached multiple managed service providers, affecting dozens of organizations.",
+      "whyItMatters": "Developers must secure remote‑access tools and monitor third‑party integrations to prevent similar supply‑chain attacks.",
       "category": "Security",
-      "publishedAt": "2026-11-10T20:32:00Z"
+      "publishedAt": "2026-11-12T02:06:55Z"
     },
     {
-      "id": "art-1794453125521-9",
-      "title": "10 Free iPhone Duo Apps Worth Downloading - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/10/free-iphone-duo-apps/",
-      "summary": "The article lists ten free iPhone Duo apps that users can download, covering various categories such as gaming, productivity, and entertainment. It provides a curated overview of the best Duo apps available at no cost.",
-      "whyItMatters": "It highlights free resources that can boost app engagement and cross-device functionality, encouraging developers to explore multi-device integration.",
+      "id": "art-1794537875188-1",
+      "title": "Trying Tourette's device was the best day of my life - BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cmp3g3e5q4zxo",
+      "summary": "A new device developed by researchers in Nottingham has helped calm Tourette's symptoms for users like Katie, who described it as the best day of her life. The technology, which combines sensor data with real-time feedback, offers a promising approach to managing neurological disorders.",
+      "whyItMatters": "It shows how software developers can apply embedded systems, data analytics, and AI to create personalized health solutions, opening new opportunities for IoT and medical device innovation.",
+      "category": "AI",
+      "publishedAt": "2026-11-12T01:07:47Z"
+    },
+    {
+      "id": "art-1794537876040-2",
+      "title": "Hey, Nintendo, What’s Going On With Zelda: Ocarina Of Time’ s Most Insufferable Couple? - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/hey-nintendo-whats-going-on-with-zelda-ocarina-of-times-most-insufferable-couple-2000755954",
+      "summary": "The Kotaku piece examines the controversial relationship between two characters in Zelda: Ocarina of Time, highlighting fan backlash and the game's narrative choices. It also explores how this dynamic has sparked fan art, discussions, and potential modding projects within the Zelda community.",
+      "whyItMatters": "It shows how narrative decisions in popular games can drive community-driven content creation, influencing how developers approach storytelling and fan engagement.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-11T23:00:59Z"
+    },
+    {
+      "id": "art-1794537876889-3",
+      "title": "New GTA 6 gameplay video is leaving fans stunned - Polygon.com",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/gta-6-new-gameplay-onlyindade-ai-real-fake-rockstar-instagram/",
+      "summary": "Rockstar has released a new gameplay clip for GTA 6 that has fans stunned by its realistic graphics and fluid animations. The footage showcases the game's advanced rendering techniques and AI-driven environments, hinting at a significant leap in next‑generation gaming.",
+      "whyItMatters": "The clip demonstrates cutting‑edge real‑time rendering and AI integration that could set new performance benchmarks for game engines and influence software developers working on high‑fidelity simulations.",
+      "category": "AI",
+      "publishedAt": "2026-11-11T22:39:52Z"
+    },
+    {
+      "id": "art-1794537877786-4",
+      "title": "Marvel 1943 'Has Not Been Canceled,' Says Skydance Leadership, Despite Development Struggles - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/marvel-1943-has-not-been-canceled-despite-development-struggles-2000756025",
+      "summary": "Skydance leadership has confirmed that the Marvel 1943 game has not been canceled, countering rumors of its demise. Despite ongoing development challenges, the team remains optimistic about bringing the title to market.",
+      "whyItMatters": "The confirmation keeps the game's development pipeline active, ensuring continued investment in tools, infrastructure, and talent that benefit the broader software development ecosystem.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-11T22:06:26Z"
+    },
+    {
+      "id": "art-1794537878492-5",
+      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’ - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+      "summary": "Home Assistant’s new Connect Aux‑2 is a versatile smart‑home multi‑tool that lets users monitor fridge temperature and easily set up in‑wall speakers. The Verge review highlights its plug‑and‑play design and seamless integration with Home Assistant’s ecosystem.",
+      "whyItMatters": "By simplifying device onboarding and monitoring, the Aux‑2 reduces the friction developers face when building and maintaining IoT‑centric home automation solutions.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-11T22:00:00Z"
+    },
+    {
+      "id": "art-1794537878938-6",
+      "title": "One Company Is Giving All Of Its 7,000 Employees The Day Off To Play GTA 6 - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/logitech-gta-6-release-day-off-logi-game-day-2000755995",
+      "summary": "A tech company announced that all 7,000 employees will receive a day off on November 19th to play GTA 6, allowing them to clock out early and enjoy the new game. The move highlights a growing trend of companies using unique perks to boost morale and attract talent.",
+      "whyItMatters": "By offering a game‑centric break, the company demonstrates how unconventional employee benefits can influence developer retention and workplace culture in the tech industry.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-11T21:30:08Z"
+    },
+    {
+      "id": "art-1794537879541-7",
+      "title": "Tanuki: Pon's Summer Review - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/tanuki-pons-summer-review",
+      "summary": "Tanuki: Pon's Summer is reviewed by IGN, noting that while some aspects fall short of its unique charm, the game still successfully captures a summery vibe through its playful BMX delivery service. The review highlights both strengths and weaknesses, offering a balanced perspective for potential players.",
+      "whyItMatters": "For mobile game developers, the review underscores the importance of maintaining core gameplay strengths while addressing shortcomings to keep players engaged, informing future design and polish decisions.",
       "category": "Mobile",
-      "publishedAt": "2026-11-10T20:27:02Z"
+      "publishedAt": "2026-11-11T20:39:23Z"
+    },
+    {
+      "id": "art-1794537880620-8",
+      "title": "Resident Evil Requiem wins Ultimate Game of the Year at the Golden Joystick Awards 2026 - GamesRadar+",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-wins-ultimate-game-of-the-year-at-the-golden-joystick-awards-2026/",
+      "summary": "Resident Evil Requiem has been crowned Ultimate Game of the Year at the 2026 Golden Joystick Awards, cementing its status as a flagship title for the franchise. The accolade underscores the game's technical excellence and the studio's commitment to delivering a polished, immersive experience.",
+      "whyItMatters": "The award highlights the growing importance of robust development pipelines and continuous integration practices in producing high‑quality games, encouraging other studios to adopt similar DevOps strategies.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-11T20:15:51Z"
+    },
+    {
+      "id": "art-1794537881286-9",
+      "title": "iCloud+ has new perk in iOS 27 if you pay for more storage - 9to5Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/11/icloud-has-new-perk-in-ios-27-if-you-pay-for-more-storage/",
+      "summary": "Apple has added a new benefit to its iCloud+ service in iOS 27, granting users on the highest storage tiers access to Apple Intelligence features for HomeKit cameras. This enhancement allows advanced AI-powered analytics and automation for home security footage directly within the iCloud ecosystem.",
+      "whyItMatters": "Developers building HomeKit-compatible devices and apps can now leverage Apple Intelligence to offer richer, AI-driven camera features, potentially increasing demand for higher-tier iCloud+ subscriptions.",
+      "category": "AI",
+      "publishedAt": "2026-11-11T19:32:00Z"
     }
   ]
 }
