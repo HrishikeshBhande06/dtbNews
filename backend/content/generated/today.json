@@ -1,105 +1,105 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "articles": [
     {
-      "id": "art-1794537874559-0",
-      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations - BleepingComputer",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-      "summary": "ConnectWise is investigating a malware campaign that exploits compromised ScreenConnect environments to install rogue remote‑access clients on customer devices. The attack has breached multiple managed service providers, affecting dozens of organizations.",
-      "whyItMatters": "Developers must secure remote‑access tools and monitor third‑party integrations to prevent similar supply‑chain attacks.",
-      "category": "Security",
-      "publishedAt": "2026-11-12T02:06:55Z"
-    },
-    {
-      "id": "art-1794537875188-1",
-      "title": "Trying Tourette's device was the best day of my life - BBC",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cmp3g3e5q4zxo",
-      "summary": "A new device developed by researchers in Nottingham has helped calm Tourette's symptoms for users like Katie, who described it as the best day of her life. The technology, which combines sensor data with real-time feedback, offers a promising approach to managing neurological disorders.",
-      "whyItMatters": "It shows how software developers can apply embedded systems, data analytics, and AI to create personalized health solutions, opening new opportunities for IoT and medical device innovation.",
-      "category": "AI",
-      "publishedAt": "2026-11-12T01:07:47Z"
-    },
-    {
-      "id": "art-1794537876040-2",
-      "title": "Hey, Nintendo, What’s Going On With Zelda: Ocarina Of Time’ s Most Insufferable Couple? - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/hey-nintendo-whats-going-on-with-zelda-ocarina-of-times-most-insufferable-couple-2000755954",
-      "summary": "The Kotaku piece examines the controversial relationship between two characters in Zelda: Ocarina of Time, highlighting fan backlash and the game's narrative choices. It also explores how this dynamic has sparked fan art, discussions, and potential modding projects within the Zelda community.",
-      "whyItMatters": "It shows how narrative decisions in popular games can drive community-driven content creation, influencing how developers approach storytelling and fan engagement.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-11T23:00:59Z"
-    },
-    {
-      "id": "art-1794537876889-3",
-      "title": "New GTA 6 gameplay video is leaving fans stunned - Polygon.com",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/gta-6-new-gameplay-onlyindade-ai-real-fake-rockstar-instagram/",
-      "summary": "Rockstar has released a new gameplay clip for GTA 6 that has fans stunned by its realistic graphics and fluid animations. The footage showcases the game's advanced rendering techniques and AI-driven environments, hinting at a significant leap in next‑generation gaming.",
-      "whyItMatters": "The clip demonstrates cutting‑edge real‑time rendering and AI integration that could set new performance benchmarks for game engines and influence software developers working on high‑fidelity simulations.",
-      "category": "AI",
-      "publishedAt": "2026-11-11T22:39:52Z"
-    },
-    {
-      "id": "art-1794537877786-4",
-      "title": "Marvel 1943 'Has Not Been Canceled,' Says Skydance Leadership, Despite Development Struggles - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/marvel-1943-has-not-been-canceled-despite-development-struggles-2000756025",
-      "summary": "Skydance leadership has confirmed that the Marvel 1943 game has not been canceled, countering rumors of its demise. Despite ongoing development challenges, the team remains optimistic about bringing the title to market.",
-      "whyItMatters": "The confirmation keeps the game's development pipeline active, ensuring continued investment in tools, infrastructure, and talent that benefit the broader software development ecosystem.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-11T22:06:26Z"
-    },
-    {
-      "id": "art-1794537878492-5",
-      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’ - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-      "summary": "Home Assistant’s new Connect Aux‑2 is a versatile smart‑home multi‑tool that lets users monitor fridge temperature and easily set up in‑wall speakers. The Verge review highlights its plug‑and‑play design and seamless integration with Home Assistant’s ecosystem.",
-      "whyItMatters": "By simplifying device onboarding and monitoring, the Aux‑2 reduces the friction developers face when building and maintaining IoT‑centric home automation solutions.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-11T22:00:00Z"
-    },
-    {
-      "id": "art-1794537878938-6",
-      "title": "One Company Is Giving All Of Its 7,000 Employees The Day Off To Play GTA 6 - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/logitech-gta-6-release-day-off-logi-game-day-2000755995",
-      "summary": "A tech company announced that all 7,000 employees will receive a day off on November 19th to play GTA 6, allowing them to clock out early and enjoy the new game. The move highlights a growing trend of companies using unique perks to boost morale and attract talent.",
-      "whyItMatters": "By offering a game‑centric break, the company demonstrates how unconventional employee benefits can influence developer retention and workplace culture in the tech industry.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-11T21:30:08Z"
-    },
-    {
-      "id": "art-1794537879541-7",
-      "title": "Tanuki: Pon's Summer Review - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/tanuki-pons-summer-review",
-      "summary": "Tanuki: Pon's Summer is reviewed by IGN, noting that while some aspects fall short of its unique charm, the game still successfully captures a summery vibe through its playful BMX delivery service. The review highlights both strengths and weaknesses, offering a balanced perspective for potential players.",
-      "whyItMatters": "For mobile game developers, the review underscores the importance of maintaining core gameplay strengths while addressing shortcomings to keep players engaged, informing future design and polish decisions.",
+      "id": "art-1794623655825-0",
+      "title": "Was This New Fable Gameplay Meant to Sell the Game? - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/11/was-this-new-fable-gameplay-meant-to-sell-the-game",
+      "summary": "The article questions whether the new Fable gameplay was designed primarily to boost sales rather than enhance player experience, criticizing its lack of quality. It highlights concerns that marketing tactics can undermine game design integrity.",
+      "whyItMatters": "It reminds developers that prioritizing marketing over gameplay can erode player trust and long-term brand value.",
       "category": "Mobile",
-      "publishedAt": "2026-11-11T20:39:23Z"
+      "publishedAt": "2026-11-12T22:30:00Z"
     },
     {
-      "id": "art-1794537880620-8",
-      "title": "Resident Evil Requiem wins Ultimate Game of the Year at the Golden Joystick Awards 2026 - GamesRadar+",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-wins-ultimate-game-of-the-year-at-the-golden-joystick-awards-2026/",
-      "summary": "Resident Evil Requiem has been crowned Ultimate Game of the Year at the 2026 Golden Joystick Awards, cementing its status as a flagship title for the franchise. The accolade underscores the game's technical excellence and the studio's commitment to delivering a polished, immersive experience.",
-      "whyItMatters": "The award highlights the growing importance of robust development pipelines and continuous integration practices in producing high‑quality games, encouraging other studios to adopt similar DevOps strategies.",
+      "id": "art-1794623656329-1",
+      "title": "Here are the 25 original Xbox games you can now play on PC - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
+      "summary": "Microsoft is releasing 25 original Xbox games to PC as part of its 25th anniversary celebration, enabling players to enjoy classic titles via backwards compatibility. The move expands the PC gaming library and showcases Microsoft's commitment to preserving legacy games.",
+      "whyItMatters": "It demonstrates how legacy software can be maintained and distributed on modern platforms, offering developers a model for backward compatibility and cross‑platform support.",
       "category": "DevOps",
-      "publishedAt": "2026-11-11T20:15:51Z"
+      "publishedAt": "2026-11-12T21:00:00Z"
     },
     {
-      "id": "art-1794537881286-9",
-      "title": "iCloud+ has new perk in iOS 27 if you pay for more storage - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/11/icloud-has-new-perk-in-ios-27-if-you-pay-for-more-storage/",
-      "summary": "Apple has added a new benefit to its iCloud+ service in iOS 27, granting users on the highest storage tiers access to Apple Intelligence features for HomeKit cameras. This enhancement allows advanced AI-powered analytics and automation for home security footage directly within the iCloud ecosystem.",
-      "whyItMatters": "Developers building HomeKit-compatible devices and apps can now leverage Apple Intelligence to offer richer, AI-driven camera features, potentially increasing demand for higher-tier iCloud+ subscriptions.",
-      "category": "AI",
-      "publishedAt": "2026-11-11T19:32:00Z"
+      "id": "art-1794623656678-2",
+      "title": "Outlook outage: Microsoft reports 'issues' with Teams and email - ABC7 New York",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203",
+      "summary": "Microsoft reported outages affecting its Teams collaboration platform and Outlook email service, causing disruptions for users worldwide. The company acknowledged the issues on social media and is working to resolve them.",
+      "whyItMatters": "The outage underscores the critical reliance on Microsoft’s cloud-based productivity services, reminding developers and enterprises to design for resilience and monitor third‑party dependencies.",
+      "category": "Cloud",
+      "publishedAt": "2026-11-12T20:43:46Z"
+    },
+    {
+      "id": "art-1794623657450-3",
+      "title": "‘Unlike Anything Else’: As ‘GTA 6’ Approaches, the Gaming Industry Braces the World for Its Pop Culture Takeover - Variety",
+      "source": "Variety",
+      "url": "https://variety.com/2026/gaming/news/gta-6-release-gaming-industry-takeover-1236945197/",
+      "summary": "Rockstar Games’ upcoming GTA 6 is poised to dominate pop culture as its release approaches, promising unprecedented gameplay and narrative depth. The gaming industry is preparing for a massive cultural impact, with expectations of record‑breaking sales and widespread media attention.",
+      "whyItMatters": "The anticipated launch will drive software developers to adopt more robust DevOps pipelines and scalable cloud infrastructure to support the game’s high‑performance demands and global rollout.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-12T20:36:00Z"
+    },
+    {
+      "id": "art-1794623658630-4",
+      "title": "The Legend Of Zelda: Ocarina Of Time Bosses, Ranked From Worst To Best - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/the-legend-of-zelda-ocarina-of-time-bosses-ranked-from-worst-to-best-2000756332",
+      "summary": "Kotaku ranks the bosses from The Legend of Zelda: Ocarina of Time from worst to best, offering a playful comparison of Ganondorf’s minions. The piece invites fans to debate which foes are most memorable or challenging.",
+      "whyItMatters": "Game developers can use such rankings to gauge player nostalgia and design future boss encounters that resonate with audiences.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-12T19:00:58Z"
+    },
+    {
+      "id": "art-1794623659185-5",
+      "title": "Xbox Wants You to Revisit Halo: Campaign Evolved on PS5 as Free Co-Op Mode Update Is Announced - Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/11/xbox-wants-you-to-revisit-halo-campaign-evolved-on-ps5-as-free-co-op-mode-update-is-announced",
+      "summary": "Xbox is offering a free co‑op mode update for Halo: Campaign Evolved on PS5, bringing back the Firefight mode. This move encourages cross‑platform play and extends the life of the title without additional cost.",
+      "whyItMatters": "It demonstrates how console developers can use cross‑platform updates to keep games relevant, informing developers about the importance of flexible deployment pipelines.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-12T18:00:00Z"
+    },
+    {
+      "id": "art-1794623659981-6",
+      "title": "Christopher Ward’s King of Attainable Grail Watches Drops Its Most Impressive Version Yet - Gear Patrol",
+      "source": "Gear Patrol",
+      "url": "https://www.gearpatrol.com/watches/christopher-ward-bel-canto-lucia/",
+      "summary": "Christopher Ward has released a new version of its King of Attainable Grail watch line, collaborating again with Mr Jones to add colorful illustrations to the Bel Canto model. The updated design showcases the brand's commitment to accessible luxury and innovative aesthetics in the competitive smartwatch market.",
+      "whyItMatters": "The collaboration highlights how watchmakers are integrating design and technology to appeal to tech‑savvy consumers, influencing how developers approach wearable UI and UX.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-12T17:49:24Z"
+    },
+    {
+      "id": "art-1794623660600-7",
+      "title": "25 years later, Xbox is trying to reinvent itself again - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
+      "summary": "Microsoft is marking 25 years of Xbox amid a major restructuring that signals a shift in its strategy. The future of the console feels more uncertain than ever, raising questions about its direction and competitiveness.",
+      "whyItMatters": "The restructuring could alter Xbox's development pipelines, affecting how developers build and deploy games for the platform.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-12T17:00:00Z"
+    },
+    {
+      "id": "art-1794623660923-8",
+      "title": "Microsoft has an image problem with November's Windows security update - The Register",
+      "source": "Theregister.com",
+      "url": "https://www.theregister.com/os-platforms/2026/11/12/microsoft-has-an-image-problem-with-novembers-windows-security-update/5309435",
+      "summary": "Microsoft’s November Windows security update introduced a bug that caused zero‑size graphics to appear, disrupting printing processes and leading some administrators to encounter activation failures. The issue highlights how seemingly minor changes in security patches can ripple into operational disruptions for users and IT teams.",
+      "whyItMatters": "Developers and IT professionals must verify that security updates do not break core functionalities like printing and activation, as such regressions can halt business operations and erode trust in vendor patches.",
+      "category": "Security",
+      "publishedAt": "2026-11-12T16:36:00Z"
+    },
+    {
+      "id": "art-1794623661330-9",
+      "title": "Zelda: Ocarina Of Time Remake Replicates Notorious Glitch For Infinite Gold Skulltulas - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/zelda-ocarina-of-time-remake-replicates-the-originals-infinite-gold-skulltula-glitch-2000756269",
+      "summary": "The new Ocarina of Time remake has reintroduced a long‑known glitch that lets players farm an infinite number of Gold Skulltulas, mirroring the original game’s exploit. This bug has resurfaced in the updated title, sparking discussion among fans and developers about quality assurance and game balance.",
+      "whyItMatters": "It underscores the importance of rigorous testing and patch management in game development, as overlooked glitches can lead to exploits that affect player experience and revenue streams.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-12T16:30:00Z"
     }
   ]
 }
