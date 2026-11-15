@@ -1,105 +1,95 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "articles": [
     {
-      "id": "art-1794623655825-0",
-      "title": "Was This New Fable Gameplay Meant to Sell the Game? - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/11/was-this-new-fable-gameplay-meant-to-sell-the-game",
-      "summary": "The article questions whether the new Fable gameplay was designed primarily to boost sales rather than enhance player experience, criticizing its lack of quality. It highlights concerns that marketing tactics can undermine game design integrity.",
-      "whyItMatters": "It reminds developers that prioritizing marketing over gameplay can erode player trust and long-term brand value.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-12T22:30:00Z"
-    },
-    {
-      "id": "art-1794623656329-1",
-      "title": "Here are the 25 original Xbox games you can now play on PC - The Verge",
+      "id": "art-1794708091096-0",
+      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
-      "summary": "Microsoft is releasing 25 original Xbox games to PC as part of its 25th anniversary celebration, enabling players to enjoy classic titles via backwards compatibility. The move expands the PC gaming library and showcases Microsoft's commitment to preserving legacy games.",
-      "whyItMatters": "It demonstrates how legacy software can be maintained and distributed on modern platforms, offering developers a model for backward compatibility and cross‑platform support.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-12T21:00:00Z"
-    },
-    {
-      "id": "art-1794623656678-2",
-      "title": "Outlook outage: Microsoft reports 'issues' with Teams and email - ABC7 New York",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203",
-      "summary": "Microsoft reported outages affecting its Teams collaboration platform and Outlook email service, causing disruptions for users worldwide. The company acknowledged the issues on social media and is working to resolve them.",
-      "whyItMatters": "The outage underscores the critical reliance on Microsoft’s cloud-based productivity services, reminding developers and enterprises to design for resilience and monitor third‑party dependencies.",
-      "category": "Cloud",
-      "publishedAt": "2026-11-12T20:43:46Z"
-    },
-    {
-      "id": "art-1794623657450-3",
-      "title": "‘Unlike Anything Else’: As ‘GTA 6’ Approaches, the Gaming Industry Braces the World for Its Pop Culture Takeover - Variety",
-      "source": "Variety",
-      "url": "https://variety.com/2026/gaming/news/gta-6-release-gaming-industry-takeover-1236945197/",
-      "summary": "Rockstar Games’ upcoming GTA 6 is poised to dominate pop culture as its release approaches, promising unprecedented gameplay and narrative depth. The gaming industry is preparing for a massive cultural impact, with expectations of record‑breaking sales and widespread media attention.",
-      "whyItMatters": "The anticipated launch will drive software developers to adopt more robust DevOps pipelines and scalable cloud infrastructure to support the game’s high‑performance demands and global rollout.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-12T20:36:00Z"
-    },
-    {
-      "id": "art-1794623658630-4",
-      "title": "The Legend Of Zelda: Ocarina Of Time Bosses, Ranked From Worst To Best - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/the-legend-of-zelda-ocarina-of-time-bosses-ranked-from-worst-to-best-2000756332",
-      "summary": "Kotaku ranks the bosses from The Legend of Zelda: Ocarina of Time from worst to best, offering a playful comparison of Ganondorf’s minions. The piece invites fans to debate which foes are most memorable or challenging.",
-      "whyItMatters": "Game developers can use such rankings to gauge player nostalgia and design future boss encounters that resonate with audiences.",
+      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+      "summary": "CMF has released a milk carton-shaped Bluetooth speaker, the Series S, featuring an IP68 rating and fast pairing capabilities. The device is now available for $39 on Black Friday, marking an all‑time low price for the product.",
+      "whyItMatters": "The price drop makes high‑quality, durable Bluetooth audio accessories more accessible to mobile users, potentially increasing demand for mobile app integrations and firmware updates.",
       "category": "Mobile",
-      "publishedAt": "2026-11-12T19:00:58Z"
+      "publishedAt": "2026-11-13T20:30:00Z"
     },
     {
-      "id": "art-1794623659185-5",
-      "title": "Xbox Wants You to Revisit Halo: Campaign Evolved on PS5 as Free Co-Op Mode Update Is Announced - Push Square",
-      "source": "Push Square",
-      "url": "https://www.pushsquare.com/news/2026/11/xbox-wants-you-to-revisit-halo-campaign-evolved-on-ps5-as-free-co-op-mode-update-is-announced",
-      "summary": "Xbox is offering a free co‑op mode update for Halo: Campaign Evolved on PS5, bringing back the Firefight mode. This move encourages cross‑platform play and extends the life of the title without additional cost.",
-      "whyItMatters": "It demonstrates how console developers can use cross‑platform updates to keep games relevant, informing developers about the importance of flexible deployment pipelines.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-12T18:00:00Z"
+      "id": "art-1794708091447-1",
+      "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/",
+      "summary": "Apple has released tvOS 27.2.1, adding Siri AI support to older Apple TV models that previously lacked this feature. The update brings the latest AI capabilities to a broader range of devices, enabling more interactive and intelligent user experiences on older hardware.",
+      "whyItMatters": "Software developers must update their apps to leverage the new Siri AI features on older Apple TVs, expanding the potential user base and ensuring compatibility with the latest AI-driven functionalities.",
+      "category": "AI",
+      "publishedAt": "2026-11-13T19:26:39Z"
     },
     {
-      "id": "art-1794623659981-6",
-      "title": "Christopher Ward’s King of Attainable Grail Watches Drops Its Most Impressive Version Yet - Gear Patrol",
-      "source": "Gear Patrol",
-      "url": "https://www.gearpatrol.com/watches/christopher-ward-bel-canto-lucia/",
-      "summary": "Christopher Ward has released a new version of its King of Attainable Grail watch line, collaborating again with Mr Jones to add colorful illustrations to the Bel Canto model. The updated design showcases the brand's commitment to accessible luxury and innovative aesthetics in the competitive smartwatch market.",
-      "whyItMatters": "The collaboration highlights how watchmakers are integrating design and technology to appeal to tech‑savvy consumers, influencing how developers approach wearable UI and UX.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-12T17:49:24Z"
-    },
-    {
-      "id": "art-1794623660600-7",
-      "title": "25 years later, Xbox is trying to reinvent itself again - The Verge",
+      "id": "art-1794708092225-2",
+      "title": "Here’s how you can save on your GTA VI preorder ahead of launch - The Verge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
-      "summary": "Microsoft is marking 25 years of Xbox amid a major restructuring that signals a shift in its strategy. The future of the console feels more uncertain than ever, raising questions about its direction and competitiveness.",
-      "whyItMatters": "The restructuring could alter Xbox's development pipelines, affecting how developers build and deploy games for the platform.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-12T17:00:00Z"
+      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+      "summary": "Gamers can reduce the cost of preordering GTA VI by using gift cards from retailers that work on both Sony PlayStation and Microsoft Xbox stores. The Verge outlines how to take advantage of these offers before the game's launch.",
+      "whyItMatters": "It demonstrates how digital storefronts and cross-platform gift card ecosystems can influence consumer spending patterns, informing developers about monetization strategies.",
+      "category": "Web Dev",
+      "publishedAt": "2026-11-13T19:14:38Z"
     },
     {
-      "id": "art-1794623660923-8",
-      "title": "Microsoft has an image problem with November's Windows security update - The Register",
-      "source": "Theregister.com",
-      "url": "https://www.theregister.com/os-platforms/2026/11/12/microsoft-has-an-image-problem-with-novembers-windows-security-update/5309435",
-      "summary": "Microsoft’s November Windows security update introduced a bug that caused zero‑size graphics to appear, disrupting printing processes and leading some administrators to encounter activation failures. The issue highlights how seemingly minor changes in security patches can ripple into operational disruptions for users and IT teams.",
-      "whyItMatters": "Developers and IT professionals must verify that security updates do not break core functionalities like printing and activation, as such regressions can halt business operations and erode trust in vendor patches.",
-      "category": "Security",
-      "publishedAt": "2026-11-12T16:36:00Z"
+      "id": "art-1794708092847-3",
+      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+      "summary": "Keychron has released the T1 HE, a wireless trackball mouse with an adjustable ball position to enhance ergonomics. The design allows users to reposition the ball for better comfort and precision during long sessions.",
+      "whyItMatters": "For software developers, the adjustable trackball can reduce strain and improve productivity when navigating code and UI.",
+      "category": "Web Dev",
+      "publishedAt": "2026-11-13T18:10:41Z"
     },
     {
-      "id": "art-1794623661330-9",
-      "title": "Zelda: Ocarina Of Time Remake Replicates Notorious Glitch For Infinite Gold Skulltulas - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/zelda-ocarina-of-time-remake-replicates-the-originals-infinite-gold-skulltula-glitch-2000756269",
-      "summary": "The new Ocarina of Time remake has reintroduced a long‑known glitch that lets players farm an infinite number of Gold Skulltulas, mirroring the original game’s exploit. This bug has resurfaced in the updated title, sparking discussion among fans and developers about quality assurance and game balance.",
-      "whyItMatters": "It underscores the importance of rigorous testing and patch management in game development, as overlooked glitches can lead to exploits that affect player experience and revenue streams.",
+      "id": "art-1794708093296-4",
+      "title": "After 3 Weeks and More Than 400,000 Folds, the iPhone Duo's Hinge Is Finally Starting to Fail - CNET",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/mobile/iphone-duo-fold-test-3-weeks-starting-fail/",
+      "summary": "Apple’s iPhone Duo, designed with a foldable hinge, began to show significant wear after more than 400,000 folds during a 20‑day continuous test. The device’s hinge failure highlights the challenges of creating durable foldable smartphones and signals potential reliability issues for consumers.",
+      "whyItMatters": "Software developers and hardware designers must account for mechanical durability when building apps and devices that rely on foldable screens, as early failures can erode user trust and increase support costs.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-13T16:50:08Z"
+    },
+    {
+      "id": "art-1794708093829-5",
+      "title": "Garmin Sales Begin: Huge deals on Garmin Fenix, Edge, Forerunner Series and more! - DC Rainmaker",
+      "source": "DC Rainmaker",
+      "url": "https://www.dcrainmaker.com/2026/11/garmin-sales-begin-huge-deals-on-garmin-fenix-edge-forerunner-series-and-more.html",
+      "summary": "Garmin has launched its Black Friday 2026 sales, offering steep discounts on popular models such as the Fenix, Edge, and Forerunner series. The post provides a comprehensive list of which deals to grab and which to avoid.",
+      "whyItMatters": "The price reductions could boost user adoption of Garmin devices, increasing demand for companion mobile apps and APIs that developers rely on.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-13T15:30:05Z"
+    },
+    {
+      "id": "art-1794708094499-6",
+      "title": "QSSR Upgrades Revealed For Six PS5 Games, Live Now in Marvel's Spider-Man 2 - Digital Foundry",
+      "source": "Digitalfoundry.net",
+      "url": "https://www.digitalfoundry.net/news/2026/11/qssr-upgrades-revealed-for-six-ps5-games-live-now-in-marvels-spider-man-2",
+      "summary": "Sony has rolled out QSSR upgrades for six PS5 titles, with the new AI upscaling tech now live in Marvel's Spider-Man 2. The PlayStation blog explains why developers are adopting the technology to enhance visual quality.",
+      "whyItMatters": "It demonstrates how AI upscaling is becoming a standard tool for game developers to deliver higher visual fidelity without increasing hardware demands, shaping future game development pipelines.",
+      "category": "AI",
+      "publishedAt": "2026-11-13T15:19:00Z"
+    },
+    {
+      "id": "art-1794708095261-7",
+      "title": "Next Week on XBOX: New Games for November 16 to 20 - XBOX Wire",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/11/13/next-week-on-xbox-new-games-for-november-16-to-20/",
+      "summary": "Xbox is set to release several new titles between November 16 and 20, including the highly anticipated Grand Theft Auto VI, Unicorn Academy: Island of Magic, and Dark Rail. These releases aim to boost platform engagement and drive sales during the holiday season.",
+      "whyItMatters": "The staggered launch schedule highlights the importance of robust release pipelines and continuous integration practices for developers targeting console platforms.",
       "category": "DevOps",
-      "publishedAt": "2026-11-12T16:30:00Z"
+      "publishedAt": "2026-11-13T15:04:03Z"
+    },
+    {
+      "id": "art-1794708095860-8",
+      "title": "Wolfenstein 3 Is Officially In Production - Game Informer",
+      "source": "Gameinformer.com",
+      "url": "https://gameinformer.com/2026/11/13/wolfenstein-3-is-officially-in-production",
+      "summary": "Wolfenstein 3 is officially in production, marking the next chapter in the franchise. BJ Blazkowicz's story will finally have a proper conclusion, as announced by Game Informer.",
+      "whyItMatters": "This signals a major investment in AAA game development, encouraging developers to adopt robust CI/CD pipelines to manage large-scale releases.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-13T15:01:00Z"
     }
   ]
 }
