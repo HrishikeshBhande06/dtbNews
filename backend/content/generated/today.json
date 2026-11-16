@@ -1,95 +1,85 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "articles": [
     {
-      "id": "art-1794708091096-0",
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "summary": "CMF has released a milk carton-shaped Bluetooth speaker, the Series S, featuring an IP68 rating and fast pairing capabilities. The device is now available for $39 on Black Friday, marking an all‑time low price for the product.",
-      "whyItMatters": "The price drop makes high‑quality, durable Bluetooth audio accessories more accessible to mobile users, potentially increasing demand for mobile app integrations and firmware updates.",
+      "id": "art-1794795488577-0",
+      "title": "Long-Lost, Self-Deleting Pokémon Fishing Game For Nintendo DS Resurfaces 20 Years Later - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/long-lost-self-deleting-pokemon-fishing-game-for-nintendo-ds-resurfaces-20-years-later-2000756876",
+      "summary": "PokéPark: Fishing Rally, a self‑deleting Pokémon fishing game that was only shown at a Japanese theme park in 2005, has resurfaced after 20 years when a collector revealed the sole playable hard copy. The discovery highlights the rarity of early handheld titles and the growing interest in preserving obscure gaming history.",
+      "whyItMatters": "The resurfacing of a once‑lost handheld title underscores the importance of digital preservation and the potential market for rare retro hardware, prompting developers to consider archival strategies for legacy platforms.",
       "category": "Mobile",
-      "publishedAt": "2026-11-13T20:30:00Z"
+      "publishedAt": "2026-11-14T21:48:14Z"
     },
     {
-      "id": "art-1794708091447-1",
-      "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/",
-      "summary": "Apple has released tvOS 27.2.1, adding Siri AI support to older Apple TV models that previously lacked this feature. The update brings the latest AI capabilities to a broader range of devices, enabling more interactive and intelligent user experiences on older hardware.",
-      "whyItMatters": "Software developers must update their apps to leverage the new Siri AI features on older Apple TVs, expanding the potential user base and ensuring compatibility with the latest AI-driven functionalities.",
+      "id": "art-1794795489330-1",
+      "title": "Sony's QSSR Upscaler Expands to Spider-Man 2, ARC Raiders, No Man's Sky and More - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/354838/sonys-qssr-upscaler-expands-to-spider-man-2-arc-raiders-no-mans-sky-and-more",
+      "summary": "Sony has extended its QSSR AI upscaler to include popular titles such as Spider‑Man 2, ARC Raiders, and No Man’s Sky, giving PS5 owners enhanced visual fidelity across both performance and fidelity modes. The update also signals a broader rollout of the technology to additional games, starting with Control Resonant in December.",
+      "whyItMatters": "The expansion of QSSR demonstrates how lightweight AI upscaling can improve game visuals without sacrificing performance, encouraging developers to integrate similar AI-driven optimizations into their titles.",
       "category": "AI",
-      "publishedAt": "2026-11-13T19:26:39Z"
+      "publishedAt": "2026-11-14T21:20:21Z"
     },
     {
-      "id": "art-1794708092225-2",
-      "title": "Here’s how you can save on your GTA VI preorder ahead of launch - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
-      "summary": "Gamers can reduce the cost of preordering GTA VI by using gift cards from retailers that work on both Sony PlayStation and Microsoft Xbox stores. The Verge outlines how to take advantage of these offers before the game's launch.",
-      "whyItMatters": "It demonstrates how digital storefronts and cross-platform gift card ecosystems can influence consumer spending patterns, informing developers about monetization strategies.",
-      "category": "Web Dev",
-      "publishedAt": "2026-11-13T19:14:38Z"
+      "id": "art-1794795490177-2",
+      "title": "Devoted gamers set for mass sick-out on GTA VI launch day - New York Post",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/14/tech/grand-theft-auto-vi-release-will-see-18-of-us-workers-take-off-to-game-data/",
+      "summary": "A significant portion of U.S. workers—about 18%—plan to take time off on the November 19 release of Grand Theft Auto VI, according to a New York Post report. The resulting absenteeism could cost companies up to $1 billion in lost productivity.",
+      "whyItMatters": "For software developers and tech firms, the mass absenteeism could disrupt project timelines, increase overtime costs, and strain resource planning.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-14T20:34:00Z"
     },
     {
-      "id": "art-1794708092847-3",
-      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
-      "summary": "Keychron has released the T1 HE, a wireless trackball mouse with an adjustable ball position to enhance ergonomics. The design allows users to reposition the ball for better comfort and precision during long sessions.",
-      "whyItMatters": "For software developers, the adjustable trackball can reduce strain and improve productivity when navigating code and UI.",
-      "category": "Web Dev",
-      "publishedAt": "2026-11-13T18:10:41Z"
-    },
-    {
-      "id": "art-1794708093296-4",
-      "title": "After 3 Weeks and More Than 400,000 Folds, the iPhone Duo's Hinge Is Finally Starting to Fail - CNET",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/mobile/iphone-duo-fold-test-3-weeks-starting-fail/",
-      "summary": "Apple’s iPhone Duo, designed with a foldable hinge, began to show significant wear after more than 400,000 folds during a 20‑day continuous test. The device’s hinge failure highlights the challenges of creating durable foldable smartphones and signals potential reliability issues for consumers.",
-      "whyItMatters": "Software developers and hardware designers must account for mechanical durability when building apps and devices that rely on foldable screens, as early failures can erode user trust and increase support costs.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-13T16:50:08Z"
-    },
-    {
-      "id": "art-1794708093829-5",
-      "title": "Garmin Sales Begin: Huge deals on Garmin Fenix, Edge, Forerunner Series and more! - DC Rainmaker",
-      "source": "DC Rainmaker",
-      "url": "https://www.dcrainmaker.com/2026/11/garmin-sales-begin-huge-deals-on-garmin-fenix-edge-forerunner-series-and-more.html",
-      "summary": "Garmin has launched its Black Friday 2026 sales, offering steep discounts on popular models such as the Fenix, Edge, and Forerunner series. The post provides a comprehensive list of which deals to grab and which to avoid.",
-      "whyItMatters": "The price reductions could boost user adoption of Garmin devices, increasing demand for companion mobile apps and APIs that developers rely on.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-13T15:30:05Z"
-    },
-    {
-      "id": "art-1794708094499-6",
-      "title": "QSSR Upgrades Revealed For Six PS5 Games, Live Now in Marvel's Spider-Man 2 - Digital Foundry",
-      "source": "Digitalfoundry.net",
-      "url": "https://www.digitalfoundry.net/news/2026/11/qssr-upgrades-revealed-for-six-ps5-games-live-now-in-marvels-spider-man-2",
-      "summary": "Sony has rolled out QSSR upgrades for six PS5 titles, with the new AI upscaling tech now live in Marvel's Spider-Man 2. The PlayStation blog explains why developers are adopting the technology to enhance visual quality.",
-      "whyItMatters": "It demonstrates how AI upscaling is becoming a standard tool for game developers to deliver higher visual fidelity without increasing hardware demands, shaping future game development pipelines.",
+      "id": "art-1794795490521-3",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "TechCrunch’s article catalogs a running list of AI projects and startups that failed or were delayed, from Apple’s Siri to OpenAI’s super app. It highlights the high failure rate in the AI space and the challenges of scaling ambitious AI initiatives.",
+      "whyItMatters": "The piece underscores the volatility of AI ventures, warning developers and investors about the risks of overpromising and underdelivering in the field.",
       "category": "AI",
-      "publishedAt": "2026-11-13T15:19:00Z"
+      "publishedAt": "2026-11-14T17:30:00Z"
     },
     {
-      "id": "art-1794708095261-7",
-      "title": "Next Week on XBOX: New Games for November 16 to 20 - XBOX Wire",
-      "source": "Xbox.com",
-      "url": "https://news.xbox.com/en-us/2026/11/13/next-week-on-xbox-new-games-for-november-16-to-20/",
-      "summary": "Xbox is set to release several new titles between November 16 and 20, including the highly anticipated Grand Theft Auto VI, Unicorn Academy: Island of Magic, and Dark Rail. These releases aim to boost platform engagement and drive sales during the holiday season.",
-      "whyItMatters": "The staggered launch schedule highlights the importance of robust release pipelines and continuous integration practices for developers targeting console platforms.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-13T15:04:03Z"
+      "id": "art-1794795493350-4",
+      "title": "Apple users are about to lose something they've had for 28 years - Yahoo Finance",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/apple-users-are-about-to-lose-something-theyve-had-for-28-years",
+      "summary": "Apple announced it will discontinue a feature that has been part of its ecosystem for 28 years, sparking concerns about how the company will support customers with complex issues in the future.",
+      "whyItMatters": "Software developers will need to adjust their apps and support workflows to accommodate the loss of this legacy feature, potentially increasing maintenance overhead.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-14T16:07:00Z"
     },
     {
-      "id": "art-1794708095860-8",
-      "title": "Wolfenstein 3 Is Officially In Production - Game Informer",
-      "source": "Gameinformer.com",
-      "url": "https://gameinformer.com/2026/11/13/wolfenstein-3-is-officially-in-production",
-      "summary": "Wolfenstein 3 is officially in production, marking the next chapter in the franchise. BJ Blazkowicz's story will finally have a proper conclusion, as announced by Game Informer.",
-      "whyItMatters": "This signals a major investment in AAA game development, encouraging developers to adopt robust CI/CD pipelines to manage large-scale releases.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-13T15:01:00Z"
+      "id": "art-1794795494198-5",
+      "title": "25+ Of The Best Discounted Games From Xbox's Pre-Black Friday Sale - Pure Xbox",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/features/25plus-of-the-best-discounted-games-from-xboxs-pre-black-friday-sale",
+      "summary": "Xbox's pre‑Black Friday sale offers over 25 discounted games, highlighting top titles across various genres. The promotion aims to boost sales and keep players engaged ahead of the holiday shopping rush.",
+      "whyItMatters": "These discounts can influence software developers by encouraging them to price competitively and explore new marketing strategies to attract gamers.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-14T16:02:24Z"
+    },
+    {
+      "id": "art-1794795494911-8",
+      "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off - CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+      "summary": "Grand Theft Auto VI is set to launch on November 19, sparking massive anticipation across gaming and entertainment sectors. The game's release is expected to influence streaming platforms, content creators, and even workplace policies, as well as boost ancillary industries like food delivery and tourism.",
+      "whyItMatters": "For software developers, the launch will drive demand for scalable cloud services and real‑time streaming solutions to support the massive influx of players and content creators.",
+      "category": "Cloud",
+      "publishedAt": "2026-11-14T14:00:01Z"
+    },
+    {
+      "id": "art-1794795496295-9",
+      "title": "A gadget to make your dumb house smarter - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "summary": "The Verge reports on a new gadget that turns a basic home into a smart home, featuring devices like Google Tabletop, TK, and the Ring Drone Cam, as highlighted in the Installer newsletter. The piece showcases how these tools can integrate into existing setups to enhance automation and security.",
+      "whyItMatters": "For software developers, the integration of diverse smart home devices underscores the need for robust APIs and secure communication protocols, driving innovation in IoT and cloud services.",
+      "category": "Security",
+      "publishedAt": "2026-11-14T13:00:00Z"
     }
   ]
 }
