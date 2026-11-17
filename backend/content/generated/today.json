@@ -1,85 +1,85 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "articles": [
     {
-      "id": "art-1794795488577-0",
-      "title": "Long-Lost, Self-Deleting Pokémon Fishing Game For Nintendo DS Resurfaces 20 Years Later - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/long-lost-self-deleting-pokemon-fishing-game-for-nintendo-ds-resurfaces-20-years-later-2000756876",
-      "summary": "PokéPark: Fishing Rally, a self‑deleting Pokémon fishing game that was only shown at a Japanese theme park in 2005, has resurfaced after 20 years when a collector revealed the sole playable hard copy. The discovery highlights the rarity of early handheld titles and the growing interest in preserving obscure gaming history.",
-      "whyItMatters": "The resurfacing of a once‑lost handheld title underscores the importance of digital preservation and the potential market for rare retro hardware, prompting developers to consider archival strategies for legacy platforms.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-14T21:48:14Z"
-    },
-    {
-      "id": "art-1794795489330-1",
-      "title": "Sony's QSSR Upscaler Expands to Spider-Man 2, ARC Raiders, No Man's Sky and More - TechPowerUp",
-      "source": "Techpowerup.com",
-      "url": "https://www.techpowerup.com/354838/sonys-qssr-upscaler-expands-to-spider-man-2-arc-raiders-no-mans-sky-and-more",
-      "summary": "Sony has extended its QSSR AI upscaler to include popular titles such as Spider‑Man 2, ARC Raiders, and No Man’s Sky, giving PS5 owners enhanced visual fidelity across both performance and fidelity modes. The update also signals a broader rollout of the technology to additional games, starting with Control Resonant in December.",
-      "whyItMatters": "The expansion of QSSR demonstrates how lightweight AI upscaling can improve game visuals without sacrificing performance, encouraging developers to integrate similar AI-driven optimizations into their titles.",
-      "category": "AI",
-      "publishedAt": "2026-11-14T21:20:21Z"
-    },
-    {
-      "id": "art-1794795490177-2",
-      "title": "Devoted gamers set for mass sick-out on GTA VI launch day - New York Post",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/14/tech/grand-theft-auto-vi-release-will-see-18-of-us-workers-take-off-to-game-data/",
-      "summary": "A significant portion of U.S. workers—about 18%—plan to take time off on the November 19 release of Grand Theft Auto VI, according to a New York Post report. The resulting absenteeism could cost companies up to $1 billion in lost productivity.",
-      "whyItMatters": "For software developers and tech firms, the mass absenteeism could disrupt project timelines, increase overtime costs, and strain resource planning.",
+      "id": "art-1794890418528-0",
+      "title": "Netcode Warriors adds PS5 version, launches in 2027 - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/11/netcode-warriors-adds-ps5-version-launches-in-2027",
+      "summary": "Netcode Warriors, an anime-inspired arena fighting game, will launch on PlayStation 5 and PC via Steam in 2027, announced by developer Son Studios. The PS5 version is newly announced, expanding the game's platform reach.",
+      "whyItMatters": "This release highlights the growing importance of cross-platform development pipelines and the need for robust DevOps practices to support simultaneous console and PC launches.",
       "category": "DevOps",
-      "publishedAt": "2026-11-14T20:34:00Z"
+      "publishedAt": "2026-11-15T22:00:36Z"
     },
     {
-      "id": "art-1794795490521-3",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it - TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "TechCrunch’s article catalogs a running list of AI projects and startups that failed or were delayed, from Apple’s Siri to OpenAI’s super app. It highlights the high failure rate in the AI space and the challenges of scaling ambitious AI initiatives.",
-      "whyItMatters": "The piece underscores the volatility of AI ventures, warning developers and investors about the risks of overpromising and underdelivering in the field.",
-      "category": "AI",
-      "publishedAt": "2026-11-14T17:30:00Z"
-    },
-    {
-      "id": "art-1794795493350-4",
-      "title": "Apple users are about to lose something they've had for 28 years - Yahoo Finance",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/apple-users-are-about-to-lose-something-theyve-had-for-28-years",
-      "summary": "Apple announced it will discontinue a feature that has been part of its ecosystem for 28 years, sparking concerns about how the company will support customers with complex issues in the future.",
-      "whyItMatters": "Software developers will need to adjust their apps and support workflows to accommodate the loss of this legacy feature, potentially increasing maintenance overhead.",
+      "id": "art-1794890418926-1",
+      "title": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery] - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/",
+      "summary": "Google has teased detachable Googlebooks, and a leak today provides the best look at the Lenovo Googlebook Duet 13 yet. The 13‑inch detachable device is expected to launch in January, offering a new form factor for the Android ecosystem.",
+      "whyItMatters": "The release of a new detachable Android device expands the mobile platform, prompting developers to adapt apps for hybrid tablet‑phone use and potentially driving new productivity use cases.",
       "category": "Mobile",
-      "publishedAt": "2026-11-14T16:07:00Z"
+      "publishedAt": "2026-11-15T21:36:00Z"
     },
     {
-      "id": "art-1794795494198-5",
-      "title": "25+ Of The Best Discounted Games From Xbox's Pre-Black Friday Sale - Pure Xbox",
+      "id": "art-1794890419346-2",
+      "title": "Mega Man: Dual Override Boss Design Contest winner Cleanser Man revealed - Gematsu",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/11/mega-man-dual-override-boss-design-contest-winner-cleanser-man-revealed",
+      "summary": "Capcom announced that Cleanser Man, the winner of the Mega Man: Dual Override Boss Design Contest, will appear as a Robot Master boss in the game. The reveal showcases the company’s engagement with its fan community and adds a fresh character to the franchise’s roster.",
+      "whyItMatters": "It demonstrates how community-driven design contests can influence game content, encouraging developers to incorporate player-generated ideas into official releases.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-15T21:30:39Z"
+    },
+    {
+      "id": "art-1794890419830-4",
+      "title": "The $45 Bourbon That Isn't Worth The Hype, And 2 Alternatives With More Flavor - Tasting Table",
+      "source": "Tastingtable.com",
+      "url": "https://www.tastingtable.com/2314635/overpriced-bourbon-basil-hayden-cheaper-alternatives/",
+      "summary": "Basil Hayden bourbon, priced at $45, may not justify its cost despite its reputation. Two alternative bourbons offer richer flavor at lower prices, providing better value for consumers.",
+      "whyItMatters": "Software developers often juggle budget constraints, and this highlights the importance of evaluating cost versus value when selecting tools or services.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "art-1794890420316-5",
+      "title": "Intel Razor Lake reportedly gets 12 P-core-only die with bLLC on Intel 18A-P - VideoCardz.com",
+      "source": "Videocardz.com",
+      "url": "https://videocardz.com/newz/intel-razor-lake-reportedly-gets-12-p-core-only-die-with-bllc-on-intel-18a-p",
+      "summary": "Intel has leaked a new Razor Lake processor featuring a 12-core P-core-only die built on the 18A-P process, replacing the previously rumored eight-core model. The unlocked configuration also includes bLLC, potentially boosting cache performance for high‑end workloads.",
+      "whyItMatters": "The increased core count and enhanced cache can improve performance for compute‑intensive applications, benefiting developers building and deploying large‑scale services.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-15T19:30:13Z"
+    },
+    {
+      "id": "art-1794890421080-6",
+      "title": "Windows now runs on the iPhone Duo without a jailbreak - TechSpot",
+      "source": "TechSpot",
+      "url": "https://www.techspot.com/news/114561-windows-now-runs-iphone-duo-without-jailbreak.html",
+      "summary": "Windows can now run on the iPhone Duo without requiring a jailbreak, thanks to the WindowsiOS project led by Ammaar Reshi of Google AI Studio. The demo shows a Windows environment seamlessly integrated into the iPhone’s interface, enabling native Windows apps to run on Apple hardware.",
+      "whyItMatters": "This breakthrough expands cross-platform development possibilities, allowing developers to target both Windows and iOS ecosystems from a single codebase and potentially reducing fragmentation in the mobile market.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-15T18:52:37Z"
+    },
+    {
+      "id": "art-1794890421539-7",
+      "title": "'The Ultimate Gaming Machine' - Xbox Reveals Tons Of New Project Helix Information - Pure Xbox",
       "source": "Pure Xbox",
-      "url": "https://www.purexbox.com/features/25plus-of-the-best-discounted-games-from-xboxs-pre-black-friday-sale",
-      "summary": "Xbox's pre‑Black Friday sale offers over 25 discounted games, highlighting top titles across various genres. The promotion aims to boost sales and keep players engaged ahead of the holiday shopping rush.",
-      "whyItMatters": "These discounts can influence software developers by encouraging them to price competitively and explore new marketing strategies to attract gamers.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-14T16:02:24Z"
+      "url": "https://www.purexbox.com/news/2026/11/the-ultimate-gaming-machine-xbox-reveals-tons-of-new-project-helix-information",
+      "summary": "Xbox has unveiled extensive details about its upcoming Project Helix console, dubbed 'The Ultimate Gaming Machine,' confirming it will be a dedicated gaming device rather than a PC. The announcement includes new hardware specs, performance targets, and a roadmap that positions the console as a next‑generation platform for immersive gaming experiences.",
+      "whyItMatters": "The release of Project Helix forces software developers to adapt their game engines and toolchains to a new architecture, potentially reshaping development workflows and platform optimization strategies.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-15T18:47:29Z"
     },
     {
-      "id": "art-1794795494911-8",
-      "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off - CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
-      "summary": "Grand Theft Auto VI is set to launch on November 19, sparking massive anticipation across gaming and entertainment sectors. The game's release is expected to influence streaming platforms, content creators, and even workplace policies, as well as boost ancillary industries like food delivery and tourism.",
-      "whyItMatters": "For software developers, the launch will drive demand for scalable cloud services and real‑time streaming solutions to support the massive influx of players and content creators.",
-      "category": "Cloud",
-      "publishedAt": "2026-11-14T14:00:01Z"
-    },
-    {
-      "id": "art-1794795496295-9",
-      "title": "A gadget to make your dumb house smarter - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
-      "summary": "The Verge reports on a new gadget that turns a basic home into a smart home, featuring devices like Google Tabletop, TK, and the Ring Drone Cam, as highlighted in the Installer newsletter. The piece showcases how these tools can integrate into existing setups to enhance automation and security.",
-      "whyItMatters": "For software developers, the integration of diverse smart home devices underscores the need for robust APIs and secure communication protocols, driving innovation in IoT and cloud services.",
-      "category": "Security",
-      "publishedAt": "2026-11-14T13:00:00Z"
+      "id": "art-1794890422206-8",
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending - TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "summary": "Flaming Hydra has launched a Kickstarter campaign to create a new platform that reimagines e‑book ownership and digital lending, promising a more user‑centric model that challenges current DRM practices. The initiative seeks to revive the concept of a “human internet” by giving readers greater control over their digital libraries.",
+      "whyItMatters": "By offering a decentralized, user‑controlled approach to e‑book distribution, the project could push developers to rethink DRM and subscription models, potentially reshaping the digital publishing ecosystem.",
+      "category": "Web Dev",
+      "publishedAt": "2026-11-15T18:29:14Z"
     }
   ]
 }
