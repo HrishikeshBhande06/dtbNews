@@ -1,95 +1,85 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "articles": [
     {
-      "id": "art-1795500807916-0",
-      "title": "'Grand Theft Auto VI' sets record with $3.79B in first-day retail sales, Rockstar Games reports - KSL News",
-      "source": "KSL.com",
-      "url": "https://www.ksl.com/article/51647136/grand-theft-auto-vi-sets-record-with-379b-in-first-day-retail-sales-rockstar-games-reports",
-      "summary": "Rockstar Games reports that Grand Theft Auto VI generated a record $3.79 billion in first‑day retail sales, marking the first new installment in the series in 13 years. The launch on Thursday has set a new benchmark for the gaming industry.",
-      "whyItMatters": "The record‑breaking sales demonstrate the continued dominance of high‑budget AAA titles and highlight the importance of effective release strategies for software developers.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-23T04:46:18Z"
-    },
-    {
-      "id": "art-1795500808665-1",
-      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
-      "summary": "Kodak has unveiled the SlideTag, a keychain‑sized digital photo frame that uses a low‑power color E Ink display and can be tracked via Google and Apple’s location services. The device blends a nostalgic photo‑sharing experience with modern IoT tracking, offering a new way to keep personal items in sight.\n",
-      "whyItMatters": "Developers must consider privacy and data‑sharing implications when integrating location services into consumer hardware, as the SlideTag demonstrates how easily personal items can become tracked devices.\n",
-      "category": "Security",
-      "publishedAt": "2026-11-23T03:00:00Z"
-    },
-    {
-      "id": "art-1795500809318-2",
-      "title": "I’m tracking the best Black Friday streaming deals LIVE: Apple TV, Paramount+, Disney Plus + Hulu and more - Tom's Guide",
+      "id": "art-1795582670622-0",
+      "title": "Black Friday streaming deals LIVE — today's best discounts from $0.99 on HBO Max, Paramount+, Apple TV, Peacock, Prime Video add-ons and more - Tom's Guide",
       "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/live/news/black-friday-streaming-deals-sunday-november-22-2026",
-      "summary": "Tom's Guide is live-tracking the best Black Friday deals on major streaming services, including Apple TV, Paramount+, Disney Plus, Hulu, and more, offering consumers significant savings on their favorite shows and movies. The article highlights the competitive pricing strategies and bundle options that could influence subscription choices during the holiday shopping season.",
-      "whyItMatters": "For software developers, understanding how streaming platforms adjust pricing and bundle offerings can inform monetization strategies and API integration plans for content delivery services.",
+      "url": "https://www.tomsguide.com/live/news/black-friday-streaming-deals-live-november-23-2026",
+      "summary": "Black Friday streaming deals are live, offering discounts as low as $0.99 on popular services like HBO Max, Paramount+, Apple TV, Peacock, and Prime Video add-ons. The promotion highlights the competitive pricing strategies of streaming platforms during the holiday shopping season.",
+      "whyItMatters": "These aggressive price cuts may pressure developers to innovate cost‑effective content delivery and subscription models to retain users in a saturated market.",
       "category": "Web Dev",
-      "publishedAt": "2026-11-23T01:43:42Z"
+      "publishedAt": "2026-11-24T00:20:31Z"
     },
     {
-      "id": "art-1795500809941-3",
-      "title": "GTA 6 Is Getting Review Bombed in Zelda vs. GTA Troll War - Polygon.com",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/gta-6-review-bombed-legend-of-zelda/",
-      "summary": "Grand Theft Auto 6 is facing a review bombing campaign as fans of The Legend of Zelda: Ocarina of Time clash over Metacritic scores, sparking a broader anti-woke culture war. The conflict highlights how online communities can influence game reception and create reputational risks for developers.",
-      "whyItMatters": "It underscores the importance for developers to monitor and manage community sentiment to protect brand reputation and avoid revenue loss.",
-      "category": "Security",
-      "publishedAt": "2026-11-23T00:45:00Z"
+      "id": "art-1795582671235-1",
+      "title": "Google alternative Kagi launches an email service - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "summary": "Kagi, a search‑engine alternative to Google, has launched Kagi Mail, a new email service now in public beta, positioning itself as a competitor to Gmail. The service promises a privacy‑focused, ad‑free experience with a clean interface and advanced search features.",
+      "whyItMatters": "By offering a privacy‑centric, ad‑free email platform, Kagi Mail could spur competition in the email market, encouraging other providers to enhance security and user control, which benefits developers building integrations and users seeking better data protection.",
+      "category": "Web Dev",
+      "publishedAt": "2026-11-24T00:02:00Z"
     },
     {
-      "id": "art-1795500810646-5",
-      "title": "Sorry, Vice City, but You’re the Most Boring Part of GTA 6 - Polygon.com",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/gta-6-vice-city-boring/",
-      "summary": "Grand Theft Auto 6's new map is praised for its design, but Vice City is criticized as the least exciting part. The article highlights how even a well-crafted environment can feel stale if not integrated with engaging gameplay.",
-      "whyItMatters": "Game developers can learn that a detailed map alone doesn't guarantee player engagement, emphasizing the need for balanced content and dynamic gameplay.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-22T21:00:17Z"
+      "id": "art-1795582671649-2",
+      "title": "Ladybird, the first new browser engine in years, is now available to test - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+      "summary": "Ladybird is the first new web browser engine in years that isn’t built on Chrome or Firefox, offering a fresh, independent rendering engine for developers to test. The Verge reports that it is now available for public testing, signaling a potential shift in browser technology ecosystems.",
+      "whyItMatters": "By providing an alternative to the dominant Chromium and Gecko engines, Ladybird empowers developers to experiment with new rendering approaches, potentially reducing vendor lock‑in and encouraging innovation in web standards.",
+      "category": "Web Dev",
+      "publishedAt": "2026-11-23T22:38:09Z"
     },
     {
-      "id": "art-1795500811143-6",
-      "title": "Can Cyberleek's leaked GTA 6 Xbox build become a PC port? Three GitHub projects are trying, without the executable - Notebookcheck",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/Can-Cyberleek-s-leaked-GTA-6-Xbox-build-become-a-PC-port-Three-GitHub-projects-are-trying-without-the-executable.1456848.0.html",
-      "summary": "Three GitHub projects are attempting to create an unofficial PC port of a leaked Grand Theft Auto VI Xbox Series X|S build attributed to leaker Cyberleek, but none have succeeded in booting the game due to the missing main executable and unresolved graphics compatibility issues. The effort highlights the challenges of reverse engineering console builds and the limitations of community-driven porting attempts.",
-      "whyItMatters": "It underscores the ongoing tension between intellectual property protection and the demand for cross-platform access, prompting developers to strengthen security measures and consider more open licensing models.",
-      "category": "Security",
-      "publishedAt": "2026-11-22T20:58:00Z"
+      "id": "art-1795582672179-3",
+      "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play - XBOX Wire",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/11/23/grand-theft-auto-vi-xbox-cloud-and-remote-play/",
+      "summary": "Grand Theft Auto VI can now be played via Xbox Cloud Gaming and Remote Play, allowing users to stream the game to any device they own. This means players can enjoy the expansive world of Leonida without needing a high‑end console or PC.",
+      "whyItMatters": "For developers, the expansion of cloud gaming platforms like Xbox Cloud Gaming lowers hardware barriers, encouraging cross‑platform game design and new monetization models.",
+      "category": "Cloud",
+      "publishedAt": "2026-11-23T21:40:27Z"
     },
     {
-      "id": "art-1795500812086-7",
-      "title": "Rockstar Says Darts Were Cut From GTA 6 Because It Didn't Have 'Unlimited Money or Time' to Make It 'Feel Proper' - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-have-unlimited-money-or-time-to-make-it-feel-proper",
-      "summary": "Rockstar Games announced that darts and bowling mini-games were omitted from GTA 6 because the team lacked unlimited money or time to properly implement them. The decision highlights the trade‑offs developers face when balancing content depth with production constraints.",
-      "whyItMatters": "It underscores how resource limitations can shape feature inclusion, prompting developers to prioritize core gameplay over peripheral content.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-22T20:38:22Z"
-    },
-    {
-      "id": "art-1795500812639-8",
-      "title": "Grand Theft Auto VI will require a minimum of a Ryzen 5 5600 or Core i5 12400F to run at 30 FPS on PC. - GameGPU",
-      "source": "Gamegpu.com",
-      "url": "https://en.gamegpu.com/news/igry/dlya-grand-theft-auto-vi-dlya-30-fps-na-pk-potrebuetsya-minimum-ryzen-5-5600-ili-core-i5-12400f",
-      "summary": "Grand Theft Auto VI will need at least a Ryzen 5 5600 or Intel Core i5‑12400F to achieve 30 FPS on PC. This sets a baseline for PC gamers and developers targeting the title.",
-      "whyItMatters": "It forces developers to optimize for mid‑range CPUs, influencing performance tuning and cross‑platform compatibility.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-22T18:47:08Z"
-    },
-    {
-      "id": "art-1795500813334-9",
-      "title": "One UI 9.5 brings these X new features to Samsung phones - Android Police",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/one-ui-9-5-features-you-should-try/",
-      "summary": "One UI 9.5 introduces a range of new features for Samsung smartphones, including enhanced UI customization, improved battery management, and new privacy controls. These updates aim to refresh the user experience on devices like the Galaxy S26, making them feel more modern and efficient.",
-      "whyItMatters": "The feature set informs developers about new UI components and privacy APIs they must support, influencing app design and compatibility across Samsung devices.",
+      "id": "art-1795582672547-4",
+      "title": "Here’s a Google Pixel 11 512GB for 65% Off - Droid Life",
+      "source": "Droid Life",
+      "url": "https://www.droid-life.com/2026/11/23/heres-a-google-pixel-11-512gb-for-65-off/",
+      "summary": "Google is offering a 65% discount on the Pixel 11 512GB, reducing its price to $365 during Black Friday week. The deal makes a high‑end Android device significantly more affordable for consumers and developers alike.",
+      "whyItMatters": "The steep discount lowers the barrier to entry for developers needing a premium Android device for testing, potentially accelerating app development and adoption of new features.",
       "category": "Mobile",
-      "publishedAt": "2026-11-22T18:00:11Z"
+      "publishedAt": "2026-11-23T21:29:48Z"
+    },
+    {
+      "id": "art-1795582673115-6",
+      "title": "10 Hacks Every 'GTA 6' Player Should Know - Lifehacker",
+      "source": "Lifehacker.com",
+      "url": "https://lifehacker.com/tech/10-hacks-every-gta-6-player-should-know",
+      "summary": "The Lifehacker article outlines ten practical tips for GTA 6 players to enhance gameplay. These hacks cover everything from resource management to stealth tactics, aiming to give players a competitive edge.",
+      "whyItMatters": "For software developers, understanding how players exploit game mechanics can inform better design of anti-cheat systems and balanced gameplay.",
+      "category": "Security",
+      "publishedAt": "2026-11-23T20:00:00Z"
+    },
+    {
+      "id": "art-1795582673979-7",
+      "title": "No magnets needed: Extreme voltage drives completely new kind of Hall effect - Phys.org",
+      "source": "Phys.Org",
+      "url": "https://phys.org/news/2026-11-magnets-extreme-voltage-kind-hall.html",
+      "summary": "Scientists have discovered a new Hall effect that can be driven by extreme voltage rather than magnetic fields, eliminating the need for magnets in the process. This breakthrough could enable smaller, cheaper, and more energy‑efficient sensors for a range of electronic devices.",
+      "whyItMatters": "For software developers, this could mean more compact and power‑efficient hardware for mobile devices, allowing apps to run longer on battery and enabling new sensor‑driven features.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-23T19:20:07Z"
+    },
+    {
+      "id": "art-1795582674261-8",
+      "title": "Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character - 404 Media",
+      "source": "404media.co",
+      "url": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
+      "summary": "Google plans to launch a 24/7 AI-powered TV channel that will produce customized shows and ads for each viewer. The channel will use generative AI to tailor content and advertising in real time.",
+      "whyItMatters": "It opens new avenues for developers to build AI-driven personalization engines, ad tech, and streaming services, reshaping how content is created and monetized.",
+      "category": "AI",
+      "publishedAt": "2026-11-23T18:21:45Z"
     }
   ]
 }
