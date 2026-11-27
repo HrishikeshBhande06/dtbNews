@@ -1,95 +1,105 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "articles": [
     {
-      "id": "art-1795666499953-0",
-      "title": "Mario Kart World Has Been Updated To Version 1.9.0, Here Are The Full Patch Notes - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/11/mario-kart-world-has-been-updated-to-version-1-9-0-here-are-the-full-patch-notes",
-      "summary": "Nintendo Life reports that Mario Kart World has received a major update to version 1.9.0, adding new Knockout Tour features, balance tweaks, bug fixes, and additional content. The patch notes detail numerous gameplay adjustments and quality‑of‑life improvements aimed at enhancing the player experience.",
-      "whyItMatters": "The update illustrates the importance of continuous delivery and live‑service maintenance for mobile game developers, highlighting how frequent patches can sustain engagement and address community feedback.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-25T01:13:51Z"
-    },
-    {
-      "id": "art-1795666500338-1",
-      "title": "Missed That $149 AirPods Pro 3 Deal? Amazon Just Brought It Back - MacRumors",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/24/amazon-airpods-pro-3-deal-back/",
-      "summary": "Apple’s AirPods Pro 3 have been re‑listed on Amazon at an all‑time low of $149, down from the original $249 price. The deal, which appeared only yesterday, offers consumers a significant discount on the latest wireless earbuds.",
-      "whyItMatters": "The price drop could influence app developers targeting audio features, as more users may adopt AirPods Pro 3 for enhanced audio experiences in mobile apps.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-24T23:45:00Z"
-    },
-    {
-      "id": "art-1795666501024-2",
-      "title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/secret-controls-gta-6-buttons",
-      "summary": "The IGN article reveals hidden controls in GTA 6, such as how to flip your car or perform a gesture, that the game itself does not explain. It showcases the depth of gameplay mechanics and the need for players to discover these features through experimentation.",
-      "whyItMatters": "It underscores the importance of clear documentation and intuitive UI design for developers, ensuring users can fully engage with complex software without frustration.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-24T23:16:36Z"
-    },
-    {
-      "id": "art-1795666501496-3",
-      "title": "Unauthorized 'GTA 6' PC port shut down by Rockstar Games' parent company - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/tech/gta-6-pc-port-project-shut-down-by-take-two",
-      "summary": "Rockstar Games' parent company has shut down an unauthorized PC port of GTA 6, citing copyright infringement. The move underscores the importance of protecting intellectual property in the gaming industry.",
-      "whyItMatters": "This action highlights the need for developers to respect licensing and secure their code against unauthorized distribution.",
-      "category": "Security",
-      "publishedAt": "2026-11-24T22:59:35Z"
-    },
-    {
-      "id": "art-1795666501948-4",
-      "title": "Watch out, AlphaFold: Claude and ChatGPT’s new biology skills wow scientists - Nature",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/d41586-026-03836-z",
-      "summary": "Anthropic’s Claude and OpenAI’s ChatGPT have demonstrated the ability to design proteins and predict their sequences and structures, a feat previously limited to specialized AI tools. This breakthrough showcases the expanding reach of general‑purpose language models into complex biological domains.",
-      "whyItMatters": "Software developers can now leverage these advanced models to accelerate drug discovery and bioengineering projects, reducing reliance on costly, domain‑specific AI solutions.",
-      "category": "AI",
-      "publishedAt": "2026-11-24T21:34:47Z"
-    },
-    {
-      "id": "art-1795666502688-5",
-      "title": "7 Black Friday gaming laptops deals actually worth it from Acer, Asus, Lenovo and MSI — save up to $700 now - Tom's Guide",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/computing/gaming-laptops/black-friday-gaming-laptop-deals-november-24-2026",
-      "summary": "Tom's Guide highlights seven Black Friday deals on gaming laptops from Acer, Asus, Lenovo, and MSI that offer up to $700 in savings. These offers provide high-performance machines suitable for gaming and demanding software workloads at a discounted price.",
-      "whyItMatters": "For software developers, the discounted gaming laptops offer powerful GPUs and CPUs that can accelerate development, rendering, and testing workloads, making high-end hardware more accessible.",
+      "id": "art-1795753386582-0",
+      "title": "Zelda: Ocarina of Time 1.1.2 update out now, patch notes - Nintendo Everything",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/zelda-ocarina-of-time-1-1-2-update-out-now-patch-notes/",
+      "summary": "Nintendo released the first post-launch update for The Legend of Zelda: Ocarina of Time, version 1.1.2, addressing bugs and adding new features. The patch notes detail improvements to gameplay mechanics, performance, and user interface.",
+      "whyItMatters": "This update demonstrates how continuous delivery and rapid patching can maintain player engagement and showcase best practices in game maintenance for developers.",
       "category": "DevOps",
-      "publishedAt": "2026-11-24T19:59:50Z"
+      "publishedAt": "2026-11-26T01:25:59Z"
     },
     {
-      "id": "art-1795666503196-6",
-      "title": "AirTag 2 has two big improvements that make it worth the upgrade - 9to5Mac",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/24/airtag-2-has-two-big-improvements-that-make-it-worth-the-upgrade/",
-      "summary": "Apple released AirTag 2 earlier this year, ending a five‑year wait for the next generation of its personal tracking device. The new model adds two major improvements—likely enhanced battery life and privacy features—that make upgrading attractive to consumers.",
-      "whyItMatters": "The enhancements improve user experience and push developers to integrate more robust location‑based services into mobile apps.",
+      "id": "art-1795753387144-1",
+      "title": "Video: Xenoblade Chronicles 3 - Switch 2 Edition Overview Trailer Showcases New Features & Enhancements - Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/11/video-xenoblade-chronicles-3-switch-2-edition-overview-trailer-showcases-new-features-and-enhancements",
+      "summary": "Nintendo Life has released a new trailer for the Switch 2 Edition of Xenoblade Chronicles 3, highlighting upgraded graphics, expanded gameplay features, and enhanced performance. The video showcases the game's improved visuals, new character models, and additional content that builds on the original title.",
+      "whyItMatters": "The upgrade demonstrates how console developers can leverage hardware improvements to deliver richer experiences, informing future mobile and handheld game development strategies.",
       "category": "Mobile",
-      "publishedAt": "2026-11-24T19:53:00Z"
+      "publishedAt": "2026-11-26T01:05:00Z"
     },
     {
-      "id": "art-1795666503617-7",
-      "title": "Huawei’s New Skinny Smartwatch Forecasts the Apple Watch’s Future - Gizmodo",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/huawei-watch-air-apple-watch-2000844799",
-      "summary": "Huawei has launched the Watch Air, a 6.9 mm thick smartwatch that works with both iOS and Android and is currently sold only in China, prompting speculation that Apple might follow suit with a similarly thin design.",
-      "whyItMatters": "The move forces developers to consider cross‑platform compatibility and could accelerate competition in the smartwatch market, impacting app ecosystems for both Apple Watch and Wear OS.",
+      "id": "art-1795753387630-2",
+      "title": "Rockstar Added GTA 6's New Morality System in Response to Crime Lacking Substance in Previous Games - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/rockstar-explains-why-it-added-consequences-to-gta-6s-violence-and-crimes",
+      "summary": "Rockstar Games has introduced a new morality system in GTA 6 to address criticism that previous titles lacked depth in criminal gameplay. The system allows players to shape their character’s criminal profile, adding narrative weight to in‑game choices.",
+      "whyItMatters": "It demonstrates how player feedback can drive significant design changes, encouraging developers to incorporate more nuanced decision‑making mechanics in large‑scale games.",
+      "category": "AI",
+      "publishedAt": "2026-11-26T00:36:00Z"
+    },
+    {
+      "id": "art-1795753388067-3",
+      "title": "Wordle today: The answer and hints for November 25, 2026 - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/entertainment/wordle-today-answer-november-25-2026",
+      "summary": "The Mashable article provides the answer and hints for Wordle #1985, released on November 25, 2026, offering tips and tricks to help players solve the puzzle. It includes a brief overview of the day's word and strategies for guessing correctly.",
+      "whyItMatters": "While Wordle remains a popular casual web game, its continued popularity highlights the importance of engaging, lightweight web experiences that can drive traffic and user retention for developers and content creators.",
+      "category": "Web Dev",
+      "publishedAt": "2026-11-25T23:40:50Z"
+    },
+    {
+      "id": "art-1795753388859-4",
+      "title": "Rockstar is handing out 100 of these gorgeous limited-edition GTA 6 PS5 consoles, and you can't buy one - TweakTown",
+      "source": "TweakTown",
+      "url": "https://www.tweaktown.com/news/114892/rockstar-is-handing-out-100-of-these-gorgeous-limited-edition-gta-6-ps5-consoles-and-you-cant-buy-one/index.html",
+      "summary": "Rockstar has distributed 100 limited‑edition GTA 6 PS5 Pro consoles to creators instead of selling them, following a similar gesture to Miami Heat players. The move highlights a new marketing strategy that rewards content creators with exclusive hardware.",
+      "whyItMatters": "By giving creators exclusive hardware, Rockstar encourages community‑driven promotion, potentially influencing how game studios engage developers and streamline post‑release support.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-25T23:13:02Z"
+    },
+    {
+      "id": "art-1795753389630-5",
+      "title": "With Grand Theft Auto 6 , The Series Has Outgrown Some Of Its Joke Brand Names - Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/with-grand-theft-auto-6-the-series-has-outgrown-some-of-its-joke-brand-names-2001000507",
+      "summary": "Grand Theft Auto 6’s narrative depth contrasts sharply with its use of whimsical product names such as Zombix. The mismatch highlights a disconnect between the game’s mature themes and its branding choices.",
+      "whyItMatters": "For developers, inconsistent naming can undermine brand credibility and affect user perception, emphasizing the need for thoughtful product naming strategies.",
       "category": "Mobile",
-      "publishedAt": "2026-11-24T19:30:17Z"
+      "publishedAt": "2026-11-25T22:54:04Z"
     },
     {
-      "id": "art-1795666504373-8",
-      "title": "GTA 6 Data Reveals Only 40% of Players Have Cleared Chapter 2 - Polygon.com",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/gta-6-player-data-taking-it-slow-progress/",
-      "summary": "Grand Theft Auto 6 data shows that only 40% of players have cleared Chapter 2, indicating a steep drop‑off in early game progression. The finding underscores how player engagement metrics can reveal critical pain points in a title’s design and monetization strategy.",
-      "whyItMatters": "It demonstrates the value of real‑time player analytics for developers, guiding adjustments to game design and monetization to improve retention and revenue.",
-      "category": "Cloud",
-      "publishedAt": "2026-11-24T19:08:18Z"
+      "id": "art-1795753390146-6",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future - The Verge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "summary": "Google has filed a patent for a system that uses generative AI to create endless, personalized video feeds, effectively turning entertainment into a continuous stream of low-quality content. The proposal suggests a future where users are constantly bombarded with algorithmically generated 'slop' entertainment, raising concerns about content quality and user experience.",
+      "whyItMatters": "For software developers, this signals a shift toward AI-driven content pipelines that prioritize volume over quality, demanding new tools for moderation and user engagement.",
+      "category": "AI",
+      "publishedAt": "2026-11-25T21:51:26Z"
+    },
+    {
+      "id": "art-1795753390584-7",
+      "title": "Google Home gets another big update with these new app, Nest Cam, and Gemini features - 9to5Google",
+      "source": "9to5google.com",
+      "url": "http://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/",
+      "summary": "Google Home receives a major update that introduces a new companion app, enhances Nest Cam and Nest Thermostat functionality, and adds Gemini AI features for smarter home control. The update expands the ecosystem, offering developers new APIs and AI capabilities to build more integrated and intelligent home experiences.",
+      "whyItMatters": "The integration of Gemini AI and expanded Nest APIs gives developers powerful tools to create more context-aware, voice-activated home automation solutions, potentially driving innovation in smart home software.",
+      "category": "AI",
+      "publishedAt": "2026-11-25T21:50:00Z"
+    },
+    {
+      "id": "art-1795753391014-8",
+      "title": "Google search alternative Kagi launches Gmail rival - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "summary": "Kagi, a Google search alternative, has unveiled a Gmail rival that blends strong privacy guarantees with AI-powered email features. The new service aims to offer a secure, AI-enhanced email experience that competes with mainstream providers.",
+      "whyItMatters": "Developers will need to consider new privacy-focused APIs and AI integrations, potentially reshaping how email services are built and regulated.",
+      "category": "Security",
+      "publishedAt": "2026-11-25T20:57:09Z"
+    },
+    {
+      "id": "art-1795753391378-9",
+      "title": "‘No one gets left behind’: CDPR says The Witcher 4 will launch on Xbox day one, despite Sony agreement - Video Games Chronicle",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch-on-xbox-day-one-despite-sony-agreement/",
+      "summary": "CD Projekt Red has confirmed that The Witcher 4 will launch on Xbox on day one, reassuring Xbox fans even though the studio has a marketing agreement with Sony. The announcement underscores the studio’s commitment to platform parity and cross‑platform launch strategy.",
+      "whyItMatters": "It signals that developers may prioritize simultaneous multi‑platform releases, influencing how studios negotiate platform agreements and manage release pipelines.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-25T20:35:31Z"
     }
   ]
 }
