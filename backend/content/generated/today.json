@@ -1,105 +1,105 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "articles": [
     {
-      "id": "art-1795753386582-0",
-      "title": "Zelda: Ocarina of Time 1.1.2 update out now, patch notes - Nintendo Everything",
-      "source": "Nintendoeverything.com",
-      "url": "https://nintendoeverything.com/zelda-ocarina-of-time-1-1-2-update-out-now-patch-notes/",
-      "summary": "Nintendo released the first post-launch update for The Legend of Zelda: Ocarina of Time, version 1.1.2, addressing bugs and adding new features. The patch notes detail improvements to gameplay mechanics, performance, and user interface.",
-      "whyItMatters": "This update demonstrates how continuous delivery and rapid patching can maintain player engagement and showcase best practices in game maintenance for developers.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-26T01:25:59Z"
-    },
-    {
-      "id": "art-1795753387144-1",
-      "title": "Video: Xenoblade Chronicles 3 - Switch 2 Edition Overview Trailer Showcases New Features & Enhancements - Nintendo Life",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/11/video-xenoblade-chronicles-3-switch-2-edition-overview-trailer-showcases-new-features-and-enhancements",
-      "summary": "Nintendo Life has released a new trailer for the Switch 2 Edition of Xenoblade Chronicles 3, highlighting upgraded graphics, expanded gameplay features, and enhanced performance. The video showcases the game's improved visuals, new character models, and additional content that builds on the original title.",
-      "whyItMatters": "The upgrade demonstrates how console developers can leverage hardware improvements to deliver richer experiences, informing future mobile and handheld game development strategies.",
+      "id": "art-1795838592509-0",
+      "title": "The 50+ Best Apple Black Friday Deals on AirPods, iPads, MacBooks, and More - MacRumors",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/26/50-best-apple-black-friday-deals/",
+      "summary": "Apple is offering significant discounts on its flagship products, including AirPods, iPads, and MacBooks, during Black Friday. The deals aim to boost consumer sales and attract new users to the Apple ecosystem.",
+      "whyItMatters": "Software developers may see increased demand for app updates and optimizations to run on newer, cheaper hardware, potentially expanding their user base.",
       "category": "Mobile",
-      "publishedAt": "2026-11-26T01:05:00Z"
+      "publishedAt": "2026-11-26T21:19:53Z"
     },
     {
-      "id": "art-1795753387630-2",
-      "title": "Rockstar Added GTA 6's New Morality System in Response to Crime Lacking Substance in Previous Games - IGN",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/rockstar-explains-why-it-added-consequences-to-gta-6s-violence-and-crimes",
-      "summary": "Rockstar Games has introduced a new morality system in GTA 6 to address criticism that previous titles lacked depth in criminal gameplay. The system allows players to shape their character’s criminal profile, adding narrative weight to in‑game choices.",
-      "whyItMatters": "It demonstrates how player feedback can drive significant design changes, encouraging developers to incorporate more nuanced decision‑making mechanics in large‑scale games.",
-      "category": "AI",
-      "publishedAt": "2026-11-26T00:36:00Z"
-    },
-    {
-      "id": "art-1795753388067-3",
-      "title": "Wordle today: The answer and hints for November 25, 2026 - Mashable",
-      "source": "Mashable",
-      "url": "https://mashable.com/entertainment/wordle-today-answer-november-25-2026",
-      "summary": "The Mashable article provides the answer and hints for Wordle #1985, released on November 25, 2026, offering tips and tricks to help players solve the puzzle. It includes a brief overview of the day's word and strategies for guessing correctly.",
-      "whyItMatters": "While Wordle remains a popular casual web game, its continued popularity highlights the importance of engaging, lightweight web experiences that can drive traffic and user retention for developers and content creators.",
-      "category": "Web Dev",
-      "publishedAt": "2026-11-25T23:40:50Z"
-    },
-    {
-      "id": "art-1795753388859-4",
-      "title": "Rockstar is handing out 100 of these gorgeous limited-edition GTA 6 PS5 consoles, and you can't buy one - TweakTown",
-      "source": "TweakTown",
-      "url": "https://www.tweaktown.com/news/114892/rockstar-is-handing-out-100-of-these-gorgeous-limited-edition-gta-6-ps5-consoles-and-you-cant-buy-one/index.html",
-      "summary": "Rockstar has distributed 100 limited‑edition GTA 6 PS5 Pro consoles to creators instead of selling them, following a similar gesture to Miami Heat players. The move highlights a new marketing strategy that rewards content creators with exclusive hardware.",
-      "whyItMatters": "By giving creators exclusive hardware, Rockstar encourages community‑driven promotion, potentially influencing how game studios engage developers and streamline post‑release support.",
-      "category": "DevOps",
-      "publishedAt": "2026-11-25T23:13:02Z"
-    },
-    {
-      "id": "art-1795753389630-5",
-      "title": "With Grand Theft Auto 6 , The Series Has Outgrown Some Of Its Joke Brand Names - Kotaku",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/with-grand-theft-auto-6-the-series-has-outgrown-some-of-its-joke-brand-names-2001000507",
-      "summary": "Grand Theft Auto 6’s narrative depth contrasts sharply with its use of whimsical product names such as Zombix. The mismatch highlights a disconnect between the game’s mature themes and its branding choices.",
-      "whyItMatters": "For developers, inconsistent naming can undermine brand credibility and affect user perception, emphasizing the need for thoughtful product naming strategies.",
-      "category": "Mobile",
-      "publishedAt": "2026-11-25T22:54:04Z"
-    },
-    {
-      "id": "art-1795753390146-6",
-      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future - The Verge",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "summary": "Google has filed a patent for a system that uses generative AI to create endless, personalized video feeds, effectively turning entertainment into a continuous stream of low-quality content. The proposal suggests a future where users are constantly bombarded with algorithmically generated 'slop' entertainment, raising concerns about content quality and user experience.",
-      "whyItMatters": "For software developers, this signals a shift toward AI-driven content pipelines that prioritize volume over quality, demanding new tools for moderation and user engagement.",
-      "category": "AI",
-      "publishedAt": "2026-11-25T21:51:26Z"
-    },
-    {
-      "id": "art-1795753390584-7",
-      "title": "Google Home gets another big update with these new app, Nest Cam, and Gemini features - 9to5Google",
-      "source": "9to5google.com",
-      "url": "http://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/",
-      "summary": "Google Home receives a major update that introduces a new companion app, enhances Nest Cam and Nest Thermostat functionality, and adds Gemini AI features for smarter home control. The update expands the ecosystem, offering developers new APIs and AI capabilities to build more integrated and intelligent home experiences.",
-      "whyItMatters": "The integration of Gemini AI and expanded Nest APIs gives developers powerful tools to create more context-aware, voice-activated home automation solutions, potentially driving innovation in smart home software.",
-      "category": "AI",
-      "publishedAt": "2026-11-25T21:50:00Z"
-    },
-    {
-      "id": "art-1795753391014-8",
-      "title": "Google search alternative Kagi launches Gmail rival - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
-      "summary": "Kagi, a Google search alternative, has unveiled a Gmail rival that blends strong privacy guarantees with AI-powered email features. The new service aims to offer a secure, AI-enhanced email experience that competes with mainstream providers.",
-      "whyItMatters": "Developers will need to consider new privacy-focused APIs and AI integrations, potentially reshaping how email services are built and regulated.",
+      "id": "art-1795838593164-1",
+      "title": "GTA 6 Frame Rate Unlock Arrives on Jailbroken PS5 Consoles - TechPowerUp",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/355245/gta-6-frame-rate-unlock-arrives-on-jailbroken-ps5-consoles",
+      "summary": "Rockstar has capped GTA 6 at 30 FPS on consoles, but a jailbreak patch on PS5 allows higher frame rates. The modding community shared the patch on Reddit, highlighting ongoing demand for performance tweaks.",
+      "whyItMatters": "It demonstrates how security exploits can enable performance enhancements, prompting developers to consider stricter anti-tamper measures.",
       "category": "Security",
-      "publishedAt": "2026-11-25T20:57:09Z"
+      "publishedAt": "2026-11-26T20:29:06Z"
     },
     {
-      "id": "art-1795753391378-9",
-      "title": "‘No one gets left behind’: CDPR says The Witcher 4 will launch on Xbox day one, despite Sony agreement - Video Games Chronicle",
-      "source": "Video Games Chronicle",
-      "url": "https://www.videogameschronicle.com/news/no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch-on-xbox-day-one-despite-sony-agreement/",
-      "summary": "CD Projekt Red has confirmed that The Witcher 4 will launch on Xbox on day one, reassuring Xbox fans even though the studio has a marketing agreement with Sony. The announcement underscores the studio’s commitment to platform parity and cross‑platform launch strategy.",
-      "whyItMatters": "It signals that developers may prioritize simultaneous multi‑platform releases, influencing how studios negotiate platform agreements and manage release pipelines.",
+      "id": "art-1795838593678-2",
+      "title": "'GTA 6': How to get more than $15,000 early on with almost no effort - Mashable",
+      "source": "Mashable",
+      "url": "https://mashable.com/entertainment/gta-6-easy-money-early-game-no-effort",
+      "summary": "A guide claims players can earn over $15,000 in GTA 6 with minimal effort, using a method that doesn't involve in‑game killing. The article highlights how exploiting game mechanics can provide quick in‑game wealth.",
+      "whyItMatters": "Such exploits expose vulnerabilities in game security, prompting developers to strengthen anti‑cheat measures and protect player experience.",
+      "category": "Security",
+      "publishedAt": "2026-11-26T18:17:10Z"
+    },
+    {
+      "id": "art-1795838594390-3",
+      "title": "Ford unveils the GT41 as it hopes to win Le Mans again - Ars Technica",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+      "summary": "Ford has introduced the GT41 prototype, aiming to secure a victory at the 2027 World Endurance Championship and Le Mans. The new car features cutting‑edge aerodynamics and powertrain technology designed to outperform rivals.",
+      "whyItMatters": "The GT41’s advanced telemetry and real‑time data analytics showcase the growing importance of embedded software and DevOps practices in high‑performance automotive engineering.",
       "category": "DevOps",
-      "publishedAt": "2026-11-25T20:35:31Z"
+      "publishedAt": "2026-11-26T18:00:29Z"
+    },
+    {
+      "id": "art-1795838594843-4",
+      "title": "I found the 21 best Black Friday laptop computer deals after 13 years of testing - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/cnn-underscored/deals/black-friday-laptop-computer-deals-2026-11-26",
+      "summary": "CNN reports that a seasoned PC expert has identified the 21 best Black Friday laptop and desktop deals after 13 years of testing, aiming to bring high-end computers back to a reasonable price point. The article highlights specific models and price reductions that could help consumers save money during the holiday shopping season.",
+      "whyItMatters": "For software developers, affordable laptops and desktops mean better access to powerful hardware for coding, testing, and running development environments without breaking the budget.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-26T17:20:00Z"
+    },
+    {
+      "id": "art-1795838595269-5",
+      "title": "'Happy GTA VImas!' — Microsoft-Owned GitHub Stuns Followers as It Celebrates AnyPS5 Repo in Now-Deleted Tweet - IGN",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/github-tweet-gta-6-anyps5-repo-microsoft",
+      "summary": "Microsoft-owned GitHub celebrated the AnyPS5 repository’s 58,000 stars with a deleted tweet that read \"Happy GTA VImas!\", tying the repo’s popularity to the launch of GTA 6. The post highlighted how a major gaming release can spur community engagement on open‑source platforms.",
+      "whyItMatters": "It demonstrates how high‑profile entertainment events can rapidly boost open‑source project visibility, encouraging developers to contribute and adopt shared tools.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-26T16:59:39Z"
+    },
+    {
+      "id": "art-1795838595787-6",
+      "title": "I test headphones for a living. These are the 12 best Black Friday AirPods deals - CNN",
+      "source": "CNN",
+      "url": "https://www.cnn.com/cnn-underscored/deals/apple-airpods-black-friday-deals-2026-11-26",
+      "summary": "CNN’s tech writer curates the top 12 Black Friday deals for Apple AirPods and related accessories, highlighting significant savings for consumers. The article lists specific models, price reductions, and bundle offers to help shoppers make informed purchasing decisions during the holiday sales event.",
+      "whyItMatters": "The availability of discounted AirPods can boost user adoption of Apple’s ecosystem, influencing iOS app developers to prioritize AirPods integration and related features.",
+      "category": "Mobile",
+      "publishedAt": "2026-11-26T16:59:00Z"
+    },
+    {
+      "id": "art-1795838596486-7",
+      "title": "Staff at Grand Theft Auto VI developer vote against union recognition - BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq4gnze58gx6o",
+      "summary": "Rockstar Games employees voted against formally recognizing the IWGB union, rejecting a move that would have granted them collective bargaining rights. The decision reflects ongoing tensions between large game studios and their workforce over labor organization.",
+      "whyItMatters": "Union recognition could influence labor practices and employee benefits across the gaming and broader software development industry.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-26T16:49:09Z"
+    },
+    {
+      "id": "art-1795838597102-8",
+      "title": "GTA 6 on Xbox One is a ‘remarkable feat’, according to analysis - Video Games Chronicle",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/news/gta-6-on-xbox-one-is-a-remarkable-feat-according-to-analysis/",
+      "summary": "The analysis shows that GTA 6 can run on an Xbox One, streaming the Series S port and demonstrating impressive performance on older hardware. This highlights the feasibility of optimizing modern games for legacy consoles.",
+      "whyItMatters": "It proves that sophisticated game engines can be efficiently ported to older systems, informing developers about performance tuning and backward‑compatibility strategies.",
+      "category": "DevOps",
+      "publishedAt": "2026-11-26T16:34:00Z"
+    },
+    {
+      "id": "art-1795838597701-9",
+      "title": "Free Play Days: Try These Xbox Games For Free (November 26-29) - Pure Xbox",
+      "source": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/11/free-play-days-try-these-xbox-games-for-free-november-26-29",
+      "summary": "Xbox is offering a weekend of free play days, allowing users to download and try selected games from November 26 to 29. The promotion aims to boost engagement and showcase new titles to a broad audience.",
+      "whyItMatters": "It demonstrates how digital distribution and promotional events can drive user acquisition and retention, informing developers about effective marketing strategies for game releases.",
+      "category": "Cloud",
+      "publishedAt": "2026-11-26T16:16:00Z"
     }
   ]
 }
